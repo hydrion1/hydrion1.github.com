@@ -1,0 +1,7 @@
+{"values":["Asterix et Obelix : au service de Sa Majeste","Laurent Tirard","Action. Aventure. Policier et Thriller Comedie Enfants. Jeunesse et Famille","","50 avant Jesus Christ. Cesar a soif de conqu etes. A la t ete de ses glorieuses legions il decide d'envahir cette ile situee aux limites du monde connu ce pays mysterieux appele Brittania la Bretagne.La victoire est rapide et totale. Enfin... presque. Un petit village breton parvient a lui resister mais ses forces faiblissent. Cordelia la reine des Bretons decide donc d envoyer son plus fidele officier Jolitorax chercher de l aide en Gaule aupres d un autre petit village connu pour son opiniatre resistance aux Romains...Dans le village gaulois en question Asterix et Obelix sont deja bien occupes. Le chef leur a en effet confie son neveu Goudurix une jeune t ete a claques fraichement debarquee de Lutece dont ils sont censes faire un homme. Et c'est loin d' etre gagne.Quand Jolitorax arrive pour demander de l'aide on decide de lui confier un tonneau de potion magique et de le faire escorter par Asterix et Obelix mais aussi Goudurix car ce voyage semble une excellente occasion pour parfaire son education. Malheureusement rien ne va se passer comme prevu...}","Gerard Depardieu Edouard Baer Guillaume Gallienne","19/02/13"],
+"id":3037,
+"modif_id":0,
+"image_size":[60,100],
+"images":[],
+"files":[]
+}

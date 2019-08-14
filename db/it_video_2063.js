@@ -1,0 +1,7 @@
+{"values":["Vertical Limit","Martin Campbell","Action. Aventure. Policier et Thriller Entertainment","","Jouer les Frison-Roche n'est pas donne a n'importe qui et tout l'or du monde ne remplacera jamais l'experience et les aptitudes requises pour endosser le role de premier de cordee. Des lors quand un milliardaire sans scrupules alpiniste du dimanche decide de gravir les flancs escarpes du K2 au mepris des consignes meteorologiques et des conseils avises d'experts l'expedition court forcement a la catastrophe. S'ensuit une mission de sauvetage des plus delicates pour rep echer les frileux rescapes bloques au trefonds d'une grande crevasse. Vertigineux film d'action de Martin Campbell ( Goldeneye  Le Masque de Zorro ) Vertical Limit se situe a mi-chemin entre Cliffhanger et Le Salaire de la peur . Depourvu du moindre temps mort (l'entree en matiere est particulierement reussie et donne immediatement le ton) ce thriller glacial transporte le spectateur dans un tourbillon de sensations fortes d'une exteme intensite. Couple aux somptueuses images panoramiques de sommets enneiges le manque d'oxygene se fait cruellement sentir au fur et a mesure que le film prend de l'altitude et que le spectateur se laisse submerger par la cadence infernale imposee par le realisateur. ","Chris O'Donnel Bill Paxton Robin Tunney","31/12/08"],
+"id":2063,
+"modif_id":1,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

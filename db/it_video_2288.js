@@ -1,0 +1,7 @@
+{"values":["Melos","Hidetoshi Kaneko","Anime","","Un dramaturge se voit confier l'adaptation theatrale d'une legende grecque. Melos jeune berger nif et idealiste est revolte par les actes du roi Dyonys un tyran sanguinaire qui regne sans partage sur son pays. Arete alors qu'il tentait d'assassiner son souverain Melos est condamne a mort. Mais devant les supplications du jeune homme le roi suspend temporairement l'ordre d'execution et l'autorise a se rendre au mariage de sa soeur sous une condition : s'il ne revient pas se rendre a la justice avant le delai imparti de trois jours Dyonys fera tuer Selinuntius le meilleur ami du berger. Mais sur le chemin du retour Melos va devoir faire face a nombre d'imprevus. Arrivera-t-il a temps pour sauver son ami et affronter son destin ' Au fil de l'ecriture de la piece l'auteur voit resurgir des souvenirs de sa propre existence.Cette adaptation originale de l'oeuvre emblematique d'Osamu Dazai met en miroir de facon habile le personnage de Melos berger grecque utopiste et celui d'un dramaturge japonais en pleine phase d'introspection. Avec la participation de Takeshi KONOMI (Prince of Tennis) Hidetoshi KANEKO (Chroniques de la guerre de Lodoss) Shinichi IGARASHI (Trigun : Badlands Rumble).}","","20/03/12"],
+"id":2288,
+"modif_id":1,
+"image_size":[75,100],
+"images":[],
+"files":[]
+}

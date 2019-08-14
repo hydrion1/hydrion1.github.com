@@ -1,0 +1,7 @@
+{"values":["Les Noces Rebelles [Import belge]","Sam Mendes","Drame et emotion","","Dans l'Amerique des annees 50 Frank et April Wheelerse considerent comme des  etres a part des gens speciaux differentsdes autres. Ils ont toujours voulu fonder leur existence sur des ideauxeleves. Lorsqu'ils emmenagent dans leur nouvelle maison surRevolutionary Road ils proclament fierement leur independance. Jamaisils ne se conformeront a l'inertie banlieusarde qui les entoure jamaisils ne se feront pieger par les conventions sociales. Pourtant malgreleur charme et leur insolence les Wheeler deviennent exactement cequ'ils ne voulaient pas : un homme coince dans un emploi sans inteet une menagere qui eve de passion et d'une existence trepidante. Unefamille americaine ordinaire ayant perdu ses eves et ses illusions. Decidee a changer de vie April imagine un plan audacieux pour toutrecommencer quitter leur petite routine confortable dans leConnecticut pour aller vivre a Paris. Mais lorsqu'ils mettent l'idee enpratique les epoux se retrouvent confrontes a des limites qu'aucund'eux ne soupconnait. L'un est pet a tout pour s'echapper a n'importequel prix. L'autre mettra tout en oeuvre pour sauver ce qu'il leurreste quels que soient les compromis. Frank et April vont decouvrirs'il est possible ou non de s'affranchir de la norme sans detruire leurcouple...}","Leonardo DiCaprio Michael Shannon Kate Winslet","31/12/99"],
+"id":3091,
+"modif_id":0,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}

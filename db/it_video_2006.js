@@ -1,0 +1,7 @@
+{"values":["L'illusionniste","Neil Burger","Action. Aventure. Policier et Thriller","","Dans les annees 1900 Vienne est une societe en pleine mutation partagee entre tradition et modernite et pete a ceder aux plus troubles fantasmes. C'est sur cette scene mouvante que surgit un jour le charismatique et mysterieux illusionniste Eisenheim. Se targuant de pouvoirs surnaturels celui-ci presente des tours de magie si brillants que le bon peuple et l'aristocratie lui font chaque soir un triomphe. En peu de temps l'Illusionniste devient l'homme le plus celebre de la ville l'incarnation vivante d'une magie a laquelle personne n'osait plus croire. Mais la gloire d'Eisenheim est intolerable au Prince heritier Leopold dont la popularite decroit a mesure que grandit celle de ce showman consomme dont nul n'a jamais su percer les secrets. Rationaliste convaincu avide de pouvoir le Prince a une raison supplementaire de jalouser Eisenheim : ce dernier fut le grand amour de jeunesse de sa fiancee la belle Sophie von Teschen qui nourrit encore pour lui de tres tendres sentiments. Decide a ecarter ce rival Leopold charge son homme de confiance l'inspecteur Uhl d'enqu eter sur l'Illusionniste et de devoiler ses impostures. Une partie serree s'engage entre les deux hommes aux frontieres de la magie et de la raison de l'amour et de la devotion du pouvoir et de la corruption. Et ses resultats prendront de court tous les protagonistes...}","Edward Norton Jessica Biel Paul Giamatti","17/09/07"],
+"id":2006,
+"modif_id":0,
+"image_size":[100,85],
+"images":[],
+"files":[]
+}

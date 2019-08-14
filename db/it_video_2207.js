@@ -1,0 +1,7 @@
+{"values":["Hotel Transylvania 2","Genndy Tartakovsky","Enfants. Jeunesse et Famille","","Dracula et sa bande de monstres d&#233;jant&#233;s sont de retour ! &#192; l&#8217;h&#244;tel Transylvanie, beaucoup de choses ont &#233;volu&#233; : Dracula a enfin accept&#233; de d&#233;geler son c&#339;ur et d&#8217;ouvrir la porte aux humains. Mais il se fait du souci pour son petit-fils, Dennis : mi-humain mi-monstre, ce gamin est bien trop adorable &#224; son go&#251;t, et il risque de faire un pi&#232;tre vampire ! Alors, quand les parents du petit, Mavis et Johnny, s&#8217;absentent, Drac fait appel &#224; ses amis Frank, Murray, Wayne et Griffin pour apprendre &#224; Dennis &#224; devenir un monstre, un vrai. Personne ne s&#8217;attendait &#224; ce que Vlad, le p&#232;re de Drac &#8211; un vampire tr&#232;s grincheux et tr&#232;s vieille &#233;cole &#8211; choisisse ce moment pour d&#233;barquer &#224; l&#8217;h&#244;tel. Et quand il d&#233;couvre que son arri&#232;re-petit-fils a du sang humain, rien ne va plus&#8230; ","Andy Samberg. Selena Gomez. Kevin James. David Spade. Steve Buscemi Adam Sandler","31/12/15"],
+"id":2207,
+"modif_id":2,
+"image_size":[69,100],
+"images":[],
+"files":[]
+}

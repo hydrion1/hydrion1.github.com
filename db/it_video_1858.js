@@ -1,0 +1,7 @@
+{"values":["Dikkenek grande gueule !","Hoffstadt Olivier Van","Genres Petits prix imports langue francaise DVD Zone 2 edition simple Francais","","JC et Stef sont des amis d'enfance. Inseparables. JC est LE dikkenek belge un donneur de lecon a cinq balles un moralisateur un tombeur de minettes bref une grande gueule integrale coiffe comme un peigne. Stef est tout le contraire. Il cherche le Grand Amour mais vu qu'il ne bouge pas de son lit il va avoir du mal a trouver.JC lui explique donc la methode : faire un sans-faute du point A jusqu'au point G.Entre ces deux points JC et Stef vont croiser : Claudy le directeur des abattoirs d'Anderlecht et photographe amateur (de chair fraiche) Greg un bebe-manager visse a son portable Natacha une nymphette desoeuvree Fabienne une pauvre petite fille de riches Nadine une institutrice qui prefere la schnouf aux tables de multiplication ainsi que Laurence une commissaire de police fachee avec les conjugaisons qui ponctue ses phrases a coups de gros calibre.","Dominique Pinon Jeremie Renier Jean-Luc Couchard Francois Damiens florence Foresti Marion Cotillard","04/08/09"],
+"id":1858,
+"modif_id":1,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

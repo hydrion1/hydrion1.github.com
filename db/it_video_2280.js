@@ -1,0 +1,7 @@
+{"values":["Operation Espadon","Dominic Sena","Action. Aventure. Policier et Thriller","","&#34;95 milliards de dollars c'est la somme d'argent qu'avait mise de cote le gouvernement americain dans les annees 80 au cours de l'operation antidrogue dite &#34;&#34;Espadon&#34;&#34;. Ses fonds secrets ont ete subtilises par les hauts dirigeants du pays en vue de leur retraite. Gabriel Shear qui dirige un groupe de mercenaires est bien decide a derober cette somme astronomique. Mais il lui manque dans son equipe un genie du piratage informatique. Recemment sorti de prison Stanley Jobson recommence sa vie sur de nouvelles bases. Il a commis un faux pas en utilisant a mauvais escient ses connaissances informatiques et n'a maintenant plus le droit d'utiliser d'ordinateur une consequence qu'il assume pleinement. Son experience aura toutefois raison de sa bonne volonte : Gabriel a besoin de ses services pour penetrer le systeme informatique hautement protege de la banque uniquement accessible de l'interieur. Pour s'assurer la cooperation de Stanley l'espion richissime et excentrique s'engage a lui verser dix millions de dollars. Le hacker accepte croyant peter main forte a un simple braquage mais la situation devient rapidement explosive.}&#34;","John Travolta Hugh Jackman Halle Berry Don Cheadle Sam Shepard","19/03/02"],
+"id":2280,
+"modif_id":0,
+"image_size":[74,100],
+"images":[],
+"files":[]
+}

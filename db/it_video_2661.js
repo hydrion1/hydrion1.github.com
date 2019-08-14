@@ -1,0 +1,7 @@
+{"values":["Alarme fatale","Gene Quintano","Action. Aventure. Policier et Thriller Comedie","","Los Angeles a beaucoup change depuis que les deux types de la C.H.I.P.S. assurent la securite des quartiers chauds de la ville. Desormais les policiers dessinent a la craie des cadavres sur le sol avant meme qu'ils soient refroidis. Ici les criminels paient leur dette a la societe avec une carte de credit... Wes LUGER est un vieux flic a deux jours de la retraite qui va voir ses plans boulverses par une nouvelle enqu ete. Ses chefs lui donnent 48 heures pour elucider un meurtre et lui adjoignent un autre flic Jack COLT travaillant deja sur l'affaire qu'il croit reliee a la mort de sa chienne - et partenaire - bien-aimee. Les deux assassinats seraient l'oeuvre d'un seul et meme reseau de trafiquants cherchant le secret de la transformation de la coke en cookies...Billie York detient le secret de la transformation de la coke en cookie et en perd la vie. Wes Luger vieux flic a deux jours de la retraite est mis sur l'affaire. On lui adjoint le depressif Jack Colt deja sur l'affaire...}","Emilio Estevez Samuel L. Jackson Jon Lovitz Tim Curry William Shatner","30/09/01"],
+"id":2661,
+"modif_id":0,
+"image_size":[69,100],
+"images":[],
+"files":[]
+}

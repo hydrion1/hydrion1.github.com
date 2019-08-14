@@ -1,0 +1,7 @@
+{"values":["City Hunter : bay city wars / Complot pour 1 million de dollars","Tsukasa Hojo","Anime","","Alors que Miki et Kaori assistent a l'inauguration du complexe de Bay City Ryo qui a perdu son carton d'invitation erre dans les rues en qu ete de l'adresse de la reception. Il tombe alors sur une charmante jeune femme qui se revele  etre poursuivie par Falcon. Profitant de l'intervention de Ryo elle s'enfuit a bord d'une luxueuse Rolls Royce. Les deux amis se lancent alors a sa poursuite ce qui les menent tout droit a l'hotel de Bay City...Kaori commence a paniquer sec car ca fait des mois que City Hunter n'a pas eu de clients donc pas d'argent! Alors qu'elle se demene pour trouver de nouveaux clients en distribuant des tracts Ryo lui drague. Mais c'est comme ca qu'il tombe sur une charmante jeune femme fraichement arrivee de Los Angeles et qui veut que City Hunter la protege d'un mafieux qu'elle a humilie en public. Pour cette protection elle promet meme de leur payer 1 million de dollars! De son cote Falcon apprend a Kaori qu'un tueur a gages est aussi arrive des USA pour eliminer Ryo...}","","21/02/07"],
+"id":1862,
+"modif_id":2,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

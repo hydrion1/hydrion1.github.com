@@ -1,0 +1,7 @@
+{"values":["Hunger Games","Gary Ross","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","&#34;Chaque annee sur les ruines de ce qui etait autrefois l'Amerique du Nord le Capitole l'impitoyable capitale de la nation de Panem oblige chacun de ses douze districts a envoyer un garcon et une fille - les &#34;&#34;tributs&#34;&#34; - concourir aux Hunger Games. A la fois sanction envers la population pour avoir tente de se rebeller et strategie d'intimidation de la part du gouvernement les Hunger Games sont un evenement televise national au cours duquel les tributs doivent s'affronter jusqu'a la mort. Le dernier survivant est declare vainqueur. La jeune Katniss se retrouve face a des adversaires surentraines qui se sont prepares aux jeux toute leur vie. Elle a pour seuls atouts son instinct et un mentor Haymitch Abernathy un ancien vainqueur des Hunger Games mais qui a sombre dans l'alcool. Pour esperer pouvoir revenir un jour chez elle Katniss va devoir une fois dans l'arene faire des choix impossibles entre la survie et son humanite entre la vie et l'amour...}&#34;","Jennifer Lawrence Josh Hutcherson Liam Hemsworth Woody Harrelson Elizabeth Banks","17/08/12"],
+"id":2545,
+"modif_id":1,
+"image_size":[61,100],
+"images":[],
+"files":[]
+}

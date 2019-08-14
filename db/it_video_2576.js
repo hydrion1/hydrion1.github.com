@@ -1,0 +1,7 @@
+{"values":["Ocean's Eleven","Steven Soderbergh","Action. Aventure. Policier et Thriller","","Un casting d'enfer. Remake de L'Inconnu de Las Vegas realise en 1959 et interprete par Frank Sinatra Ocean's Eleven compte ce qui se fait de mieux en matiere d'acteurs. George Clooney Brad Pitt Matt Damon et Julia Roberts se partagent l'affiche de cette comedie policiere reussie de bout en bout. Steven Soderbergh avait realise un carton avec Erin Brockovich (deja avec Julia Roberts). Il revient en force avec l'histoire de dix hommes qui decident de cambrioler en une nuit les trois plus grands casinos de Las Vegas. En t ete George Clooney qui decide par la meme occasion de ruiner l'amant de son ex-femme (Andy Garcia comme toujours parfait) et de la recuperer. Bien sur et pour notre plus grand plaisir tout ne se passe pas comme prevu. Humour suspense amour et situations burlesques s'enchainent dans ce divertissement particulierement brillant. Steven Soderbergh met en scene une mecanique parfaitement huilee qui aligne les moments de bravoure aussi bien dans la comedie que dans l'action. Un film a voir et a revoir. --Marc Maesen Descriptions du produit Au Cyber Monde une equipe jeune et dynamique a votre service. Envois sous 48 a 96 heures jours ouvres.}","George Clooney Brad Pitt Julia Roberts Matt Damon Andy Garcia","24/09/02"],
+"id":2576,
+"modif_id":0,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

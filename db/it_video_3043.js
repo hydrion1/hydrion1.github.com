@@ -1,0 +1,7 @@
+{"values":["L'Enquete corse","Alain Berberian","Action. Aventure. Policier et Thriller Comedie","","D&#233;tective parisien branch&#233; s'estimant aussi irr&#233;sistible avec les femmes que dans le business, R&#233;mi Fran&#231;ois alias Jack Palmer a finalement accept&#233; la mission que vient de lui confier un obscur petit notaire de province : retrouver Ange L&#233;oni, un citoyen corse introuvable qui a h&#233;rit&#233; d'un confortable pactole. Une v&#233;ritable promenade de sant&#233; pour Jack Palmer rompu aux missions infiniment plus d&#233;licates.<br>Mais &#224; peine arriv&#233; sur l'&#238;le de beaut&#233;, la promenade de sant&#233; va tr&#232;s vite devenir un parcours du combattant. Myst&#233;rieusement observ&#233; aux jumelles pendant son enqu&#234;te, Palmer perd de sa superbe devant le mutisme local, les tourn&#233;es d'alcool de myrthe, les ind&#233;pendantistes qui le kidnappent, les gendarmes qui le molestent par erreur, une voiture pulv&#233;ris&#233;e et l'&#233;nigmatique Ange L&#233;oni qui lui donne de myst&#233;rieux rendez-vous rat&#233;s. ","Christian Clavier Jean Reno Catarina Murino Didier Flamand Albert Dray","05/04/05"],
+"id":3043,
+"modif_id":1,
+"image_size":[66,100],
+"images":[],
+"files":[]
+}

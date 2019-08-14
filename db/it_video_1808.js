@@ -1,0 +1,7 @@
+{"values":["10.000 BC","Roland Emmerich","Action. Aventure. Policier et Thriller","","Il fut un temps ou hommes et b etes vivaient a l'etat sauvage et les puissants mammouths regnaient sur la terre. Un temps ou les idees et les croyances qui naissaient allaient pour toujours modeler l'espece humaine. 10 000 nous plonge au coeur du voyage d'un jeune chasseur D'Leh qui pour sauver la femme qu'il aime d'un terrible seigneur de la guerre determine a la posseder devra mener une armee a travers l'immensite du desert franchissant ainsi pour la premiere fois les limites de son territoire. Le groupe entame alors un long periple a travers des terres infestees de monstres et decouvre des civilisations dont il ne soupconnait pas l'existence. Au terme de leur voyage D'Leh et les siens decouvrent un empire inconnu herisse d'immenses pyramides dediees a un dieu vivant tyrannique et sanguinaire. Le jeune chasseur comprend alors que sa mission n'est pas seulement de sauver Evolet mais la civilisation tout entiere... Audio : Francais:DD5.1 Anglais:DD5.1 Sous-Titres : Francais Anglais Neerlandais}","Steven Strait Camilla Belle Cliff Curtis Joel Virgel Affif Ben Badra","16/09/08"],
+"id":1808,
+"modif_id":0,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

@@ -1,0 +1,7 @@
+{"values":["Thor : Le Monde des T&#233;n&#232;bres [Blu-ray]","Alan Taylor","Films","112 min","Alors que dans l'espace se pr&#233;pare une alignement sans pr&#233;c&#233;dent des Neuf Royaumes, le terrible meneur des Elfes Noirs, Malekith, tente de mettre la main sur une force puissante appel&#233;e Ether, cach&#233;e de la vue de tous depuis que Bor, le p&#232;re d'Odin, l'a vaincu. &#192; Londres, une irr&#233;gularit&#233; spatio-temporelle entra&#238;ne l'astrophysicienne Jane Foster jusqu'&#224; l'Ether, qui l'infecte aussit&#244;t. Alert&#233;, Thor l'invite &#224; Asgard afin de la soigner, mais la ville tombe suite &#224; une attaque perp&#233;tr&#233;e par les combattants de Malekith. D&#233;sob&#233;issant &#224; son p&#232;re qui souhaite r&#233;unir les forces pour se d&#233;fendre contre une nouvelle agression, Thor d&#233;cide d'&#233;vacuer sa bien-aim&#233;e. Mais pour mener &#224; bien son projet, il doit demander &#224; son fr&#232;re Loki, emprisonn&#233; depuis sa trahison, de l'aider dans cette lutte qui se transportera bient&#244;t sur Terre...","Christopher Eccleston<br>Anthony Hopkins<br>Tom Hiddleston<br>Natalie Portman<br>Chris Hemsworth","26/03/14"],
+"id":3277,
+"modif_id":0,
+"image_size":[75,100],
+"images":[],
+"files":[]
+}

@@ -1,0 +1,7 @@
+{"values":["Collateral","Michael Mann","Genres DVD Zone 2 France edition simple Francais","","Max est taxi de nuit &#224; Los Angeles. Un soir, il se lie d'amiti&#233; avec une d&#233;nomm&#233;e Annie Farrell, une belle femme procureur mont&#233;e &#224; l'arri&#232;re de son v&#233;hicule. Quelques minutes plus tard, c'est au tour d'un homme pr&#233;nomm&#233; Vincent de monter dans le taxi. Un businessman, selon toute apparence, avec un emploi du temps charg&#233; : pas moins de cinq rendez-vous &#224; tenir dans la nuit. Max accepte de lui louer ses services jusqu'au petit matin, en &#233;change de 600 dollars.<br>Premier arr&#234;t. Vincent entre dans un immeuble. Un coup de feu &#233;clate aussit&#244;t, un corps plonge dans le vide, s'&#233;crasant sur le toit du taxi. Vincent redescend et, sous la menace de son arme, oblige Max &#224; dissimuler le cadavre dans le coffre et &#224; reprendre son mortel p&#233;riple.<br>Un chauffeur de taxi, un tueur implacable, cinq &#34;cibles&#34; &#224; &#233;liminer, des agents des stups et une &#233;quipe du FBI... Leurs destins se joueront cette nuit... ","Tom Cruise Jamie Foxx Jada Pinkett Mark Ruffalo Peter Berg","31/12/04"],
+"id":2219,
+"modif_id":1,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

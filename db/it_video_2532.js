@@ -1,0 +1,7 @@
+{"values":["Stalingrad - edition Collector 2 DVD","Jean-Jacques Annaud","Action. Aventure. Guerre","","Durant la Seconde Guerre mondiale, en septembre 1942, Hitler envisage d'envahir Stalingrad, ville cl&#233; de l'URSS qui le s&#233;pare de la victoire totale sur l'Europe. Les Russes se pr&#233;parent &#224; la d&#233;fensive. Un h&#233;ros aiderait &#224; motiver les troupes.<br>Entre alors en jeu Vassili Zaitsev, un jeune tireur d'&#233;lite de l'Arm&#233;e Rouge. Dou&#233; d'une stup&#233;fiante adresse au tir, il est remarqu&#233; par un commissaire au peuple, Ivan Danilov. Les deux jeunes gens deviennent amis. Ranimer la flamme de l'h&#233;ro&#239;sme, redonner aux soldats d&#233;cim&#233;s la force de lutter contre l'implacable machine de guerre allemande, telle est la mission de Danilov. Celui-ci fait de Vassili le h&#233;ros de sa propagande.<br>Dans le camp ennemi, l'&#233;tat-major d&#233;p&#234;che son meilleur tireur d'&#233;lite, le Major K&#246;nig, pour abattre celui qui est devenu le symbole de l'indomptable r&#233;sistance russe.","Jude Law Rachel Weisz Joseph Fiennes Bob Hoskins ed Harris","20/11/01"],
+"id":2532,
+"modif_id":1,
+"image_size":[72,100],
+"images":[],
+"files":[]
+}

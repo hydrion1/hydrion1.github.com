@@ -1,0 +1,7 @@
+{"values":["Pirates des Caraibes 3 : Le secret du coffre maudit","Gore Verbinski","Fantastique. Horreur et Science-fiction","","&#34;Alors qu'Elizabeth Swann et Will Turner s'appetent a officialiser leur union le capitaine Jack Sparrow reapparait dans leur vie et les plonge au coeur d'une nouvelle intrigue fantastique. Jack est redevable d'une dette de sang au legendaire Davy Jones maitre des sept mers et capitaine du vaisseau hante le &#34;&#34;Hollandais Volant&#34;&#34;. Faute de trouver un moyen de briser le pacte infernal qui le lie a Jones ce dernier s'emparera de son ame et le condamnera a une eternite de damnation et de servitude... Embarques contre leur gre dans les mesaventures de Jack Will et Elisabeth se battront a ses cotes face a des monstres marins terrifiants des cannibales et des morts-vivants et seront meme confrontes a l'angoissante reapparition du pere de Will. De son cote Lord Cutler Beckett chasseur de flibustiers au service de la Compagnie des Indes Orientales s'est jure de retrouver un coffre maudit dont la possession lui assurerait un controle absolu sur Davy Jones et le pouvoir d'eradiquer a jamais les pirates des Caribes.}&#34;","Johnny Depp Orlando Bloom Keira Knightley","31/12/07"],
+"id":2134,
+"modif_id":0,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}

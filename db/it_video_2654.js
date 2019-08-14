@@ -1,0 +1,7 @@
+{"values":["Taxi 2","Gerard Krawczyk","Action. Aventure. Policier et Thriller","","United Kingdom released PAL/Region 2 DVD: it WILL NOT play on standard US DVD player. You need multi-region PAL/NTSC DVD player to view it in USA/Canada: LANGUAGES: French ( Dolby Digital 5.1 ) English ( Subtitles ) WIDESCREEN SPECIAL FEATURES: Documentary Filmographies Interactive Menu Making Of Scene Access Trailer(s) SYNOPSIS: The cast and crew from the 1998 Gallic megahit Taxi return for this high-octane sequel about a crime-bustin cabby and a defrocked cop. The film opens with Daniel (Samy Naceri) rushing a pregnant woman to the hospital in his souped cab through the streets of Marseilles. Meanwhile taciturn cop Emilien (Frederic Diefenthal) finally passes his driving test after flunking 27 times in a row. The action really gets rolling when blonde bombshell police woman Petra (Emma Sjoberg) gets kidnapped on the toilet by ninjas and added to their collection of hostages including the Japanese minister of defense. The yakuza are out for trouble and nothing stands between bedlam and civil order but two guys and one wicked-cool cab. ...Taxi 2}","Samy Naceri Frederic Diefenthal Emma Wiklund Marion Cotillard Bernard Farcy","13/04/03"],
+"id":2654,
+"modif_id":0,
+"image_size":[69,100],
+"images":[],
+"files":[]
+}

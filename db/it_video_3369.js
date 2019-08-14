@@ -1,0 +1,7 @@
+{"values":["La Collection des courts m&#233;trages Pixar - Volume 3 ","Mark A. Walsh, Brian Larsen, Alan Barillaro, Dave Mullins, Domee Shi","","","11 courts m&#233;trages :<br>01 - &#34;Rex, le roi de la f&#234;te&#34; (&#34;Partysaurus Rex&#34; - r&#233;al. Mark A. Walsh et Dylan Brown - 2012 - 7')<br>02 - &#34;La l&#233;gende de Mor'du&#34; (&#34;The Legend of Mor'du&#34; - r&#233;al. Brian Larsen - 2012 - 7')<br>03 - &#34;Le parapluie bleu&#34; (&#34;The Blue Umbrella&#34; - r&#233;al. Saschka Unseld - 2013 - 7')<br>04 - &#34;QG de soir&#233;e&#34; (&#34;Party Central&#34; - r&#233;al. Kelsey Mann - 2014 - 5')<br>05 - &#34;Les 500 1/2 miles de Radiator Springs&#34; (&#34;The Radiator Springs 500 1/2&#34; - r&#233;al. Rob Gibbs et Scott Morse - 2014 - 6')<br>06 - &#34;Premier rendez-vous ?&#34; (&#34;Riley's First Date?&#34; - r&#233;al. Josh Cooley - 2015 - 5')<br>07 - &#34;Sanjay et sa super &#233;quipe&#34; (&#34;Sanjay's Super Team&#34; - r&#233;al. Sanjay Patel - 2015 - 7')<br>08 - &#34;Lava&#34; (r&#233;al. James Ford Murphy - 2014 - 7')<br>09 - &#34;Piper&#34; (r&#233;al. Alan Barillaro - 2016 - 6')<br>10 - &#34;L.OU., Lost &#38; fOUnd&#34; (r&#233;al. Dave Mullins - 2017 - 7')<br>11 - &#34;Bao&#34; (r&#233;al. Domee Shi - 2018 - 8') ","",""],
+"id":3369,
+"modif_id":1,
+"image_size":[-1,-1],
+"images":[],
+"files":[]
+}

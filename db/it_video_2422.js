@@ -1,0 +1,7 @@
+{"values":["Dune","David Lynch","","","Plus encore que la plupart des films deliberement etranges qui sont la caracteristique de David Lynch Dune n'inspire aucun jugement nuance vous adorez ou vous detestez. Cette curieuse adaptation du classique de science-fiction de Frank Herbert sous la forme d'une saga ambitieuse et dejantee est une des oeuvres les plus controversees de la carriere excessivement provocante du realisateur. L'histoire (comme si l'on pouvait dire que Dune n'en contenait qu'une) est complexe a souhait fidele en cela a la tradition epique. C'est une intrigue politique metaphorique sur une planete peuplee de gigantesques vers de sable ou pousse une epice precieuse. Imaginez Henry IV de Shakespeare sous un tremblement de terre dans une autre galaxie. Mais malgre les nombreuses voix off murmurant les pensees des personnages et les commentaires incessants le recit n'est pas le point fort du film. Dune propose cependant de nombreux tableaux fantastiques et inoubliables une distribution extraordinaire et une bande originale de Toto (je vous avais dit que c'etait un film etrange). Parmi les stars du films figurent Kyle MacLachlan Jose Ferrer Dean Stockwell Brad Dourif Sting Kenneth McMillan Patrick Stewart Sean Young et Linda Hunt. --Jimemerson}","Kyle MacLachlan Francesca Annis Leo Cimino Brad Dourif Jose Ferrer","19/06/00"],
+"id":2422,
+"modif_id":0,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}
