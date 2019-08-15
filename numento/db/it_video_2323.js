@@ -1,7 +1,0 @@
-{"values":["Terminator 2 [Ultimate Edition]","Arnold Schwarzenegger Linda Hamilton Edward Furlong Robert Patrick Joe Morton","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","Apres avoir exploite au maximum les effets speciaux crees par ordinateur dans Abyss le realisateur James Cameron fait de cette suite tres attendue de Terminator un formidable spectacle plein d'action et admirablement ficele. Au passage il nous offre l'un des plus beaux specimens de mechants invincibles jamais inventes au cinema. Terminator: le jugement dernier est donc bien une suite qui se justifie. Il y a encore beaucoup a raconter sur cet imposant androide vetu de cuir (Arnold Schwarzenegger). Il vient du futur pour proteger un adolescent rebelle qui doit devenir un leader dans l'avenir (Edward Furlong) et eviter que celui-ci ne soit tue par le robot T-1000 (Robert Patrick) qui semble invulnerable. Linda Hamilton reprend son role de femme solide dont le fils va changer le cours de l'Histoire. --Jeff Shannon}","Arnold Schwarzenegger Linda Hamilton Edward Furlong Robert Patrick Joe Morton","02/10/01"],
-"id":2323,
-"modif_id":1,
-"image_size":[70,100],
-"images":[],
-"files":[]
-}

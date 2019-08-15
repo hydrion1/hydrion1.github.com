@@ -1,7 +1,0 @@
-{"values":["James Bond: Quantum of Solace","Marc Forset","Action. Aventure. Policier et Thriller","","meme s'il lutte pour ne pas faire de sa derniere mission une affaire personnelle James Bond est decide a traquer ceux qui ont force Vesper a le trahir. En interrogeant Mr White 007 et M apprennent que l'organisation a laquelle il appartient est bien plus complexe et dangereuse que tout ce qu'ils avaient imagine...Bond croise alors la route de la belle et pugnace Camille qui cherche a se venger elle aussi. Elle le conduit sur la piste de Dominic Greene un homme d'affaires impitoyable et un des piliers de la mysterieuse organisation. Au cours d'une mission qui l'entraine en Autriche en Italie et en Amerique du Sud Bond decouvre que Greene manoeuvre pour prendre le controle de l'une des ressources naturelles les plus importantes au monde en utilisant la puissance de l'organisation et en manipulant la CIA et le gouvernement britannique...Pris dans un labyrinthe de traitrises et de meurtres alors qu'il s'approche du vrai responsable de la trahison de Vesper 007 doit absolument garder de l'avance sur la CIA les terroristes et meme sur M afin de dejouer le sinistre plan de Greene et stopper l'organisation...}","Daniel Craig","31/01/10"],
-"id":1942,
-"modif_id":0,
-"image_size":[75,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["Le Monde de Narnia. chapitre 2 : Le prince Caspian","Andrew Adamson","Action. Aventure. Policier et Thriller","","Un an apres les incroyables evenements du  Monde de Narnia - Chapitre 1 les nouveaux rois et reines de Narnia sont de retour dans ce royaume magique. Mais a Narnia plus de 1000 annees se sont ecoulees. L'Age d'Or du royaume est depuis longtemps revolu et ce n'est plus maintenant qu'une legende. Les animaux parlants et les creatures mythiques ont disparu ils ne sont plus evoques que comme les heros d'un folklore que l'on perpetue chez les Telmarins une race d'humains dirigee par le malefique roi Miraz qui regne sans pitie sur Narnia. meme si l'on se souvient encore du nom d'Aslan dans la foet le puissant lion n'est pas revenu depuis un millier d'annees.Les quatre enfants ont ete rappeles a Narnia par le Prince Caspian le jeune heritier du trone des Telmarins. Sa vie est en danger : son oncle Miraz cherche a l'eliminer afin que son propre fils nouveau-ne puisse monter sur le trone a sa place. Avec l'aide du gentil Nain rouge d'une courageuse souris parlante nommee Ripitchip et du Nain noir aigri et rev eche Nikabrik les Narniens menes par les puissants rois Peter et Caspian s'engagent dans une formidable qu ete a la recherche d'Aslan afin de sauver Narnia de la tyrannie de Miraz et de rendre sa gloire et sa magie au royaume....}","Georgie Henley Skandar Keynes Anna Popplewell","31/12/08"],
-"id":2384,
-"modif_id":0,
-"image_size":[71,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["Venus beaute","Tonie Marshall","Comedie Drame et emotion","","Angele la quarantaine travaille comme estheticienne dans un petit institut. Elle s'assume avec une grande liberte mais s'avere incapable de nouer une relation amoureuse solide. Quand un inconnu Antoine lui declare soudain eprouver pour elle un amour infini sa premiere reaction est de fuir. Mais Angele va progressivement se laisser seduire. Succes surprise de 1999 et grand triomphateur des Cesars 2000 Venus Beaute est le quatrieme long metrage de la comedienne Tonie Marshall. Comme dans les trois films precedents la realisatrice a su imposer un style une idee un ton qui rendent celui-ci aussi sympathique qu'etonnant aussi bizarre que disparate. Une petite musique cristalline retentit a chaque ouverture ou fermeture de la porte de l'institut. Une sorte de conditionnement au passage entre les histoires de l'interieur - probablement les mieux exploitees grace a la qualite des personnages secondaires - et les histoires de l'exterieur. L'ensemble peut paraitre inegal il a toutefois le grand merite d'amuser et d'emouvoir et de dresser de beaux portraits de femmes. Un petit film simple mais brillant. Un plaisir immense.}","Nathalie Baye Audrey Tautou Samuel Le Bihan Jacques Bonnaffe Mathilde Seigner","26/08/04"],
-"id":2181,
-"modif_id":0,
-"image_size":[70,100],
-"images":[],
-"files":[]
-}

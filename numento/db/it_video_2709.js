@@ -1,7 +1,0 @@
-{"values":["Blanche - edition Digipack Colector 2 DVD","Bernie Bonvoisin","Action. Aventure. Policier et Thriller Drame et emotion","","&#34;Au XVIIe siecle Blanche De Peronne une gamine de quatorze ans est temoin du meurtre sauvage de ses parents par le capitaine KKK responsable des &#34;&#34;Escadrons de la mort&#34;&#34; milice privee du cardinal Mazarin.Quinze ans plus tard elle se retrouve a la t ete d'une bande de malfrats et souhaite venger la mort de ses parents. Se presente alors a elle celui qu'on nomme &#34;&#34;Etranger&#34;&#34; un mercenaire solitaire qui lui propose de braquer un convoi special destine au cruel cardinal.L'embuscade reussit. La joyeuse troupe decouvre alors deux biens precieux tres convoites par son Eminence : une substance farineuse appelee &#34;&#34;poudre du Diable&#34;&#34; aux effets devastateurs et une lettre codee que seul Bonange un espion a la solde de Mazarin est capable de decrypter. Une fois dechainee sa colere le cardinal va tout mettre en oeuvre pour recuperer la fameuse missive ainsi que la poudre rougeatre.}&#34;","Lou Doillon Carole Bouquet Roschdy Zem Jean Rochefort Antoine de Caunes","04/06/03"],
-"id":2709,
-"modif_id":0,
-"image_size":[75,100],
-"images":[],
-"files":[]
-}

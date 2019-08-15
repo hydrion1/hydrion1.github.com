@@ -1,7 +1,0 @@
-{"values":["Micmacs a tire-larigot - Edition 2 DVD","Jean-Pierre Jeunet","Comedie","","Une mine qui explose au coeur du desert marocain et des annees plus tard une balle perdue qui vient se loger dans son cerveau... Bazil n'a pas beaucoup de chance avec les armes. La premiere l'a rendu orphelin la deuxieme peut le faire mourir subitement a tout instant. A sa sortie de l'hopital Bazil se retrouve a la rue. Par chance ce doux eveur a l'inspiration debordante est recueilli par une bande de truculents chiffonniers aux aspirations et aux talents aussi divers qu'inattendus vivant dans une veritable caverne d'Ali-Baba : Remington Calculette Fracasse Placard la Mome Caoutchouc Petit Pierre et Tambouille. Un jour en passant devant deux batiments imposants Bazil reconnait le sigle des deux fabricants d'armes qui ont cause ses malheurs. Aide par sa bande d'hurluberlus il decide de se venger. Seuls contre tous petits malins contre grands industriels cyniques nos chiffonniers rejouent avec une imagination et une fantaisie dignes de Bibi Fricotin et de Buster Keaton le combat de David et Goliath...}","Dany Boon Andre Dussollier Nicolas Marie Jean-Pierre Marielle Yolande Moreau","16/03/10"],
-"id":2980,
-"modif_id":0,
-"image_size":[75,100],
-"images":[],
-"files":[]
-}

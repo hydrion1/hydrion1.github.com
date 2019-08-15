@@ -1,7 +1,0 @@
-{"values":["Windtalkers. les messagers du vent","John Woo","Action. Aventure. Guerre","","En 1944, durant la Seconde Guerre mondiale, face &#224; l'ennemi japonais, les Etats-Unis ont utilis&#233; une m&#233;thode de codage : le langage Navajo, uniquement compris et parl&#233; par certains soldats indiens. Ces code talkers transmettaient les messages cod&#233;s entre les bases am&#233;ricaines diss&#233;min&#233;es sur les &#238;les du Pacifique.<br>Le marine Joe Enders sort bless&#233; d'une bataille sanglante sur les &#238;les Salamon. Apr&#232;s avoir r&#233;cup&#233;r&#233; dans un h&#244;pital, il est charg&#233; d'une nouvelle mission consistant &#224; assurer la s&#233;curit&#233; de deux soldats navajos, Ben Yahzee et Charlie Whitehorse, et &#224; &#34;prot&#233;ger le code &#224; tout prix&#34; pour l'emp&#234;cher de tomber aux mains de l'ennemi. En clair : sacrifier, si besoin est, leurs fr&#232;res d'armes. Durant ce p&#233;riple, Joe se voit accompagner d'Ox Anderson et d'autres soldats. En pleine bataille de Sa&#239;pan, des liens d'amiti&#233; se tissent entre les Navajos et leurs &#34;anges gardiens&#34;. ","Nicolas Cage Christian Slater Adam Beach Frances O'Connor","18/03/03"],
-"id":2023,
-"modif_id":1,
-"image_size":[71,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["The Artist","Jean Dujardin Berenice Bejo Michel Hazanavicius","Drama","","The Artist is a love letter and homage to classic black-and-white silent films. The film is enormously likable and is anchored by a charming performance from Jean Dujardin as silent movie star George Valentin. In late-1920s Hollywood as Valentin wonders if the arrival of talking pictures will cause him to fade into oblivion he makes an intense connection with Peppy Miller a young dancer set for a big break. As one career declines another flourishes and by channeling elements of A Star Is Born and Singing in the Rain The Artist tells the engaging story with humour melodrama romance and--most importantly--silence. As wonderful as the performances by Dujardin and Berenice Bejo (Miller) are the real star of The Artist is cinematographer Guillaume Schiffman. Visually the film is stunning. Crisp and beautifully contrasted each frame is so wonderfully constructed that this sweet and unique little movie is transformed from entertaining fluff to a profound cinematic achievement. --Kira Canny}","Jean Dujardin Berenice Bejo John Goodman James Cromwell Penelope Ann Miller","27/05/12"],
-"id":2569,
-"modif_id":0,
-"image_size":[70,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["Signes - edition Speciale","M. Night Shyamalan","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","Dans une ferme de Pennsylvanie la vie de Graham Hess de son frere Merrill et de ses deux enfants Bo et Morgan est bouleversee un matin lorsqu'ils decouvrent des motifs parfaitement geometriques decoupes dans leurs champs de ble. D'etranges evenements se succedent alors. Restant dans le domaine - qu 'il affectionne particulierement - de la science-fiction M. Night Shyamalan (Sixieme sens Incassable) nous livre un film inattendu un regard neuf sur les extra-terrestres belliqueux un film touchant intelligent et terrifiant a la fois. Jouant avec une habilete exteme sur l'ambiance sonore et servi par une excellente photographie traitee avec soin et un casting impressionnant (Mel Gibson joue ici l'un de ses meilleurs roles celui d'un pere brise qui part rechercher loin en lui la foi qui l'a quitte pour proteger ses enfants. Joaquin Phoenix interprete son jeune frere persuade de la venue des envahisseurs et de la fin du monde a la fois drole et touchant) Signes reste l'un des meilleurs films de 2002 a posseder et a revoir. --David Rault}","Mel Gibson Joaquin Phoenix Rory Culkin Abigail Breslin Cherry Jones","23/04/03"],
-"id":2281,
-"modif_id":0,
-"image_size":[70,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["Corto Maltese. la cour secrete des Arcanes - edition Digipack 2 DVD","Pascal Morelli","Anime","","France Edition PAL/Region 2 DVD: SON: Francais ( Dolby Digital 2.0 ) Francais ( Dolby Digital 5.1 ) Anglais ( Sous-titres ) ANAMORPHIC WIDESCREEN (1.85:1) SUPPLEMENTS: Acces De Scene Commentaire Ensemble 2-DVD FonteServez d' equipier Interview(s) Galerie De Photo Menu Interactif Storyboards Trailer(s) SYNOPSIS: En 1919 l'Asie est plongee dans le chaos. De fabuleux trains blindes sillonnent la Russie la Siberie et la Mandchourie. Parmi eux celui de l'amiral Kolchak transporte l'or du gouvernement contre-revolutionnaire et attire toutes les convoitises. Dans cette impitoyable chasse au tresor Corto Maltese apporte son aide aux Lanternes Rouges qui lui ont sauve la vie. Avec Raspoutine son ami-ennemi de toujours ils croiseront des societes secretes chinoises une duchesse russe aussi charmante que perverse un avatar de Gengis-Khan un aviateur americain et plusieurs generaux partages entre la nostalgie de leur grandeur passee et le souci de leur avenir. ...Corto Maltese in Siberia ( Corto Maltese: La cour secrete des Arcanes )}","Richard Berry Patrick Bouchitey Marie Trintignant Catherinee Jacob Barbara Schulz","21/04/03"],
-"id":2785,
-"modif_id":1,
-"image_size":[70,100],
-"images":[],
-"files":[]
-}

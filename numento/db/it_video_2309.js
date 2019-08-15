@@ -1,7 +1,0 @@
-{"values":["Sakura Taisen - Digipack 3 DVD - Integrale - 10 episodes VOSTF [edition Prestige VOST]","Ryutaro Nakamura","Anime","","&#34;Debut du XXeme siecle. Pour faire face aux assauts repetes de demons Tokyo met en place une section de defense constituee de robots les Kobu qui sont controles par la force spirituelle de leur pilote en l'occurrence une femme. Une elite de jeunes filles venant de divers horizons est donc reunie au sein du Theatre Imperial qui sert de base a l'organisation. De son cote Sakura prend peu a peu conscience de ses capacites et va  etre amenee a rejoindre l'organisation...la difference de l'itineraire de bon nombre de series &#34;&#34;Sakura Taisen&#34;&#34; est a l'origine un jeu video edite par Sega sur Saturn puis sur Dreamcast avant de faire l'objet d'un anime. Realisee par Takaaki Ishiyama (&#34;&#34;Viewtiful Joe&#34;&#34; &#34;&#34;Dominion&#34;&#34;) la serie beneficie du chara-design de Kosuke Fujishima (&#34;&#34;Ah ! My Goddess&#34;&#34; &#34;&#34;You're under arrest&#34;&#34;) et des musiques de Kohei Tanaka (&#34;&#34;Dirty Pair&#34;&#34; &#34;&#34;Angelic Layer&#34;&#34; &#34;&#34;One piece&#34;&#34;).}&#34;","Sakura Shinguji Iris Chateaubriand Maria Tachibana Sumire Kanzaki","27/09/13"],
-"id":2309,
-"modif_id":2,
-"image_size":[57,100],
-"images":[],
-"files":[]
-}

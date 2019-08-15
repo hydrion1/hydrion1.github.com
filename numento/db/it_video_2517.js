@@ -1,7 +1,0 @@
-{"values":["Les Randonneurs a Saint-Tropez","Karin Viard Geraldine Pailhas Benoit Poelvoorde Vincent Elbaz Philippe Harel","Comedie","","&#34;Nous avons quitte Cora Nadine Mathieu et son frere Louis ceux que nous appelons dorenavant &#34;&#34;Les randonneurs&#34;&#34; il y a dix ans en Corse. Aujourd'hui ils ont la quarantaine. Ils sont toujours tres lies et ont decide de repartir une nouvelle fois en vacances ensemble juste tous les quatre comme avant. La randonnee il faut bien l'avouer ca n'etait pas vraiment leur truc. Mais a l'epoque c'etait la mode des vacances sportives. Alors ils avaient essaye. Cet ete c'est decide ce sera Saint-Tropez. Apres tout qui n'y va pas une fois dans sa vie ? Mais c'etait sans compter qu'a Saint-Tropez tout peut arriver. meme retrouver Eric leur guide sur le GR20 Corse. Celui qu'ils s'etaient jures de ne plus jamais frequenter... Sauf qu'Eric a evolue ; il a meme beaucoup change. Et il a des arguments de poids pour endosser a nouveau le role du guide... Audio : Francais:DD5.1 Sous-Titres : Aucun}&#34;","Karin Viard Geraldine Pailhas Benoit Poelvoorde Vincent Elbaz Philippe Harel","12/11/08"],
-"id":2517,
-"modif_id":0,
-"image_size":[59,100],
-"images":[],
-"files":[]
-}

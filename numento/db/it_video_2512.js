@@ -1,7 +1,0 @@
-{"values":["Le Maitre d'ecole","Coluche Josiane Balasko Jacques Debary Charlotte de Turckheim Roland Giraud","Comedie Enfants. Jeunesse et Famille","","Renvoye du magasin de v etements ou il etait employe pour avoir pris la defense d'un gosse en train de chaparder Gerard Barbier fort de son bac et de son amour pour les enfants decide de devenir instituteur suppleant. Envoye pour un remplacement en region parisienne sans preparation aucune et avec pour seule directive d'apprendre sur le tas il improvise tant bien que mai son premier cours. Puis les jours suivants il prend conseil aupres de sa collegue Jacqueline Lajoie. Celle-ci surnommee Rabat-joie depressive et mal aimee de ses eleves se jette a son cou bien malgre lui. Alors coince entre le vieux directeur de l'ecole qui de guerre lasse prone la methode autoritaire Jacqueline Lajoie revenue de tout et qui fait une tentative de suicide et Meignant un autre collegue uniquement preoccupe d'obeir au syndicat Barbier tente de trouver une methode personnelle propre a l'eveil des enfants.}","Coluche Josiane Balasko Jacques Debary Charlotte de Turckheim Roland Giraud","09/09/03"],
-"id":2512,
-"modif_id":0,
-"image_size":[70,100],
-"images":[],
-"files":[]
-}

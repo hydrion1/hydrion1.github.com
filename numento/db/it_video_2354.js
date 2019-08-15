@@ -1,7 +1,0 @@
-{"values":["Disco - Edition Collector","Fabien Onteniente","Comedie","","&#34;Endette jusqu'au cou dans une affaire de water bed Didier Travolta 40 ans vit au Havre dans le quartier populaire du Grand Large chez sa maman : Madame Graindorge. Il recoit une lettre de la mere de son fils Brian 8 ans qui vit en Angleterre lui signifiant qu'il ne pourra pas recevoir le petit cette annee s'il n'est pas capable de lui payer des vacances des vraies vacances c'est a dire loin des Docks des PMU et des grandes surfaces.Jean-Francois Jackson et son associee &#34;&#34;La Baronne&#34;&#34; viennent de reouvrir le mythique Gin Fizz et de fonder la &#34;&#34;Gin Fizz Academy&#34;&#34; afin de relancer ce qui fit sa legende les concours de danse Disco.Le premier prix : un voyage de deux semaines pour deux personnes en Australie au pays des kangourous. Didier Travolta decide alors de rechausser les boots et de reformer son trio de danse celui qui faisait mal dans les annees 80 dans la region du Havre : les BEE KINGS.Le disco est de retour !Apres avoir retrouve et decide ses anciens partenaires Neuneuil vendeur chez Darty et Walter grutier-docker syndicaliste de reprendre pour la bonne cause le chemin du Dance Floor Didier Travolta se lance a fond dans l'aventure. Mais les annees ont passe. Les BEE KINGS sont rouilles.Son passeport pour le succes s'appelle France Navarre de retour de New York professeur de danse classique}&#34;","Franck Dubosc Emmanuelle Beart Gerard Depardieu","01/10/08"],
-"id":2354,
-"modif_id":0,
-"image_size":[58,100],
-"images":[],
-"files":[]
-}

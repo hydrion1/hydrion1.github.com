@@ -1,7 +1,0 @@
-{"values":["La Guerre des mondes","Steven Spielberg","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","&#34;Aventure apocalyptique qui &#34;&#34;etonne et captive a la fois&#34;&#34; (Michael Wilmington Chicago Tribune) La Guerre des Mondes reunit la superstar Tom Cruise et l'immense Steven Spielberg deja deux fois recompense par l'Oscar du Meilleur Realisateur pour l'un des films les plus impressionnants de tous les temps!Cette adaptation contemporaine du roman de H.G. Wells veritable thriller de science-fiction temoigne de la lutte extraordinaire pour la survie de l'humanite a travers les yeux d'une famille americaine. Fuyant une armee de tueurs tripodes extraterrestres detruisant tout sur son passage Ray Ferrier (Cruise) met tout en oeuvre pour sauver sa famille. La formidable performance des acteurs le minutieux travail sur le son les effets speciaux spectaculaires le scenario redoutablement efficace font d'ores et deja de La Guerre des Mondes un des sommets de l'Histoire du Cinema!}&#34;","Tom Cruise Dakota Fanning Justin Chatwin Miranda Otto Tim Robbins","31/12/05"],
-"id":2600,
-"modif_id":0,
-"image_size":[71,100],
-"images":[],
-"files":[]
-}

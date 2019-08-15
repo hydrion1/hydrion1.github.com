@@ -1,7 +1,0 @@
-{"values":["Le Chateau dans le ciel","Hayao Miyazaki","Anime","","Sorti en salles apres les chefs-d'oeuvre Princesse Mononoke et Le Voyage de Chihiro bien qu'il ait ete realise plus de dix ans auparavant Le Chateau dans le ciel developpe deja les grands themes qui sous-tendent les opus suivants. Inspire par Jonathan Swift cette histoire d'enfants a la recherche d'une ele cachee au des nuages se double d'un message ecologique puissant qui renvoie a la catastrophe de Hiroshima. D'un point de vue plastique le film surprend par le contraste du dessin des personnages assez retros qui evoluent dans des decors incroyablement fouilles comme dans les meilleurs des films de science-fiction. Notons que l'on retrouve des elements imaginaires voisins dans quelques bandes dessinees europeennes notamment chez le Francais Fred (Philemon et le chateau suspendu). Ce bonus les storyboards sont passionnants et completes par les bandes-annonces japonaises. --Herve Comte Produit neuf sous blister. Vendeur professionnel expedition garantie sous 24h a 48h ouvrables en Colissimo suivi !}","Manon Hazem Mayumi Tanaka Perette Pradier Keiko Yokozawa Olivier Martret","02/12/03"],
-"id":2596,
-"modif_id":2,
-"image_size":[69,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["Arthur et la vengeance de Maltazard - Edition simple","Luc Besson","Enfants. Jeunesse et Famille","","Arthur est au comble de l'excitation : c'est aujourd'hui la fin du dixi&#232;me cycle de la Lune, et il va enfin pouvoir regagner le monde des Minimoys pour y retrouver S&#233;l&#233;nia. Dans le village, tout est pr&#234;t pour l'accueillir : un grand banquet a &#233;t&#233; organis&#233; en son honneur, et la petite princesse a pass&#233; sa robe en p&#233;tales de rose... C'est sans compter le p&#232;re d'Arthur, qui choisit pr&#233;cis&#233;ment ce jour tant attendu pour quitter plus t&#244;t que pr&#233;vu la maison de sa grand-m&#232;re. Au moment du d&#233;part, une araign&#233;e d&#233;pose dans les mains du jeune gar&#231;on un grain de riz sur lequel est grav&#233; un message de d&#233;tresse. Pas de doute, S&#233;l&#233;nia est en danger, et Arthur n'a plus qu'une id&#233;e en t&#234;te : voler &#224; son secours ! Quitte &#224; employer un passage de fortune, tomber t&#234;te la premi&#232;re dans le bar de Max, se heurter aux troupes de Kr&#246;b, le nouveau tyran des Sept Terres, secourir B&#233;tam&#232;che, combattre des rats, des grenouilles, des araign&#233;es velues... et d&#233;couvrir, une fois arriv&#233; au village des Mimimoys, qu'aucun message de secours ne lui a &#233;t&#233; envoy&#233; ! Mais qui donc a bien pu pi&#233;ger ainsi notre jeune h&#233;ros ? ","Freddie Highmore Mia Farrow Balfour Penny","31/12/99"],
-"id":3061,
-"modif_id":1,
-"image_size":[58,100],
-"images":[],
-"files":[]
-}

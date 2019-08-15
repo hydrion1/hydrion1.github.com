@@ -1,7 +1,0 @@
-{"values":["Vidocq","Pitof","Action. Aventure. Policier et Thriller","","&#34;&#34;&#34;Vidocq est mort !&#34;&#34; Jamais l'annonce de la disparition d'un voleur n'aura a ce point bouleverse le Tout-Paris. Et pour cause ! Passe du clan des chasses a celui des chasseurs cet ex-bagnard devenu prefet de police sous l'Empire et la Restauration etait sur la piste d'un effroyable tueur masque et son enqu ete semblait toucher au but. Sur un scenario original et percutant de Jean-Christophe Grange (Les Rivieres pourpres) dont on reconnait aisement ici et la les touches macabres le legendaire Francois Vidocq reprend du service sous les traits de notre bon vieux Gerard Depardieu. Mais le principal inteet de ce thriller gothique reside dans le procede novateur employe puisqu'il s'agit du tout premier film au monde realise en cinema numerique. S'il faut certes un temps d'adaptation non negligeable a cette nouvelle technique le resultat n'en est pas moins impressionnant : les decors et l'environnement exterieur entierement reconstitues par ordinateur offrent une minutie du detail propre a reconstituer l'univers froid lugubre et malsain du Paris de 1830 et renforcer la peur viscerale latente et le rythme effrene imposes par Grange et Pitof. - Frederic Thorens}&#34;","Gerard Depardieu Guillaume Canet Ines Sastre Andre Dussollier Edith Scob","26/08/04"],
-"id":2420,
-"modif_id":0,
-"image_size":[68,100],
-"images":[],
-"files":[]
-}

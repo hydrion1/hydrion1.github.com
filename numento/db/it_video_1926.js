@@ -1,7 +1,0 @@
-{"values":["The Majestic","Frank Darabont","Action. Aventure. Policier et Thriller Comedie Drame et emotion","","Ex-Spielberg boy du temps d'Amblin passe avec efficacite a la realisation. La Ligne verte Les Evades tous deux d'apres Stephen King . Franck Darabont lorgne cette fois-ci tres fort du cote de Franck Capra. Double reconstitution d'un Hollywood en proie a la chasse aux sorcieres et d'une Amerique provinciale et idyllique The Majestic est un film delicieusement suranne. Voitures retro premiers juke-boxes cinoches du samedi soir le film reprend tous les archetypes qui ont fait les beaux jours du cinema americain des fifties. Jusqu'a la figure de James Stewart auquel Jim Carrey fait irresistiblement songer: en jeune scenariste chasse d'Hollywood subitement frappe d'amnesie indecrottablement optimiste et volontairement idealiste il evoque tour a tour Mr. Smith au Senat et La vie est belle. Certes on pourra trouver le scenario confus la realisation complaisante parce que plus attiree par les decors que par l'intrigue le discours pechi-pecha laborieux. Reste un Jim Carrey une fois de plus remarquable dans le droit fil de The Truman Show et le plaisir de voir un realisateur comme Franck Darabont pur produit du systeme hollywoodien contemporain s'aventurer sur des chemins de traverse plus intimes et personnels. --Sylvain Lefort}","Jim Carrey Amanda Detmer Bob Balaban Bruce Campbell David Ogden Stiers","19/11/02"],
-"id":1926,
-"modif_id":1,
-"image_size":[72,100],
-"images":[],
-"files":[]
-}

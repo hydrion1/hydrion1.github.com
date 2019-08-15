@@ -1,7 +1,0 @@
-{"values":["Sleepy Hollow","Tim Burton","All product Blu-ray and DVD Movies","","The films of Tim Burton shine through the muck like a jack-o-lantern on a foggy October night. After such successes as The Nightmare Before Christmas and Edward Scissorhands it should come as no surprise that Sleepy Hollow is a dazzling film a delicious reworking of Washington Irving's The Legend of Sleepy Hollow. Dark and moody the film is a thrilling ride back to the turn of the 19th century. Johnny Depp stars as Ichabod Crane a seemingly hapless constable from New York City who is sent to the small town of Sleepy Hollow to solve the mystery of the decapitations that are plaguing the town. Crane is a bumbling sort with a tremendous faith in science over mysticism and he comes up against town secrets bewitching women and a number of bodies missing heads. Christina Ricci as beautiful as ever is Katrina Van Tassel the offbeat love interest who alternately charms and frightens Crane.The film while occasionally gory (as one should expect from a movie about a headless horseman) is not terribly frightening although it is suspenseful. Both Depp and Ricci are convincing and the art direction and production values give the village its harsh feel. Toward the end once the secrets are revealed the film does slow down; however this stylistic horror film provides many tricks and even more treats. --Jenny Brown}","Johnny Depp Christina Ricci Miranda Richardson Michael Gambon Casper Van Dien","22/05/00"],
-"id":3094,
-"modif_id":0,
-"image_size":[71,100],
-"images":[],
-"files":[]
-}

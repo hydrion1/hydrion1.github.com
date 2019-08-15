@@ -1,7 +1,0 @@
-{"values":["Evangelion : Death and Rebirth / The End of Evangelion - edition Collector 2 DVD","Hideaki Anno","Anime","","Evangelion est une epopee guerriere et futuriste ou la violence et le sacrifice regnent en maitres et dont les heros enigmatiques et solitaires sont tres attachants. Le film se decoupe en deux parties: Death and Rebirth sous forme d'une serie de flash-back et The End of Evangelion fin alternative du manga. Evangelion beneficie d'un rythme tres particulier du notamment a une savante variation de couleurs. Le graphisme est superbe et la bande-son excellente alternant bruits electroniques et musique classique. Cette fresque amene le spectateur a une reflexion philosophique et mystique (evocation de la bombe nucleaire du clonage soucis ecologiques). Malgre ces themes sombres Evangelion laisse place a l'humour la poesie et la everie melancolique. Ce film a remporte un vif succes aupres du public et a ete prime au festival d'animation de Kobe. Un DVD a conseiller en priorite aux aficionados de la serie New Genesis Evangelion les autres risquant de trouver ce resume quelque peu esoterique. --Caroline Denis}","Megumi Ogata Megumi Hayashibara Yuko Miyamura Kotono Mitsuishi Fumihiko Tachiki","07/01/03"],
-"id":2812,
-"modif_id":2,
-"image_size":[70,100],
-"images":[],
-"files":[]
-}
