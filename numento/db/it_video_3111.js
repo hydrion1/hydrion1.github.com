@@ -1,0 +1,7 @@
+{"values":["Rome - Saison 1","Michael Apted Julian Farino Allen Coulter Alan Poul Tim Van Patten","Series TV","","Cette serie relate a la fois les evenements ayant entraine la chute de la Republique romaine et la naissance de l'Empire romain vus a travers les yeux de leurs principaux protagonistes et la vie et les aventures de deux soldats de la Treizieme legion le legionnaire Titus Pullo et le centurion Lucius Vorenus qui sont temoins de ces evenements et parfois meme les influencent.La premiere saison debute lorsque Jules Cesar revient de Gaule a la fin de son mandat de proconsul refuse de liberer ses legions selon l'ordre du Senat et s'appete a franchir le Rubicon a la t ete de ses legions et a marcher sur Rome. Des lors l'action retrace les luttes de pouvoir entre Pompee et Cesar jusqu'au triomphe de Cesar et a l assassinat de ce dernier aux Ides de Mars en 44 av. J.-C.. Lucius Vorenus sous la protection de Cesar et de Marc Antoine y entreprend son ascension sociale qui va le conduire jusqu'au Senat avant d' etre victime d'un drame familial alors que Titus Pullo noue des liens avec le jeune Octave tout en eprouvant des difficultes a reintegrer la vie civile.}","Kevin McKidd Ray Stevenson Polly Walker Kenneth Cranham Lindsay Duncan","01/03/11"],
+"id":3111,
+"modif_id":0,
+"image_size":[74,100],
+"images":[],
+"files":[]
+}

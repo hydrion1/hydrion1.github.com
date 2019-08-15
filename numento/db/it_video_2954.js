@@ -1,0 +1,7 @@
+{"values":["AVATAR. le dernier maitre de l'air - L'integrale - Coffret Livre 1. 2 et 3 (13 DVD) [import avec langue Francais]","Dave Filoni","Anime","","&#34;Import Neerlandais avec audio et sous-titres Francais (VF ou VOSF). Synopsis La legende raconte que le monde etait divise en quatre nations : celles de l'Air de la Terre de l'Eau et du Feu. Pour chacune d'elle un maitre regnait sans partage. Seul l'Avatar etait capable de maitriser ces quatre elements pour garantir la paix. A la mort de ce dernier le maitre du Feu mena une guerre sans merci pour controler les autres forces. L'espoir renait a la decouverte d'Aang le maitre de l'air le dernier descendant des Avatars... Descriptions du produit Il y a des temps immemoriaux... quatre grandes nations se partageaient le pouvoir sur le monde: la Terre l'Eau l'Air et le Feu. Chacune de ces nations disposait d'un ordre d'hommes et de femmes appeles &#34;&#34;maitres&#34;&#34; qui dirigeaient et controlaient parfaitement leur element. L' etre le plus puissant sur terre etait l'Avatar. Dans cette quatrieme partie Aang Katara et Sokka poursuivent leur perilleux periple vers la Tribu de l'eau du pole nord et leur amitie sera mise a dure epreuve tandis qu'ils seront confrontes a la maladie et a l'emprisonnement. En chemin ils croisent un maitre du Feu et Avatar aura pour la premiere fois l'occasion de s'essayer a la maitrise de cet element... le resultat sera desastreux!}&#34;","",""],
+"id":2954,
+"modif_id":1,
+"image_size":[75,100],
+"images":[],
+"files":[]
+}

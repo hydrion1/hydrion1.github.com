@@ -1,0 +1,7 @@
+{"values":["Metropolis","Rin Taro","Anime","","A Metropolis chacun est a sa place. Dans cette immense cite du futur les humains et les robots cohabitent dans un cadre strict. Le gigantesque gratte-ciel Ziggurat abrite les elites de la societe qui y menent une existence doree. Les pauvres et les robots eux sont condamnes a une vie souterraine qui s'est organisee au sein d'un vaste reseau dans les entrailles de la ville. Alors que les soulevements anti-robots se multiplient le detective Shunsaku Ban et son assistant Kenichi partent a la recherche d'une scientifique rebelle le docteur Laughton afin de saisir sa derniere creation. Repoussant les limites technologiques il a cree Tima une merveilleuse petite fille qui est aussi un robot d'un nouveau genre. Elle incarne une nouvelle race de sur- etres. Ayant localise le laboratoire secret Shunsaku et Kenichi decouvrent que le scientifique excentrique est protege par un homme enigmatique et puissant dont l'unique desir est de retrouver une personne chere tragiquement disparue. L'enquete s'annonce plus que dangereuse...}","Yuka Imoto Kei Kobayashi Kouki Okasa Jamieson Price","23/08/05"],
+"id":2046,
+"modif_id":2,
+"image_size":[100,100],
+"images":[],
+"files":[]
+}

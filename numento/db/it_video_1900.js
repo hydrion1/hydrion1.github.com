@@ -1,0 +1,7 @@
+{"values":["2001 : l'odyssee de l'espace","Stanley Kubrick","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","&#34;A l'aube de l'Humanite dans le desert africain une tribu de primates subit les assauts repetes d'une bande rivale qui lui dispute un point d'eau. La decouverte d'un monolithe noir inspire au chef des singes assieges un geste inedit et decisif. Brandissant un os il passe a l'attaque et massacre ses adversaires. Le premier instrument est ne. En 2001 quatre millions d'annees plus tard un vaisseau spatial evolue en orbite lunaire au rythme langoureux du &#34;&#34;Beau Danube Bleu&#34;&#34;. A son bord le Dr. Heywood Floyd enqu ete secretement sur la decouverte d'un monolithe noir qui emet d'etranges signaux vers Jupiter. Dix-huit mois plus tard les astronautes David Bowman et Frank Poole font route vers Jupiter a bord du Discovery Les deux hommes vaquent sereinement a leurs taches quotidiennes sous le controle de HAL 9000 un ordinateur exceptionnel doue d'intelligence et de parole. Cependant HAL sans doute plus humain que ses maitres commence a donner des signes d'inquietude : a quoi rime cette mission et que risque-t-on de decouvrir sur Jupiter ?}&#34;","Daniel Richter Leonard Rossiter Gary Lockwood","25/09/01"],
+"id":1900,
+"modif_id":1,
+"image_size":[75,100],
+"images":[],
+"files":[]
+}

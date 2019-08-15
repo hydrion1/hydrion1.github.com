@@ -1,0 +1,7 @@
+{"values":["Chevalier","Brian Helgeland","Action. Aventure. Policier et Thriller Comedie","","En Europe, au XIVe si&#232;cle, William Thatcher est un modeste &#233;cuyer qui a un don inn&#233; pour l'&#233;quitation et les combats de joute, un talent qu'il d&#233;cide d'exploiter apr&#232;s la mort de son ma&#238;tre Sir Ulrich von Lichtenstein. Mais ne concoure pas qui veut dans les tournois, il faut &#234;tre un noble. Il prend alors l'identit&#233; de son d&#233;funt seigneur et part sur les routes de France avec ses compagnons Roland et Wat.<br>En chemin, William rencontre Geoffrey Chaucer, un &#233;crivain errant qui lui fabrique de faux papiers. Ces documents falsifi&#233;s lui permettent de participer aux tournois disput&#233;s par les plus grands chevaliers.<br>En peu de temps, il se fait remarquer par son agilit&#233; et multiplie les victoires. Il attire &#233;galement l'attention de la belle Jocelyn et, malheureusement, du redoutable comte Adhemar. Ce dernier est jaloux de son succ&#232;s et compte bien y mettre un terme. ","Heath Ledger Mark Addy Rufus Sewell Paul Bettany Alan Tudyk","14/05/02"],
+"id":2482,
+"modif_id":1,
+"image_size":[72,100],
+"images":[],
+"files":[]
+}

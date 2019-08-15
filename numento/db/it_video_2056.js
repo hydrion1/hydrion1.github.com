@@ -1,0 +1,7 @@
+{"values":["Aventures de Tintin : Le Secret de la Licorne","Steven Spielberg","Enfants. Jeunesse et Famille","","Parce qu'il achete la maquette d'un bateau appele la Licorne Tintin un jeune reporter se retrouve entraine dans une fantastique aventure a la recherche d'un fabuleux secret. En enqu etant sur une enigme vieille de plusieurs siecles il contrarie les plans d'Ivan Ivanovitch Sakharine un homme diabolique convaincu que Tintin a vole un tresor en rapport avec un pirate nomme Rackham le Rouge. Avec l'aide de Milou son fidele petit chien blanc du capitaine Haddock un vieux loup de mer au mauvais caractere et de deux policiers maladroits Dupond et Dupont Tintin va parcourir la moitie de la planete et essayer de se montrer plus malin et plus rapide que ses ennemis tous lances dans cette course au tresor a la recherche d'une epave engloutie qui semble receler la cle d'une immense fortune' et une redoutable malediction. De la haute mer aux sables des deserts d'Afrique Tintin et ses amis vont affronter mille obstacles risquer leur vie et prouver que quand on est pet a prendre tous les risques rien ne peut vous areter.}","Jamie Bell Andy Serkis Daniel Craig","26/02/12"],
+"id":2056,
+"modif_id":0,
+"image_size":[77,100],
+"images":[],
+"files":[]
+}

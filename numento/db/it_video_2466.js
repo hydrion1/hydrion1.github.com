@@ -1,0 +1,7 @@
+{"values":["Mummy [Import USA Zone 1]","Stephen Sommers","Action. Aventure. Policier et Thriller Comedie Fantastique. Horreur et Science-fiction","","Il y en a que rien n'arete : Imhotep momifie vivant parce qu'il aimait la femme d'un autre (Ancksu Namun la maitresse du Pharaon forcement) revient 4000 ans plus tard pour tenter de la ramener a la vie. En 1923 un aventurier Rick (Brendan Fraser) et une egyptologue Evelyn (Rachel Weisz) tentent d'areter cette momie qui a perdu le sens de l'humour et des bonnes manieres. Action humour et aventure. Et effets speciaux. Tout ca en rythme et a grande echelle. Les producteurs de La Momie n'ont pas fait les choses a moitie. Et ils n'ont pas eu tort. S'inspirant largement des grands films d'horreur et d'aventure des films des annees 30-40 dont ils parviennent a retrouver le sens du kitsch et quelque part le charme suranne ils plongent leurs personnages dans le tourbillon des plaies d'Egypte. Avec une difference de taille : la ou a l'epoque de Boris Karloff le carton pate faisait peur aux vieilles dames le numerique vient aujourd'hui tout chambouler. Du bon vieux cinema spectacle. --Ambroise Ecorcheville}","Brendan Fraser Rachel Weisz John Hannah Arnold Vosloo Kevin J. O'Connor","27/09/99"],
+"id":2466,
+"modif_id":0,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

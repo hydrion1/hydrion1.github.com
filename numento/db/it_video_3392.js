@@ -1,0 +1,7 @@
+{"values":["Pixels","Chris Columbus","Science fiction","106 min","&#192; l&#8217;&#233;poque de leur jeunesse, dans les ann&#233;es 80, Sam Brenner, Will Cooper, Ludlow Lamonsoff et Eddie &#171; Fire Blaster &#187; Plant ont sauv&#233; le monde des milliers de fois&#8230; en jouant &#224; des jeux d&#8217;arcade &#224; 25 cents la partie. Mais aujourd&#8217;hui, ils vont devoir le faire pour de vrai&#8230; Lorsque des aliens d&#233;couvrent des vid&#233;os d&#8217;anciens jeux et les prennent pour une d&#233;claration de guerre, ils lancent l&#8217;assaut contre la Terre. Ces m&#234;mes jeux d&#8217;arcade leur servent de mod&#232;les pour leurs attaques. Cooper, qui est d&#233;sormais Pr&#233;sident des &#201;tats-Unis, fait alors appel &#224; ses vieux potes pour emp&#234;cher la destruction de la plan&#232;te par PAC-MAN, Donkey Kong, Galaga, Centipede et les Space Invaders&#8230; Les gamers pourront compter sur l&#8217;aide du lieutenant-colonel Violet Van Patten, une sp&#233;cialiste qui va leur fournir des armes uniques...","Adam Sandler<br>Michelle Monaghan<br>Kevin James<br>Peter Dinklage<br>Josh Gad","22/07/15"],
+"id":3392,
+"modif_id":1,
+"image_size":[75,100],
+"images":[],
+"files":[]
+}

@@ -1,0 +1,7 @@
+{"values":["OBLIVION","joseph kosinski","Genres","","&#34;2077 : Jack Harper en station sur la planete Terre dont toute la population a ete evacuee est en charge de la securite et de la reparation des drones. Suite a des decennies de guerre contre une force extra-terrestre terrifiante qui a ravage la Terre Jack fait partie d'une gigantesque operation d'extraction des dernieres ressources necessaires a la survie des siens. Sa mission touche a sa fin. Dans a peine deux semaines il rejoindra le reste des survivants dans une colonie spatiale a des milliers de kilometres de cette planete devastee qu'il considere neanmoins comme son chez-lui. Vivant et patrouillant a tres haute altitude de ce qu'il reste de la Terre la vie &#34;&#34;celeste&#34;&#34; de Jack est bouleversee quand il assiste au crash d'un vaisseau spatial et decide de porter secours a la belle inconnue qu'il renferme. Ressentant pour Jack une attirance et une affinite qui defient toute logique Julia declenche par sa presence une suite d'evenements qui pousse Jack a remettre en question tout ce qu'il croyait savoir...}&#34;","tom cruise morgan freeman",""],
+"id":1947,
+"modif_id":0,
+"image_size":[75,100],
+"images":[],
+"files":[]
+}

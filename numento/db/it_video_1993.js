@@ -1,0 +1,7 @@
+{"values":["Les Deux mondes","Daniel Cohen","Action. Aventure. Policier et Thriller Comedie Fantastique. Horreur et Science-fiction","","Dans un monde parall&#232;le, au village de B&#233;gamini, une tribu opprim&#233;e fait des incantations au ciel afin qu'un sauveur vienne les lib&#233;rer du joug de Zotan, le tyran cannibale.<br>A Paris, dans le monde normal... R&#233;my Bassano est un petit restaurateur d'oeuvres d'art timide, discret et sans histoires. Il est mari&#233; &#224; Lucile avec qui il a deux enfants.<br>Un jour, R&#233;my retrouve son atelier inond&#233;, il perd alors son travail et sa femme Lucile lui annonce brutalement qu'elle le quitte pour un autre. Il court chercher du r&#233;confort chez ses parents et alors qu'il est en train de servir le caf&#233; &#224; ses nombreux fr&#232;res et soeurs, il est aspir&#233; dans le sol, traverse le temps et se retrouve &#224; B&#233;gamini.<br>L&#224;, dans leur &#233;trange village, les B&#233;gaminiens l'accueillent comme le lib&#233;rateur qu'ils esp&#232;rent depuis toujours. A partir de ce moment l&#224;, R&#233;my se trouve embarqu&#233; dans une aventure haletante... ","Florence Loiret-Caille Benoit Poelvoorde Augustin Legrand","18/06/08"],
+"id":1993,
+"modif_id":1,
+"image_size":[-1,-1],
+"images":[],
+"files":[]
+}

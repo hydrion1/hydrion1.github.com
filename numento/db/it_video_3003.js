@@ -1,0 +1,7 @@
+{"values":["Ponyo sur la falaise","Hayao Miyazaki","Anime","","Le petit Sosuke cinq ans habite un village construit au sommet d'une falaise qui surplombe la Mer Interieure. Un beau matin alors qu'il joue sur la plage en contrebas il decouvre une petite fille poisson rouge nommee Ponyo piegee dans un pot de confiture. Sosuke la sauve et decide de la garder avec lui dans un seau. Ponyo est aussi fascinee par Sosuke que ce dernier l'est par elle. Le petit garcon lui promet de la proteger et de s'occuper d'elle mais le pere de Ponyo Fujimoto - un sorcier autrefois humain qui vit tout au fond de la mer - la force a revenir avec lui dans les profondeurs. Bien decidee a devenir humaine Ponyo s'echappe pour retrouver Sosuke. Mais avant de prendre la fuite elle repand l'elixir magique de Fujimoto l'Eau de la Vie dans l'ocean. Le niveau de la mer s'eleve et les soeurs de Ponyo sont transformees en vagues gigantesques qui montent jusqu'a la maison de Sosuke sur la falaise et engloutissent le village... Une petite fille et un petit garcon. L'amour et la responsabilite.La mer et l'essence de la vie. Veritable antidote a l'anxiete et aux doutes de notre epoque Ponyo Sur La Falaise est la fabuleuse histoire d'une mere et de son enfant.}","Yuria Nara Hiroki Doi Joji Tokoro Tomoko Yamaguchi Yuki Amami","17/12/09"],
+"id":3003,
+"modif_id":1,
+"image_size":[63,100],
+"images":[],
+"files":[]
+}

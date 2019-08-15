@@ -1,0 +1,7 @@
+{"values":["Inception - Edition simple","Christopher Nolan","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","Dom Cobb est un voleur exp&#233;riment&#233; &#8211; le meilleur qui soit dans l&#8217;art p&#233;rilleux de l&#8217;extraction : sa sp&#233;cialit&#233; consiste &#224; s&#8217;approprier les secrets les plus pr&#233;cieux d&#8217;un individu, enfouis au plus profond de son subconscient, pendant qu&#8217;il r&#234;ve et que son esprit est particuli&#232;rement vuln&#233;rable. Tr&#232;s recherch&#233; pour ses talents dans l&#8217;univers trouble de l&#8217;espionnage industriel, Cobb est aussi devenu un fugitif traqu&#233; dans le monde entier qui a perdu tout ce qui lui est cher. Mais une ultime mission pourrait lui permettre de retrouver sa vie d&#8217;avant &#8211; &#224; condition qu&#8217;il puisse accomplir l&#8217;impossible : l&#8217;inception. Au lieu de subtiliser un r&#234;ve, Cobb et son &#233;quipe doivent faire l&#8217;inverse : implanter une id&#233;e dans l&#8217;esprit d&#8217;un individu. S&#8217;ils y parviennent, il pourrait s&#8217;agir du crime parfait. Et pourtant, aussi m&#233;thodiques et dou&#233;s soient-ils, rien n&#8217;aurait pu pr&#233;parer Cobb et ses partenaires &#224; un ennemi redoutable qui semble avoir syst&#233;matiquement un coup d&#8217;avance sur eux. Un ennemi dont seul Cobb aurait pu soup&#231;onner l&#8217;existence. ","Leonardo DiCaprio Marion Cotillard Ellen Page","07/12/10"],
+"id":2129,
+"modif_id":1,
+"image_size":[75,100],
+"images":[],
+"files":[]
+}

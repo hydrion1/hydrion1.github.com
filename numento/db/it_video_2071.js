@@ -1,0 +1,7 @@
+{"values":["Hellboy 2 : les legions d'or maudites","Guillermo Del Toro","Fantastique. Horreur et Science-fiction","","Apres qu'une ancienne teve etablie entre le genre humain et le royaume invisible des creatures fantastiques ait ete rompue l'Enfer sur Terre est pet a emerger. Un chef impitoyable qui regne sur le royaume d'en-dessous renie ses origines et reveille une menace sans precedent : une armee de creatures que personne ne peut areter. Maintenant il est temps pour le super heros le plus indestructible et le plus cornu de la planete de combattre un dictateur sans pitie et ses legions. Il peut  etre rouge il peut avoir des cornes il peut  etre mal compris mais si vous voulez que le travail soit bien fait appelez Hellboy. Avec ses partenaires du Bureau de Recherche et de Defense Paranormal (B.P.R.D.) sa petite amie pyrokinesique Liz l'aquatique et empathique Abe Sapien et le mystique protoplasmique Johann le B.P.R.D voyagera entre notre monde et celui ou voguent les creatures que ne peuvent pas voir les humains ou les creatures du monde fantastique sont devenues reelles. Hellboy creature appartenant aux deux mondes qui n'est accepte dans aucun devra choisir entre la vie qu'il connait et une destinee incertaine qui l'attend","Ron Perlman Selma Blair Doug Jones","31/12/08"],
+"id":2071,
+"modif_id":1,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}

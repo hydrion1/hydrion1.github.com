@@ -1,0 +1,7 @@
+{"values":["The Expendables : Unite speciale","Sylvester Stallone","Action. Aventure. Policier et Thriller","","Ce ne sont ni des mercenaires ni des agents secrets. Ils choisissent eux-memes leurs missions et n'obeissent a aucun gouvernement. Ils ne le font ni pour l'argent ni pour la gloire mais parce qu'ils aident les cas desesperes.Depuis dix ans Izzy Hands de la CIA est sur les traces du chef de ces hommes Barney Ross. Parce qu'ils ne sont aux ordres de personne il devient urgent de les emp echer d'agir. Eliminer un general sud-americain n'est pas le genre de job que Barney Ross accepte mais lorsqu'il decouvre les atrocites commises sur des enfants il ne peut refuser. Avec son equipe d'experts Ross debarque sur l'ile paradisiaque ou sevit le tyran. Lorsque l'embuscade se referme sur eux il comprend que dans son equipe il y a un traitre.Apres avoir echappe de justesse a la mort ils reviennent aux Etats-Unis ou chaque membre de l'equipe est attendu. Il faudra que chacun atteigne les sommets de son art pour en sortir et demasquer celui qui a trahi...}","Sylvester Stallone Jet Li Jason Statham Mickey Rourke Dolph Lundgren. Bruce Willis","31/12/99"],
+"id":3045,
+"modif_id":0,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}

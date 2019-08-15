@@ -1,0 +1,7 @@
+{"values":["A la rencontre de Forrester [Import belge]","gus Van sant","Drame et emotion","","A seize ans, Jamal Wallace, un prodige du basket-ball, entre par effraction dans un appartement que les rumeurs disent habite par un ermite. Ayant entendu un bruit, il prend ses jambes a son cou et en oublie son sac a dos avec ses livres dedans. L'ermite le lui rend. Mais Jamal constate que les textes qu'il a &#233;crits ont ete corriges et commentes.<br>Celui-ci, intrigue, part a la rencontre du vieil homme, qui s'av&#232;re &#234;tre William Forrester, un c&#233;l&#232;bre &#233;crivain qui a disparu apr&#232;s la publication de son premier roman. Ce romancier solitaire et asocial a d&#233;couvert chez Jamal un don pour l'&#233;criture et accepte de lui enseigner en priv&#233; l'art de la plume. Au cours de ces le&#231;ons particuli&#232;res, une amiti&#233; s'installe entre eux. Jamal se d&#233;couvre une passion pour la litt&#233;rature, mais il est bient&#244;t amen&#233; &#224; choisir entre poursuivre sa carri&#232;re de basketteur et se consacrer pleinement &#224; l'&#233;criture. ","Connery<br> Sean Rob Brown Anna Paquin","31/12/07"],
+"id":2149,
+"modif_id":2,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}

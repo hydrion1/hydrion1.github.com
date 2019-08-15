@@ -1,0 +1,7 @@
+{"values":["Higurashi - Hinamizawa. le village maudit - Integrale - Edition Collector","07th Expansion Ryukishi07 Studio Deen Chiaki Kon","Anime","","Inspiree du jeu video eponyme Higurashi no naku koro ni a vu le jour dans les locaux du Studio Deen (Fruits Basket Kenshin). L'histoire se revele d'une grande inventivite et la construction scenaristique contribue a creer une atmosphere de plus en plus oppressante renforcee encore par les musiques du celebrissime Kenki Kawai (Avalon Death Note). - - - HISTOIRE : Keiichi Maebara est transfere dans une ecole situe a Hinamizawa un petite village du Japon. Sa nouvelle vie commence plutot bien avec ses quatre nouvelles camarades de classe Rena  Mion Satoko et Rita qui l'acceptent dans leur club de jeux de societe. Mais Keiichi apprend qu'il y a quatre ans les villageois se sont reunis pour emp echer la construction d'un barrage qui aurait detruit le village entier. Le conflit se serait termine par un meutre et une disparition mysterieuse... Depuis a la meme date ces faits dramatiques semblent se reproduire chaque annee... - - - CONTENU : 6 DVD - Integrale - 26 episodes - 650 min - VF + VOST-FR - 1 Livret exclusif (28 pages)}","","27/09/13"],
+"id":2487,
+"modif_id":1,
+"image_size":[59,100],
+"images":[],
+"files":[]
+}

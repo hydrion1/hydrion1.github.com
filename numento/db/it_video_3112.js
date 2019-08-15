@@ -1,0 +1,7 @@
+{"values":["Roujin Z","Hiroyuki Kitakubo","Anime","","Ils voulaient remplacer la medecine par la robotique ils creerent une arme de destruction massive ! Aussi spectaculaire dans son casting (Satoshi KON Hiroyuki KITAKUBO and Hisashi EGUCHI) que dans sa realisation cette oeuvre visionnaire de Katsuhiro OTOMO (Akira) traite avec brio d'un sujet delicat (le vieillissement de la population) en le transposant dans un univers S.F. qui fait la part belle aux mechas. Resume : Dans un futur proche l'humanite a reussi a dompter la technologie et beneficie de tout le confort moderne. Mais un dernier enjeu pese sur la societe : le vieillissement de la population. Pour resoudre ce fleau grandissant la medecine est remplacee par la robotique avec la creation d'une machine nommee le  capable de prodiguer tous les soins necessaires aux personnes agees. Kijuro Takazawa est le premier cobaye contraint a tester ce robot bien que ce dernier aurait souhaite rester avec son ancienne infirmiere la jeune Haruko. L'experimentation tourne mal et le Z-001 se transforme en arme de destruction massive.}","Rica Matsumoto Chisa Yokoyama Shiniji Ogawa","10/07/01"],
+"id":3112,
+"modif_id":2,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}

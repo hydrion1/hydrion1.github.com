@@ -1,0 +1,7 @@
+{"values":["Numbers : L'integrale saison 1 - Coffret 4 DVD","","Series TV","","Chaque jour nous utilisons tous les mathematiques... mais dans un monde ou l'on compte les victimes ou de multiples organisations criminelles existent et que les pourcentages incluent des recidivistes sur le point d'agir les chiffres s'averent encore plus precieux. Ce monde c'est celui de NUMB3RS. Rob Morrow interprete Don Eppes un agent du FBI qui fait appel a son frere Charlie (David Krumholtz) un genie et un fou de mathematiques afin d'aider le Bureau a resoudre un large echantillon de crimes se deroulant dans les rues de Los Angeles. Les cas criminels les plus deroutants sont ainsi etudies grace a deux methodes differentes... et complementaires. Inspiree par des affaires actuelles cette serie dynamique nous montre comment la convergence du travail de la police et des mathematiques apporte des revelations inesperees et des reponses aux questions criminelles les plus ardues. Devorez les 13 episodes irresistibles de la saison I de NUMB3RS dans cette premiere edition de 4 DVD.}","Rob Morrow David Krumholtz Judd Hirsch Peter MacNicol Alimi Ballard","30/09/06"],
+"id":2582,
+"modif_id":0,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}

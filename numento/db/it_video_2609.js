@@ -1,0 +1,7 @@
+{"values":["Braquage a l'italienne","F. Gary Gray","Action. Aventure. Policier et Thriller","","Le plan audacieux et sans d&#233;faut, le braquage ex&#233;cut&#233; de main de ma&#238;tre, la fuite &#224; travers les canaux de Venise nette et sans bavure... Charlie Croker, son mentor John Bridger et leurs hommes n'auraient pas assez d'une vie pour savourer les fruits amplement m&#233;rit&#233;s de ce casse historique. Mais la bande h&#233;bergeait &#224; son insu un tra&#238;tre, qui ruina d'un coup tout ses espoirs : tombant le masque, Steve Frezelli abattit froidement Bridger et s'enfuit avec les lingots tout juste extraits d'un coffre v&#233;nitien. Le hold-up du si&#232;cle s'achevait dans le sang.<br>Quelques mois plus tard, Charlie retrouve la piste de Frezelli en Californie et persuade Stella, la fille de Bridger experte en coffres-forts, de venger avec lui la mort de son p&#232;re. La bande se recompose alors pour se r&#233;approprier l'or de Venise et faire de Los Angeles le th&#233;&#226;tre du plus gigantesque embouteillage de son histoire... ","Mark Wahlberg Charlize Theron Edward Norton Seth Green Donald Sutherland","21/04/04"],
+"id":2609,
+"modif_id":1,
+"image_size":[71,100],
+"images":[],
+"files":[]
+}

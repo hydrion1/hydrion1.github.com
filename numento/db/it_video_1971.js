@@ -1,0 +1,7 @@
+{"values":["T'aime","Patrick Sebastien","Drame et emotion","","&#34;Contrairement a bien des idees recues on peut  etre rugbyman farceur et blagueur ne jamais se prendre au serieux et se rire de tout sans pour autant  etre depourvu d'une profonde sensibilite: Patrick Sebastien nous en apporte la preuve. Avec  T'aime film qu'il a ecrit et realise le celebre presentateur de television nous livre a travers l'histoire de Zef un jeune simple d'esprit une illustration aussi dure que poignante de la vie avec son lot quotidien de joies de surprises mais aussi de peines de douleurs et de peurs. Selon les propres mots de l'animateur &#34;&#34;dans T'aime il y a l'amour sous toutes ses formes&#34;&#34;. Malheureusement ces dernieres peuvent parfois  etre contradictoires pour peu que l'intolerance vienne s'en m eler. Plus proche d'un telefilm T'aime n'en demeure pas moins une magnifique et sincere lecon a mediter que l'on soit ou non fan de Patrick Sebastien ou de Patrick Fiori auteur de la bande originale.--Frederic Thorens}&#34;","Patrick Sebastien Marie Denarnaud Samuel Dupuy Jean-Francois Balmer Myriam Boyer","09/05/01"],
+"id":1971,
+"modif_id":1,
+"image_size":[62,100],
+"images":[],
+"files":[]
+}

@@ -1,0 +1,7 @@
+{"values":["Secret defense","Philippe Haim","Action. Aventure. Policier et Thriller","","&#34;Chaque jour dans notre pays mouvements terroristes et services de renseignements se livrent une guerre sans merci au nom d'ideologies que tout oppose. Pourtant terroristes et agents secrets menent presque la meme vie.Condamnes a la clandestinite ces strateges de la manipulation obeissent aux memes methodes. Alex et Al Barad sont deux d'entre eux. A la t ete du contre-terrorisme de la DGSE (Direction Generale de la Securite Exterieure) pour l'un et d'un reseau terroriste pour l'autre ils s'affrontent en utilisant les armes dont les plus redoutables : les  etres humains.Secret defense raconte leur guerre secrete a travers les destins de Diane une etudiante recrutee par les services secrets francais et de Pierre un paume qui croit trouver son salut dans le terrorisme. Formes et endoctrines pour des missions qui les depassent tous deux sont pris dans un engrenage auquel ils ne semblent pas pouvoir echapper. Seront-ils l'un et l'autre sacrifies au nom de leurs &#34;&#34;nobles&#34;&#34; causes ?&#34;","Gerard Lanvin Vahina Giocante Nicolas Duvauchelle","09/06/09"],
+"id":1822,
+"modif_id":1,
+"image_size":[55,100],
+"images":[],
+"files":[]
+}

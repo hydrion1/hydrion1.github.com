@@ -1,0 +1,7 @@
+{"values":["Death Note","Death Note. Tome 13 :","Manga","","","Kana","8,75 &#8364;","Non pr&#234;t&#233;",""],
+"id":363,
+"modif_id":2,
+"image_size":[65,100],
+"images":[],
+"files":[]
+}

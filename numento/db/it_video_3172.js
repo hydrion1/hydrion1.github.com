@@ -1,0 +1,7 @@
+{"values":["Au-del&#224;","Clint Eastwood","Films","124 min","Au-del&#224; (2010)<br>Langue: Francais (VF), Anglais (VO) <br>Sous-titres: Francais (VOSF), Anglais, Neerlandais <br>L'histoire de trois personnages hant&#233;s par la mort et les interrogations qu'elle soul&#232;ve. George est un Am&#233;ricain d'origine modeste, affect&#233; d'un &#34;don&#34; de voyance qui p&#232;se sur lui comme une mal&#233;diction. Marie, journaliste fran&#231;aise, est confront&#233;e &#224; une exp&#233;rience de mort imminente, et en a &#233;t&#233; durablement boulevers&#233;e. Et quand Marcus, un jeune gar&#231;on de Londres, perd l'&#234;tre qui lui &#233;tait le plus cher et le plus indispensable, il se met d&#233;sesp&#233;r&#233;ment en qu&#234;te de r&#233;ponses &#224; ses interrogations. George, Marie et Marcus sont guid&#233;s par le m&#234;me besoin de savoir, la m&#234;me qu&#234;te. Leurs destin&#233;es vont finir par se croiser pour tenter de r&#233;pondre au myst&#232;re de l'Au-del&#224;... <br>Bonus: <br>- &#34;Tsunami ! Recr&#233;er un d&#233;sastre&#34; (6'15&#34; - VOSF) - <br>&#34;Tournages ext&#233;rieurs : le casting des figurants&#34; (2'54&#34; - VOSF) - <br>&#34;L'exp&#233;rience Clint Eastwood&#34; (4'05&#34; - VOSF)","Thierry Neuvic<br>C&#233;cile De France<br>Matt Damon",""],
+"id":3172,
+"modif_id":0,
+"image_size":[70,100],
+"images":[],
+"files":[]
+}

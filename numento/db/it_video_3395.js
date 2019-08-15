@@ -1,0 +1,7 @@
+{"values":["Key the metal idol l'epilogue","","Anime","","Le projet de d&#233;veloppement robotique qui semble poursuivre Key depuis qu'elle a d&#233;barqu&#233; &#224; Tokyo trouve en fait ses racines dans son pass&#233; et remonte &#224; une d&#233;couverte faite par son grand-p&#232;re, il y a deux g&#233;n&#233;rations de cela. C'est gr&#226;ce &#224; cette d&#233;couverte qu'Ajo a pu utiliser Miho en vue de r&#233;aliser son r&#234;ve ultime: cr&#233;er l'&#234;tre artificiel parfait. N&#233;anmoins, le fait d'avoir &#233;tabli ce lien avec son pass&#233; ne met pas Key et ses amis &#224; l'abri du danger, loin s'en faut. Ainsi, Key devra encore faire face &#224; la mort, qui frappera &#224; nouveau une personne qui lui est ch&#232;re. Comme d'habitude, le danger viendra d'Ajo, qui ne reculera devant rien pour s'emparer de la formidable puissance qui sommeille en Key, m&#234;me pas &#224; sacrifier l'enti&#232;ret&#233; du public venu assister en masse au concert d'adieu - dans tous les sens du terme - de Miho. Key trouvera-t-elle enfin le moyen de devenir humaine et de pouvoir faire r&#234;ver 30.000 fans au son de sa douce berceuse? Et vous, en ferez-vous partie ?<br><br>","",""],
+"id":3395,
+"modif_id":2,
+"image_size":[75,100],
+"images":[],
+"files":[]
+}
