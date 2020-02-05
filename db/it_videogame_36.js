@@ -1,6 +1,6 @@
-{"values":["PlayStation2","GTA III","","Take 2","","0,00","Non pr&#234;t&#233;",""],
+{"values":["PlayStation2","Grand Theft Auto III","","Take 2","","0,00 &#8364;","Non pr&#234;t&#233;",""],
 "id":36,
-"modif_id":0,
+"modif_id":1,
 "image_size":[70,100],
 "images":[],
 "files":[]
