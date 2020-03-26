@@ -1,7 +1,7 @@
-{"values":["Dragon Quest - Emblem of Roto","Dragon Quest - Emblem of Roto Vol.01","Manga","","","Ki-oon","6,60 &#8364;","Non pr&#234;t&#233;",""],
+{"values":["The Innocent","The Innocent","Manga","ARAD Avi","KO Yasung - KO Ya-Seong","Ki-oon","2,50 &#8364;","Non pr&#234;t&#233;",""],
 "id":393,
-"modif_id":3,
-"image_size":[100,67],
+"modif_id":4,
+"image_size":[72,100],
 "images":[],
 "files":[]
 }
