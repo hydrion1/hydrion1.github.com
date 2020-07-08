@@ -1,0 +1,7 @@
+{"values":["Kiddy Grade - Int&#233;grale","Keiji Got&#244;","Anime","600 min","Nous sommes en l'an SC0328 et l'univers est contr&#244;l&#233; par les nobles qui utilisent diverses organisations &#224; cet effet. L'une de ces organisations, GOTT ou Galactic Organization of Trade and Tariffs (organisation galactique du commerce et des tarifs douaniers), recrute des membres aux pouvoirs sp&#233;ciaux afin d'accomplir certaines missions p&#233;rilleuses. Membres de l'organisation GOTT, &#201;clair et Lumi&#232;re sont des membres de l'ES, une unit&#233; sp&#233;ciale destin&#233;e &#224; faire r&#233;gner l'ordre et la discipline dans l'espace. Leur habilit&#233; se mesure &#224; la nature de leurs pouvoirs sp&#233;ciaux. Elles sont de classe C, la classe la moins &#233;lev&#233;e dans la hi&#233;rarchie des membres ES (Encounter of Shadow-work Member). Dirig&#233;es par &#201;clipse, elles voguent de mission en mission afin d'escorter des diplomates, d&#233;manteler des r&#233;seaux mafieux ou aider leurs partenaires dans des t&#226;ches plus complexes. Accompagn&#233;es d&#232;s leur premi&#232;re mission par Armbrust, un inspecteur de l'Union Galactique, elles vont bient&#244;t r&#233;aliser que quelque chose ne tourne pas rond au sein de GOTT.","",""],
+"id":3470,
+"modif_id":2,
+"image_size":[59,100],
+"images":[],
+"files":[]
+}
