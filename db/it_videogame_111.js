@@ -1,6 +1,6 @@
-{"values":["","ratchet/clank 3","","insomniac games","","0,00","Non pr&#234;t&#233;",""],
+{"values":["","Ratchet/clank 3","","insomniac games","","0,00 &#8364;","Non pr&#234;t&#233;",""],
 "id":111,
-"modif_id":0,
+"modif_id":1,
 "image_size":[-1,-1],
 "images":[],
 "files":[]

@@ -1,7 +1,7 @@
-{"values":["Concrete Revolutio - Int&#233;grale des 2 Saisons Livret)","","Anime","600 min","Dans un Japon r&#233;tro-futuriste, humains et cr&#233;atures magiques venant de l espace ou de monde magique inconnus se c&#244;toient : titans, magiciennes, fant&#244;mes, gobelins, f&#233;e ou encore cyborg forment les &#34;super-humains&#34;.<br><br>Alors que la plupart sont alt&#233;r&#233;s par des organisations criminelles ou des scientifiques fous, le gouvernement a cr&#233;&#233; le &#34;D&#233;partement des Super-humains&#34; afin de les surveiller et r&#233;guler les d&#233;bordements occasionn&#233;s par certains &#34;Super-vilains&#34;. Jir&#244;, membre du d&#233;partement, est charg&#233; de prot&#233;ger ces humains hors normes mais arrivera-t-il &#224; faire la part des choses dans ce monde o&#249; deux peuples s?'opposent sans vraiment se connaitre ? ","","18/07/18"],
+{"values":["Log Horizon Int&#233;grale Saison 1 (5 DVD)","Shinji Ishihara","Anime","","C&#233;l&#232;bre MMO, Elder Tale annon&#231;a une nouvelle mise &#224; jour &#224; venir. Lorsque cette derni&#232;re fut appliqu&#233;e, les personnes se connectant au jeu devinrent incapables d'en sortir. Prisonnier de ce monde virtuel, Shiroe est un habitu&#233; de l'univers et est connu comme &#233;tant l'un des meilleurs enchanteurs. Avec deux de ses amis qui l'accompagnent, Akatsuki et Naotsugu, il s'apercevra que la mort n'est pas punitive car n'entra&#238;nant aucune cons&#233;quence dans le monde r&#233;el. Toutefois, entre les nouveaux monstres issus de la mise &#224; jour et les autres joueurs mal intentionn&#233;s souhaitant profiter de la situation, le danger ne cesse de r&#244;der autour d'eux tandis qu'ils explorent le monde dans l'espoir de trouver un moyen de s'&#233;chapper.<br>","","05/10/16"],
 "id":3386,
-"modif_id":2,
-"image_size":[61,100],
+"modif_id":3,
+"image_size":[62,100],
 "images":[],
 "files":[]
 }
