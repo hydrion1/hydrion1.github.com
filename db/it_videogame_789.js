@@ -1,0 +1,7 @@
+{"values":["PlayStation 4","Dissidia Final Fantasy NT","1","Square Enix","18 ans","12,99 &#8364;","Non pr&#234;t&#233;",""],
+"id":789,
+"modif_id":1,
+"image_size":[79,100],
+"images":[],
+"files":[]
+}
