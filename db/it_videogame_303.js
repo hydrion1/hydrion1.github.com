@@ -1,6 +1,6 @@
-{"values":["Nintendo DS","Lock's Quest (loose)","","THQ","Tous","0,00 &#8364;","Non pr&#234;t&#233;",""],
+{"values":["Nintendo DS","Lock's Quest","1","THQ","Tous","4,00 &#8364;","Non pr&#234;t&#233;",""],
 "id":303,
-"modif_id":1,
+"modif_id":3,
 "image_size":[100,88],
 "images":[],
 "files":[]

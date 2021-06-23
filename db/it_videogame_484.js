@@ -1,7 +1,7 @@
-{"values":["Game Boy","Disney's Duck Tales LOOSE : La bande &#224; Picsou - Game Boy - Version fran&#231;aise PAL (FAH)","","Capcom","","","Non pr&#234;t&#233;",""],
+{"values":["Nintendo NES","Disney's Duck Tales : La bande &#224; Picsou (CIB)","","Capcom","","30,00 &#8364;","Non pr&#234;t&#233;",""],
 "id":484,
-"modif_id":1,
-"image_size":[99,100],
+"modif_id":4,
+"image_size":[-1,-1],
 "images":[],
 "files":[]
 }

@@ -1,6 +1,6 @@
-{"values":["Michel vaillant","Michel Vaillant - Nouvelle Saison - Tome 4 - Collapsus","BD","","","Dupuis","15,50 &#8364;","Non pr&#234;t&#233;",""],
+{"values":["Michel vaillant - Nouvelle Saison","Michel Vaillant - Nouvelle Saison - Tome 4 - Collapsus","BD","Philippe Graton","Benjamin Ben&#233;teau","Dupuis","15,50 &#8364;","Non pr&#234;t&#233;",""],
 "id":125,
-"modif_id":1,
+"modif_id":4,
 "image_size":[74,100],
 "images":[],
 "files":[]
