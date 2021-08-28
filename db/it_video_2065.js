@@ -1,7 +1,7 @@
-{"values":["Magic Knight Rayearth Serie TV Coffret Vol.1","","Anime","","20 episodes - environ 8h30}","CLAMP","08/11/06"],
+{"values":["Dvd Clamp 20th Anniversary","","Anime","","","CLAMP",""],
 "id":2065,
-"modif_id":1,
-"image_size":[67,100],
+"modif_id":3,
+"image_size":[100,100],
 "images":[],
 "files":[]
 }
