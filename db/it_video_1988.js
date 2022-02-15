@@ -1,7 +1,7 @@
-{"values":["Independence Day - edition Collector 2 DVD","Roland Emmerich","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","Une immense soucoupe volante envahit le ciel terrestre, lib&#233;rant un nombre infini de plus petites soucoupes qui prennent position au-dessus des plus grandes villes du monde. Un informaticien new-yorkais d&#233;crypte les signaux &#233;manant des &#233;tranges voyageurs. Ils ne sont pas du tout amicaux et ces extraterrestres se pr&#233;parent &#224; attaquer la Terre.","Will Smith Bill Pullman Jeff Goldblum Mary McDonnell Judd Hirsch","31/12/05"],
+{"values":["Independence Day : Resurgence","Roland Emmerich","Science-fiction","121 min","Nous avons toujours su qu'ils reviendraient. La terre est menac&#233;e par une catastrophe d&#8217;une ampleur inimaginable. Pour la prot&#233;ger, toutes les nations ont collabor&#233; autour d&#8217;un programme de d&#233;fense colossal exploitant la technologie extraterrestre r&#233;cup&#233;r&#233;e. Mais rien ne peut nous pr&#233;parer &#224; la force de frappe sans pr&#233;c&#233;dent des aliens. Seule l'ing&#233;niosit&#233; et le courage de quelques hommes et femmes peuvent sauver l&#8217;humanit&#233; de l'extinction.","Bill Pullman<br>Jeff Goldblum<br>Liam Hemsworth","20/07/16"],
 "id":1988,
-"modif_id":1,
-"image_size":[69,100],
+"modif_id":2,
+"image_size":[62,100],
 "images":[],
 "files":[]
 }

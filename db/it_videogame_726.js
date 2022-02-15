@@ -1,7 +1,7 @@
-{"values":["PlayStation 3","Mass effect 2","1","Electronic Arts","18 ans","5,00 &#8364;","Non pr&#234;t&#233;",""],
+{"values":["Xbox 360","Mass effect","1","Microsoft Game Studios","18 ans","2,99 &#8364;","Non pr&#234;t&#233;",""],
 "id":726,
-"modif_id":1,
-"image_size":[87,100],
+"modif_id":2,
+"image_size":[70,100],
 "images":[],
 "files":[]
 }

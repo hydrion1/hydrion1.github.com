@@ -1,7 +1,7 @@
-{"values":["Vampire Knight Guilty Volume 1/2 - Saison 2","Kiyoko Sayama","Anime","","Episodes 1 a 7.}","","05/01/10"],
+{"values":["Vampire Knight Guilty - Saison 2 - Integrale","Kiyoko Sayama","Anime","325 min","","","21/03/12"],
 "id":2756,
-"modif_id":1,
-"image_size":[71,100],
+"modif_id":5,
+"image_size":[67,100],
 "images":[],
 "files":[]
 }

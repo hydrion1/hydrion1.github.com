@@ -1,7 +1,7 @@
-{"values":["Vampire Knight Volume 2/2 - Saison 1","Kiyoko Sayama","Anime","","Episodes 8 a 13}","","06/10/09"],
+{"values":["Vampire Knight - Saison 1 - Integrale","Kiyoko Sayama","Anime","325 min","Episodes 8 a 13}","","25/01/12"],
 "id":2730,
-"modif_id":1,
-"image_size":[62,100],
+"modif_id":2,
+"image_size":[65,100],
 "images":[],
 "files":[]
 }

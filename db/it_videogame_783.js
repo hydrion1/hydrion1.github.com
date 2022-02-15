@@ -1,6 +1,6 @@
-{"values":["PlayStation 3","Devil may cry - collection HD","1","Capcom","16 ans","14,90 &#8364;","Non pr&#234;t&#233;",""],
+{"values":["PlayStation 3","Dragon's Dogma","1","Capcom","18 ans","5,00 &#8364;","Non pr&#234;t&#233;",""],
 "id":783,
-"modif_id":2,
+"modif_id":3,
 "image_size":[87,100],
 "images":[],
 "files":[]
