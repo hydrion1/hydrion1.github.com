@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les tanks"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Ellis Chris"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Princesse"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "31/12/1978"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "0"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Cartonné"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown), Français (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": "16.00 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Les tanks",
+    "sub_title": "Ellis Chris",
+    "thumbnail_big": "db/110_book/thumbnail_big",
+    "thumbnail_mini": "db/110_book/thumbnail_small"
+}

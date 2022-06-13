@@ -1,7 +1,0 @@
-{"values":["Aigle de la neuvieme legion (L')","Kevin Macdonald","Action. Aventure. Policier et Thriller Drame et emotion","","En 140 apr&#232;s J.-C., l&#8217;Empire romain s&#8217;&#233;tend jusqu&#8217;&#224; l&#8217;actuelle Angleterre. Marcus Aquila, un jeune centurion, est bien d&#233;cid&#233; &#224; restaurer l&#8217;honneur de son p&#232;re, disparu myst&#233;rieusement vingt ans plus t&#244;t avec la Neuvi&#232;me L&#233;gion qu&#8217;il commandait dans le nord de l&#8217;&#238;le. On ne retrouva rien, ni des 5000 hommes, ni de leur embl&#232;me, un Aigle d&#8217;or.<br>Apr&#232;s ce drame, l&#8217;empereur Hadrien ordonna la construction d&#8217;un mur pour s&#233;parer le nord, aux mains de tribus insoumises, du reste du territoire. Pour les Romains, le mur d&#8217;Hadrien devint une fronti&#232;re, l&#8217;extr&#234;me limite du monde connu.<br>Apprenant par une rumeur que l&#8217;Aigle d&#8217;or aurait &#233;t&#233; vu dans un temple tribal des terres du nord, Marcus d&#233;cide de s&#8217;y rendre avec Esca, son esclave. Mais au-del&#224; du mur d&#8217;Hadrien, dans les contr&#233;es inconnues et sauvages, difficile de savoir qui est &#224; la merci de l&#8217;autre, et de r&#233;v&#233;lations en d&#233;couvertes, Marcus va devoir affronter les plus redoutables dangers pour avoir une chance de trouver la v&#233;rit&#233;... ","Channing Tatum Jamie Bell Denis O'Hare Donald Sutherland Tahar Rahim","07/09/11"],
-"id":2815,
-"modif_id":2,
-"image_size":[60,100],
-"images":[],
-"files":[]
-}

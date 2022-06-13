@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Suikoden III Vol.1"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "SHIMIZU Aki"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Soleil Productions"
+        },
+        {
+            "name": "Genre",
+            "value": "Manga"
+        },
+        {
+            "name": "Date de parution",
+            "value": "16/02/2006"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "160"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Poche"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Tome",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782849463659"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.99 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/05/2018 10:51"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Suikoden III Vol.1",
+    "sub_title": "SHIMIZU Aki",
+    "thumbnail_big": "db/260_book/thumbnail_big",
+    "thumbnail_mini": "db/260_book/thumbnail_small"
+}

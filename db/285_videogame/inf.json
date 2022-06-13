@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Disney Epic Mickey"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "24/11/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "Disney Interactive Studios"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Fran�ais (Dubbed) Anglais (Original Language)"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418282745"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Livraison rapide garantie jeu neuf sous blister Version PAL Fr Satisfait ou rembourse sous 48 heures - Vous recevrez vos commandes sous 4 jours pour la France EAN : 8717418282745}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Wii",
+    "sub_title": "Disney Epic Mickey",
+    "thumbnail_big": "",
+    "thumbnail_mini": ""
+}

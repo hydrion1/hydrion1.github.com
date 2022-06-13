@@ -1,7 +1,0 @@
-{"values":["Vengeance de Monte-Cristo (la)","Kevin Reynolds","Action. Aventure. Policier et Thriller Series TV","","En 1815, &#224; leur arriv&#233;e sur l'&#238;le d'Elbe o&#249; est emprisonn&#233; Napol&#233;on Bonaparte, les marins Edmond Dant&#232;s et Fernand Mondego, deux proches amis, cherchent de l'aide pour leur capitaine bless&#233;. Edmond r&#234;ve d'&#233;pouser Merced&#232;s, sa bien-aim&#233;e. Mais Fernand, qui a les m&#234;mes ambitions que lui, n'h&#233;site pas &#224; l'accuser de contribuer &#224; l'&#233;vasion de l'empereur. Le pr&#233;fet de police Villefort arr&#234;te aussit&#244;t Edmond.<br>Purgeant une peine de prison de seize ans au sinistre Ch&#226;teau d'If, ce dernier abandonne progressivement toute foi en la vie et la justice. Il fait par la suite la connaissance d'un autre condamn&#233;, le vieil abb&#233; Faria, qui se prend d'amiti&#233; pour lui et lui r&#233;v&#232;le l'existence d'un fabuleux tr&#233;sor. C'est cet extraordinaire butin qui va permettre &#224; Edmond d'assouvir sa vengeance contre Fernand, Villefort et Merced&#232;s, qui l'a trop rapidement abandonn&#233; pour &#233;pouser son pire ennemi. ","Jim Caviezel Guy Pearce Richard Harris James Frain Dagmara Dominczyk","21/01/03"],
-"id":2338,
-"modif_id":3,
-"image_size":[71,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["Garden of sinners (the) Integrale 7 films","Shinsuke Takizawa,  Takahiro Miura, Takayuki Hirao, Shinichi Takiguchi,Mitsuru Obunai, Takuya Nonaka,  Ei Aoki","Anime","500 min","Contient :<br>- &#34;The Garden of Sinners - Film 1 : Thanatos&#34;<br>- &#34;The Garden of Sinners - Film 2 : Enqu&#234;te criminelle 1.0&#34;<br>- &#34;The Garden of Sinners - Film 3 : Persistante douleur&#34;<br>- &#34;The Garden of Sinners - Film 4 : L'ab&#238;me du Temple&#34;<br>- &#34;The Garden of Sinners - Film 5 : Spirale contradictoire&#34;<br>- &#34;The Garden of Sinners - Film 6 : Souvenirs oubli&#233;s&#34;<br>- &#34;The Garden of Sinners - Film 7 : Enqu&#234;te criminelle 2.0&#34;<br>Synopsis<br><br>L'int&#233;grale de l'oeuvre culte de Type-moon (&#34;Fate Stay/Night&#34;) et Ufotable. Contient les 7 films et leurs 7 bandes originales dans une &#233;dition compl&#232;te, pour savourer enfin dans sa globalit&#233; ce projet dantesque et audacieux. Cette s&#233;rie de longs-m&#233;trages d'animation r&#233;volutionne le genre du cyber polar, et nous rappelle les prouesses de &#34;Ghost in the Shell&#34; ou &#34;Ring&#34;. ","","05/03/14"],
-"id":3561,
-"modif_id":1,
-"image_size":[71,100],
-"images":[],
-"files":[]
-}

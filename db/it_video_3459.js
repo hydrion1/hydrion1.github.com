@@ -1,7 +1,0 @@
-{"values":["Pok&#233;mon D&#233;tective Pikachu","Rob Letterman","Aventure","105 min","Apr&#232;s la disparition myst&#233;rieuse de Harry Goodman, un d&#233;tective priv&#233;, son fils Tim va tenter de d&#233;couvrir ce qui s&#8217;est pass&#233;.  Le d&#233;tective Pikachu, ancien partenaire de Harry, participe alors &#224; l&#8217;enqu&#234;te : un super-d&#233;tective adorable &#224; la sagacit&#233; hilarante, qui en laisse plus d&#8217;un perplexe, dont lui-m&#234;me. Constatant qu&#8217;ils sont particuli&#232;rement bien assortis, Tim et Pikachu unissent leurs forces dans une aventure palpitante pour r&#233;soudre cet insondable myst&#232;re.  &#192; la recherche d&#8217;indices dans les rues peupl&#233;es de n&#233;ons de la ville de Ryme &#8211; m&#233;tropole moderne et tentaculaire o&#249; humains et Pok&#233;mon vivent c&#244;te &#224; c&#244;te dans un monde en live-action tr&#232;s r&#233;aliste &#8211;, ils rencontrent plusieurs personnages Pok&#233;mon et d&#233;couvrent alors un complot choquant qui pourrait bien d&#233;truire cette coexistence pacifique et menacer l&#8217;ensemble de leur univers.","Ryan Reynolds<br>Justice Smith<br>Kathryn Newton<br>Bill Nighy<br>Ken Watanabe","08/05/19"],
-"id":3459,
-"modif_id":2,
-"image_size":[75,100],
-"images":[],
-"files":[]
-}

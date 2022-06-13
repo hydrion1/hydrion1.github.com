@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Valkyrie Profile  2: Silmeria"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 2"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Square Enix"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060121821842"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 18:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/04/2022 07:48"
+        }
+    ],
+    "main_title": "PlayStation 2",
+    "sub_title": "Valkyrie Profile  2: Silmeria",
+    "thumbnail_big": "db/471_videogame/thumbnail_big",
+    "thumbnail_mini": "db/471_videogame/thumbnail_small"
+}

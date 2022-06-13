@@ -1,7 +1,0 @@
-{"values":["Tales of Zestiria The X-INT&#201;GRALE 2 Saisons-BLURAY [&#201;dition Collector] "," Hikaru Kondo, Haruo Sotozaki, Ufotable, Motoi Sakuraba","Anime","","Sorey est un jeune homme qui a &#233;t&#233; &#233;lev&#233; parmi les s&#233;raphins, des &#234;tres spirituels qu'aucun humain n'est capable de voir. Il croit en la l&#233;gende qui dit qu'un jour, tous les humains seront capables de voir les s&#233;raphins. Au fond de lui, il r&#234;ve d'&#233;lucider le myst&#232;re des anciennes ruines et de cr&#233;er un monde dans lequel les humains et les s&#233;raphins pourront vivre ensemble.<br><br>Un jour, alors qu'il se rend pour la premi&#232;re fois de sa vie dans une capitale humaine, il se retrouve impliqu&#233; dans un incident myst&#233;rieux. Au cours de ces &#233;v&#233;nements, il finit par retirer l'&#233;p&#233;e sacr&#233;e de la pierre dans laquelle elle &#233;tait plant&#233;e et devient &#34;le berger&#34;, celui qui doit d&#233;barrasser le monde de la calamit&#233;. Prenant &#224; bras le corps sa mission des plus importantes, son r&#234;ve de voir les humains et les s&#233;raphins coexister s'anime d'autant plus... Accompagn&#233; de ses amis, le berger fait ses premiers pas dans la grande aventure qui lui tend les bras. ","","03/04/19"],
-"id":3494,
-"modif_id":1,
-"image_size":[61,100],
-"images":[],
-"files":[]
-}

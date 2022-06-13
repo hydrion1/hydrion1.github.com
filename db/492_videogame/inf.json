@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Legend of Zelda: Link's Awakening (CIB)"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy Color"
+        },
+        {
+            "name": "Genre",
+            "value": "Genre non défini"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "13/09/1999"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "65.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496730291"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Paru pour la première fois en 1993, Link's Awakening profite d'une réédition intégralement conçue pour tirer parti des capacités de la Game Boy Color. Sans revoir le scénario et les principaux éléments de l'aventure, cette version DX parvient pourtant à transcender l'original. Bien évidemment la couleur apporte une touche de vie supplémentaire à la quête de Link. Dans ce titre d'action/aventure, vous devrez percer les mystères de l'île de Koholint dont certains exclusifs pour cette version. Ainsi les plus aventureux d'entre vous trouveront un donjon inédit dont l'originalité est de proposer des énigmes à base de couleurs. Autre nouveauté, l'apparition de la boutique photo ! En effet à divers moments dans le jeu, un photographe viendra immortaliser la vie de Link, vous permettant ensuite d'imprimer ces clichés (souvent délirants) grâce au Game Boy Printer. Avec son intrigue finement développée, son charme indéniable et sa durée de vie importante (certains le considèrent comme l'épisode le plus difficile de la saga des Zelda), Link's Awakening est considéré comme le meilleur jeu Game Boy Color. Indispensable, tout simplement. --Nobuo"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 19:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Game Boy Color",
+    "sub_title": "The Legend of Zelda: Link's Awakening (CIB)",
+    "thumbnail_big": "db/492_videogame/thumbnail_big",
+    "thumbnail_mini": "db/492_videogame/thumbnail_small"
+}

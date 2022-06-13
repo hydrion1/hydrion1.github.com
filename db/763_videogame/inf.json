@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Final Fantasy XV - édition day one"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux d'action"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "29/11/2016"
+        },
+        {
+            "name": "Editeur",
+            "value": "Square Enix"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/03/2021"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5021290072954"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "17/03/2021 17:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "Final Fantasy XV - édition day one",
+    "thumbnail_big": "db/763_videogame/thumbnail_big",
+    "thumbnail_mini": "db/763_videogame/thumbnail_small"
+}

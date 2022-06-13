@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "New Super Mario Bros. U"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii U"
+        },
+        {
+            "name": "Genre",
+            "value": "Action Plate-forme"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "18/11/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/01/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "5"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "3 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496331122"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/01/2022 12:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Wii U",
+    "sub_title": "New Super Mario Bros. U",
+    "thumbnail_big": "db/872_videogame/thumbnail_big",
+    "thumbnail_mini": "db/872_videogame/thumbnail_small"
+}

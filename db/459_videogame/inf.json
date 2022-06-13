@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Prince of Persia"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux d'action"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "04/12/2008"
+        },
+        {
+            "name": "Editeur",
+            "value": "Ubisoft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.17 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3307211609334"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Un nouveau départ pour une toute nouvelle trilogie ! - Le nouveau style graphique 'illustrative' provoque une rupture artistique unique en son genre et renouvelle l'univers de Prince of Persia. - Pour la première fois dans cette saga, l'environnement est entièrement ouvert. - Un nouveau prince en rupture avec le précédent : il sera cette fois accompagné d'Elika, une alliée fatale aux pouvoirs magiques qui aidera le Prince à ramener la lumière."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 18:06"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Prince of Persia",
+    "thumbnail_big": "db/459_videogame/thumbnail_big",
+    "thumbnail_mini": "db/459_videogame/thumbnail_small"
+}

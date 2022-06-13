@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Destruction Derby 1 Platinium"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation"
+        },
+        {
+            "name": "Genre",
+            "value": "PSone"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719657521"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Destruction Derby est un jeu de combat de voitures sorti sur Playstation. Affrontez-vous dans des arenes fermees entre bolides specialement prepares pour l'occasion et terrassez vos concurrents. Ou participez and des courses survitaminees ou tous les coups sont permis.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation",
+    "sub_title": "Destruction Derby 1 Platinium",
+    "thumbnail_big": "db/347_videogame/thumbnail_big",
+    "thumbnail_mini": "db/347_videogame/thumbnail_small"
+}

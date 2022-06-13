@@ -1,7 +1,0 @@
-{"values":["Django Unchained","Jamie Foxx Christoph Waltz Leonardo DiCaprio Kerry Washington Samuel L. Jackson","Action. Aventure. Policier et Thriller Drame et emotion","","Dans le sud des Etats-Unis deux ans avant la guerre de Secession le Dr King Schultz un chasseur de primes allemand fait l'acquisition de Django un esclave qui peut l'aider a traquer les freres Brittle les meurtriers qu'il recherche. Schultz promet a Django de lui rendre sa liberte lorsqu'il aura capture les Brittle - morts ou vifs. Alors que les deux hommes pistent les dangereux criminels Django n'oublie pas que son seul but est de retrouver Broomhilda sa femme dont il fut separe a cause du commerce des esclaves... Lorsque Django et Schultz arrivent dans l'immense plantation du puissant Calvin Candie ils eveillent les soupcons de Stephen un esclave qui sert Candie et a toute sa confiance. Le moindre de leurs mouvements est desormais epie par une dangereuse organisation de plus en plus proche... Si Django et Schultz veulent esperer s'enfuir avec Broomhilda ils vont devoir choisir entre l'independance et la solidarite entre le sacrifice et la survie...}","Jamie Foxx Christoph Waltz Leonardo DiCaprio Kerry Washington Samuel L. Jackson","16/05/13"],
-"id":2753,
-"modif_id":0,
-"image_size":[79,100],
-"images":[],
-"files":[]
-}

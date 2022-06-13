@@ -1,122 +1,135 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!doctype html>
+<html>
 <head>
-	<link href='numento.css?v=5n62t815tkeoe6e' rel='stylesheet' type='text/css' />
-<script type='text/javascript'  src='numento-lib.js?v=5n62t815tkeoe6e'></script>
-<script type='text/javascript'  src='numento-search-lib.js?v=5n62t815tkeoe6e'></script>
+	<meta charset="utf-8">
+	<title>Numento 2 Mobile</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 
-	<meta content="yes" name="apple-mobile-web-app-capable" />
-	<meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
-	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<script>
-	function numento_onClickOnFilter(url)
-	{
-		window.location = url;
-	}
-	</script>
-	<title>Numento : Multim&#233;dia</title>
-</head>
-<body style='font-family:Arial;background-color:#cecece;margin-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;'>
-	
+  <link rel="stylesheet" href="res/css/common.css?d41d8cd98f00b204e9800998ecf8427e">
+  <link rel="stylesheet" href="res/css/index.css?d41d8cd98f00b204e9800998ecf8427e">
 
-	
-	<!-- NUMENTO BANNER-->
-	<div class='main-banner'>
-		<img src='numento_text.png' class='main-banner-img'>  
-	</div>
-	
-	<!-- TITLE BANNER-->
-	<div class='div-table'>
-		<div class='title-collection'>
-			Multim&#233;dia
-		</div>
-	</div>
-	
-	
-	
-	<table class='collection-entry-table' border=0 onmousedown="numento_onClickOnFilter('23dal4w265d1oxao/listing.html')" >
-		<tr>
-		<td class='collection-entry'>
-			Vid&#233;o
-		</td>
+  <script type="text/javascript" src="res/common.js?21e07f04cc59716438a9049701bf4a7d"></script>
+	<style type="text/css">
 
-		<td class='collection-entry-arrow'>
-			<img src='right_arrow.png' style='margin:10px;'>
-		</td>
-
-		</tr>
-	</table>
-	
-	
-	
-	<table class='collection-entry-table' border=0 onmousedown="numento_onClickOnFilter('b6o5410p7x69g6/listing.html')" >
-		<tr>
-		<td class='collection-entry'>
-			Anime
-		</td>
-
-		<td class='collection-entry-arrow'>
-			<img src='right_arrow.png' style='margin:10px;'>
-		</td>
-
-		</tr>
-	</table>
-	
-	
-	
-	<table class='collection-entry-table' border=0 onmousedown="numento_onClickOnFilter('3w5e111odi9ww29jzg30m/listing.html')" >
-		<tr>
-		<td class='collection-entry'>
-			Livre
-		</td>
-
-		<td class='collection-entry-arrow'>
-			<img src='right_arrow.png' style='margin:10px;'>
-		</td>
-
-		</tr>
-	</table>
-	
-	
-	
-	<table class='collection-entry-table' border=0 onmousedown="numento_onClickOnFilter('3w5e111odi9momk4i345yt/listing.html')" >
-		<tr>
-		<td class='collection-entry'>
-			Bande dessin&#233;e
-		</td>
-
-		<td class='collection-entry-arrow'>
-			<img src='right_arrow.png' style='margin:10px;'>
-		</td>
-
-		</tr>
-	</table>
-	
-	
-	
-	<table class='collection-entry-table' border=0 onmousedown="numento_onClickOnFilter('3w5e111odi9ww29jzhldb/listing.html')" >
-		<tr>
-		<td class='collection-entry'>
-			Jeux vid&#233;o
-		</td>
-
-		<td class='collection-entry-arrow'>
-			<img src='right_arrow.png' style='margin:10px;'>
-		</td>
-
-		</tr>
-	</table>
-	
-	<!--@NUMENTO:/repeat-->
-	
-	<!--  caching under mobiles-->
-<img src='bg-entry-green.png' class='imgcache'>
-
-<!--[if lte IE 7]>
+</style>
 <script>
-alert("Works only on modern 'CSS3' browsers\nIE9, Firefox, Safari , Chrome...")
+
+   function deviceOS() {
+        var useragent = navigator.userAgent;
+
+        if(useragent.match(/Android/i)) {
+            return 'android';
+        } else if(useragent.match(/webOS/i)) {
+            return 'webos';
+        } else if(useragent.match(/iPhone/i)) {
+            return 'iphone';
+        } else if(useragent.match(/iPod/i)) {
+            return 'ipod';
+        } else if(useragent.match(/iPad/i)) {
+            return 'ipad';
+        } else if(useragent.match(/Windows Phone/i)) {
+            return 'windows phone';
+        } else if(useragent.match(/SymbianOS/i)) {
+            return 'symbian';
+        } else if(useragent.match(/RIM/i) || useragent.match(/BB/i)) {
+            return 'blackberry';
+        } else {
+            return false;
+        }
+    }
+
+    
+document.addEventListener("DOMContentLoaded", function() {
+    if (deviceOS()==false)
+    {
+      var path = window.parent.location.pathname;
+      var page = path.split("/").pop();
+      if (page!="index_desktop.html")
+      {
+             var node = document.querySelector('a.link_desktop_version');
+            node.style.display="flex";
+      }
+    }
+});
+
+if (location.hostname.length==0)
+{
+  alert("Ce site fonctionne uniquement en étant publié sur un serveur Web");
+}
+
 </script>
-<![endif]-->
+
+</head>
+<body>
+
+<a class="link_desktop_version" href="index_desktop.html">Version ordinateur</a>
+
+<section class="logo">
+  <img  style="width:40vw;" src="res/img/logo_text.png">
+</section>
+
+
+  
+
+    <a class="item" href='listing_18b30322_b847_4dc4_9fbb_8d7c36bc8856/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_18b30322_b847_4dc4_9fbb_8d7c36bc8856/listing_icon"></div>
+      <div class='item_label'>Vidéo</div>
+      <div class='item_counter'>1877</div>
+    </a>
+
+  
+
+  
+
+    <a class="item" href='listing_ca13bf0a_8ef6_4a58_92f4_adae910b6051/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_ca13bf0a_8ef6_4a58_92f4_adae910b6051/listing_icon"></div>
+      <div class='item_label'>Anime</div>
+      <div class='item_counter'>602</div>
+    </a>
+
+  
+
+  
+
+    <a class="item" href='listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/listing_icon"></div>
+      <div class='item_label'>Livre</div>
+      <div class='item_counter'>267</div>
+    </a>
+
+  
+
+  
+
+    <a class="item" href='listing_c014eeb9_d178_4e74_926b_abb27d51fb64/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_c014eeb9_d178_4e74_926b_abb27d51fb64/listing_icon"></div>
+      <div class='item_label'>Bande dessinée</div>
+      <div class='item_counter'>1378</div>
+    </a>
+
+  
+
+  
+
+    <a class="item" href='listing_a2b41abe_18b7_4430_91cc_e7653c508d1c/listing.html'>
+      <div class='item_icon'><img  style="width:8vw;" src="listing_a2b41abe_18b7_4430_91cc_e7653c508d1c/listing_icon"></div>
+      <div class='item_label'>Jeux vidéo</div>
+      <div class='item_counter'>924</div>
+    </a>
+
+  
+
+  
+  
+    <section class="folder_section">
+      <div class="folder_content">
+        Autres infos
+      </div>
+    </section>
+
+  
+
+
+
 </body>
 </html>

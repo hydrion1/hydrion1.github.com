@@ -1,7 +1,0 @@
-{"values":["Robin des bois","Ridley Scott","Action. Aventure. Policier et Thriller","","A l'aube du treizieme siecle Robin Longstride humble archer au service de la Couronne d'Angle- terre assiste en Normandie a la mort de son monarque Richard Coeur de Lion tout juste rentre de la Troisieme Croisade et venu defendre son royaume contre les Francais.De retour en Angleterre et alors que le prince Jean frere cadet de Richard et aussi inepte a gouverner qu'obnubile par son enrichissement personnel prend possession du trone Robin se rend a Nottingham ou il decouvre l'etendue de la corruption qui ronge son pays.Il se heurte au despotique sherif du comte mais trouve une alliee et une amante en la personne de la belle et impetueuse Lady Marianne qui avait quelques raisons de douter des motifs et de l'identite de ce croise venu des bois. Robin entre en resistance et rallie a sa cause une petite bande de maraudeurs dont les prouesses de combat n'ont d'egal que le gout pour les plaisirs de la vie.Ensemble ils vont s'efforcer de soulager un peuple opprime et pressure sans merci de ramener la justice en Angleterre et de restaurer la gloire d'un royaume menace par la guerre civile. Brigand pour les uns heros pour les autres la legende de Robin des Bois est nee.","William Hurt","04/10/10"],
-"id":2445,
-"modif_id":1,
-"image_size":[65,100],
-"images":[],
-"files":[]
-}

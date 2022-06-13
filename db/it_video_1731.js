@@ -1,7 +1,0 @@
-{"values":["Bienvenue chez les Ch'tis - Edition preCH'TIge 2 DVD","Dany Boon","Comedie","","&#34;Philippe Abrams est directeur de la poste de Salon-de-Provence. Il est marie a Julie dont le caractere depressif lui rend la vie impossible. Pour lui faire plaisir Philippe fraude afin d'obtenir une mutation sur la Cote d'Azur. Mais il est demasque: il sera mute a Bergues petite ville du Nord. Pour les Abrams sudistes pleins de prejuges le Nord c'est l'horreur une region glacee peuplee d' etres rustres eructant un langage incomprehensible le &#34;&#34;cheutimi&#34;&#34;. Philippe ira seul. A sa grande surprise il decouvre un endroit charmant une equipe chaleureuse des gens accueillants et se fait un ami : Antoine le facteur et le carillonneur du village a la mere possessive et aux amours contrariees. Quand Philippe revient a Salon Julie refuse de croire qu'il se plait dans le Nord. Elle pense meme qu'il lui ment pour la menager. Pour la satisfaire et se simplifier la vie Philippe lui fait croire qu'en effet il vit un enfer a Bergues. Des lors sa vie s'enfonce dans un mensonge confortable...}&#34;","Kad Merad Dany Boon Zoe Felix Line Renaud","28/10/08"],
-"id":1731,
-"modif_id":0,
-"image_size":[64,100],
-"images":[],
-"files":[]
-}

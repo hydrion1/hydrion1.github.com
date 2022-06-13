@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pangya golf with style"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii"
+        },
+        {
+            "name": "Genre",
+            "value": "Sports"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "05/06/2007"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "45496363192"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Livraison rapide garantie jeu neuf sous blister version PAL Fr Satisfait ou rembourse sous 48 heures - Vous recevrez vos commandes sous 4 jours pour la France Part Number : 0045496363192-2 EAN : 0045496363192}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Wii",
+    "sub_title": "Pangya golf with style",
+    "thumbnail_big": "db/76_videogame/thumbnail_big",
+    "thumbnail_mini": "db/76_videogame/thumbnail_small"
+}

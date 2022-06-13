@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tetris loose"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy"
+        },
+        {
+            "name": "Genre",
+            "value": "Game Boy"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Allemand (Manual)"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "45496730277"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "import - attention compatibilite}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Game Boy",
+    "sub_title": "Tetris loose",
+    "thumbnail_big": "db/322_videogame/thumbnail_big",
+    "thumbnail_mini": "db/322_videogame/thumbnail_small"
+}

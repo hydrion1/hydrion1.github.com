@@ -1,7 +1,0 @@
-{"values":["James Bond: Spectre","Sam Mendes","Action. Aventure. Policier et Thriller","148 min","Un message cryptique surgi du pass&#233; entra&#238;ne Bond dans une mission tr&#232;s personnelle &#224; Mexico puis &#224; Rome, o&#249; il rencontre Lucia Sciarra, la tr&#232;s belle veuve d'un c&#233;l&#232;bre criminel. Bond r&#233;ussit &#224; infiltrer une r&#233;union secr&#232;te r&#233;v&#233;lant une redoutable organisation baptis&#233;e SPECTRE. Pendant ce temps, &#224; Londres, Max Denbigh, le nouveau directeur du Centre pour la S&#233;curit&#233; Nationale, remet en cause les actions de Bond et l'existence m&#234;me du MI6, dirig&#233; par M . Bond persuade Moneypenny et Q de l'aider secr&#232;tement &#224; localiser Madeleine Swann, la fille de son vieil ennemi, Mr White, qui pourrait d&#233;tenir le moyen de d&#233;truire SPECTRE. Fille de tueur, Madeleine comprend Bond mieux que personne... En s'approchant du coeur de SPECTRE, Bond va d&#233;couvrir qu'il existe peut-&#234;tre un terrible lien entre lui et le myst&#233;rieux ennemi qu'il traque... ","Daniel Craig, Christoph Waltz, L&#233;a Seydoux, Ralph Fiennes, Monica Bellucci","11/03/16"],
-"id":3380,
-"modif_id":4,
-"image_size":[54,100],
-"images":[],
-"files":[]
-}

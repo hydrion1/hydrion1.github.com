@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Atari Karts"
+        },
+        {
+            "name": "Console",
+            "value": "Atari Jaguar"
+        },
+        {
+            "name": "Genre",
+            "value": "Genre non défini"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Atari"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0077000400765"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Jeu Atari Jaguar - Version française"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Atari Jaguar",
+    "sub_title": "Atari Karts",
+    "thumbnail_big": "db/504_videogame/thumbnail_big",
+    "thumbnail_mini": "db/504_videogame/thumbnail_small"
+}

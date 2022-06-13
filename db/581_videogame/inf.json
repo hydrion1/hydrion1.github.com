@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dreamcast collection"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox 360"
+        },
+        {
+            "name": "Genre",
+            "value": "Genre non défini"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "25/02/2011"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sega"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "20.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5055277010363"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Découvrez quatre classiques SEGA de l'époque Dreamcast dans cette collection indispensable. Incarnez Sonic et ses amis dans une épopée inoubliable avec Sonic Adventure, sillonnez la ville à pleine vitesse dans Crazy Taxi, repoussez les envahisseurs en dansant dans Space Channel 5: Part 2 ou goûtez aux joies du grand air depuis votre canapé avec SEGA Bass Fishing. Les graphismes ont été optimisés pour les deux plateformes pour combler les petits comme les grands et leur apporter l'expérience la plus immersive possible. De plus, les succès/trophées et classements en ligne seront disponibles pour chaque jeu. Lancez-vous dans la compétition !"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/09/2018 11:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Xbox 360",
+    "sub_title": "Dreamcast collection",
+    "thumbnail_big": "db/581_videogame/thumbnail_big",
+    "thumbnail_mini": "db/581_videogame/thumbnail_small"
+}

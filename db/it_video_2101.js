@@ -1,7 +1,0 @@
-{"values":["Vanilla Sky","Cameron Crowe","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","David Aames est un jeune et brillant &#233;diteur new-yorkais qui a tout pour lui : l'argent, la r&#233;ussite professionnelle et les femmes. Son ami Pelayo commet l'erreur de lui pr&#233;senter Sofia, sa nouvelle compagne. Au premier regard, David succombe au charme de celle-ci. Tous les deux filent bient&#244;t le parfait amour.<br>Alors que David se dispute en voiture avec Julie, une ex folle de jalousie, la jeune femme acc&#233;l&#232;re et c'est l'accident. Julie d&#233;c&#232;de. Atrocement d&#233;figur&#233;, David est transport&#233; d'urgence &#224; l'h&#244;pital o&#249; les m&#233;decins ne peuvent r&#233;aliser de miracle. Sa vie bascule. Les gens ont dor&#233;navant peur de lui et Sofia l'&#233;vite.<br>Mais un matin, David se fait gentiment r&#233;veiller par celle-ci, qui lui d&#233;clare son amour. Les m&#233;decins lui annoncent m&#234;me qu'il pourra retrouver son ancien visage. R&#233;alit&#233; ou hallucination ? ","Tom Cruise Penelope Cruz Kurt Russell Cameron Diaz Jason Lee","02/10/02"],
-"id":2101,
-"modif_id":2,
-"image_size":[59,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["John Rambo [Director's Cut] (Rambo 4)","Sylvester Stallone","Action. Aventure. Policier et Thriller","90 min","John Rambo s'est retir&#233; dans le nord de la Tha&#239;lande, o&#249; il m&#232;ne une existence simple dans les montagnes et se tient &#224; l'&#233;cart de la guerre civile qui fait rage non loin de l&#224;, sur la fronti&#232;re entre la Tha&#239;lande et le Myanmar. Il p&#234;che et capture des serpents venimeux pour les vendre.<br>La violence du monde le rattrape lorsqu'un groupe de volontaires humanitaires men&#233; par Sarah et Michael Bennett vient le trouver pour qu'il les guide jusqu'&#224; un camp de r&#233;fugi&#233;s auquel ils veulent apporter une aide m&#233;dicale et de la nourriture. Rambo finit par accepter et leur fait remonter la rivi&#232;re, vers l'autre c&#244;t&#233; de la fronti&#232;re.<br>Deux semaines plus tard, le pasteur Arthur Marsh lui apprend que les volontaires ne sont pas revenus et que les ambassades refusent de l'aider &#224; les retrouver. Rambo sait mieux que personne ce qu'il faut faire dans ce genre de situation...","Sylvester Stallone, Julie Benz, Paul Schulze, Matthew Marsden, Graham McTavish","10/08/10"],
-"id":3577,
-"modif_id":1,
-"image_size":[68,100],
-"images":[],
-"files":[]
-}

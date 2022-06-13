@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Aragami: Shadow edition"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "22/02/2019"
+        },
+        {
+            "name": "Editeur",
+            "value": "Merge"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060264371679"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/05/2022 16:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/05/2022 16:57"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Aragami: Shadow edition",
+    "thumbnail_big": "db/914_videogame/thumbnail_big",
+    "thumbnail_mini": "db/914_videogame/thumbnail_small"
+}

@@ -1,7 +1,0 @@
-{"values":["Sin City","Robet Rodriguez","Fantastique. Horreur et Science-fiction","","Adaptation du comic book d un des plus grands auteurs et dessinateurs de sa generation Sin City permet a Robert Rodriguez de peaufiner son style. Visuellement a tomber par terre avec son noir et blanc d'une classe folle son casting habite et sa direction artistique meticuleuse le film reussit a donner vie a de nombreux personnages complexes et touchants. Les hommes sont a la fois victimes et bourreaux durs et tendres et se battent pour sauver leur honneur dans un monde gangrene par la corruption. Rodriguez reussit le plus ardu : donner vie a de purs fantasmes de cinema en jouant le premier degre. La comprehension qu il donne de l'univers de Miller alliee a l efficacite redoutable de sa mise en scene offre a Sin City une richesse narrative et une force visuelle des plus rejouissantes. Reprenant les memes menus tres reussis de l edition simple l edition collector offre un second disque dedie a des supplements qui font la part belle aux impressions de tournage du realisateur et des interpretes. A noter le module sur l univers de Frank Miller qui dresse un petit portrait des oeuvres majeures de Miller au travers d interviews croisees de trois editeurs et dessinateurs francais dont Enki Bilal.","Bruce Willis Mickey Rourke Jessica Alba","27/02/11"],
-"id":2030,
-"modif_id":1,
-"image_size":[71,100],
-"images":[],
-"files":[]
-}

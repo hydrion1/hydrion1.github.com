@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Luigi's mansion 2"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo 3DS, Nintendo 2DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Genre non défini"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "NINTENDO"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "49.98 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496523299"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Dettagli tecnici Piattaforma: Nintendo 3DS Genere: Azione / Avventura Sviluppatore: Nintendo Data di rilascio: 28/03/2013 PEGI rating: 7 Versione lingua: ENG, ITA Modalita' multiplayer: Y Tipo di modalita' multiplayer: offline Publisher: Nintendo"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/01/2018 22:16"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo 3DS, Nintendo 2DS",
+    "sub_title": "Luigi's mansion 2",
+    "thumbnail_big": "db/429_videogame/thumbnail_big",
+    "thumbnail_mini": "db/429_videogame/thumbnail_small"
+}

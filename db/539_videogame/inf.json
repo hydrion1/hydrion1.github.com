@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Kirby: Battle Royale"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo 3DS, Nintendo 2DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Genre non défini"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "03/11/2017"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "31.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496476830"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Jeu d'action et de combat sur Nintendo 3DS - Compatible 2DS"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/03/2018 23:07"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo 3DS, Nintendo 2DS",
+    "sub_title": "Kirby: Battle Royale",
+    "thumbnail_big": "db/539_videogame/thumbnail_big",
+    "thumbnail_mini": "db/539_videogame/thumbnail_small"
+}

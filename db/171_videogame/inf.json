@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bravely Second : End Layer"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo 3DS, Nintendo 2DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux de roles"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "25/02/2016"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Allemand (Dubbed) Anglais (Dubbed) Espagnol (Dubbed) Fran�ais (Dubbed) Italien (Dubbed) Anglais (Original Language) Anglais (Unknown)"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Adolescents"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "45496471927"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Date de sortie le 26/02/16. Article en pre-commande livre chez vous a partir de la date de sortie. Pour etre livre le jour de la sortie: Selectionnez une offre de livraison express. Dans ce jeu de role au tour par tour. qui concentre le meilleur des J-RPG. personnalisez vos heros avec 30 classes de metiers pour vous creer divers styles d'equipes et developpez vos strategies de combat avec le systeme \\'ab Brave/Default \\'bb}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo 3DS, Nintendo 2DS",
+    "sub_title": "Bravely Second : End Layer",
+    "thumbnail_big": "db/171_videogame/thumbnail_big",
+    "thumbnail_mini": "db/171_videogame/thumbnail_small"
+}

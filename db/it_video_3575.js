@@ -1,7 +1,0 @@
-{"values":["Les Insoumis","Rome, Cluade-Michel","Action, Thriller","","Drieu est un policier en fin de parcours us&#233;, bris&#233;, grill&#233;. Ce myst&#233;rieux Capitaine de la B.R.B se retrouve mut&#233; dans un improbable commissariat de province promis &#224; une d&#233;molition dans les six mois, au coeur d'une ville industrielle perdue au bout de l'Etang de Berre, entre pollution et canicule.<br>Ici, le Commissaire Vasseur et son &#233;quipe Jean Ba - Wazeme - Katiha, sont d&#233;mobilis&#233;s. Plus personne n'y croit. Laxisme et d&#233;sillusion sont de r&#232;gle, ce qui arrange les &#34;affaires&#34; de la p&#232;gre locale rendue insaisissable et toute puissante.<br>Entre l'envie d'en finir avec lui-m&#234;me et celle de se battre pour sa propre survie, Drieu choisit de s'accrocher comme &#224; une bou&#233;e &#224; la Main Courante du Commissariat, cet &#233;pais recueil des PV et des interventions de la police urbaine.<br>D&#233;lits minables et d&#233;p&#244;ts sans espoir de plaignants, la Main Courante est un &#233;chantillon de la mis&#232;re humaine et du mal de vivre d'un monde &#224; la d&#233;rive. Tout y para&#238;t insignifiant... Et pourtant... ","Berry, Richard, Breitman, Zabou, Elb&#233;, Pascal","13/08/09"],
-"id":3575,
-"modif_id":3,
-"image_size":[81,100],
-"images":[],
-"files":[]
-}

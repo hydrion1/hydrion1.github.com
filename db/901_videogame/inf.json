@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Resident Evil 3"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Action survival horror"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "27/08/2017"
+        },
+        {
+            "name": "Editeur",
+            "value": "Capcom"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/03/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "18 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5055060949672"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/03/2022 19:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/03/2022 19:14"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "Resident Evil 3",
+    "thumbnail_big": "db/901_videogame/thumbnail_big",
+    "thumbnail_mini": "db/901_videogame/thumbnail_small"
+}

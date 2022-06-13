@@ -1,7 +1,0 @@
-{"values":["Visiteurs (Les) - La trilogie","Jean-Marie Poire Jean-Marie Gaubert","","","Les Visiteurs : Quand le Comte Godefroy de Montmirail et son ecuyerJacquouille la Fripouille sont balances du 12eme au 20emesiecle c'est un sacre 'binz' : les 'chariottes' surl'autoroute 'puiirent' et les 'petits-petits fillots' nesont pas ce qu'ils devraient  etre. Alors 'okay' : place a cesvisiteurs qui ne sont pas nes d'hier !Les Visiteurs 2 : Le mariage de Frenegonde avec le Comte Godefroy ne peut avoirlieu ! Les bijoux et la relique de Sainte Rolande celle quiapporte bonne fertilite aux filles de Pouille ont ete'larcinees'. Ou est-ce dont cette bijouterie ' Elle estrestee avec Jacquouille et Dame Ginette. Il ne reste aGodefroy que de repartir dans le present s'il veut realiserson mariage et assurer sa descandance'Les Visiteurs en Amerique : Oyez ! Oyez ! Pour mettre fin au conflit entre Francois etAnglois le duc Thibault de Malfete decide de prendre enepousailles une princesse anglaise' et se retrouve avec sonfidele serviteur en plein XXIeme siecle a Chicago'}","Christian Clavier Jean Reno Valerie Lemercier Marie-Anne Chazel Christian Bujeau","29/02/08"],
-"id":1927,
-"modif_id":1,
-"image_size":[100,100],
-"images":[],
-"files":[]
-}

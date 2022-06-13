@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "God of War (2018)"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Action"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "20/04/2018"
+        },
+        {
+            "name": "Editeur",
+            "value": "SCE Santa Monica"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/09/2020"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "18 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719357377"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "01/09/2020 21:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "God of War (2018)",
+    "thumbnail_big": "db/750_videogame/thumbnail_big",
+    "thumbnail_mini": "db/750_videogame/thumbnail_small"
+}

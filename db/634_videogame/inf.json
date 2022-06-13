@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fire Emblem : Three Houses - Edition Limitée"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Strategie aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "26/07/2019"
+        },
+        {
+            "name": "Editeur",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "30/07/2019"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "79.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496424312"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/07/2019 19:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Fire Emblem : Three Houses - Edition Limitée",
+    "thumbnail_big": "db/634_videogame/thumbnail_big",
+    "thumbnail_mini": "db/634_videogame/thumbnail_small"
+}

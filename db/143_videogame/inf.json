@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Final Fantasy VII"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure - Action Jeux de roles"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Cote en attente"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719694328"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Extr\\'eamement complet et prenant. Final Fantasy VII ne presente aucun defaut intrinseque. La richesse de l'univers a donne des idees and Square qui a produit bon nombre de produits derives depuis (Crisis Core sur PSP faisant office de prequelle. Advent Children. Last Order et Dirge of Cerberus de \\'ab continuation \\'bb). Le jeu a su conserver. des annees apres et malgre les enjeux commerciaux. tout son charme et sa maitrise parfaite. ce qui n'etait pas evident. Final Fantasy VII represente donc and la fois le summum de son genre. inegale (et inegalable ?) pour beaucoup de joueurs mais aussi une oeuvre majeure du media jeu video. Pres de 15 ans apres. apres tant de jeux passes derriere lui. on se dit. retrospectivement. au regard d'une production actuelle bien terne dans le genre. et puisque les maigres defauts du soft ne sauraient \\'eatre consideres autrement que comme de purs aleas tres subjectifs. que la note ultime est meritee.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation",
+    "sub_title": "Final Fantasy VII",
+    "thumbnail_big": "db/143_videogame/thumbnail_big",
+    "thumbnail_mini": "db/143_videogame/thumbnail_small"
+}

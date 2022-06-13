@@ -1,7 +1,0 @@
-{"values":["Polisse","Ma&#239;wenn","Action. Aventure. Policier et Thriller","127 min","Le quotidien des policiers de la BPM (Brigade de Protection des Mineurs) ce sont les gardes &#224; vue de p&#233;dophiles, les arrestations de pickpockets mineurs mais aussi la pause d&#233;jeuner o&#249; l'on se raconte ses probl&#232;mes de couple , ce sont les auditions de parents maltraitants, les d&#233;positions des enfants, les d&#233;rives de la sexualit&#233; chez les adolescents, mais aussi la solidarit&#233; entre coll&#232;gues et les fous rires incontr&#244;lables dans les moments les plus impensables , c'est savoir que le pire existe, et tenter de faire avec... Comment ces policiers parviennent-ils &#224; trouver l'&#233;quilibre entre leurs vies priv&#233;es et la r&#233;alit&#233; &#224; laquelle ils sont confront&#233;s, tous les jours ? Fred, l'&#233;corch&#233; du groupe, aura du mal &#224; supporter le regard de Melissa, mandat&#233;e par le minist&#232;re de l'int&#233;rieur pour r&#233;aliser un livre de photos sur cette brigade.","Karin Viard, Joey Starr, Marina Fo&#239;s, Nicolas Duvauchelle, J&#233;r&#233;mie Elka&#239;m","22/02/12"],
-"id":3487,
-"modif_id":2,
-"image_size":[65,100],
-"images":[],
-"files":[]
-}

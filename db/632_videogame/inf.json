@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fantasy Life"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo 3DS, Nintendo 2DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "26/09/2014"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/07/2019"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496525941"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/07/2019 21:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo 3DS, Nintendo 2DS",
+    "sub_title": "Fantasy Life",
+    "thumbnail_big": "db/632_videogame/thumbnail_big",
+    "thumbnail_mini": "db/632_videogame/thumbnail_small"
+}

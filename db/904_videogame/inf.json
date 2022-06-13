@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Paper Mario : The Origami King"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux de roles"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "17/07/2020"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/03/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "30.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496426422"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/03/2022 19:22"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/03/2022 19:24"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Paper Mario : The Origami King",
+    "thumbnail_big": "db/904_videogame/thumbnail_big",
+    "thumbnail_mini": "db/904_videogame/thumbnail_small"
+}

@@ -1,7 +1,0 @@
-{"values":["Sans Plus Attendre (Sdf3) [Import belge]","Rob Reiner","Films","","&#34;A l'epoque ou il enseignait la philosophie Carter Chambers invitait chaque annee ses etudiants a dresser ce qu'il appelait une &#34;&#34;bucket list&#34;&#34; - la liste de tout ce que ces jeunes evaient de faire de voir ou de tenter avant de &#34;&#34;passer l'arme a gauche&#34;&#34;. Oubliant d'appliquer ce sage principe a lui-meme Carter laissa passer le temps se sent pieger par une multitude de contraintes et d'obligations familiales et dut se contenter pendant quatre decennies d'un obscur emploi de mecanicien. Aujourd'hui sa &#34;&#34;bucket list&#34;&#34; n'est plus qu'un derisoire exercice mental une recension d'occasions manquees et de regrets voiles. Pendant ce temps le multimillionnaire Edward Cole batissait un empire et consacrait toute son energie a amasser encore plus d'argent sans meme s'accorder le temps de savourer ses acquis.Un jour Cole et Carter se retrouvent dans la meme chambre d'hopital avec tout le temps necessaire pour dresser le bilan de leurs vies si dissemblables. Ils decouvrent alors qu'ils ont au moins deux choses en commun : un formidable appetit de vivre et le ferme desir de realiser d'urgence tous leurs eves inaccomplis. Les deux hommes embarquent alors pour la plus belle des virees. Un voyage de l'amitie emaille d'aventures d'eclats de rire de decouvertes... }&#34;","Jack Nicholson Morgan Freeman Sean Hayes","14/04/10"],
-"id":2941,
-"modif_id":0,
-"image_size":[69,100],
-"images":[],
-"files":[]
-}

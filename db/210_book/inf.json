@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Destination le front : Chemins de fer en Belgique pendant la Grande Guerre"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Paul Van Heesvelde, Michelangelo Van Meerten, Paul Pastiels, Bart Van Der Herten"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/08/2014"
+        },
+        {
+            "name": "Editeur",
+            "value": "Racine"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "16/11/2013"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "144"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Relié"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown), Français (Original Language), Français (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9789401412704"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "24.99 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Destination le front : Chemins de fer en Belgique pendant la Grande Guerre",
+    "sub_title": "Paul Van Heesvelde, Michelangelo Van Meerten, Paul Pastiels, Bart Van Der Herten",
+    "thumbnail_big": "db/210_book/thumbnail_big",
+    "thumbnail_mini": "db/210_book/thumbnail_small"
+}

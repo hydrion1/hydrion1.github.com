@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Renault"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Jean-Pierre Rioux"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Hazan"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "31/03/1998"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "617"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Broché"
+        },
+        {
+            "name": "Langue",
+            "value": "Anglais (Unknown), Anglais (Original Language), Anglais (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782850256004"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "43.76 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "29.30 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Renault",
+    "sub_title": "Jean-Pierre Rioux",
+    "thumbnail_big": "db/168_book/thumbnail_big",
+    "thumbnail_mini": "db/168_book/thumbnail_small"
+}

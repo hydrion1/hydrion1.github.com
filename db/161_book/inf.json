@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Jeep"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Jean-Gabriel Jeudy, Marc Tararine"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Editions Pratiques Automobiles (EPA)"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "31/12/1993"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "272"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Relié"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782851201195"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "77.90 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "70.00 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "La Jeep",
+    "sub_title": "Jean-Gabriel Jeudy, Marc Tararine",
+    "thumbnail_big": "db/161_book/thumbnail_big",
+    "thumbnail_mini": "db/161_book/thumbnail_small"
+}

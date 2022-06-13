@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fire Emblem Fates: Conquête"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo 3DS, Nintendo 2DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "20/05/2016"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Adolescents"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "42.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496472382"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Version Francaise"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "19/01/2018 21:43"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/06/2022 11:32"
+        }
+    ],
+    "main_title": "Nintendo 3DS, Nintendo 2DS",
+    "sub_title": "Fire Emblem Fates: Conquête",
+    "thumbnail_big": "db/415_videogame/thumbnail_big",
+    "thumbnail_mini": "db/415_videogame/thumbnail_small"
+}

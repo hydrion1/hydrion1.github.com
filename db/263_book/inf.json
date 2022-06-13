@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Rail au Congo belge, tome 2 : 1920 - 1945"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Charles BLANCHART"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/11/2021"
+        },
+        {
+            "name": "Editeur",
+            "value": "G. Blanchart & cie"
+        },
+        {
+            "name": "Genre",
+            "value": "Train"
+        },
+        {
+            "name": "Date de parution",
+            "value": "01/01/1999"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "432"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Langue",
+            "value": "Francais"
+        },
+        {
+            "name": "Tome",
+            "value": "2"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782872020157"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/11/2021 22:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Le Rail au Congo belge, tome 2 : 1920 - 1945",
+    "sub_title": "Charles BLANCHART",
+    "thumbnail_big": "db/263_book/thumbnail_big",
+    "thumbnail_mini": "db/263_book/thumbnail_small"
+}

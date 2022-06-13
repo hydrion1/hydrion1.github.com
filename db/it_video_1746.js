@@ -1,7 +1,0 @@
-{"values":["X-Men 2 - edition Collector 2 DVD","Bryan Singer","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","Les mutants reviennent en force dans ce deuxieme episode qui surpasse le precedent en action effets speciaux et personnages. Le realisateur Bryan Singer reprend les enes de l aventure en introduisant des le depart un nouveau personnage Diablo dans une scene d anthologie inoubliable. Les mutants sont toujours en lutte contre une societe americaine qui voudrait les voir disparaitre. Le meurtre commis par l un des leurs n arrange pas les choses. Alors que l ecole creee par le professeur Xavier est prise d assaut par Stryker un ancien commandant de l armee son ennemi Magneto lui propose une association pour la survie des mutants. Si le premier X-Men nous presentait Wolverine Tornade et compagnie le deuxieme opus nous plonge dans une aventure des super heros digne des meilleurs comics dont ils sont tires. Leurs forces et leurs failles sont declinees d'une maniere les rendant encore plus attachants. Cette nouvelle histoire introduit de nouveaux venus comme Deathstrike Iceberg et Pyro qui finira par passer du cote des forces obscures et donne une folle envie de voir la suite","Patrick Stewart Hugh Jackman Halle Berry Ian McKellen Famke Janssen","29/10/03"],
-"id":1746,
-"modif_id":1,
-"image_size":[69,100],
-"images":[],
-"files":[]
-}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Legend of Zelda : Breath of the Wild"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii U"
+        },
+        {
+            "name": "Genre",
+            "value": "aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "03/03/2017"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "E10+"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "59.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496337049"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "The Legend of Zelda : Breath of the Wild"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "19/01/2018 21:07"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Wii U",
+    "sub_title": "The Legend of Zelda : Breath of the Wild",
+    "thumbnail_big": "db/399_videogame/thumbnail_big",
+    "thumbnail_mini": "db/399_videogame/thumbnail_small"
+}

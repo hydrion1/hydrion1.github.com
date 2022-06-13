@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La gare et la ville   Grands axes et réseau express régional : enjeux et perspectives"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Pierre LACONTE"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Fondation pour l'Aménagement urbain/SNCB/NMBS"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "10/03/2003"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "0"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Langue",
+            "value": "Français"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782871141945"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "La gare et la ville   Grands axes et réseau express régional : enjeux et perspectives",
+    "sub_title": "Pierre LACONTE",
+    "thumbnail_big": "db/217_book/thumbnail_big",
+    "thumbnail_mini": "db/217_book/thumbnail_small"
+}

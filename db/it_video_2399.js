@@ -1,7 +1,0 @@
-{"values":["Avatar","James Cameron","Fantastique. Horreur et Science-fiction","","&#34;Malgre sa paralysie Jake Sully un ancien marine immobilise dans un fauteuil roulant est reste un combattant au plus profond de son  etre. Il est recrute pour se rendre a des annees-lumiere de la Terre sur Pandora ou de puissants groupes industriels exploitent un minerai rarissime destine a resoudre la crise energetique sur Terre. Parce que l'atmosphere de Pandora est toxique pour les humains ceux-ci ont cree le Programme Avatar qui permet a des &#34;&#34; pilotes &#34;&#34; humains de lier leur esprit a un avatar un corps biologique commande a distance capable de survivre dans cette atmosphere letale. Ces avatars sont des hybrides crees genetiquement en croisant l'ADN humain avec celui des Na'vi les autochtones de Pandora.Sous sa forme d'avatar Jake peut de nouveau marcher. On lui confie une mission d'infiltration aupres des Na'vi devenus un obstacle trop consequent a l'exploitation du precieux minerai. Mais tout va changer lorsque Neytiri une tres belle Na'vi sauve la vie de Jake...}&#34;","Sam Worthington Zoe Saldana Sigourney Weaver","20/04/10"],
-"id":2399,
-"modif_id":0,
-"image_size":[73,100],
-"images":[],
-"files":[]
-}

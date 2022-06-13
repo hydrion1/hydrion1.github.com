@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Lapins Crétins : Retour vers le Passé"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux d'arcade"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "25/11/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "Ubisoft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3307217936854"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Retournez vers le passé avec ces crétins de lapins et revisitez à la sauce crétine les meilleurs moment de l'Histoire comme l'invention du feu, l'énigme du Sphinx et la légende du roi Arthur. Découvrez comment les lapins crétin sont tout chamboulé sur leur passage et changé le cours de l'humanité !!! Version Francaise"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/01/2018 21:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Wii",
+    "sub_title": "The Lapins Crétins : Retour vers le Passé",
+    "thumbnail_big": "db/397_videogame/thumbnail_big",
+    "thumbnail_mini": "db/397_videogame/thumbnail_small"
+}

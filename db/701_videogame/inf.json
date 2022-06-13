@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Elder Scrolls IV: Oblivion - Game of the Year Edition"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "17/10/2007"
+        },
+        {
+            "name": "Editeur",
+            "value": "Bethesda"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/02/2020"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3307210341570"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/02/2020 21:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "The Elder Scrolls IV: Oblivion - Game of the Year Edition",
+    "thumbnail_big": "db/701_videogame/thumbnail_big",
+    "thumbnail_mini": "db/701_videogame/thumbnail_small"
+}

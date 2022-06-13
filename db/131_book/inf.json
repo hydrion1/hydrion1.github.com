@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le petit Larousse des orchidées"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Gérard Schmidt, Colette et Dominique Barthélémy, Philippe et Françoise Lecoufle"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Larousse"
+        },
+        {
+            "name": "Genre",
+            "value": "Fleurs"
+        },
+        {
+            "name": "Date de parution",
+            "value": "06/09/2017"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "384"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Relié"
+        },
+        {
+            "name": "Langue",
+            "value": "Français"
+        },
+        {
+            "name": "Tome",
+            "value": "1"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782035943507"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "24.95 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Le petit Larousse des orchidées",
+    "sub_title": "Gérard Schmidt, Colette et Dominique Barthélémy, Philippe et Françoise Lecoufle",
+    "thumbnail_big": "db/131_book/thumbnail_big",
+    "thumbnail_mini": "db/131_book/thumbnail_small"
+}

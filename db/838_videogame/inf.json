@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Assassin's Creed Origins"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "27/10/2017"
+        },
+        {
+            "name": "Editeur",
+            "value": "Ubisoft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/07/2021"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "18 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.17 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3307216025818"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "ASSASSINS CREED 3 WASHINGTON EDITION PS3"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Promotions carrefour Bundle avec black flag, Origins et Ezio collection 24.50"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/07/2021 22:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "Assassin's Creed Origins",
+    "thumbnail_big": "db/838_videogame/thumbnail_big",
+    "thumbnail_mini": "db/838_videogame/thumbnail_small"
+}

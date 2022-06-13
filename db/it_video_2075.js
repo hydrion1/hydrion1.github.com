@@ -1,7 +1,0 @@
-{"values":["Portes de la gloire (Les)","Christian Merret-Palmair","Comedie","","&#34;Pegasse une petite societe de vente a domicile exploite le message en cinq volumes d'un prophete idealiste Ralph Spiegel. Le &#34;&#34;futur gendre du patron&#34;&#34; Jerome Le Tallec la trentaine dillettante est debarque par son beau-pere au sein d'une equipe de vendeurs du Nord de la France. Il tente de s'integrer et devient le temoin adepte malgre lui des methodes peu orthodoxes de ces mercenaires du porte-a-porte. Regis Demanet (Benoit Poelvoorde) chef de secteur opignatre et meritant voit en la venue de Jerome une opportunite de realiser ses ambitions souterraines au sein de Pegasse... Dans sa qu ete de pouvoir il est guide par son mentor heros virtuel en Tecnicolor l'emblematique Colonel Nicholson l'officier martial et ent ete du Pont de la Riviere Kwai. Dans cette histoire sans heros Demanet va guider Le Tallec sur le chemin de la reussite qui au terme d'un parcours initiatique mouvemente va devenir un vendeur &#34;&#34;presque&#34;&#34; comme les autres...}&#34;","Benoit Poelvoorde Julien Boisselier Michel Duchaussoy Etienne Chicot Yvon Back","31/03/03"],
-"id":2075,
-"modif_id":1,
-"image_size":[69,100],
-"images":[],
-"files":[]
-}

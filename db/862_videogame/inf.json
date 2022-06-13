@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Last of Us Part 2"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Adventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "19/06/2020"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony Computer Entertainment"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/09/2021"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Allemand (Subtitled) Anglais (Subtitled) Danois (Subtitled) Espagnol (Subtitled) Finnois (Subtitled) Fran�ais (Subtitled) Grec (Subtitled) Italien (Subtitled) Neerlandais (Subtitled) Norvegien (Subtitled) Portugais (Subtitled) Suedois (Subtitled) Tcheque (Subtitled) Turc (Subtitled) Allemand (Dubbed) Anglais (Dubbed) Espagnol (Dubbed) Fran�ais (Dubbed) Italien (Dubbed) Polonais (Dubbed) Russe (Dubbed) Anglais (Original Language)"
+        },
+        {
+            "name": "Code pegi",
+            "value": "18 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "29.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719330905"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/09/2021 19:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "The Last of Us Part 2",
+    "thumbnail_big": "db/862_videogame/thumbnail_big",
+    "thumbnail_mini": "db/862_videogame/thumbnail_small"
+}

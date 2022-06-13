@@ -1,7 +1,0 @@
-{"values":["Devil Devil","Devil Devil. Tome 08","Manga","","","Pika Editions","6,95 &#8364;","Non pr&#234;t&#233;",""],
-"id":385,
-"modif_id":3,
-"image_size":[63,100],
-"images":[],
-"files":[]
-}

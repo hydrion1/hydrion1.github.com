@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ferrarissime - Ne"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Brian Laban"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/05/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "GLENAT"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "11/11/2009"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "224"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Belle reliure"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown), Français (Original Language), Français (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782723473149"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "29.99 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "28.99 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Ferrarissime - Ne",
+    "sub_title": "Brian Laban",
+    "thumbnail_big": "db/64_book/thumbnail_big",
+    "thumbnail_mini": "db/64_book/thumbnail_small"
+}

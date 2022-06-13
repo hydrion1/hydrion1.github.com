@@ -1,7 +1,0 @@
-{"values":["John Wick - La Trilogie","Chad Stahelski","Action, Thriller","","Depuis la mort de sa femme bien-aim&#233;e, John Wick passe ses journ&#233;es &#224; retaper sa Ford Mustang de 1969, avec pour seule compagnie sa chienne Daisy. Il m&#232;ne une vie sans histoire, jusqu&#8217;&#224; ce qu&#8217;un malfrat sadique nomm&#233; Iosef Tarasof remarque sa voiture. John refuse de la lui vendre. Iosef n&#8217;acceptant pas qu&#8217;on lui r&#233;siste, s&#8217;introduit chez John avec deux complices pour voler la Mustang, et tuer sauvagement Daisy&#8230;<br>John remonte la piste de Iosef jusqu&#8217;&#224; New York. Un ancien contact, Aurelio, lui apprend que le malfrat est le fils unique d&#8217;un grand patron de la p&#232;gre, Viggo Tarasof. La rumeur se r&#233;pand rapidement dans le milieu : le l&#233;gendaire tueur cherche Iosef. Viggo met &#224; prix la t&#234;te de John : quiconque l&#8217;abattra touchera une &#233;norme r&#233;compense. John a d&#233;sormais tous les assassins de New York aux trousses.","Keanu Reeves<br>Laurence Fishburne<br>Halle Berry<br>Michael Nyqvist<br>Willem Dafoe","23/09/19"],
-"id":3565,
-"modif_id":1,
-"image_size":[65,100],
-"images":[],
-"files":[]
-}

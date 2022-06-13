@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mai 40 : la campagne des 18 jours"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Peter Taghon"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/04/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Duculot"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "03/01/1994"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "0"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Reliure inconnue"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782801108802"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "49.99 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "11.90 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Mai 40 : la campagne des 18 jours",
+    "sub_title": "Peter Taghon",
+    "thumbnail_big": "db/213_book/thumbnail_big",
+    "thumbnail_mini": "db/213_book/thumbnail_small"
+}

@@ -1,7 +1,0 @@
-{"values":["Tron - edition Collector 2 DVD","Steven Lisberger","Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction","","Flynn ex-programmeur informatique aigri est vite devenu une star des salles de jeu; ca tombe plutot bien car son ex-boss soucieux de proteger un secret se sert un beau jour d'un prototype experimental pour dematerialiser le pauvre Flynn et l'envoyer a l'interieur du systeme informatique de l'entreprise ou il ne devra son salut qu'a sa dexterite aux jeux video... Succes mitige a sa sortie en salle ce spectacle d'avant-garde a gagne peu a peu son titre merite de film culte; spectacle d'une grande beaute visuelle veritable tour de force technologique realise a l'epoque des balbutiements de l'image de synthese Tron a beneficie d'un scenario veritablement innovant de l'apport esthetique d'artistes et de designers de talent (dont le Francais Moebius) et doit en grande partie son succes a son ambiance unique melange de contemplation silencieuse et d'action haletante (la fameuse sequence de la course a moto) dans un univers tout en neons et en figures geometriques colorees. Le DVD etait attendu depuis longtemps mais cela en valait la peine: plusieurs heures de bonus sont au rendez-vous du documentaire d'une heure et demie aux making-of des effets speciaux en passant par les commentaires et autres galeries de photos...--David Rault}","Jeff Bridges Bruce Boxleitner David Warner Cindy Morgan Barnard Hughes","08/06/11"],
-"id":2367,
-"modif_id":1,
-"image_size":[74,100],
-"images":[],
-"files":[]
-}

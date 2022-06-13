@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Resident Evil archives : Resident Evil"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii"
+        },
+        {
+            "name": "Genre",
+            "value": "Action survival horror"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "25/06/2009"
+        },
+        {
+            "name": "Editeur",
+            "value": "Capcom"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Cote en attente"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5055060951682"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Jeu et Manuel en Francais}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/03/2022 19:15"
+        }
+    ],
+    "main_title": "Nintendo Wii",
+    "sub_title": "Resident Evil archives : Resident Evil",
+    "thumbnail_big": "db/63_videogame/thumbnail_big",
+    "thumbnail_mini": "db/63_videogame/thumbnail_small"
+}

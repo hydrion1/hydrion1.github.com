@@ -1,7 +1,0 @@
-{"values":["Wakfu Saison 3 : l'integrale","Anthony Roux Olivier 'G&#65533;ss' Thulliez Fafah Togora Thomas Astruc","Anime","","Une legende raconte que pour conquerir le coeur d'une femme Ogrest un ogre titanesque a reussi l'impossible : reunir les six Dofus ces oeufs de Dragon aux pouvoirs surpuissants. Mais loin de lui apporter le bonheur auquel il aspirait les Dofus firent d'Ogrest un destructeur et un paria repousse par son aimee et combattu par les Dieux. Ivre de colere et de chagrin l'Ogre se retira sur les plus hautes cimes du Monde pour pleurer. Et ses larmes engloutirent la terre... Mille ans ont passe depuis le grand deluge qui a mis fin a l'age de Dofus et transforme les continents de jadis en archipels. Et si aujourd'hui les sages se disputent quant aux causes du cataclysme tous s'accordent pour constater que le monde n'est pas sorti d'affaire : les eaux montent la nature devient folle... et surtout le WAKFU l'energie primordiale creatrice du monde est fortement perturbee. Sur une petite ile au large d'Amakna se trouve un petit village perdu dans la foet : Emelka. C'est ici que l'aventure commence...}","Fanny Bloc Adeline Chetail Genevieve Doang Thomas Guitard Patrick Bethune","30/10/12"],
-"id":3562,
-"modif_id":2,
-"image_size":[62,100],
-"images":[],
-"files":[]
-}

@@ -1,7 +1,0 @@
-{"values":["Ghost Hound - Int&#233;grale","NAKAMURA Ry&#251;tar&#244;","Anime","570 min","Un meurtre rest&#233; impuni, un suicide &#233;nigmatique, un kidnapping inexpliqu&#233;. Trois affaires et trois &#233;tudiants tous concern&#233;s par la mort. Le jeune Tar&#244; ne se remet pas de la mort de sa grande soeur survenue suite &#224; un rapt ayant mal tourn&#233;. Makoto Ogami, cousin de Tar&#244;, a vu sa famille d&#233;shonor&#233;e apr&#232;s le suicide de son p&#232;re accus&#233; de l'enl&#232;vement de Tar&#244;. Quant au jeune Masayuki, il arrive dans cette &#233;trange ville de Suiten suite &#224; une sombre affaire de suicide ayant eu lieu dans sa pr&#233;c&#233;dente &#233;cole et dans laquelle il serait impliqu&#233;. Pour tenter d'&#233;claircir les myst&#232;res qui planent autour d'eux, les trois jeunes hommes se rendent sur les lieux o&#249; Tar&#244; et sa soeur furent s&#233;questr&#233;s. Ils partageront alors ensemble une exp&#233;rience hors du commun : la projection astrale qui leur permet de &#171; sortir de leur corps &#187;. Gr&#226;ce &#224; ce pouvoir, Tar&#244; esp&#232;re revoir sa soeur alors que Makoto essaiera de trouver la preuve qui innocentera son d&#233;funt p&#232;re...","",""],
-"id":3472,
-"modif_id":2,
-"image_size":[68,100],
-"images":[],
-"files":[]
-}
