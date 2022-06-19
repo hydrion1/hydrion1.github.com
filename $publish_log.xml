@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <HtmlExportPublicationLog>
-    <uuid_generatin val="{97061fc7-2bcd-4869-947c-25f70e7c690c}"/>
+    <uuid_generatin val="{c2eb997a-7a56-4840-be3c-a09af417ff08}"/>
     <file_md5 type="Map[QString]=QByteArray">
         <ITEM>
             <KEY val="db/1000_comics/inf.json"/>
@@ -3772,7 +3772,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1134_comics/inf.json"/>
-            <VAL val="VhDQfrlt8XShXl+ywkiw0Q=="/>
+            <VAL val="QjpD67sduFaFBrl6HGHVuQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1134_comics/thumbnail_big"/>
@@ -3796,7 +3796,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1135_comics/inf.json"/>
-            <VAL val="zA9kw+3BtqYOv7Y2A7MrWg=="/>
+            <VAL val="ALg0kDLTTXR+yEMjXE3zjw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1135_comics/thumbnail_big"/>
@@ -3820,7 +3820,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1136_comics/inf.json"/>
-            <VAL val="HX4/MtctPndiz+45o3rhcA=="/>
+            <VAL val="8E/ti3YvQBDXyL5tUyNdrA=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1136_comics/thumbnail_big"/>
@@ -3844,7 +3844,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1137_comics/inf.json"/>
-            <VAL val="H7m4eGm638wZtQXwS5UQWQ=="/>
+            <VAL val="aflUPIz/IYewJCn0mhC+hA=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1137_comics/thumbnail_big"/>
@@ -3868,7 +3868,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1138_comics/inf.json"/>
-            <VAL val="DBhdRVJBA73bg2BGIu2OnQ=="/>
+            <VAL val="eNtoMPq0Fv/Yv7y+uxtwKQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1138_comics/thumbnail_big"/>
@@ -3892,7 +3892,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1139_comics/inf.json"/>
-            <VAL val="IQ7RGnrbxnY5wJsHkugjSQ=="/>
+            <VAL val="Ml9K17qvVSxVP9PSe+wO5Q=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1139_comics/thumbnail_big"/>
@@ -3956,7 +3956,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1140_comics/inf.json"/>
-            <VAL val="Gxzs190/GXNjDuvyonoW1Q=="/>
+            <VAL val="pNeRfe+X8Vbk/zaJCS4NtQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1140_comics/thumbnail_big"/>
@@ -3980,7 +3980,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1141_comics/inf.json"/>
-            <VAL val="AFiTEPkUtAzX//H9qrxdEQ=="/>
+            <VAL val="zs5tBN8vwBVfPGDDjSlMUA=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1141_comics/thumbnail_big"/>
@@ -4004,7 +4004,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1142_comics/inf.json"/>
-            <VAL val="FMDx8WsZT9HKUdbB2FUtSw=="/>
+            <VAL val="4LrjK8tIvQRX9U4IS4HHag=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1142_comics/thumbnail_big"/>
@@ -4028,7 +4028,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1143_comics/inf.json"/>
-            <VAL val="wUphiy2n3N1Ux9pX1AHsrQ=="/>
+            <VAL val="g04tOUrmoRnOKtLUVXFgVg=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1143_comics/thumbnail_big"/>
@@ -4052,7 +4052,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1144_comics/inf.json"/>
-            <VAL val="QnoVO8VpaAmxdvLVHbxo4A=="/>
+            <VAL val="iebZ2RP9nwbqPDRA+4T4hw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1144_comics/thumbnail_big"/>
@@ -4076,7 +4076,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1145_comics/inf.json"/>
-            <VAL val="vfm/QAdvrVz05FpiQsUhmA=="/>
+            <VAL val="4Vfl4WwLrMwbMapI8ANJzQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1145_comics/thumbnail_big"/>
@@ -4100,7 +4100,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1146_comics/inf.json"/>
-            <VAL val="Bh5HRVnP5ZacIJUv+qOGUw=="/>
+            <VAL val="7BX6slwX8vR+jeVJoDzJqw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1146_comics/thumbnail_big"/>
@@ -4124,7 +4124,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1147_comics/inf.json"/>
-            <VAL val="1tDNBx+ASLQwkpXl1fIL1g=="/>
+            <VAL val="ILuAdhh0MoEW91JydXHgcQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1147_comics/thumbnail_big"/>
@@ -4148,7 +4148,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1148_comics/inf.json"/>
-            <VAL val="MIQPiaYVVPYG9z2LVY8O7Q=="/>
+            <VAL val="8V4YC7YNSoUhvmMTFDLthg=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1148_comics/thumbnail_big"/>
@@ -4172,7 +4172,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1149_comics/inf.json"/>
-            <VAL val="8+Hhzc6ZtE5hUpzUSiFOVw=="/>
+            <VAL val="E1NRE/eDnOHucVMB9GLziQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1149_comics/thumbnail_big"/>
@@ -4236,7 +4236,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1150_comics/inf.json"/>
-            <VAL val="WeVEIpjg6TCCbUl7GCA+sQ=="/>
+            <VAL val="KrwtTGWVgNjmgdrq/0SfLg=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1150_comics/thumbnail_big"/>
@@ -4260,7 +4260,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/1151_comics/inf.json"/>
-            <VAL val="MMdlHDpMHnx9XQdXJ1ntKA=="/>
+            <VAL val="mzbSSxQDSgNTIVh+rcJIoA=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/1151_comics/thumbnail_big"/>
@@ -18895,6 +18895,30 @@
             <VAL val="1eHgvlg5uJWTxckcBcv+hw=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/1878_video/inf.json"/>
+            <VAL val="LZL2D4Zv2r/0lpqlV8CoyQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1878_video/thumbnail_big"/>
+            <VAL val="lhcx/eSbbmKzGY0jo/6X5Q=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1878_video/thumbnail_small"/>
+            <VAL val="fuotmm7YaqioAwHGwZjH8g=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1879_video/inf.json"/>
+            <VAL val="8omMhnshBfcuGb7S+T6nGQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1879_video/thumbnail_big"/>
+            <VAL val="Kvc6miTFirMXgqtX87FINA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1879_video/thumbnail_small"/>
+            <VAL val="g4GfY+ODUOzSffeOC8jyHQ=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/187_book/inf.json"/>
             <VAL val="qrXs47UTsSxs0gbrnh6SbA=="/>
         </ITEM>
@@ -18933,6 +18957,30 @@
         <ITEM>
             <KEY val="db/187_videogame/thumbnail_small"/>
             <VAL val="4++ud9FjE5LlLIMZP7+kIw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1880_video/inf.json"/>
+            <VAL val="1LCxgsNw8BhjyhfnQ5Z8Ag=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1880_video/thumbnail_big"/>
+            <VAL val="o+Ku7/SV+erIK0r3q+zoEQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1880_video/thumbnail_small"/>
+            <VAL val="O1iDarBXgCfQrPyyJrnweA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1881_video/inf.json"/>
+            <VAL val="2MdXVE10ySDJliC2nvDxrw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1881_video/thumbnail_big"/>
+            <VAL val="+ApBd7hHyTesHHksDoaspQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/1881_video/thumbnail_small"/>
+            <VAL val="brjwQtDV0XtTAenXkELRaw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/188_book/inf.json"/>
@@ -29908,7 +29956,7 @@
         </ITEM>
         <ITEM>
             <KEY val="db/445_videogame/inf.json"/>
-            <VAL val="+fGzv606tBQSkIjrvpY/sA=="/>
+            <VAL val="d/Y/efaB8+gMityZN/0Udw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/445_videogame/thumbnail_big"/>
@@ -47024,15 +47072,15 @@
         </ITEM>
         <ITEM>
             <KEY val="db/880_videogame/inf.json"/>
-            <VAL val="OUGK406YZ1K4otELRkX2WA=="/>
+            <VAL val="oXVUXpbuIxDvd7cefioxGQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/880_videogame/thumbnail_big"/>
-            <VAL val="k+UJukgzDq2t9qUzpyAlfg=="/>
+            <VAL val="DFGMzOs0Ea9dYfjdZVvNow=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/880_videogame/thumbnail_small"/>
-            <VAL val="yD4r3fpVjgmzjouq/pBVKg=="/>
+            <VAL val="IIBSzOL5+lUIIHHMIw5zeg=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/881_comics/inf.json"/>
@@ -48835,6 +48883,18 @@
             <VAL val="kVCG+uOEcB5QBLT6hp2wXw=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/926_videogame/inf.json"/>
+            <VAL val="f13rStLCX+SLLyUXEi9b+g=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/926_videogame/thumbnail_big"/>
+            <VAL val="qxr4rr/G/1IRYZQje/bb3Q=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/926_videogame/thumbnail_small"/>
+            <VAL val="zZEagikHykr1HcXpJwqH2g=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/927_comics/inf.json"/>
             <VAL val="3RfXMeCfH50JuPWEbNRTMw=="/>
         </ITEM>
@@ -48857,6 +48917,18 @@
         <ITEM>
             <KEY val="db/927_video/thumbnail_small"/>
             <VAL val="gDx/a9iy5U7T1UI8tV+L4w=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/927_videogame/inf.json"/>
+            <VAL val="ZRuwHAkmo/6Oo6yCC4yNHw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/927_videogame/thumbnail_big"/>
+            <VAL val="GdUI473PXb2rRvxCGHShiA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/927_videogame/thumbnail_small"/>
+            <VAL val="Mm81xZndfazSZWu3i976iA=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/928_comics/inf.json"/>
@@ -48883,6 +48955,18 @@
             <VAL val="/6nxN72fkXLtbzJgkBt9OA=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/928_videogame/inf.json"/>
+            <VAL val="X38Cqj2DY/U0vh1tgPch/g=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/928_videogame/thumbnail_big"/>
+            <VAL val="o+zqgNCqCjgNb4xMQXvuxg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/928_videogame/thumbnail_small"/>
+            <VAL val="uowUWov44drnxbDzd6yqjw=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/929_comics/inf.json"/>
             <VAL val="mNbNwDTtnvE23CKV3bAdFQ=="/>
         </ITEM>
@@ -48905,6 +48989,18 @@
         <ITEM>
             <KEY val="db/929_video/thumbnail_small"/>
             <VAL val="JSzwt93abVSFeAA8HA8DzQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/929_videogame/inf.json"/>
+            <VAL val="dNrryQtkC2Qo+r/Go3TF3g=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/929_videogame/thumbnail_big"/>
+            <VAL val="k768C3DZwE9SZoCWSLcXxA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/929_videogame/thumbnail_small"/>
+            <VAL val="uuxKZPrHl+5zF12WRLfO5g=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/92_book/inf.json"/>
@@ -48979,6 +49075,18 @@
             <VAL val="Y3j8uD9NAHFyaQTx0vLfzQ=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/930_videogame/inf.json"/>
+            <VAL val="ORYmsLX+N9Tn/R+tlHU39A=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/930_videogame/thumbnail_big"/>
+            <VAL val="ktPVnpa1LH97rMosF/gX7A=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/930_videogame/thumbnail_small"/>
+            <VAL val="ZuBj2XRIHpkbBvCeOZ3DvQ=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/931_comics/inf.json"/>
             <VAL val="axPUE/6Qq9czK4G5LF1nkA=="/>
         </ITEM>
@@ -49001,6 +49109,18 @@
         <ITEM>
             <KEY val="db/931_video/thumbnail_small"/>
             <VAL val="mNOiUGzlKKZQR3Hr9wICUQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/931_videogame/inf.json"/>
+            <VAL val="vfFTTWJDCzYjPyOJ4EAB3w=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/931_videogame/thumbnail_big"/>
+            <VAL val="k+UJukgzDq2t9qUzpyAlfg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/931_videogame/thumbnail_small"/>
+            <VAL val="yD4r3fpVjgmzjouq/pBVKg=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/932_comics/inf.json"/>
@@ -49027,6 +49147,18 @@
             <VAL val="iHuHaMVkaUYJj8OLpD94EA=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/932_videogame/inf.json"/>
+            <VAL val="fX3UrUojwKykNF/F9mnBzQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/932_videogame/thumbnail_big"/>
+            <VAL val="2+UAxLyLU/hB0Tg2DWUs1g=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/932_videogame/thumbnail_small"/>
+            <VAL val="L54mMNMNrjSz55gn3KEuWg=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/933_comics/inf.json"/>
             <VAL val="Qycfx/IdCEr52Wr/fe9HGg=="/>
         </ITEM>
@@ -49049,6 +49181,18 @@
         <ITEM>
             <KEY val="db/933_video/thumbnail_small"/>
             <VAL val="hFDmNrNTqEVpOJH62qdI8A=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/933_videogame/inf.json"/>
+            <VAL val="LW+YKHnTtbZbBzPgYHYrdA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/933_videogame/thumbnail_big"/>
+            <VAL val="w/DS7l/7t6SiCTiotWFbUg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/933_videogame/thumbnail_small"/>
+            <VAL val="Qk3gA2swS/ikj3NArJOCNg=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/934_comics/inf.json"/>
@@ -49075,6 +49219,18 @@
             <VAL val="crpOu+f33hMv/T7YkLbF5g=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/934_videogame/inf.json"/>
+            <VAL val="RBzVeaGh301lpoAMCtsHHg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/934_videogame/thumbnail_big"/>
+            <VAL val="AoI5y+1jvlR8jEPe5LuswQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/934_videogame/thumbnail_small"/>
+            <VAL val="bXnydB2Qcol5at2wpJnGcA=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/935_comics/inf.json"/>
             <VAL val="H/8YtiPsFl+DGt+/nrOVgg=="/>
         </ITEM>
@@ -49097,6 +49253,10 @@
         <ITEM>
             <KEY val="db/935_video/thumbnail_small"/>
             <VAL val="HnPAZn7bQBTxD6fpWPYshg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/935_videogame/inf.json"/>
+            <VAL val="LIt99BRcZIPZ+h4WomeyfA=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/936_comics/inf.json"/>
@@ -49123,6 +49283,18 @@
             <VAL val="azRETtW8kXzJROC+1Ql4cQ=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/936_videogame/inf.json"/>
+            <VAL val="a27zwCyOfi29DGarpdxGag=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/936_videogame/thumbnail_big"/>
+            <VAL val="y/HWOLJ31ZH+1bGz2BYXiw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/936_videogame/thumbnail_small"/>
+            <VAL val="GPZgtw/y9pWlx2pXoWcbOg=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/937_comics/inf.json"/>
             <VAL val="OeQFBMf/8qODQvVYyxC9kQ=="/>
         </ITEM>
@@ -49145,6 +49317,18 @@
         <ITEM>
             <KEY val="db/937_video/thumbnail_small"/>
             <VAL val="NVa01JU2BJZ9VGCi6WljwQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/937_videogame/inf.json"/>
+            <VAL val="NAPYWjpDIBtfR0RdQI+0pQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/937_videogame/thumbnail_big"/>
+            <VAL val="SKsROxOg9Rk+Pv1dPGqgEA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/937_videogame/thumbnail_small"/>
+            <VAL val="4j/MBQ47ynCUeFpfjPgUkg=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/938_comics/inf.json"/>
@@ -49171,6 +49355,18 @@
             <VAL val="GbrY0FNTwSFer3+TuVTKtg=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/938_videogame/inf.json"/>
+            <VAL val="MXYzKprW1L3svOFQMpXhhg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/938_videogame/thumbnail_big"/>
+            <VAL val="shGB7fNDD6cPAEUIPiwRCg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/938_videogame/thumbnail_small"/>
+            <VAL val="0gMTOw9qL12C/ChxR+7sEw=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/939_comics/inf.json"/>
             <VAL val="5fCEYjmWO78qeUXG0WZo4w=="/>
         </ITEM>
@@ -49193,6 +49389,18 @@
         <ITEM>
             <KEY val="db/939_video/thumbnail_small"/>
             <VAL val="f3qRb4Q5e42sy7bsV1rvFw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/939_videogame/inf.json"/>
+            <VAL val="m9KgWdfS1UzZHNo6jQCvvA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/939_videogame/thumbnail_big"/>
+            <VAL val="3i9EeOTrF2refX0KkQDGAg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/939_videogame/thumbnail_small"/>
+            <VAL val="+eb+NFpyTt9lBU2Rol0LpA=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/93_book/inf.json"/>
@@ -49259,6 +49467,18 @@
             <VAL val="oIx8fDXB1kfYtRLyXstQAQ=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/940_videogame/inf.json"/>
+            <VAL val="TERQbDdLhzB+yAuWmxNhzg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/940_videogame/thumbnail_big"/>
+            <VAL val="ILroSqVwE/sjxZwfPr1beA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/940_videogame/thumbnail_small"/>
+            <VAL val="xukOE4irH966cGv7G+xRVQ=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/941_comics/inf.json"/>
             <VAL val="Ya2bvk0JjyFbuw4N3QUEnA=="/>
         </ITEM>
@@ -49281,6 +49501,18 @@
         <ITEM>
             <KEY val="db/941_video/thumbnail_small"/>
             <VAL val="eeakg9g9EecDfdwV4CZGrw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/941_videogame/inf.json"/>
+            <VAL val="7vwWrU6wZzf0I68qRVPDAw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/941_videogame/thumbnail_big"/>
+            <VAL val="u58+knlUO34iGmwXuekoKA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/941_videogame/thumbnail_small"/>
+            <VAL val="fqkAo6tOGMyihem1N4A5Vw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/942_comics/inf.json"/>
@@ -49307,6 +49539,18 @@
             <VAL val="Avx2GUOe32zKZcRSsRA48g=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/942_videogame/inf.json"/>
+            <VAL val="o6kwrba1QIlDgUIAxou3gA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/942_videogame/thumbnail_big"/>
+            <VAL val="wsHQ7uzoc+duvtzVHOVb+w=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/942_videogame/thumbnail_small"/>
+            <VAL val="cvXEXJQKz53Qj/bRVn3+NA=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/943_comics/inf.json"/>
             <VAL val="Uinm63IzO3idr8+wvXb/Nw=="/>
         </ITEM>
@@ -49329,6 +49573,18 @@
         <ITEM>
             <KEY val="db/943_video/thumbnail_small"/>
             <VAL val="pvoQARPNxkwDyXan3IUk2A=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/943_videogame/inf.json"/>
+            <VAL val="ykvHNu+F1cQkI9snsg7XOg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/943_videogame/thumbnail_big"/>
+            <VAL val="sqkA3/NL3+rn/Ry7qIqTzg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/943_videogame/thumbnail_small"/>
+            <VAL val="w6R3TEh8iLFz5FuQS0F+gw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/944_comics/inf.json"/>
@@ -49355,6 +49611,18 @@
             <VAL val="vgpPaQLJ2kKNKlAC/GaQGA=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/944_videogame/inf.json"/>
+            <VAL val="ZsB/i69MRKp57PC7TUUDqg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/944_videogame/thumbnail_big"/>
+            <VAL val="4eGLL/rdg9hwtzu3fuqu8A=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/944_videogame/thumbnail_small"/>
+            <VAL val="5ZzcWNx2jvJjiTY9LniyQg=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/945_comics/inf.json"/>
             <VAL val="hlNICU/nGX/k+cojbeL2eg=="/>
         </ITEM>
@@ -49377,6 +49645,18 @@
         <ITEM>
             <KEY val="db/945_video/thumbnail_small"/>
             <VAL val="O86kk75p9dyyknW6AyF4dA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/945_videogame/inf.json"/>
+            <VAL val="smfRpleX9EbjpIGNkJ7wEA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/945_videogame/thumbnail_big"/>
+            <VAL val="7L+oFo2xmbxPGiG+PuufSw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/945_videogame/thumbnail_small"/>
+            <VAL val="ADzpzg7vFBJhsgcDcZv4Qw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/946_comics/inf.json"/>
@@ -49403,6 +49683,18 @@
             <VAL val="Acukn+g1kwEPh9pex9TC4Q=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/946_videogame/inf.json"/>
+            <VAL val="1ldAmYIsP+aLfWr9IUSPTw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/946_videogame/thumbnail_big"/>
+            <VAL val="JwfW2xaXYXzl62bXfgoOkQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/946_videogame/thumbnail_small"/>
+            <VAL val="m4A9LUeUN5dnbSeZo85Xjw=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/947_comics/inf.json"/>
             <VAL val="fez1+r5QsA7Uxg0bBP2x5w=="/>
         </ITEM>
@@ -49425,6 +49717,18 @@
         <ITEM>
             <KEY val="db/947_video/thumbnail_small"/>
             <VAL val="hNAxfiMH53rJprHb4APciQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/947_videogame/inf.json"/>
+            <VAL val="xLTSf/7NrJVgKR1mqO08bQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/947_videogame/thumbnail_big"/>
+            <VAL val="iJdQsHNKfWSMcevw+V7rAA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/947_videogame/thumbnail_small"/>
+            <VAL val="ASyu3VLTO9SwkyBxZ58quw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/948_comics/inf.json"/>
@@ -49451,6 +49755,18 @@
             <VAL val="goj6jJMqRcZAH7+iOSDyQQ=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/948_videogame/inf.json"/>
+            <VAL val="9ceDwTTA8OLLIrwK7xAI/Q=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/948_videogame/thumbnail_big"/>
+            <VAL val="nmFiXGi+hlAi+htD6Sa0cQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/948_videogame/thumbnail_small"/>
+            <VAL val="LPrGiiM+jIoWUTqAA/SSxQ=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/949_comics/inf.json"/>
             <VAL val="hs56Gri69tEs+zg8D/Yx0w=="/>
         </ITEM>
@@ -49465,6 +49781,18 @@
         <ITEM>
             <KEY val="db/949_video/inf.json"/>
             <VAL val="6oeFzv7Xpa7ROquiCnkoUg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/949_videogame/inf.json"/>
+            <VAL val="ZsEr7600rY+uo+M2cNRneQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/949_videogame/thumbnail_big"/>
+            <VAL val="pOGQKgkzZvGXndT0Xd+FWw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/949_videogame/thumbnail_small"/>
+            <VAL val="i6qRhmbIeE1W1WkN/y7hVQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/94_book/inf.json"/>
@@ -49531,6 +49859,18 @@
             <VAL val="nv30A8Yzi4MSzRaxw+inxw=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/950_videogame/inf.json"/>
+            <VAL val="Ge4jDN9SqHZwJcU2Wm/BKQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/950_videogame/thumbnail_big"/>
+            <VAL val="9QvhdaA87YW8nkqhULc3Pw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/950_videogame/thumbnail_small"/>
+            <VAL val="c/pFB9lRMl6uaSmG79CAyA=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/951_comics/inf.json"/>
             <VAL val="XL3KPdzEfhF74uVkAnfPDA=="/>
         </ITEM>
@@ -49553,6 +49893,18 @@
         <ITEM>
             <KEY val="db/951_video/thumbnail_small"/>
             <VAL val="/K/77DwF7RCFEla6B0pDgw=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/951_videogame/inf.json"/>
+            <VAL val="Ds72S16/dUYKfxMRT62Nww=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/951_videogame/thumbnail_big"/>
+            <VAL val="yUDHP+lbv5aYYEJI4RsFQg=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/951_videogame/thumbnail_small"/>
+            <VAL val="D/qWCYEAy2Iq8mw51XRqWQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/952_comics/inf.json"/>
@@ -49579,6 +49931,18 @@
             <VAL val="gafcbgrsGRLafEF4BgS5JA=="/>
         </ITEM>
         <ITEM>
+            <KEY val="db/952_videogame/inf.json"/>
+            <VAL val="qGDeBtS4s5mIZ9sN9mFBOQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/952_videogame/thumbnail_big"/>
+            <VAL val="i2cnAdLepKwVVLPeubYMUA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/952_videogame/thumbnail_small"/>
+            <VAL val="k2RrTQLtllEbL2vtpBQM6w=="/>
+        </ITEM>
+        <ITEM>
             <KEY val="db/953_comics/inf.json"/>
             <VAL val="tgkvXclyb4Y8jnrDXpkUpg=="/>
         </ITEM>
@@ -49601,6 +49965,18 @@
         <ITEM>
             <KEY val="db/953_video/thumbnail_small"/>
             <VAL val="lYrFhy/vC1uiQVVHnwXtGA=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/953_videogame/inf.json"/>
+            <VAL val="lxuQ0+WMsR8j9IyU32Y+sQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/953_videogame/thumbnail_big"/>
+            <VAL val="pv7fdcm/vXJZ7rWCLTL0nQ=="/>
+        </ITEM>
+        <ITEM>
+            <KEY val="db/953_videogame/thumbnail_small"/>
+            <VAL val="7cNBmozJSQB/u4qf2lMSFw=="/>
         </ITEM>
         <ITEM>
             <KEY val="db/954_comics/inf.json"/>
@@ -50924,11 +51300,11 @@
         </ITEM>
         <ITEM>
             <KEY val="db/nmt_index.json"/>
-            <VAL val="lcMhWKDhwRkYdv6+IM+TQA=="/>
+            <VAL val="R5ZNYCdtbG6vpTIH5K5ULg=="/>
         </ITEM>
         <ITEM>
             <KEY val="index.html"/>
-            <VAL val="Lxk2iDrOHFIab854q4N5Xg=="/>
+            <VAL val="CipAiFOJ7RK/UyV7SMAGhg=="/>
         </ITEM>
         <ITEM>
             <KEY val="index_desktop.html"/>
@@ -50936,11 +51312,11 @@
         </ITEM>
         <ITEM>
             <KEY val="listing_18b30322_b847_4dc4_9fbb_8d7c36bc8856/card.html"/>
-            <VAL val="F500XRM1rwLwCzQXu/uMPg=="/>
+            <VAL val="hAIj7c1CiDACy7AuSvkKPg=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_18b30322_b847_4dc4_9fbb_8d7c36bc8856/listing.html"/>
-            <VAL val="ozUhmvVcmSefXnbLsNYjdg=="/>
+            <VAL val="BKz4GDi8Ck3p2iqUoUTohQ=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_18b30322_b847_4dc4_9fbb_8d7c36bc8856/listing_icon"/>
@@ -50948,11 +51324,11 @@
         </ITEM>
         <ITEM>
             <KEY val="listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/card.html"/>
-            <VAL val="quWNFuXZDUsmNgXL/8jNYg=="/>
+            <VAL val="b+T1rZPK7uBbrN4G5ahfXw=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/listing.html"/>
-            <VAL val="8IVLvxwaJhnJU4YsFMjF7g=="/>
+            <VAL val="2tXQJf0UAm9eQCBv4Yqgig=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/listing_icon"/>
@@ -50960,11 +51336,11 @@
         </ITEM>
         <ITEM>
             <KEY val="listing_a2b41abe_18b7_4430_91cc_e7653c508d1c/card.html"/>
-            <VAL val="I+1OsIPSHJOOMuXPhk13/Q=="/>
+            <VAL val="0utGyT4A0qkjX4UsUoiZyg=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_a2b41abe_18b7_4430_91cc_e7653c508d1c/listing.html"/>
-            <VAL val="DpMkP49NR9R8SCWrnLfvlQ=="/>
+            <VAL val="tLaHBzvCL65F6GPi8gkm4A=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_a2b41abe_18b7_4430_91cc_e7653c508d1c/listing_icon"/>
@@ -50972,11 +51348,11 @@
         </ITEM>
         <ITEM>
             <KEY val="listing_c014eeb9_d178_4e74_926b_abb27d51fb64/card.html"/>
-            <VAL val="ypsRGDqCI7QAlm4X0gz3pA=="/>
+            <VAL val="7X9Mg1xtAbzRQVelgrRhMg=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_c014eeb9_d178_4e74_926b_abb27d51fb64/listing.html"/>
-            <VAL val="8rdrqyLJFahttGJOuSClFw=="/>
+            <VAL val="9ZZhf9SYAbCIc/oA4wy9/A=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_c014eeb9_d178_4e74_926b_abb27d51fb64/listing_icon"/>
@@ -50984,11 +51360,11 @@
         </ITEM>
         <ITEM>
             <KEY val="listing_ca13bf0a_8ef6_4a58_92f4_adae910b6051/card.html"/>
-            <VAL val="RkT32GqhrgZin+q6MhCm1w=="/>
+            <VAL val="rcefOgP0XqxAMBfX7vmD1Q=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_ca13bf0a_8ef6_4a58_92f4_adae910b6051/listing.html"/>
-            <VAL val="i3XUTxMFn85O1ZscdOYlMg=="/>
+            <VAL val="0JqVb8DWJ4CN4qnI5jcp6w=="/>
         </ITEM>
         <ITEM>
             <KEY val="listing_ca13bf0a_8ef6_4a58_92f4_adae910b6051/listing_icon"/>

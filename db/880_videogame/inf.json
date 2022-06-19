@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Halo Reach + Fable 3"
+            "value": "Fable : the journey (jeu Kinect) ss manuel"
         },
         {
             "name": "Console",
@@ -10,11 +10,11 @@
         },
         {
             "name": "Genre",
-            "value": "Arcade - Action First Person Shooter"
+            "value": "Role Playing Games"
         },
         {
             "name": "Date de sortie",
-            "value": ""
+            "value": "09/10/2012"
         },
         {
             "name": "Editeur",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": "28/01/2022"
+            "value": "16/06/2022"
         },
         {
             "name": "Nombre de joueurs",
@@ -42,11 +42,11 @@
         },
         {
             "name": "Code pegi",
-            "value": "16 ans"
+            "value": "12 ans"
         },
         {
             "name": "Prix d'achat",
-            "value": "3.99 €"
+            "value": "5.00 €"
         },
         {
             "name": "Prêt",
@@ -58,7 +58,7 @@
         },
         {
             "name": "EAN",
-            "value": ""
+            "value": "885370419009"
         },
         {
             "name": "Prix actuel",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "16/06/2022 23:15"
         }
     ],
     "main_title": "Xbox 360",
-    "sub_title": "Halo Reach + Fable 3",
+    "sub_title": "Fable : the journey (jeu Kinect) ss manuel",
     "thumbnail_big": "db/880_videogame/thumbnail_big",
     "thumbnail_mini": "db/880_videogame/thumbnail_small"
 }
