@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Resident Evil 4 Wii edition"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii"
+        },
+        {
+            "name": "Genre",
+            "value": "Action survival horror"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "19/06/2007"
+        },
+        {
+            "name": "Editeur",
+            "value": "Capcom"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/08/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Médiocre"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Allemand (Subtitled) Anglais (Subtitled) Espagnol (Subtitled) Fran�ais (Subtitled) Italien (Subtitled) Allemand (Dubbed) Anglais (Dubbed) Espagnol (Dubbed) Fran�ais (Dubbed) Italien (Dubbed) Anglais (Original Language) Fran�ais (Unknown)"
+        },
+        {
+            "name": "Code pegi",
+            "value": "18 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496363291"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/08/2022 19:07"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/08/2022 19:09"
+        }
+    ],
+    "main_title": "Nintendo Wii",
+    "sub_title": "Resident Evil 4 Wii edition",
+    "thumbnail_big": "db/1034_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1034_videogame/thumbnail_small"
+}

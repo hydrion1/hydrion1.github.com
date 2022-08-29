@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Fallout : New Vegas"
+            "value": "Fallout : New Vegas 'ss manuel)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "22/07/2022 12:29"
         }
     ],
     "main_title": "Xbox 360",
-    "sub_title": "Fallout : New Vegas",
+    "sub_title": "Fallout : New Vegas 'ss manuel)",
     "thumbnail_big": "db/889_videogame/thumbnail_big",
     "thumbnail_mini": "db/889_videogame/thumbnail_small"
 }

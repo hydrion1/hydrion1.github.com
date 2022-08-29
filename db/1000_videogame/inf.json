@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Forza motorsport 3 - ultimate collection"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox 360"
+        },
+        {
+            "name": "Genre",
+            "value": "Simulation"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "27/10/2009"
+        },
+        {
+            "name": "Editeur",
+            "value": "Microsoft Game Studios"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/08/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "3 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "885370295085"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Exclusif"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/07/2022 10:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/08/2022 20:19"
+        }
+    ],
+    "main_title": "Xbox 360",
+    "sub_title": "Forza motorsport 3 - ultimate collection",
+    "thumbnail_big": "db/1000_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1000_videogame/thumbnail_small"
+}

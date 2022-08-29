@@ -2,11 +2,11 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Fable II (Classics)"
+            "value": "Fable"
         },
         {
             "name": "Console",
-            "value": "Xbox 360"
+            "value": "Xbox"
         },
         {
             "name": "Genre",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Date de sortie",
-            "value": "21/10/2008"
+            "value": "14/09/2004"
         },
         {
             "name": "Editeur",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": "17/06/2022"
+            "value": "20/06/2022"
         },
         {
             "name": "Nombre de joueurs",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Etat",
-            "value": "Moyen"
+            "value": "Bon"
         },
         {
             "name": "Classement",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": "3.00 €"
+            "value": "4.99 €"
         },
         {
             "name": "Prêt",
@@ -58,7 +58,7 @@
         },
         {
             "name": "EAN",
-            "value": "885370093230"
+            "value": "805529493353"
         },
         {
             "name": "Prix actuel",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Commentaires",
-            "value": "Jeux original + 2 extensions"
+            "value": ""
         },
         {
             "name": "Notes personnelles",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/06/2022 23:05"
+            "value": "14/07/2022 21:41"
         }
     ],
-    "main_title": "Xbox 360",
-    "sub_title": "Fable II (Classics)",
+    "main_title": "Xbox",
+    "sub_title": "Fable",
     "thumbnail_big": "db/938_videogame/thumbnail_big",
     "thumbnail_mini": "db/938_videogame/thumbnail_small"
 }

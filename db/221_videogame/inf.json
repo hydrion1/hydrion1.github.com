@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Final fantasy VIII Playstation"
+            "value": "Final fantasy VIII"
         },
         {
             "name": "Console",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Genre",
-            "value": "Aventure - Action Jeux de roles Tous publics Amazon Rachete"
+            "value": "Role Playing Games"
         },
         {
             "name": "Date de sortie",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "08/08/2022 21:26"
         }
     ],
     "main_title": "PlayStation",
-    "sub_title": "Final fantasy VIII Playstation",
-    "thumbnail_big": "",
-    "thumbnail_mini": ""
+    "sub_title": "Final fantasy VIII",
+    "thumbnail_big": "db/221_videogame/thumbnail_big",
+    "thumbnail_mini": "db/221_videogame/thumbnail_small"
 }

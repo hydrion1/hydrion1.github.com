@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ninja Gaiden 2"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox 360"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "03/06/2008"
+        },
+        {
+            "name": "Editeur",
+            "value": "Tecmo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/08/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "18 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "882224626712"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Exclusif"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/08/2022 08:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/08/2022 08:33"
+        }
+    ],
+    "main_title": "Xbox 360",
+    "sub_title": "Ninja Gaiden 2",
+    "thumbnail_big": "db/1017_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1017_videogame/thumbnail_small"
+}

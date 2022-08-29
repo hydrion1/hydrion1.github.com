@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Final fantasy IX Platinum"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/08/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "4"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "20.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3546430024836"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/08/2022 21:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/08/2022 21:24"
+        }
+    ],
+    "main_title": "PlayStation",
+    "sub_title": "Final fantasy IX Platinum",
+    "thumbnail_big": "db/1024_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1024_videogame/thumbnail_small"
+}

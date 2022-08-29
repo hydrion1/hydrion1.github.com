@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Batman Arkham Asylum"
+            "value": "Batman Arkham Asylum Edition Game Of The Year"
         },
         {
             "name": "Console",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": "16/06/2022"
+            "value": "24/07/2022"
         },
         {
             "name": "Nombre de joueurs",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": "3.00 €"
+            "value": "2.99 €"
         },
         {
             "name": "Prêt",
@@ -58,7 +58,7 @@
         },
         {
             "name": "EAN",
-            "value": "5021290037182"
+            "value": "5051889220114"
         },
         {
             "name": "Prix actuel",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "16/06/2022 23:08"
+            "value": "24/07/2022 08:23"
         }
     ],
     "main_title": "Xbox 360",
-    "sub_title": "Batman Arkham Asylum",
+    "sub_title": "Batman Arkham Asylum Edition Game Of The Year",
     "thumbnail_big": "db/930_videogame/thumbnail_big",
     "thumbnail_mini": "db/930_videogame/thumbnail_small"
 }

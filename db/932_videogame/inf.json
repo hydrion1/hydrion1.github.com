@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Gears of war + Project Gotham Racing 4 (ss manuels)"
+            "value": "Gears of war + Project Gotham Racing 4"
         },
         {
             "name": "Console",
@@ -58,7 +58,7 @@
         },
         {
             "name": "EAN",
-            "value": ""
+            "value": "x14-99814"
         },
         {
             "name": "Prix actuel",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "16/06/2022 23:19"
+            "value": "14/07/2022 19:29"
         }
     ],
     "main_title": "Xbox 360",
-    "sub_title": "Gears of war + Project Gotham Racing 4 (ss manuels)",
+    "sub_title": "Gears of war + Project Gotham Racing 4",
     "thumbnail_big": "db/932_videogame/thumbnail_big",
     "thumbnail_mini": "db/932_videogame/thumbnail_small"
 }

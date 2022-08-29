@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Metal Gear Solid 2"
+            "value": "Metal Gear Solid 2 sons of liberty"
         },
         {
             "name": "Console",
@@ -10,7 +10,7 @@
         },
         {
             "name": "Genre",
-            "value": "Arcade - Action Aventure - Action Consoles et Accessoires"
+            "value": "Action - Aventure"
         },
         {
             "name": "Date de sortie",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "30/04/2022 07:50"
+            "value": "22/06/2022 23:03"
         }
     ],
     "main_title": "PlayStation 2",
-    "sub_title": "Metal Gear Solid 2",
+    "sub_title": "Metal Gear Solid 2 sons of liberty",
     "thumbnail_big": "db/912_videogame/thumbnail_big",
     "thumbnail_mini": "db/912_videogame/thumbnail_small"
 }

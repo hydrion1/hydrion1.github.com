@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Lost Planet 3 sans boite"
+            "value": "Lost Planet Extreme Condition"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "22/07/2022 12:24"
         }
     ],
     "main_title": "Xbox 360",
-    "sub_title": "Lost Planet 3 sans boite",
+    "sub_title": "Lost Planet Extreme Condition",
     "thumbnail_big": "db/479_videogame/thumbnail_big",
     "thumbnail_mini": "db/479_videogame/thumbnail_small"
 }

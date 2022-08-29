@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "08/08/2022 21:25"
         }
     ],
     "main_title": "PlayStation 2",
     "sub_title": "Final Fantasy XII",
-    "thumbnail_big": "",
-    "thumbnail_mini": ""
+    "thumbnail_big": "db/472_videogame/thumbnail_big",
+    "thumbnail_mini": "db/472_videogame/thumbnail_small"
 }

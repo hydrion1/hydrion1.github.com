@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": ""
+            "value": "Age of heroes"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "21/06/2022 22:54"
         }
     ],
-    "main_title": "",
+    "main_title": "Age of heroes",
     "sub_title": "Guerre",
     "thumbnail_big": "db/1838_video/thumbnail_big",
     "thumbnail_mini": "db/1838_video/thumbnail_small"
