@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Batman Arkham City - essentials"
+            "value": "Batman Arkham City - GOTY"
         },
         {
             "name": "Console",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": "23/12/2019"
+            "value": "15/10/2022"
         },
         {
             "name": "Nombre de joueurs",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": "4.00 €"
+            "value": "5.00 €"
         },
         {
             "name": "Prêt",
@@ -58,7 +58,7 @@
         },
         {
             "name": "EAN",
-            "value": "5051889386520"
+            "value": "5051888091821"
         },
         {
             "name": "Prix actuel",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "15/10/2022 13:49"
         }
     ],
     "main_title": "PlayStation 3",
-    "sub_title": "Batman Arkham City - essentials",
+    "sub_title": "Batman Arkham City - GOTY",
     "thumbnail_big": "db/680_videogame/thumbnail_big",
     "thumbnail_mini": "db/680_videogame/thumbnail_small"
 }

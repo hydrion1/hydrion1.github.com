@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Dragon Quest : L'Odyssee du roi maudit"
+            "value": "Dragon Quest VIII : L'Odyssee du roi maudit"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "12/11/2022 19:19"
         }
     ],
     "main_title": "PlayStation 2",
-    "sub_title": "Dragon Quest : L'Odyssee du roi maudit",
+    "sub_title": "Dragon Quest VIII : L'Odyssee du roi maudit",
     "thumbnail_big": "db/132_videogame/thumbnail_big",
     "thumbnail_mini": "db/132_videogame/thumbnail_small"
 }

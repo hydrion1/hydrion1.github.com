@@ -22,15 +22,15 @@
         },
         {
             "name": "Date d'achat",
-            "value": ""
+            "value": "28/08/2022"
         },
         {
             "name": "Nombre de joueurs",
-            "value": ""
+            "value": "1"
         },
         {
             "name": "Etat",
-            "value": ""
+            "value": "Très bon"
         },
         {
             "name": "Classement",
@@ -42,11 +42,11 @@
         },
         {
             "name": "Code pegi",
-            "value": ""
+            "value": "18 ans"
         },
         {
             "name": "Prix d'achat",
-            "value": "49.90 €"
+            "value": "6.00 €"
         },
         {
             "name": "Prêt",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "Alex"
         },
         {
             "name": "Notes personnelles",
@@ -90,7 +90,7 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "30/08/2022 12:05"
         }
     ],
     "main_title": "PlayStation 2",

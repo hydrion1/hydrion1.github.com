@@ -10,7 +10,7 @@
         },
         {
             "name": "Genre",
-            "value": "Genres Petits prix imports langue francaise DVD Zone 2 edition simple Anglais Soldes Soldes et petits prix"
+            "value": "Action"
         },
         {
             "name": "Durée (min)",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": ""
+            "value": "15/10/2022"
         },
         {
             "name": "Classement",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": "1.35 €"
+            "value": "2.00 €"
         },
         {
             "name": "Prêt",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
@@ -106,7 +106,7 @@
         },
         {
             "name": "EAN",
-            "value": "8715664072226"
+            "value": "8715664079003"
         },
         {
             "name": "Format",
@@ -122,11 +122,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "15/10/2022 13:59"
         }
     ],
     "main_title": "Braquage a l'anglaise - The Bank Job",
-    "sub_title": "Genres Petits prix imports langue francaise DVD Zone 2 edition simple Anglais Soldes Soldes et petits prix",
+    "sub_title": "Action",
     "thumbnail_big": "db/1385_video/thumbnail_big",
     "thumbnail_mini": "db/1385_video/thumbnail_small"
 }

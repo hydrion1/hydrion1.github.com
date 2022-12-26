@@ -2,15 +2,15 @@
     "fields": [
         {
             "name": "Série",
-            "value": "Kaïne"
+            "value": "Vampire Host"
         },
         {
             "name": "Titre",
-            "value": "Kaine"
+            "value": "Vampire Host"
         },
         {
             "name": "Scénario",
-            "value": ""
+            "value": "YUKI Kaori"
         },
         {
             "name": "Editeur",
@@ -18,7 +18,7 @@
         },
         {
             "name": "Dessins",
-            "value": ""
+            "value": "YUKI Kaori"
         },
         {
             "name": "Langue",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Nbre de pages",
-            "value": ""
+            "value": "137"
         },
         {
             "name": "Date de parution",
@@ -50,11 +50,11 @@
         },
         {
             "name": "Date d'achat",
-            "value": ""
+            "value": "28/08/2022"
         },
         {
             "name": "Prix d'achat",
-            "value": "6.99 €"
+            "value": "1.00 €"
         },
         {
             "name": "Prêt",
@@ -62,7 +62,7 @@
         },
         {
             "name": "Etat",
-            "value": ""
+            "value": "Excellent"
         },
         {
             "name": "Classement",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Résumé",
-            "value": ""
+            "value": "Le Kranken Haus est un club où travaillent les plus beaux éphèbes de la ville. Terriblement populaire, la réputation de ses membres n’est plus à faire. Pourtant, en y regardant de plus près, quelque chose cloche… Il y a fort à parier que ces gens soient des vampires !! C’est du moins ce que pense Rion, une jeune fille qui enquête sur la disparition de sa meilleure amie.\n\n"
         },
         {
             "name": "Autres infos",
@@ -110,7 +110,7 @@
         },
         {
             "name": "EAN / ISBN",
-            "value": "9782759501694"
+            "value": "9782759501687"
         },
         {
             "name": "Imprimeur",
@@ -130,11 +130,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "30/08/2022 10:24"
         }
     ],
-    "main_title": "Kaine",
-    "sub_title": "Kaine",
+    "main_title": "Vampire Host",
+    "sub_title": "Vampire Host",
     "thumbnail_big": "db/650_comics/thumbnail_big",
     "thumbnail_mini": "db/650_comics/thumbnail_small"
 }

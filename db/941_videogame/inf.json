@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Gears of War 2"
+            "value": "Gears of War"
         },
         {
             "name": "Console",
@@ -14,7 +14,7 @@
         },
         {
             "name": "Date de sortie",
-            "value": "07/11/2008"
+            "value": "07/11/2006"
         },
         {
             "name": "Editeur",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": "17/06/2022"
+            "value": "21/09/2022"
         },
         {
             "name": "Nombre de joueurs",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Etat",
-            "value": "Très bon"
+            "value": "Bon"
         },
         {
             "name": "Classement",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": "2.99 €"
+            "value": "1.40 €"
         },
         {
             "name": "Prêt",
@@ -58,7 +58,7 @@
         },
         {
             "name": "EAN",
-            "value": "882224721127"
+            "value": "882224260046"
         },
         {
             "name": "Prix actuel",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/06/2022 23:18"
+            "value": "21/09/2022 22:19"
         }
     ],
     "main_title": "Xbox 360",
-    "sub_title": "Gears of War 2",
+    "sub_title": "Gears of War",
     "thumbnail_big": "db/941_videogame/thumbnail_big",
     "thumbnail_mini": "db/941_videogame/thumbnail_small"
 }
