@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Star Wars: Knights of the Old Republic (ss manuel)"
+            "value": "Star Wars: Knights of the Old Republic"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "12/11/2022 18:29"
+            "value": "03/01/2023 17:08"
         }
     ],
     "main_title": "Xbox",
-    "sub_title": "Star Wars: Knights of the Old Republic (ss manuel)",
+    "sub_title": "Star Wars: Knights of the Old Republic",
     "thumbnail_big": "db/1087_videogame/thumbnail_big",
     "thumbnail_mini": "db/1087_videogame/thumbnail_small"
 }

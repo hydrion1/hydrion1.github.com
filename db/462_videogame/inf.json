@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Breath Of Fire III"
+            "value": "Breath Of Fire III (ss manuel)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "17/01/2023 16:52"
         }
     ],
     "main_title": "Sony PSP",
-    "sub_title": "Breath Of Fire III",
+    "sub_title": "Breath Of Fire III (ss manuel)",
     "thumbnail_big": "db/462_videogame/thumbnail_big",
     "thumbnail_mini": "db/462_videogame/thumbnail_small"
 }

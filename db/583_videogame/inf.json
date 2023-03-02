@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Kameo - Classics"
+            "value": "Kameo - Classics (scellé)"
         },
         {
             "name": "Console",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": "56.99 €"
+            "value": ""
         },
         {
             "name": "Prêt",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "04/01/2023 22:44"
         }
     ],
     "main_title": "Xbox 360",
-    "sub_title": "Kameo - Classics",
+    "sub_title": "Kameo - Classics (scellé)",
     "thumbnail_big": "db/583_videogame/thumbnail_big",
     "thumbnail_mini": "db/583_videogame/thumbnail_small"
 }
