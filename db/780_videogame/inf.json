@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Persona 5"
+            "value": "Persona 5 Royal"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "24/04/2023 22:14"
         }
     ],
     "main_title": "PlayStation 4",
-    "sub_title": "Persona 5",
+    "sub_title": "Persona 5 Royal",
     "thumbnail_big": "db/780_videogame/thumbnail_big",
     "thumbnail_mini": "db/780_videogame/thumbnail_small"
 }

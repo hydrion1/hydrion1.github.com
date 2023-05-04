@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Samurai 7 - Intégrale - Edition Gold (5 DVD + Livret)"
+            "value": "Samurai 7 - Intégrale - Edition Saphir (3 blueray+ Livret)"
         },
         {
             "name": "Réalisateur(s)",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": ""
+            "value": "04/03/2023"
         },
         {
             "name": "Classement",
@@ -42,11 +42,11 @@
         },
         {
             "name": "Nombre de supports",
-            "value": "5"
+            "value": "3"
         },
         {
             "name": "Prix d'achat",
-            "value": "29.95 €"
+            "value": "10.00 €"
         },
         {
             "name": "Prêt",
@@ -54,11 +54,11 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
-            "value": ""
+            "value": "Neuf sous emballage"
         },
         {
             "name": "Prix actuel",
@@ -106,7 +106,7 @@
         },
         {
             "name": "EAN",
-            "value": "3760000571982"
+            "value": "3760000571968"
         },
         {
             "name": "Format",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "05/03/2023 11:34"
         }
     ],
-    "main_title": "Samurai 7 - Intégrale - Edition Gold (5 DVD + Livret)",
+    "main_title": "Samurai 7 - Intégrale - Edition Saphir (3 blueray+ Livret)",
     "sub_title": "Anime",
     "thumbnail_big": "db/1515_video/thumbnail_big",
     "thumbnail_mini": "db/1515_video/thumbnail_small"

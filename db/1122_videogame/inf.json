@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Rad racer (loose)"
+            "value": "Rad racer (ss boite mais manuel)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "16/02/2023 20:30"
+            "value": "23/04/2023 14:58"
         }
     ],
     "main_title": "Nintendo NES",
-    "sub_title": "Rad racer (loose)",
+    "sub_title": "Rad racer (ss boite mais manuel)",
     "thumbnail_big": "db/1122_videogame/thumbnail_big",
     "thumbnail_mini": "db/1122_videogame/thumbnail_small"
 }

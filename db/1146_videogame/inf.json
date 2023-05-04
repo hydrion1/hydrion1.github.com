@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Metroid Prime Trilogy (sans sleeve)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii"
+        },
+        {
+            "name": "Genre",
+            "value": "Compilation"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "26/10/2007"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/04/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "46.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496367732"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Metroid Prime 3 : Corruption est un jeu de tir à la première personne sur Wii. Troisième épisode de la série, vous incarnez toujours Samus Aran, qui vient d'apprendre que le super-ordinateur Aurora 242 est infecté par un virus d'origine inconnue. Servez-vous de la Wiimote et du Nunchuk pour avancer dans les méandres des différentes zones du jeu."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/04/2023 13:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/04/2023 13:19"
+        }
+    ],
+    "main_title": "Nintendo Wii",
+    "sub_title": "Metroid Prime Trilogy (sans sleeve)",
+    "thumbnail_big": "db/1146_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1146_videogame/thumbnail_small"
+}
