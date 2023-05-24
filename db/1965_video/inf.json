@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Star Wars 1 - La menace fantome - Prequel Trilogy"
+            "value": "Star Wars 1-3 - Prequel Trilogy"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,11 +122,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "21/04/2023 19:04"
+            "value": "12/05/2023 11:52"
         }
     ],
-    "main_title": "Star Wars 1 - La menace fantome - Prequel Trilogy",
-    "sub_title": "Science fiction",
+    "main_title": "Star Wars 1-3 - Prequel Trilogy",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1965_video/thumbnail_big",
     "thumbnail_mini": "db/1965_video/thumbnail_small"
 }
