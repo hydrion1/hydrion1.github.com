@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Rebelle"
+            "value": "Là haut"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "29/05/2023 22:17"
+            "value": "13/06/2023 09:54"
         }
     ],
-    "main_title": "Rebelle",
+    "main_title": "Là haut",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2014_video/thumbnail_big",
     "thumbnail_mini": "db/2014_video/thumbnail_small"
