@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Bohemian Rhapsody"
+            "value": "Bohemian Rhapsody (4k)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "29/05/2023 22:34"
+            "value": "08/07/2023 22:49"
         }
     ],
-    "main_title": "Bohemian Rhapsody",
+    "main_title": "Bohemian Rhapsody (4k)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2019_video/thumbnail_big",
     "thumbnail_mini": "db/2019_video/thumbnail_small"

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Splinter Cell : Chaos theory (ss manuel)"
+            "value": "Splinter Cell : Chaos theory"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "06/06/2023 12:09"
+            "value": "17/06/2023 14:34"
         }
     ],
     "main_title": "Xbox",
-    "sub_title": "Splinter Cell : Chaos theory (ss manuel)",
+    "sub_title": "Splinter Cell : Chaos theory",
     "thumbnail_big": "db/1104_videogame/thumbnail_big",
     "thumbnail_mini": "db/1104_videogame/thumbnail_small"
 }

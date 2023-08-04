@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Dark Souls III"
+            "value": "Little Nighmares 2"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "06/06/2023 12:09"
+            "value": "09/07/2023 15:18"
         }
     ],
     "main_title": "PlayStation 4",
-    "sub_title": "Dark Souls III",
+    "sub_title": "Little Nighmares 2",
     "thumbnail_big": "db/870_videogame/thumbnail_big",
     "thumbnail_mini": "db/870_videogame/thumbnail_small"
 }

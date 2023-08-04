@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Belle et la Bete (la) Edition Speciale"
+            "value": "Belle et la Bete (la) (4k)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "07/06/2023 21:07"
+            "value": "08/07/2023 22:50"
         }
     ],
-    "main_title": "Belle et la Bete (la) Edition Speciale",
+    "main_title": "Belle et la Bete (la) (4k)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2029_video/thumbnail_big",
     "thumbnail_mini": "db/2029_video/thumbnail_small"

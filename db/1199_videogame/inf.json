@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Baten Kaitos : Les ailes éternelles et l'océan perdu"
+        },
+        {
+            "name": "Console",
+            "value": "GameCube"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "16/11/2004"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nanco"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/07/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "60.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496393618"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Livraison rapide garantie jeu neuf scellé avec e liseret Nintendo pièce de collection Version PAL Fr Satisfait ou remboursé sous 48 heures - Vous recevrez vos commandes sous 4 jours pour la France EAN : 0045496392871"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "16/07/2023 10:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/07/2023 10:49"
+        }
+    ],
+    "main_title": "GameCube",
+    "sub_title": "Baten Kaitos : Les ailes éternelles et l'océan perdu",
+    "thumbnail_big": "db/1199_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1199_videogame/thumbnail_small"
+}

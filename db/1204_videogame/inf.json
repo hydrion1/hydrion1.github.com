@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Front Mission - JAP (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Super NES"
+        },
+        {
+            "name": "Genre",
+            "value": "Strategy"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "24/02/1995"
+        },
+        {
+            "name": "Editeur",
+            "value": "SquareSoft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/08/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/08/2023 21:39"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/08/2023 21:40"
+        }
+    ],
+    "main_title": "Nintendo Super NES",
+    "sub_title": "Front Mission - JAP (loose)",
+    "thumbnail_big": "db/1204_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1204_videogame/thumbnail_small"
+}
