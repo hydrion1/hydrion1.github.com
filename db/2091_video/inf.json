@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Transporteur : Héritage"
+            "value": "Transporteur : Héritage (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "01/08/2023 08:16"
+            "value": "11/08/2023 16:47"
         }
     ],
-    "main_title": "Le Transporteur : Héritage",
+    "main_title": "Transporteur : Héritage (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2091_video/thumbnail_big",
     "thumbnail_mini": "db/2091_video/thumbnail_small"

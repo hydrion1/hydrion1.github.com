@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Petit Prince"
+            "value": "Petit Prince (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "11/08/2023 16:45"
         }
     ],
-    "main_title": "Le Petit Prince",
+    "main_title": "Petit Prince (Le)",
     "sub_title": "DVD",
     "thumbnail_big": "db/1828_video/thumbnail_big",
     "thumbnail_mini": "db/1828_video/thumbnail_small"

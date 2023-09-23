@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Enfants du temps"
+            "value": "Enfants du temps (Les)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "11/08/2023 16:48"
         }
     ],
-    "main_title": "Les Enfants du temps",
+    "main_title": "Enfants du temps (Les)",
     "sub_title": "DVD",
     "thumbnail_big": "db/1792_video/thumbnail_big",
     "thumbnail_mini": "db/1792_video/thumbnail_small"

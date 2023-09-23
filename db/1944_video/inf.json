@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Pack 3 Famille Aventures de Tintin : Le Secret de la Licorne"
+            "value": "Aventures de Tintin : Le Secret de la Licorne (Pack 3 Famille)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "08/04/2023 21:45"
+            "value": "11/08/2023 16:57"
         }
     ],
-    "main_title": "Pack 3 Famille Aventures de Tintin : Le Secret de la Licorne",
+    "main_title": "Aventures de Tintin : Le Secret de la Licorne (Pack 3 Famille)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1944_video/thumbnail_big",
     "thumbnail_mini": "db/1944_video/thumbnail_small"

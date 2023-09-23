@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "The Ghost Writer"
+            "value": "Ghost Writer (the)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "10/05/2023 22:46"
+            "value": "11/08/2023 17:07"
         }
     ],
-    "main_title": "The Ghost Writer",
+    "main_title": "Ghost Writer (the)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1996_video/thumbnail_big",
     "thumbnail_mini": "db/1996_video/thumbnail_small"

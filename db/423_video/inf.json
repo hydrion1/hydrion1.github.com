@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Pirates des Caraibes 3 : Le secret du coffre maudit"
+            "value": "Pirates des Caraibes 2 : Le secret du coffre maudit"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "A vendre"
         },
         {
             "name": "Autres infos",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "11/08/2023 18:23"
         }
     ],
-    "main_title": "Pirates des Caraibes 3 : Le secret du coffre maudit",
+    "main_title": "Pirates des Caraibes 2 : Le secret du coffre maudit",
     "sub_title": "DVD",
     "thumbnail_big": "db/423_video/thumbnail_big",
     "thumbnail_mini": "db/423_video/thumbnail_small"

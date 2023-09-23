@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Goonies"
+            "value": "Goonies (Les)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "06/01/2023 15:37"
+            "value": "11/08/2023 16:48"
         }
     ],
-    "main_title": "Les Goonies",
+    "main_title": "Goonies (Les)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1932_video/thumbnail_big",
     "thumbnail_mini": "db/1932_video/thumbnail_small"

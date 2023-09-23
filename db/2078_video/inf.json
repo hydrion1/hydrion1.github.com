@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "The Fabelmans"
+            "value": "Fabelmans (The)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "05/07/2023 22:47"
+            "value": "11/08/2023 17:08"
         }
     ],
-    "main_title": "The Fabelmans",
+    "main_title": "Fabelmans (The)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2078_video/thumbnail_big",
     "thumbnail_mini": "db/2078_video/thumbnail_small"

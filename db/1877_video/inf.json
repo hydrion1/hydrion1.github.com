@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Comte de Monte-Cristo"
+            "value": "Comte de Monte-Cristo (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "12/06/2022 11:31"
+            "value": "11/08/2023 16:40"
         }
     ],
-    "main_title": "Le Comte de Monte-Cristo",
+    "main_title": "Comte de Monte-Cristo (Le)",
     "sub_title": "DVD",
     "thumbnail_big": "db/1877_video/thumbnail_big",
     "thumbnail_mini": "db/1877_video/thumbnail_small"

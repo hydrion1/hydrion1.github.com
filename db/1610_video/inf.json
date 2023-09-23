@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Jack Reacher [Blu-ray]"
+            "value": "Jack Reacher DVD"
         },
         {
             "name": "Réalisateur(s)",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "Blu-ray"
+            "value": "DVD"
         },
         {
             "name": "Etat",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "A vendre"
         },
         {
             "name": "Autres infos",
@@ -122,11 +122,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "11/08/2023 18:09"
         }
     ],
-    "main_title": "Jack Reacher [Blu-ray]",
-    "sub_title": "Blu-ray",
+    "main_title": "Jack Reacher DVD",
+    "sub_title": "DVD",
     "thumbnail_big": "db/1610_video/thumbnail_big",
     "thumbnail_mini": "db/1610_video/thumbnail_small"
 }

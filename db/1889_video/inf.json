@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Mystère des pingouins"
+            "value": "Mystère des pingouins (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "11/07/2022 23:13"
+            "value": "11/08/2023 16:47"
         }
     ],
-    "main_title": "Le Mystère des pingouins",
+    "main_title": "Mystère des pingouins (Le)",
     "sub_title": "DVD",
     "thumbnail_big": "db/1889_video/thumbnail_big",
     "thumbnail_mini": "db/1889_video/thumbnail_small"

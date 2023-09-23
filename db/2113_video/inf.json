@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Bad Guys"
+            "value": "Bad Guys (Les)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "04/08/2023 21:26"
+            "value": "11/08/2023 16:48"
         }
     ],
-    "main_title": "Les Bad Guys",
+    "main_title": "Bad Guys (Les)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2113_video/thumbnail_big",
     "thumbnail_mini": "db/2113_video/thumbnail_small"

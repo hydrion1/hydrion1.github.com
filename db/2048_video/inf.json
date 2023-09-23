@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Silence des agneaux"
+            "value": "Silence des agneaux (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "13/06/2023 13:03"
+            "value": "11/08/2023 16:45"
         }
     ],
-    "main_title": "Le Silence des agneaux",
+    "main_title": "Silence des agneaux (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2048_video/thumbnail_big",
     "thumbnail_mini": "db/2048_video/thumbnail_small"

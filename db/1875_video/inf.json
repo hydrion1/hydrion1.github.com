@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Croods 2 - Une nouvelle ère"
+            "value": "Croods 2 - Une nouvelle ère"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "03/05/2022 18:22"
+            "value": "11/08/2023 16:44"
         }
     ],
-    "main_title": "Les Croods 2 - Une nouvelle ère",
+    "main_title": "Croods 2 - Une nouvelle ère",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1875_video/thumbnail_big",
     "thumbnail_mini": "db/1875_video/thumbnail_small"

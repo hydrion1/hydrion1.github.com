@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "The Cockpit"
+            "value": "Cockpit (The)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "11/08/2023 17:07"
         }
     ],
-    "main_title": "The Cockpit",
+    "main_title": "Cockpit (The)",
     "sub_title": "DVD",
     "thumbnail_big": "db/487_video/thumbnail_big",
     "thumbnail_mini": "db/487_video/thumbnail_small"

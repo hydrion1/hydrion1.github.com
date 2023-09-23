@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Pacific Rim - DVD"
+            "value": "Pacific Rim - DVD ?????"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "A vendre"
         },
         {
             "name": "Autres infos",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "11/08/2023 18:22"
         }
     ],
-    "main_title": "Pacific Rim - DVD",
+    "main_title": "Pacific Rim - DVD ?????",
     "sub_title": "DVD",
     "thumbnail_big": "db/640_video/thumbnail_big",
     "thumbnail_mini": "db/640_video/thumbnail_small"

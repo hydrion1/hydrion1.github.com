@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Misérables"
+            "value": "Misérables (Les)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "12/11/2022 18:56"
+            "value": "11/08/2023 16:48"
         }
     ],
-    "main_title": "Les Misérables",
+    "main_title": "Misérables (Les)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1923_video/thumbnail_big",
     "thumbnail_mini": "db/1923_video/thumbnail_small"

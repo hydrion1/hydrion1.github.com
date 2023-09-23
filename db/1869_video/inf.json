@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "La Taupe"
+            "value": "Taupe (La)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "18/04/2022 16:41"
+            "value": "11/08/2023 16:43"
         }
     ],
-    "main_title": "La Taupe",
+    "main_title": "Taupe (La)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1869_video/thumbnail_big",
     "thumbnail_mini": "db/1869_video/thumbnail_small"

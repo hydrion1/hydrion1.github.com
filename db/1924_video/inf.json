@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Peuple loup"
+            "value": "Peuple loup (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "12/11/2022 18:58"
+            "value": "11/08/2023 16:46"
         }
     ],
-    "main_title": "Le Peuple loup",
+    "main_title": "Peuple loup (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1924_video/thumbnail_big",
     "thumbnail_mini": "db/1924_video/thumbnail_small"

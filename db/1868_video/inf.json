@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Dernier chasseur de sorcières"
+            "value": "Dernier chasseur de sorcières (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "18/04/2022 16:36"
+            "value": "11/08/2023 16:43"
         }
     ],
-    "main_title": "Le Dernier chasseur de sorcières",
+    "main_title": "Dernier chasseur de sorcières (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1868_video/thumbnail_big",
     "thumbnail_mini": "db/1868_video/thumbnail_small"

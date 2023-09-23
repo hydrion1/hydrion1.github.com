@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "The Bomber"
+            "value": "Bomber (The)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "12/11/2022 18:53"
+            "value": "11/08/2023 17:08"
         }
     ],
-    "main_title": "The Bomber",
+    "main_title": "Bomber (The)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1922_video/thumbnail_big",
     "thumbnail_mini": "db/1922_video/thumbnail_small"

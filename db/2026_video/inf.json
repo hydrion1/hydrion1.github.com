@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Bienvenue chez les Ch'tis - Edition preCH'TIge 2 DVD"
+            "value": "Bienvenue chez les Ch'tis"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "07/06/2023 20:57"
+            "value": "11/08/2023 16:15"
         }
     ],
-    "main_title": "Bienvenue chez les Ch'tis - Edition preCH'TIge 2 DVD",
+    "main_title": "Bienvenue chez les Ch'tis",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2026_video/thumbnail_big",
     "thumbnail_mini": "db/2026_video/thumbnail_small"

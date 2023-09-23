@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Pack 3 Famille Chair de Poule"
+            "value": "Chair de Poule (Pack 3 Famille)"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "08/04/2023 21:50"
+            "value": "11/08/2023 16:56"
         }
     ],
-    "main_title": "Pack 3 Famille Chair de Poule",
+    "main_title": "Chair de Poule (Pack 3 Famille)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/345_video/thumbnail_big",
     "thumbnail_mini": "db/345_video/thumbnail_small"

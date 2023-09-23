@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Roi Cerf"
+            "value": "Roi Cerf"
         },
         {
             "name": "Réalisateur(s)",
@@ -122,10 +122,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "30/04/2023 18:19"
+            "value": "11/08/2023 16:45"
         }
     ],
-    "main_title": "Le Roi Cerf",
+    "main_title": "Roi Cerf",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1975_video/thumbnail_big",
     "thumbnail_mini": "db/1975_video/thumbnail_small"
