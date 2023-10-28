@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Memory card Crystal Clear"
+            "value": "Memory card Crimson Red"
         },
         {
             "name": "Console",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": "5.00 €"
+            "value": "2.99 €"
         },
         {
             "name": "Prêt",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "30/09/2022 19:55"
+            "value": "14/10/2023 17:49"
         }
     ],
     "main_title": "PlayStation",
-    "sub_title": "Memory card Crystal Clear",
+    "sub_title": "Memory card Crimson Red",
     "thumbnail_big": "db/1061_videogame/thumbnail_big",
     "thumbnail_mini": "db/1061_videogame/thumbnail_small"
 }

@@ -113,6 +113,10 @@
             "value": "PAL"
         },
         {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
             "name": "Producteur",
             "value": ""
         },
@@ -122,7 +126,7 @@
         },
         {
             "name": "Date de modification",
-            "value": "09/08/2023 20:15"
+            "value": "07/10/2023 06:52"
         }
     ],
     "main_title": "Hop (Coffret 10 films Illumination)",

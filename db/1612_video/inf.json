@@ -113,6 +113,10 @@
             "value": "PAL, Plein écran, Dolby, Compilation, Couleur"
         },
         {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
             "name": "Producteur",
             "value": ""
         },

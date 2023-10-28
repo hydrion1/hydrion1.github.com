@@ -113,6 +113,10 @@
             "value": ""
         },
         {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
             "name": "Producteur",
             "value": ""
         },
@@ -122,7 +126,7 @@
         },
         {
             "name": "Date de modification",
-            "value": "07/06/2023 21:17"
+            "value": "02/10/2023 07:49"
         }
     ],
     "main_title": "Speed Racer",

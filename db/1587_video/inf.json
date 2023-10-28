@@ -113,6 +113,10 @@
             "value": "PAL, Plein écran, Couleur, Anamorphique"
         },
         {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
             "name": "Producteur",
             "value": ""
         },

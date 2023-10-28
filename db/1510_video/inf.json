@@ -113,6 +113,10 @@
             "value": "PAL, Cinémascope, Dolby, Couleur"
         },
         {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
             "name": "Producteur",
             "value": ""
         },

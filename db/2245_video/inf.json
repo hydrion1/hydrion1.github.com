@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Interstellar (4K)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christopher Nolan"
+        },
+        {
+            "name": "Genre",
+            "value": "Science fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "169"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Matthew McConaughey, Anne Hathaway, Michael Caine, John Lithgow, Jessica Chastain"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "05/11/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/10/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "75 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astronomiques dans un voyage interstellaire."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/19548515"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros. France"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Anglais"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889614319"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/10/2023 20:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/10/2023 20:37"
+        }
+    ],
+    "main_title": "Interstellar (4K)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2245_video/thumbnail_big",
+    "thumbnail_mini": "db/2245_video/thumbnail_small"
+}

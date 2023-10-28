@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Psychose"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alfred Hitchcock"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller, Epouvante-horreur"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh, Martin Balsam, John McIntire, Simon Oakland"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1960"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.59 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Marion Crane en a assez de ne pouvoir mener sa vie comme elle l'entend. Son travail ne la passionne plus, son amant ne peut l'épouser car il doit verser une énorme pension alimentaire le laissant sans le sou... Mais un beau jour, son patron lui demande de déposer 40 000 dollars à la banque. La tentation est trop grande, et Marion s'enfuit avec l'argent.\nTrès vite la panique commence à se faire sentir. Partagée entre l'angoisse de se faire prendre et l'excitation de mener une nouvelle vie, Marion roule vers une destination qu'elle n'atteindra jamais. La pluie est battante, la jeune femme s'arrête près d'un motel, tenu par un sympathique gérant nommé Norman Bates, mais qui doit supporter le caractère possessif de sa mère.\nAprès un copieux repas avec Norman, Marion prend toutes ses précautions afin de dissimuler l'argent. Pour se délasser de cette journée, elle prend une douche.."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083249113"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/10/2023 08:43"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/10/2023 18:45"
+        }
+    ],
+    "main_title": "Psychose",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2233_video/thumbnail_big",
+    "thumbnail_mini": "db/2233_video/thumbnail_small"
+}

@@ -113,6 +113,10 @@
             "value": "PAL"
         },
         {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
             "name": "Producteur",
             "value": ""
         },
@@ -122,7 +126,7 @@
         },
         {
             "name": "Date de modification",
-            "value": "10/08/2022 19:47"
+            "value": "02/10/2023 07:49"
         }
     ],
     "main_title": "Shirobako Intégrale collector",

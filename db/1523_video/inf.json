@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "A vendre"
         },
         {
             "name": "Autres infos",
@@ -113,6 +113,10 @@
             "value": "PAL, Cinémascope, Plein écran, Couleur"
         },
         {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
             "name": "Producteur",
             "value": ""
         },
@@ -122,7 +126,7 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "09/10/2023 21:54"
         }
     ],
     "main_title": "Grande Aventure Lego (la)",
