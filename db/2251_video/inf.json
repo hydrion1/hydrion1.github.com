@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Parrain 2 (Le)"
+            "value": "Parrain 2 (Le) (4k)"
         },
         {
             "name": "Réalisateur(s)",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date de sortie (DVD)",
-            "value": "31/12/2004"
+            "value": "27/08/1975"
         },
         {
             "name": "Date d'achat",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "23/10/2023 20:46"
+            "value": "17/11/2023 10:42"
         }
     ],
-    "main_title": "Parrain 2 (Le)",
+    "main_title": "Parrain 2 (Le) (4k)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2251_video/thumbnail_big",
     "thumbnail_mini": "db/2251_video/thumbnail_small"

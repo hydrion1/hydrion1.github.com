@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Comme des bêtes] (Coffret 10 films Illumination)"
+            "value": "Comme des bêtes (Coffret 10 films Illumination)"
         },
         {
             "name": "Réalisateur(s)",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date de sortie (DVD)",
-            "value": "03/10/2017"
+            "value": "27/07/2016"
         },
         {
             "name": "Date d'achat",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "09/08/2023 20:12"
+            "value": "17/11/2023 11:26"
         }
     ],
-    "main_title": "Comme des bêtes] (Coffret 10 films Illumination)",
+    "main_title": "Comme des bêtes (Coffret 10 films Illumination)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2121_video/thumbnail_big",
     "thumbnail_mini": "db/2121_video/thumbnail_small"

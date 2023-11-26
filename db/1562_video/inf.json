@@ -10,11 +10,11 @@
         },
         {
             "name": "Genre",
-            "value": "Films"
+            "value": "Fantastique, Action, Aventure"
         },
         {
             "name": "Durée (min)",
-            "value": "123"
+            "value": "124"
         },
         {
             "name": "Acteurs",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date de sortie (DVD)",
-            "value": "27/10/2016"
+            "value": "25/05/2016"
         },
         {
             "name": "Date d'achat",
@@ -54,11 +54,11 @@
         },
         {
             "name": "Type de support",
-            "value": "Blu-ray"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
-            "value": ""
+            "value": "Bon"
         },
         {
             "name": "Prix actuel",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Synopsis",
-            "value": ""
+            "value": "Le pacifique royaume d'Azeroth est au bord de la guerre alors que sa civilisation doit faire face à une redoutable race d’envahisseurs: des guerriers Orcs fuyant leur monde moribond pour en coloniser un autre. Alors qu’un portail s’ouvre pour connecter les deux mondes, une armée fait face à la destruction et l'autre à l'extinction. De côtés opposés, deux héros vont s’affronter et décider du sort de leur famille, de leur peuple et de leur patrie."
         },
         {
             "name": "Commentaires",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "02/10/2023 07:48"
+            "value": "17/11/2023 09:25"
         }
     ],
     "main_title": "Warcraft : le commencement [Blu-ray + Copie digitale]",
-    "sub_title": "Blu-ray",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1562_video/thumbnail_big",
     "thumbnail_mini": "db/1562_video/thumbnail_small"
 }

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Grand Bleu (versioon longue)+ Atlantis"
+            "value": "Grand Bleu (version longue)+ Atlantis"
         },
         {
             "name": "Réalisateur(s)",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date de sortie (DVD)",
-            "value": "26/08/2004"
+            "value": "11/05/1988"
         },
         {
             "name": "Date d'achat",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "24/09/2023 11:56"
+            "value": "17/11/2023 11:51"
         }
     ],
-    "main_title": "Grand Bleu (versioon longue)+ Atlantis",
+    "main_title": "Grand Bleu (version longue)+ Atlantis",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2196_video/thumbnail_big",
     "thumbnail_mini": "db/2196_video/thumbnail_small"

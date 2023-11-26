@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Disney's TaleSpin (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo NES"
+        },
+        {
+            "name": "Genre",
+            "value": "shooter"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "01/12/1991"
+        },
+        {
+            "name": "Editeur",
+            "value": "Capcom"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/11/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "19.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/11/2023 22:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/11/2023 22:05"
+        }
+    ],
+    "main_title": "Nintendo NES",
+    "sub_title": "Disney's TaleSpin (loose)",
+    "thumbnail_big": "db/1248_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1248_videogame/thumbnail_small"
+}

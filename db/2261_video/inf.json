@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Age de glace 3 : Le temps des dinausaures (L')"
+            "value": "Age de Glace (L') 3 : Le temps des dinausaures (L')"
         },
         {
             "name": "Réalisateur(s)",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date de sortie (DVD)",
-            "value": "01/12/2009"
+            "value": "03/07/2009"
         },
         {
             "name": "Date d'achat",
@@ -70,7 +70,7 @@
         },
         {
             "name": "Synopsis",
-            "value": ""
+            "value": "Les héros de L'Age de glace sont de retour pour une nouvelle aventure hilarante, où une maladresse de Sid le paresseux va les propulser au coeur d'un monde étrange perdu sous la glace, et peuplé de dinosaures !\nEnsemble, ils vont devoir se confronter à des habitants pour le moins hostiles et parfois farfelus. Mais nos personnages ne semblent pas complètement préparés à affronter cet univers inconnu...\nEn effet, Manny et Ellie attendent leur premier enfant mammouth : comment le futur père, déjà hyper stressé, va t'il appréhender la paternité dans ce contexte peu sécurisant ?\nDiego, le tigre aux dents de sabre, redoute d'avoir perdu ses instincts de prédateur. C'est pourtant le moment de les retrouver !\nSid, quant à lui, est convaincu d'avoir enfin réussi à construire sa propre famille en kidnappant trois oeufs... de dinosaures ! Saura t-il persuader leur T-Rex de mère qu'il est mieux placé qu'elle pour les élever ?\nEn chemin, ils feront la rencontre d'une fouine légèrement cinglée prénommée Buck, chasseur de dinos obsessionnel, sur qui ils devront s'appuyer pour survivre aux pièges de ce nouveau monde.\nEt au fait, Scrat ? Va-t-il renoncer à sa noisette au nom du grand amour ?!"
         },
         {
             "name": "Commentaires",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "28/10/2023 18:56"
+            "value": "17/11/2023 10:37"
         }
     ],
-    "main_title": "Age de glace 3 : Le temps des dinausaures (L')",
+    "main_title": "Age de Glace (L') 3 : Le temps des dinausaures (L')",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2261_video/thumbnail_big",
     "thumbnail_mini": "db/2261_video/thumbnail_small"

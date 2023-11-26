@@ -10,11 +10,11 @@
         },
         {
             "name": "Genre",
-            "value": ""
+            "value": "Biopic, Historique"
         },
         {
             "name": "Durée (min)",
-            "value": ""
+            "value": "170"
         },
         {
             "name": "Acteurs",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date de sortie (DVD)",
-            "value": "02/08/2005"
+            "value": "05/01/2005"
         },
         {
             "name": "Date d'achat",
@@ -126,7 +126,7 @@
         },
         {
             "name": "Date de modification",
-            "value": "10/05/2023 22:42"
+            "value": "17/11/2023 11:04"
         }
     ],
     "main_title": "Alexandre",

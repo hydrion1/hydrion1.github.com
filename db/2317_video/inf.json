@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Public Enemies"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michael Mann"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier, Biopic, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "140"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Johnny Depp, Marion Cotillard, Christian Bale, Channing Tatum, Billy Crudup"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "08/07/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/11/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.88 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Base sur l'histoire vraie de John Dillinger un braqueur de banque hors pair qui a sevi a de nombreuses reprises dans l'Amerique des annees 30. Avance comme \"l'ennemi public numero 1\" par le patron du FBI John Edgar Hoover Dillinger sera traque sans relache par Melvin Purvis l'un des agents federaux des plus efficaces."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Universal Pictures"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5050582711967"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/11/2023 22:38"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/11/2023 22:46"
+        }
+    ],
+    "main_title": "Public Enemies",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2317_video/thumbnail_big",
+    "thumbnail_mini": "db/2317_video/thumbnail_small"
+}
