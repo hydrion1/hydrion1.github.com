@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Need for speed : Hot Pursuit"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox 360"
+        },
+        {
+            "name": "Genre",
+            "value": "Courses"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "16/11/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "EA - Electronic Arts"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/12/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Médiocre"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5030946092529"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/12/2023 17:50"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/12/2023 17:53"
+        }
+    ],
+    "main_title": "Xbox 360",
+    "sub_title": "Need for speed : Hot Pursuit",
+    "thumbnail_big": "db/1261_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1261_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Constantine"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Francis Lawrence"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Fantastique, Epouvante-horreur"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "121"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Keanu Reeves, Rachel Weisz, Tilda Swinton, Peter Stormare, Michelle Monaghan"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/02/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/12/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "John Constantine, extralucide anticonformiste, qui a littéralement fait un aller-retour aux enfers, doit aider Katelin Dodson, une femme policier incrédule, à lever le voile sur le suicide mystérieux de sa soeur jumelle. Cette enquête leur fera découvrir l'univers d'anges et de démons qui hantent les sous-sols de Los Angeles d'aujourd'hui. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "7321910156803"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/12/2023 22:19"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/12/2023 07:53"
+        }
+    ],
+    "main_title": "Constantine",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2348_video/thumbnail_big",
+    "thumbnail_mini": "db/2348_video/thumbnail_small"
+}

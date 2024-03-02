@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Need for speed : Most Wanted"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Courses"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "30/10/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "EA - Electronic Arts"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/12/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5030946109098"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/12/2023 17:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/12/2023 17:59"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Need for speed : Most Wanted",
+    "thumbnail_big": "db/1262_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1262_videogame/thumbnail_small"
+}

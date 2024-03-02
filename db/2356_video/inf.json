@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Millénium, le film"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Niels Arden Oplev"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "152"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Noomi Rapace, Michael Nyqvist, Lena Endre"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/05/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/12/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Mikael Blomkvist est journaliste économique dans le magazine Millenium. Condamné pour diffamation, il décide de prendre de la distance avec sa vie et son métier. Mais Henrik Vanger, grande figure de l'industrie suédoise, fait appel à lui afin d'enquêter sur une disparition non élucidée, celui d'Harriet Vanger, nièce du grand homme et disparue à l'âge de seize ans. Au cours de ses recherches, Blomkvist se rend compte que La famille Vanger semble cacher bien des haines et des secrets. Dans le cadre de son enquête, le journaliste est amené à rencontrer Lisbeth Salander. La jeune femme de vingt-quatre ans possède un don exceptionnel, celui de découvrir des informations introuvables. Tous deux vont être amenés à se croiser dans une enquête qui va révéler beaucoup plus que ce que chacun aurait pu imaginer... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "UGC Vidéo"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "1.85:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5425019004088"
+        },
+        {
+            "name": "Format",
+            "value": "PAL, Cinémascope, Plein écran, Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/12/2023 07:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/12/2023 07:56"
+        }
+    ],
+    "main_title": "Millénium, le film",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2356_video/thumbnail_big",
+    "thumbnail_mini": "db/2356_video/thumbnail_small"
+}
