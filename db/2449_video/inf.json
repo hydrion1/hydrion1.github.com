@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Sleepy Hollow"
+            "value": "Sleepy Hollow (4k)"
         },
         {
             "name": "Réalisateur(s)",
@@ -10,23 +10,23 @@
         },
         {
             "name": "Genre",
-            "value": "All product Blu-ray and DVD Movies"
+            "value": "Fantastique, Epouvante-horreur, Thriller"
         },
         {
             "name": "Durée (min)",
-            "value": ""
+            "value": "105"
         },
         {
             "name": "Acteurs",
-            "value": "Johnny Depp Christina Ricci Miranda Richardson Michael Gambon Casper Van Dien"
+            "value": "Johnny Depp, Christina Ricci, Miranda Richardson, Michael Gambon, Casper Van Dien"
         },
         {
             "name": "Date de sortie (DVD)",
-            "value": "22/05/2000"
+            "value": "09/02/2000"
         },
         {
             "name": "Date d'achat",
-            "value": ""
+            "value": "10/02/2024"
         },
         {
             "name": "Classement",
@@ -42,11 +42,11 @@
         },
         {
             "name": "Nombre de supports",
-            "value": "1"
+            "value": "2"
         },
         {
             "name": "Prix d'achat",
-            "value": "0.00 €"
+            "value": "13.49 €"
         },
         {
             "name": "Prêt",
@@ -54,11 +54,11 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
-            "value": ""
+            "value": "Neuf sous emballage"
         },
         {
             "name": "Prix actuel",
@@ -70,11 +70,11 @@
         },
         {
             "name": "Synopsis",
-            "value": "The films of Tim Burton shine through the muck like a jack-o-lantern on a foggy October night. After such successes as The Nightmare Before Christmas and Edward Scissorhands it should come as no surprise that Sleepy Hollow is a dazzling film a delicious reworking of Washington Irving's The Legend of Sleepy Hollow. Dark and moody the film is a thrilling ride back to the turn of the 19th century. Johnny Depp stars as Ichabod Crane a seemingly hapless constable from New York City who is sent to the small town of Sleepy Hollow to solve the mystery of the decapitations that are plaguing the town. Crane is a bumbling sort with a tremendous faith in science over mysticism and he comes up against town secrets bewitching women and a number of bodies missing heads. Christina Ricci as beautiful as ever is Katrina Van Tassel the offbeat love interest who alternately charms and frightens Crane.The film while occasionally gory (as one should expect from a movie about a headless horseman) is not terribly frightening although it is suspenseful. Both Depp and Ricci are convincing and the art direction and production values give the village its harsh feel. Toward the end once the secrets are revealed the film does slow down; however this stylistic horror film provides many tricks and even more treats. --Jenny Brown}"
+            "value": "En 1799, dans une bourgade de La Nouvelle-Angleterre, plusieurs cadavres sont successivement retrouvés décapités. Les têtes ont disparu. Terrifiés, les habitants sont persuadés que ces meurtres sont commis par un étrange et furieux cavalier, dont la rumeur prétend qu'il est lui-même sans tête. Les autorités new-yorkaises envoient alors leur plus fin limier pour éclaircir ce mystère. Ichabod Crane ne croit ni aux légendes, ni aux vengeances post-mortem. Mais, à peine arrive, il succombe au charme étrange et vénéneux de la belle Katrina Van Tassel."
         },
         {
             "name": "Commentaires",
-            "value": "A vendre"
+            "value": ""
         },
         {
             "name": "Autres infos",
@@ -106,7 +106,7 @@
         },
         {
             "name": "EAN",
-            "value": "9780792164890"
+            "value": "3701432018508"
         },
         {
             "name": "Format",
@@ -122,15 +122,15 @@
         },
         {
             "name": "Date de création",
-            "value": "30/12/2017 10:27"
+            "value": "02/03/2024 19:43"
         },
         {
             "name": "Date de modification",
-            "value": "02/03/2024 19:44"
+            "value": "02/03/2024 19:47"
         }
     ],
-    "main_title": "Sleepy Hollow",
-    "sub_title": "DVD",
-    "thumbnail_big": "db/1383_video/thumbnail_big",
-    "thumbnail_mini": "db/1383_video/thumbnail_small"
+    "main_title": "Sleepy Hollow (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2449_video/thumbnail_big",
+    "thumbnail_mini": "db/2449_video/thumbnail_small"
 }
