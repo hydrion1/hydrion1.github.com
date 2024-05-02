@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Artist (The)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michel Hazanavicius"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Dujardin, John Goodman, Berenice Bejo, James Cromwell, Penelope Ann Miller"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/10/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Parental Guidance"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.42 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Hollywood 1927. George Valentin est une vedette du cinéma muet à qui tout sourit. L'arrivée des films parlants va le faire sombrer dans l'oubli. Peppy Miller, jeune figurante, va elle, être propulsée au firmament des stars. Ce film raconte l'histoire de leurs destins croisés, ou comment la célébrité, l'orgueil et l'argent peuvent être autant d'obstacles à leur histoire d'amour."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Entertainment in Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051889216681"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/03/2024 11:19"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/03/2024 11:56"
+        }
+    ],
+    "main_title": "Artist (The)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2456_video/thumbnail_big",
+    "thumbnail_mini": "db/2456_video/thumbnail_small"
+}

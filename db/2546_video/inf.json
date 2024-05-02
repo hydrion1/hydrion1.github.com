@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Novembre (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Cédric Jimenez"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "107"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Dujardin, Anaïs Demoustier, Sandrine Kiberlain, Jérémie Renier, Lyna Khoudri, Cédric Kahn, Sofian Khammes, Sami Outalbali"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "05/10/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/04/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Une plongée au cœur de l’Anti-Terrorisme pendant les 5 jours d'enquête qui ont suivi les attentats du 13 novembre."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083257774"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/04/2024 13:09"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/04/2024 13:25"
+        }
+    ],
+    "main_title": "Novembre (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2546_video/thumbnail_big",
+    "thumbnail_mini": "db/2546_video/thumbnail_small"
+}

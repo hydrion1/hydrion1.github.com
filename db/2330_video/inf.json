@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "La Belle au Bois Dormant"
+            "value": "Belle au Bois Dormant (La)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "25/11/2023 23:24"
+            "value": "18/03/2024 22:44"
         }
     ],
-    "main_title": "La Belle au Bois Dormant",
+    "main_title": "Belle au Bois Dormant (La)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2330_video/thumbnail_big",
     "thumbnail_mini": "db/2330_video/thumbnail_small"

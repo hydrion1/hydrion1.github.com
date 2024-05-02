@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Indestructibles"
+            "value": "Indestructibles (Les)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "25/11/2023 23:19"
+            "value": "18/03/2024 22:43"
         }
     ],
-    "main_title": "Les Indestructibles",
+    "main_title": "Indestructibles (Les)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2325_video/thumbnail_big",
     "thumbnail_mini": "db/2325_video/thumbnail_small"

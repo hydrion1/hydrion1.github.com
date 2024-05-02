@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Star Wars 8 - Les Derniers Jedi (4K)"
+            "value": "Star Wars - Episode 8 : - Les Derniers Jedi (4K)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "22/11/2023 21:32"
+            "value": "19/04/2024 08:06"
         }
     ],
-    "main_title": "Star Wars 8 - Les Derniers Jedi (4K)",
+    "main_title": "Star Wars - Episode 8 : - Les Derniers Jedi (4K)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2306_video/thumbnail_big",
     "thumbnail_mini": "db/2306_video/thumbnail_small"

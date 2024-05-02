@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Benjamin Gates et le livre des secrets"
+            "value": "Benjamin Gates 2 : le livre des secrets"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "25/11/2023 22:54"
+            "value": "19/03/2024 11:52"
         }
     ],
-    "main_title": "Benjamin Gates et le livre des secrets",
+    "main_title": "Benjamin Gates 2 : le livre des secrets",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2319_video/thumbnail_big",
     "thumbnail_mini": "db/2319_video/thumbnail_small"

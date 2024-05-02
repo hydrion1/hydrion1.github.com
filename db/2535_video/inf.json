@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Discours d'un roi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tom Hooper"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "118"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Colin Firth, Helena Bonham Carter, Derek Jacobi, Geoffrey Rush, Jennifer Ehle, Timothy Spall, Guy Pearce, Michael Gambon"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/02/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/04/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "D’après l’histoire vraie et méconnue du père de l’actuelle Reine Elisabeth, qui va devenir, contraint et forcé, le Roi George VI, suite à l’abdication de son frère Edouard VIII. D’apparence fragile, incapable de s’exprimer en public, considéré par certains comme inapte à la fonction, George VI tentera de surmonter son handicap grâce au soutien indéfectible de sa femme et d’affronter ses peurs avec l’aide d’un thérapeute du langage aux méthodes peu conventionnelles. Il devra vaincre son bégaiement pour assumer pleinement son rôle, et faire de son empire le premier rempart contre l’Allemagne nazie."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700301019790"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/04/2024 21:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/04/2024 21:35"
+        }
+    ],
+    "main_title": "Le Discours d'un roi",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2535_video/thumbnail_big",
+    "thumbnail_mini": "db/2535_video/thumbnail_small"
+}

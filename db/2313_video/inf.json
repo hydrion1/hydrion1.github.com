@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Monde de Dory"
+            "value": "Monde de Dory (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "24/11/2023 21:33"
+            "value": "19/03/2024 11:31"
         }
     ],
-    "main_title": "Le Monde de Dory",
+    "main_title": "Monde de Dory (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2313_video/thumbnail_big",
     "thumbnail_mini": "db/2313_video/thumbnail_small"

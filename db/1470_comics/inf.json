@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Les Tuniques bleues"
+        },
+        {
+            "name": "Titre",
+            "value": "Les Tuniques Bleues - tome 56 - Dent pour dent"
+        },
+        {
+            "name": "Scénario",
+            "value": "Cauvin"
+        },
+        {
+            "name": "Editeur",
+            "value": "Dupuis"
+        },
+        {
+            "name": "Dessins",
+            "value": "Willy Lambil"
+        },
+        {
+            "name": "Langue",
+            "value": "Français"
+        },
+        {
+            "name": "Couleurs",
+            "value": ""
+        },
+        {
+            "name": "Nbre de pages",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "05/10/2012"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "56"
+        },
+        {
+            "name": "Genre ",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/03/2024"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782800151953"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "12/03/2024 20:34"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/03/2024 20:38"
+        }
+    ],
+    "main_title": "Les Tuniques bleues",
+    "sub_title": "Les Tuniques Bleues - tome 56 - Dent pour dent",
+    "thumbnail_big": "db/1470_comics/thumbnail_big",
+    "thumbnail_mini": "db/1470_comics/thumbnail_small"
+}

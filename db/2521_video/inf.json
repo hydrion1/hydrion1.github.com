@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mary Poppins"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Robert Stevenson"
+        },
+        {
+            "name": "Genre",
+            "value": "Famille, Fantastique, Comédie musicale"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "140"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Julie Andrews, Dick Van Dyke, David Tomlinson, Glynis Johns, Karen Dotrice, Matthew Garber, Reginald Owen, Hermione Baddeley"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/10/1965"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Rien ne va plus dans la famille Banks. La nurse vient de donner ses huit jours. Et ni M. Banks, banquier d'affaire, ni son épouse, suffragette active, ne peuvent s'occuper des enfants Jane et Michaël. Ces derniers passent alors une annonce tout à fait fantaisiste pour trouver une nouvelle nurse. C'est Mary Poppins qui répond et apparaît dès le lendemain, portée par le vent d'Est. Elle entraîne aussitôt les enfants dans son univers merveilleux. Un des plus célèbres films de la production Disney."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418421502"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/03/2024 19:00"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/03/2024 22:24"
+        }
+    ],
+    "main_title": "Mary Poppins",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2521_video/thumbnail_big",
+    "thumbnail_mini": "db/2521_video/thumbnail_small"
+}

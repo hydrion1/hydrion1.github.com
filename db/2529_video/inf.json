@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Babylon (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Damien Chazelle"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "189"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Brad Pitt, Margot Robbie, Jean Smart"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/01/2023"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "30/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Los Angeles des années 1920. Récit d’une ambition démesurée et d’excès les plus fous, BABYLON retrace l’ascension et la chute de différents personnages lors de la création d’Hollywood, une ère de décadence et de dépravation sans limites."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432016696"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/04/2024 16:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/04/2024 20:06"
+        }
+    ],
+    "main_title": "Babylon (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2529_video/thumbnail_big",
+    "thumbnail_mini": "db/2529_video/thumbnail_small"
+}

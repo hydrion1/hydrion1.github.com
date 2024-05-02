@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Royaume de Ga'Hoole - La légende des gardiens"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Zack Snyder"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le film suit Soren, une jeune chouette fascinée par les histoires épiques que lui racontait son père sur les Gardiens de Ga'Hoole, une bande de mythiques guerriers ailés qui avait mené une grande bataille pour sauver la communauté des chouettes des Sangs Purs."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888071830"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/03/2024 20:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/03/2024 20:53"
+        }
+    ],
+    "main_title": "Le Royaume de Ga'Hoole - La légende des gardiens",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2502_video/thumbnail_big",
+    "thumbnail_mini": "db/2502_video/thumbnail_small"
+}

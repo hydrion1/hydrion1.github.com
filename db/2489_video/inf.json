@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Duplicity"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tony Gilroy"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance, Espionnage, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "145"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Clive Owen, Julia Roberts, Tom Wilkinson, Paul Giamatti, Dan Daily, Lisa Roberts Gillan"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/03/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L'officier de la CIA Claire Stenwick et l'agent des services secrets britanniques Ray Koval ont quitté leurs fonctions gouvernementales pour le monde bien plus lucratif des affaires où une véritable guerre froide sévit entre deux multinationales. Leur mission ? Obtenir le premier la formule d'un produit qui rapportera une fortune à son entreprise mère.\n\nPour leurs employeurs - le titan des affaires Howard Tully et l'arrogant chef d'entreprise Dick Garsik - rien n'est hors limite. À mesure que les enjeux s'élèvent, que le mystère s'épaissit et que les coups deviennent de plus en plus sournois, le secret le plus complexe à élucider s'avère être l'attraction grandissante que Claire et Ray ressentent l'un pour l'autre. Alors qu'ils essaient de toujours garder une longueur d'avance, ces deux carriéristes solitaires trouvent leurs plans compromis par la seule donnée qu'ils ne parviennent pas à contrôler : l'amour.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582708998"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/03/2024 21:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/03/2024 22:02"
+        }
+    ],
+    "main_title": "Duplicity",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2489_video/thumbnail_big",
+    "thumbnail_mini": "db/2489_video/thumbnail_small"
+}

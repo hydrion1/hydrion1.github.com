@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Bossu de Notre Dame"
+            "value": "Bossu de Notre Dame (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "25/11/2023 23:19"
+            "value": "19/03/2024 11:29"
         }
     ],
-    "main_title": "Le Bossu de Notre Dame",
+    "main_title": "Bossu de Notre Dame (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2324_video/thumbnail_big",
     "thumbnail_mini": "db/2324_video/thumbnail_small"

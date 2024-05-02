@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "The Pixar Short Films Collection"
+            "value": "The Pixar Short Films Collection Vol 1"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "15/11/2023 20:41"
+            "value": "19/03/2024 13:06"
         }
     ],
-    "main_title": "The Pixar Short Films Collection",
+    "main_title": "The Pixar Short Films Collection Vol 1",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2289_video/thumbnail_big",
     "thumbnail_mini": "db/2289_video/thumbnail_small"

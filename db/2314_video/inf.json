@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "La Belle et le clochard"
+            "value": "Belle et le clochard (La)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "24/11/2023 21:34"
+            "value": "18/03/2024 22:44"
         }
     ],
-    "main_title": "La Belle et le clochard",
+    "main_title": "Belle et le clochard (La)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2314_video/thumbnail_big",
     "thumbnail_mini": "db/2314_video/thumbnail_small"

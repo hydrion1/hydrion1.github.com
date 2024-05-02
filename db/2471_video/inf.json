@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Planes"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Klay Hall"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/10/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Chaque jour, alors qu’il pulvérise des traitements agricoles sur les récoltes, le petit avion de ferme Dusty se prend à rêver qu’il pourrait voler en compétition au milieu des avions les plus rapides au monde. Seulement voilà, il n’a pas vraiment le gabarit d’un champion, et en plus, il est sujet au vertige ! Comme il n’est pas du genre à renoncer, Dusty fait appel à Skipper, un as de l’aéronavale, pour l’aider à se qualifier lors des éliminatoires du Grand Rallye du Tour du Ciel et ainsi défier sur son terrain Ripslinger, le redoutable tenant du titre. Et c’est au-dessus du monde de CARS, avec l’aide d’une hilarante flottille de casse-cou volants venus des quatre coins de la planète, que Dusty va déployer ses ailes pour relever, sous les yeux des spectateurs du monde entier, le plus grand défi de sa vie..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418404529"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/03/2024 11:46"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/03/2024 11:51"
+        }
+    ],
+    "main_title": "Planes",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2471_video/thumbnail_big",
+    "thumbnail_mini": "db/2471_video/thumbnail_small"
+}

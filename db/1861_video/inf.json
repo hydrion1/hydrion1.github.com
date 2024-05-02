@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Star Wars 9 : L'Ascension de Skywalker"
+            "value": "Star Wars - Episode 9 : L'Ascension de Skywalker"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "04/03/2022 20:01"
+            "value": "19/04/2024 08:07"
         }
     ],
-    "main_title": "Star Wars 9 : L'Ascension de Skywalker",
+    "main_title": "Star Wars - Episode 9 : L'Ascension de Skywalker",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1861_video/thumbnail_big",
     "thumbnail_mini": "db/1861_video/thumbnail_small"

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Astérix aux Jeux Olympiques"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Frédéric Forestier"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Thomas Langmann, Gérard Depardieu, Clovis Cornillac, Benoît Poelvoorde, Alain Delon, Vanessa Hessler, Franck Dubosc, José Garcia, Stéphane Rousseau, Jean-Pierre Cassel, Élie Semoun, Alexandre Astier"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/01/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pour remporter les Jeux Olympiques et permettre au jeune Alafolix d'épouser la Princesse Irina, Astérix et Obélix devront affronter le machiavélique Brutus, fils de César, au cours d'une Olympiade."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330033231"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/03/2024 21:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/03/2024 22:11"
+        }
+    ],
+    "main_title": "Astérix aux Jeux Olympiques",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2484_video/thumbnail_big",
+    "thumbnail_mini": "db/2484_video/thumbnail_small"
+}

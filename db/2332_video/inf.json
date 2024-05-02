@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Aristochats"
+            "value": "Aristochats (Les)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "25/11/2023 23:08"
+            "value": "19/03/2024 11:27"
         }
     ],
-    "main_title": "Les Aristochats",
+    "main_title": "Aristochats (Les)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2332_video/thumbnail_big",
     "thumbnail_mini": "db/2332_video/thumbnail_small"

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Chappie (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Neill Blomkamp"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sharlto Copley, Dev Patel, Sigourney Weaver, Hugh Jackman, Yo-Landi Visser, Ninja, Jose Pablo Cantillo"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/03/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans un futur proche, la population, opprimée par une police entièrement robotisée, commence à se rebeller. Chappie, l’un de ces droïdes policiers, est kidnappé. Reprogrammé, il devient le premier robot capable de penser et ressentir par lui-même. Mais des forces puissantes, destructrices, considèrent Chappie comme un danger pour l’humanité et l’ordre établi. Elles vont tout faire pour maintenir le statu quo et s’assurer qu’il soit le premier, et le dernier, de son espèce."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333298300024"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/03/2024 20:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/03/2024 20:56"
+        }
+    ],
+    "main_title": "Chappie (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2499_video/thumbnail_big",
+    "thumbnail_mini": "db/2499_video/thumbnail_small"
+}

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Roi Lion 2 - L'honneur de la tribu"
+            "value": "Roi Lion 2 - L'honneur de la tribu (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "25/11/2023 23:14"
+            "value": "19/03/2024 11:28"
         }
     ],
-    "main_title": "Le Roi Lion 2 - L'honneur de la tribu",
+    "main_title": "Roi Lion 2 - L'honneur de la tribu (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2328_video/thumbnail_big",
     "thumbnail_mini": "db/2328_video/thumbnail_small"

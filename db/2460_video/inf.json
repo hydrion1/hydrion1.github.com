@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hancock"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Peter Berg"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Comédie, Drame, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Will Smith, Charlize Theron, Jason Bateman, Jae Head, Eddie Marsan, David Mattey"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/07/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Il y a les héros, les super-héros et il y a... Hancock. Ses super-pouvoirs lui ont souvent permis de sauver d'innombrables vies, mais les dégâts monstrueux qu'il fait au passage ont fini par le rendre impopulaire. Les habitants de Los Angeles n'en peuvent plus et se demandent ce qu'ils ont bien pu faire pour mériter un \"héros\" pareil. Hancock est une tête de mule irascible qui n'est pas du genre à se soucier de ce que pensent les gens... du moins jusqu'à ce qu'il sauve la vie de Ray Embrey, un spécialiste des relations publiques.\n\nLe super-héros le plus détesté au monde commence alors à réaliser qu'il n'est pas aussi insensible qu'il voudrait le faire croire...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299971520"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/03/2024 11:24"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/03/2024 12:00"
+        }
+    ],
+    "main_title": "Hancock",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2460_video/thumbnail_big",
+    "thumbnail_mini": "db/2460_video/thumbnail_small"
+}

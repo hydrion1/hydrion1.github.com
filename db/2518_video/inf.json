@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Shrek le troisième"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Chris Miller"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Comédie, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "93"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Raman Hui"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/06/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.80 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L'ogre Shrek n'avait pas quitté son marécage pestilentiel et épousé sa chère Fiona pour devenir roi. C'est pourtant ce qui risque de lui arriver après que son beau-père Harold clabote soudain sans crier gare. S'il n'arrive pas à dénicher illico un roi avec l'aide de ses fidèles compagnons, l'Âne et le Chat Potté, Shrek deviendra le prochain souverain du Royaume Fort Fort Lointain. Bonjour les ennuis !\n\nÀ moins qu'Artie, le cousin loser de Fiona, ne se laisse convaincre de monter sur le trône à sa place. Mais ce paumé a-t-il vraiment l'étoffe d'un roi ?\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3606323160970"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/03/2024 18:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/03/2024 22:24"
+        }
+    ],
+    "main_title": "Shrek le troisième",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2518_video/thumbnail_big",
+    "thumbnail_mini": "db/2518_video/thumbnail_small"
+}

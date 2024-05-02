@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "La Princesse et la grenouille"
+            "value": "Princesse et la grenouille (La)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "15/11/2023 20:46"
+            "value": "19/03/2024 11:32"
         }
     ],
-    "main_title": "La Princesse et la grenouille",
+    "main_title": "Princesse et la grenouille (La)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2291_video/thumbnail_big",
     "thumbnail_mini": "db/2291_video/thumbnail_small"

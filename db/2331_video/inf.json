@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les 101 dalmatiens"
+            "value": "101 dalmatiens (Les)"
         },
         {
             "name": "Réalisateur(s)",
@@ -82,7 +82,7 @@
         },
         {
             "name": "Studio d'enregistrement",
-            "value": ""
+            "value": "Disney - PIXAR"
         },
         {
             "name": "Pays",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "25/11/2023 23:09"
+            "value": "19/03/2024 11:26"
         }
     ],
-    "main_title": "Les 101 dalmatiens",
+    "main_title": "101 dalmatiens (Les)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2331_video/thumbnail_big",
     "thumbnail_mini": "db/2331_video/thumbnail_small"
