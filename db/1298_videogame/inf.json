@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Wars Rogue Squadron (Loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo 64"
+        },
+        {
+            "name": "Genre",
+            "value": "Combat vehicule"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "17/11/1998"
+        },
+        {
+            "name": "Editeur",
+            "value": "LucasArts"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/05/2024"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "3 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/05/2024 13:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/05/2024 13:07"
+        }
+    ],
+    "main_title": "Nintendo 64",
+    "sub_title": "Star Wars Rogue Squadron (Loose)",
+    "thumbnail_big": "db/1298_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1298_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Moulin Rouge !"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Baz Luhrmann"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie musicale, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "126"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Nicole Kidman, Ewan McGregor, John Leguizamo, Jim Broadbent, Richard Roxburgh, Kylie Minogue, Garry McDonald, Jacek Koman, Matthew Whittet"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/10/2001"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.67 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A la fin du XIXe siècle, dans le Paris de la Belle Epoque, Christian, un jeune poète désargenté, s'installe dans le quartier de Montmartre et découvre un univers où se mêlent sexe, drogue et french cancan, mais se rebelle contre ce milieu décadent en menant une vie de bohème.\n\nIl rêve d'écrire une grande pièce, et le peintre Henri de Toulouse-Lautrec est prêt à lui donner sa chance. Celui-ci a besoin d'un spectacle grandiose pour le Moulin Rouge et le poète est embauché pour rédiger le livret de la revue. C'est là qu'il tombe amoureux de la courtisane Satine, la star du prodigieux cabaret...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626091059"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/08/2024 21:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/08/2024 22:12"
+        }
+    ],
+    "main_title": "Moulin Rouge !",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2725_video/thumbnail_big",
+    "thumbnail_mini": "db/2725_video/thumbnail_small"
+}

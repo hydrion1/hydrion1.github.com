@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pixels"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Chris Columbus"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Comédie, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Adam Sandler, Michelle Monaghan, Kevin James, Peter Dinklage, Josh Gad"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/07/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "63 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "À l’époque de leur jeunesse, dans les années 80, Sam Brenner, Will Cooper, Ludlow Lamonsoff et Eddie « Fire Blaster » Plant ont sauvé le monde des milliers de fois… en jouant à des jeux d’arcade à 25 cents la partie. Mais aujourd’hui, ils vont devoir le faire pour de vrai… Lorsque des aliens découvrent des vidéos d’anciens jeux et les prennent pour une déclaration de guerre, ils lancent l’assaut contre la Terre. Ces mêmes jeux d’arcade leur servent de modèles pour leurs attaques. Cooper, qui est désormais Président des États-Unis, fait alors appel à ses vieux potes pour empêcher la destruction de la planète par PAC-MAN, Donkey Kong, Galaga, Centipede et les Space Invaders… Les gamers pourront compter sur l’aide du lieutenant-colonel Violet Van Patten, une spécialiste qui va leur fournir des armes uniques..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/19553647"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Sony Pictures Releasing France"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Anglais"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712609646313"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/08/2024 20:42"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/08/2024 20:45"
+        }
+    ],
+    "main_title": "Pixels",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2660_video/thumbnail_big",
+    "thumbnail_mini": "db/2660_video/thumbnail_small"
+}

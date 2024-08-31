@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Voyage vers Agartha"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Makoto Shinkai"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "116"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.08 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Depuis la disparition de son père, Asuna une jeune écolière, a pris pour habitude de s’isoler dans les collines pour écouter les chants étranges provenant d’un émetteur qu’il lui a légué. Sur la route menant à son refuge secret, elle est attaquée par un monstre gigantesque et sauvée par Shun, un garçon à l’allure héroïque. Avant de disparaître, ce dernier lui dit venir d’un monde oublié appelé Agartha. Grâce à l’aide de son mystérieux émetteur et accompagnée de l’un de ses professeurs, Asuna va partir à la recherche d’Agartha, la légendaire Terre des Dieux où se trouve caché le secret permettant de ramener à la vie des êtres disparus. Mais jusqu'où sera-­‐t-­‐elle prête à aller pour retrouver l’être qui lui est cher ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314995312"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/08/2024 22:19"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/08/2024 22:22"
+        }
+    ],
+    "main_title": "Voyage vers Agartha",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2691_video/thumbnail_big",
+    "thumbnail_mini": "db/2691_video/thumbnail_small"
+}

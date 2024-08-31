@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Gardiens de la Galaxie Vol. 3 (4k)"
+            "value": "Gardiens de la Galaxie Vol. 3 (Les) (4k)"
         },
         {
             "name": "Réalisateur(s)",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": "12.50 €"
+            "value": "14.15 €"
         },
         {
             "name": "Prêt",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "21/04/2024 13:22"
+            "value": "13/08/2024 19:55"
         }
     ],
-    "main_title": "Les Gardiens de la Galaxie Vol. 3 (4k)",
+    "main_title": "Gardiens de la Galaxie Vol. 3 (Les) (4k)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2548_video/thumbnail_big",
     "thumbnail_mini": "db/2548_video/thumbnail_small"

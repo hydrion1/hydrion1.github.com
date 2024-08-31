@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Affranchis (4k)"
+            "value": "Les Affranchis (4k) (Goodfellas)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "02/03/2024 16:04"
+            "value": "13/08/2024 19:51"
         }
     ],
-    "main_title": "Les Affranchis (4k)",
+    "main_title": "Les Affranchis (4k) (Goodfellas)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2444_video/thumbnail_big",
     "thumbnail_mini": "db/2444_video/thumbnail_small"

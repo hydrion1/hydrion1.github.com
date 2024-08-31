@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Yes Man"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Peyton Reed"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "103"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jim Carrey, Zooey Deschanel, Bradley Cooper, John Michael Higgins, Rhys Darby, Danny Masterson, Fionnula Flanagan, Terence Stamp"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/01/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Carl Allen est au point mort. No future... jusqu'au jour où il s'inscrit à un programme de développement personnel basé sur une idée toute simple : dire oui à tout ! Carl découvre avec éblouissement le pouvoir magique du \"Yes\", et voit sa vie professionnelle et amoureuse bouleversée du jour au lendemain : une promotion inattendue, une nouvelle petite amie... Mais il découvrira bientôt que le mieux peut être l'ennemi du bien, et que toutes les occasions ne sont pas bonnes à prendre..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888032985"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/08/2024 09:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/08/2024 10:38"
+        }
+    ],
+    "main_title": "Yes Man",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2735_video/thumbnail_big",
+    "thumbnail_mini": "db/2735_video/thumbnail_small"
+}

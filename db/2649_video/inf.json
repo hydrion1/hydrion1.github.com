@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Opération Casse-noisette"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Peter Lepeniotis"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime,Comédie, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "82"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/08/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/07/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.78 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Surly est un écureuil malin et ingénieux. A peine débarqué en ville, il repère un magasin de noix avec un stock suffisant pour nourrir tous les animaux de la forêt pendant l’hiver. Mais pour pénétrer cette forteresse, il va avoir besoin d’aide. Assisté de ses amis, il va mettre au point un plan rocambolesque pour organiser le vol du siècle. Evidemment, rien ne va se passer comme prévu…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001044518"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/07/2024 10:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/07/2024 10:59"
+        }
+    ],
+    "main_title": "Opération Casse-noisette",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2649_video/thumbnail_big",
+    "thumbnail_mini": "db/2649_video/thumbnail_small"
+}

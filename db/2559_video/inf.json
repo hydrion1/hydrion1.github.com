@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Cité de l'ombre"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gil Kenan"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Saoirse Ronan, Mary Kay Place, Bill Murray, Martin Landau, Toby Jones, Tim Robbins, David Ryall, Ian McElhinney"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/05/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.66 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Depuis des générations, les habitants de la cité d'Ember mènent une vie harmonieuse sous les millions de lumières qui illuminent leur cité souterraine. Pourtant, depuis quelque temps, les coupures se multiplient et face à la nuit qui menace, tous commencent à s'inquiéter. Leur survie est en jeu...\n\nLina vient juste d'achever ses études. Entre sa grand-mère et sa petite soeur dont elle s'occupe, et son travail de messagère dans la Cité, elle n'a pas le temps de s'ennuyer. Doon, son ami, est le fils d'un des plus brillants inventeurs d'Ember, et il n'est pas décidé à laisser le générateur s'éteindre.\n\nLorsque Lina découvre une mystérieuse boîte contenant des indices codés, les deux jeunes gens se retrouvent lancés sur la piste du secret de la Cité. Face à l'ombre, face à ceux qui feront tout pour cacher la vérité, ils n'ont que peu de temps pour découvrir les arcanes de leur monde et sauver la Cité...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370851390"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/05/2024 17:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/05/2024 17:42"
+        }
+    ],
+    "main_title": "La Cité de l'ombre",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2559_video/thumbnail_big",
+    "thumbnail_mini": "db/2559_video/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Far Cry 3 + 4 Double Pack"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Arcade - Action First Person Shooter"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "06/08/2020"
+        },
+        {
+            "name": "Editeur",
+            "value": "Ubisoft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/05/2024"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3307215906408"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/05/2024 08:14"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/05/2024 08:16"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Far Cry 3 + 4 Double Pack",
+    "thumbnail_big": "db/1301_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1301_videogame/thumbnail_small"
+}

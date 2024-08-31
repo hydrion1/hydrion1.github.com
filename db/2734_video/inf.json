@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Antigang"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Benjamin Rocher"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "93"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Reno, Alban Lenoir, Caterina Murino, Oumar Diaw, Stefi Celma, Sébastien Lalanne, Thierry Neuvic"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/08/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Serge Buren est un flic de légende, entouré d’une bande de jeunes flics aux méthodes peu conventionnelles.\n\nQu’importe qu’ils utilisent des battes de baseball ou « oublient » le règlement au cours d’arrestations spectaculaires, les résultats sont au rendez-vous !\n\nC’est alors qu’un groupe de braqueurs meurtriers entre en scène, dévalisant avec une facilité déconcertante banques et bijouteries de la capitale, à coup d’armes de guerre et de scénarios imparables.\n\nFace à tant d’ingéniosité et de brutalité, Buren et son unité se retrouvent confrontés à une situation délicate :leurs méthodes expéditives suffiront-elles à arrêter ces criminels autrement plus machiavéliques ?\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001049391"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/08/2024 09:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/08/2024 10:37"
+        }
+    ],
+    "main_title": "Antigang",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2734_video/thumbnail_big",
+    "thumbnail_mini": "db/2734_video/thumbnail_small"
+}

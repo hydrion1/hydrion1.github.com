@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "NCIS - Enquetes speciales - Saison 9"
+            "value": "NCIS - Enquetes speciales - Saison 09"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "18/05/2024 18:22"
         }
     ],
-    "main_title": "NCIS - Enquetes speciales - Saison 9",
+    "main_title": "NCIS - Enquetes speciales - Saison 09",
     "sub_title": "DVD",
     "thumbnail_big": "db/297_video/thumbnail_big",
     "thumbnail_mini": "db/297_video/thumbnail_small"

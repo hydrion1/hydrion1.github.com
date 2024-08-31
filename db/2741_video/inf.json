@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Salt"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Phillip Noyce"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Espionnage, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "101"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Angelina Jolie, Liev Schreiber, Chiwetel Ejiofor, Daniel Olbrychski, August Diehl, Daniel Pearce"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/08/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.77 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Evelyn Salt est sans aucun doute l’un des meilleurs agents que la CIA ait jamais comptés dans ses rangs. Pourtant, lorsque la jeune femme est accusée d’être une espionne au service de la Russie, elle doit fuir. Evelyn Salt va faire appel à sa remarquable expertise pour échapper à ceux qui la traquent, y compris dans son propre camp. En cherchant à percer le secret de ceux qui la visent, Salt va brouiller toutes les pistes. Est-elle vraiment ce qu’elle prétend ? Désormais, une seule question se pose : qui est Salt ? "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299683102"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/08/2024 16:10"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/08/2024 16:17"
+        }
+    ],
+    "main_title": "Salt",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2741_video/thumbnail_big",
+    "thumbnail_mini": "db/2741_video/thumbnail_small"
+}

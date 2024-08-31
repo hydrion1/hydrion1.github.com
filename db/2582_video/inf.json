@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "RED 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Dean Parisot"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "117"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Bruce Willis, John Malkovich, Mary-Louise Parker, Helen Mirren, Anthony Hopkins, Lee Byung-hun, Jong Kun Lee, Catherine Zeta-Jones"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/08/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lorsque l’agent retraité de la CIA Franck Moses apprend la mort de son ancien collègue Marvin, il se rend à son enterrement avec sa compagne Sarah, sans se douter qu’il va au-devant de gros problèmes… Arrêté et interrogé par le FBI au sujet d’un mystérieux \"Projet Nightshade\", il ne doit son salut qu’à l’intervention de Marvin qui avait simulé sa mort. Ils se lancent alors dans une course poursuite à travers le monde pour découvrir le secret du \"Projet Nightshade\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001039132"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2024 16:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2024 20:13"
+        }
+    ],
+    "main_title": "RED 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2582_video/thumbnail_big",
+    "thumbnail_mini": "db/2582_video/thumbnail_small"
+}

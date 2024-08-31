@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Flight"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Denzel Washington Don Cheadle Kelly Reilly John Goodman Bruce Greenwood"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "138"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Denzel Washington Don Cheadle Kelly Reilly John Goodman Bruce Greenwood"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/02/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.25 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Whip Whitaker pilote de ligne chevronne reussit miraculeusement a faire atterrir son avion en catastrophe apres un accident en plein ciel... L'enqu ete qui suit fait naitre de nombreuses interrogations... Que s'est-il reellement passe a bord du vol 227 ? Salue comme un heros apres le crash Whip va soudain voir sa vie entiere  etre exposee en pleine lumiere...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Paramount Pictures"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333973182884"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/08/2024 21:00"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2024 21:16"
+        }
+    ],
+    "main_title": "Flight",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2707_video/thumbnail_big",
+    "thumbnail_mini": "db/2707_video/thumbnail_small"
+}

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "X-Men : Days of Future Past [Blu-ray]"
+            "value": "X-Men : Collection 6 films"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "01/08/2023 10:56"
+            "value": "05/08/2024 19:04"
         }
     ],
-    "main_title": "X-Men : Days of Future Past [Blu-ray]",
+    "main_title": "X-Men : Collection 6 films",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2095_video/thumbnail_big",
     "thumbnail_mini": "db/2095_video/thumbnail_small"

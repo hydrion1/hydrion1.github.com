@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Doors (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Oliver Stone"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame, Musical"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "138"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Val Kilmer, Meg Ryan, Kyle MacLachlan"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/04/1991"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/07/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "1965. Jim Morrison, qui écrit des poèmes et suit les cours à UCLA, s'éprend de Pamela Courson. Il lui lit ses écrits influencés par le mysticisme des Indiens, qu'il a découvert durant son enfance au Nouveau-Mexique. La sensibilité des poèmes de Morrison impressionne Ray Manzarek et, bientôt, un groupe musical se forme…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083189648"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/07/2024 08:09"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/07/2024 08:10"
+        }
+    ],
+    "main_title": "The Doors (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2632_video/thumbnail_big",
+    "thumbnail_mini": "db/2632_video/thumbnail_small"
+}

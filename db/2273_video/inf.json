@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Koimonogatari"
+            "value": "Koimonogatari (5ème arc de la Saison 2 de Monogatari)"
         },
         {
             "name": "Réalisateur(s)",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "09/11/2023 18:13"
+            "value": "02/08/2024 22:46"
         }
     ],
-    "main_title": "Koimonogatari",
-    "sub_title": "DVD",
+    "main_title": "Koimonogatari (5ème arc de la Saison 2 de Monogatari)",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2273_video/thumbnail_big",
     "thumbnail_mini": "db/2273_video/thumbnail_small"
 }

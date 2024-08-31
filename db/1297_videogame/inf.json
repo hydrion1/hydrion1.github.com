@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Wars: Battlefront II"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox"
+        },
+        {
+            "name": "Genre",
+            "value": "FPS"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "01/11/2005"
+        },
+        {
+            "name": "Editeur",
+            "value": "LucasArts"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/11/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0023272328528"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "état cd"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/05/2024 13:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/05/2024 13:05"
+        }
+    ],
+    "main_title": "Xbox",
+    "sub_title": "Star Wars: Battlefront II",
+    "thumbnail_big": "db/1297_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1297_videogame/thumbnail_small"
+}

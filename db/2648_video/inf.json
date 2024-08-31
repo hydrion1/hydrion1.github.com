@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Opération Casse-noisette 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Cal Brunker"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "91"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/10/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/07/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.78 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Nos rongeurs préférés mènent la grande vie dans le sous-sol d’un magasin de noisettes, jusqu’au jour où une explosion vient détruire leur caverne d’Ali Baba… A la recherche d’un nouveau lieu de vie, Surly repère un magnifique parc qui serait idéal pour tous ! Problème : le maire de la ville souhaite transformer cet espace vert en parc d’attraction… Heureusement, Surly va pouvoir compter sur de nouveaux amis : des milliers de souris blanches expertes en kung-fu !"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001054791"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/07/2024 10:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/07/2024 11:01"
+        }
+    ],
+    "main_title": "Opération Casse-noisette 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2648_video/thumbnail_big",
+    "thumbnail_mini": "db/2648_video/thumbnail_small"
+}

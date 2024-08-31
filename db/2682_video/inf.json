@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Lion"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Garth Davis"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Dev Patel, Rooney Mara, David Wenham, Nicole Kidman, Sunny Pawar, Abhishek Bharate, Priyanka Bose, Tannishtha Chatterjee"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/02/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/07/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.68 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Une incroyable histoire vraie : à 5 ans, Saroo se retrouve seul dans un train traversant l’Inde qui l’emmène malgré lui à des milliers de kilomètres de sa famille. Perdu, le petit garçon doit apprendre à survivre seul dans l’immense ville de Calcutta. Après des mois d’errance, il est recueilli dans un orphelinat et adopté par un couple d’Australiens.\n25 ans plus tard, Saroo est devenu un véritable Australien, mais il pense toujours à sa famille en Inde.\nArmé de quelques rares souvenirs et d’une inébranlable détermination, il commence à parcourir des photos satellites sur Google Earth, dans l’espoir de reconnaître son village.\nMais peut-on imaginer retrouver une simple famille dans un pays d’un milliard d’habitants ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8713045248642"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/08/2024 11:39"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/08/2024 11:48"
+        }
+    ],
+    "main_title": "Lion",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2682_video/thumbnail_big",
+    "thumbnail_mini": "db/2682_video/thumbnail_small"
+}

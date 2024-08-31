@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Malavita"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Luc Besson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "112"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robert De Niro, Michelle Pfeiffer, Tommy Lee Jones, Dianna Agron, John D'Leo, Jimmy Palumbo"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.25 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Fred Blake alias Giovanni Manzoni, repenti de la mafia new-yorkaise sous protection du FBI, s’installe avec sa famille dans un petit village de Normandie.\n\nMalgré d’incontestables efforts d’intégration, les bonnes vieilles habitudes vont vite reprendre le dessus quand il s’agira de régler les petits soucis du quotidien…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/08/2024 21:04"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2024 21:16"
+        }
+    ],
+    "main_title": "Malavita",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2709_video/thumbnail_big",
+    "thumbnail_mini": "db/2709_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Apollo 13 (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ron Howard"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "140"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Hanks, Bill Paxton, Kevin Bacon, Gary Sinise, Ed Harris, Kathleen Quinlan, Mary Kate Schellhardt, Emily Ann Lloyd"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "08/11/1995"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/07/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.25 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Houston, nous avons un probleme\", c'est la phrase qui, le 13 avril 1970 a 21h7, fit sursauter les hommes qui surveillaient un vol de routine du vaisseau \"Apollo 13\" depuis la salle de contrôle de la NASA. Un des réservoirs d'oxygène venait d'exploser à la 55e heure du vol et à 205 000 miles de la Terre."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083136581"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/08/2024 21:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/08/2024 21:36"
+        }
+    ],
+    "main_title": "Apollo 13 (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2667_video/thumbnail_big",
+    "thumbnail_mini": "db/2667_video/thumbnail_small"
+}

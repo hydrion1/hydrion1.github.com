@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Valentine's Day"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Garry Marshall"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Julia Roberts, Jessica Alba, Anne Hathaway, Jessica Biel, Jennifer Garner, Bradley Cooper, Jamie Foxx, Patrick Dempsey, Ashton Kutcher, Eric Dane, Topher Grace, Kathy Bates, Shirley MacLaine, Queen Latifah"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/02/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les destins croisés de couples qui se séparent ou se retrouvent, de célibataires qui se rencontrent à Los Angeles, le jour de Saint-Valentin..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889013600"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2024 19:49"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2024 20:13"
+        }
+    ],
+    "main_title": "Valentine's Day",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2588_video/thumbnail_big",
+    "thumbnail_mini": "db/2588_video/thumbnail_small"
+}
