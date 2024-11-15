@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "I Robot - Special Edition"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alex Proyas"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Will Smith Bridget Moynahan Alan Tudyk James Cromwell Bruce Greenwood"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/01/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.94 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 2035 les robots sont devenus de parfaits assistants pour les  etres humains. Le detective Del Spooner enqu ete sur le meurtre du docteur Alfred Lanning un chercheur en robotique. Le principal suspect semble  etre un androide nomme Sonny. Or si l'on s'en refere aux lois de la robotique les robots ne sont pas dotes de la faculte de tuer...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "4010232029324"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/03/2024 19:01"
+        }
+    ],
+    "main_title": "I Robot - Special Edition",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/300_video/thumbnail_big",
+    "thumbnail_mini": "db/300_video/thumbnail_small"
+}

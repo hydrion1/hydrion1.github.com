@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hunger Games"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gary Ross"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jennifer Lawrence Josh Hutcherson Liam Hemsworth Woody Harrelson Elizabeth Banks"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/08/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "19.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Chaque annee sur les ruines de ce qui etait autrefois l'Amerique du Nord le Capitole l'impitoyable capitale de la nation de Panem oblige chacun de ses douze districts a envoyer un garcon et une fille - les \"\"tributs\"\" - concourir aux Hunger Games. A la fois sanction envers la population pour avoir tente de se rebeller et strategie d'intimidation de la part du gouvernement les Hunger Games sont un evenement televise national au cours duquel les tributs doivent s'affronter jusqu'a la mort. Le dernier survivant est declare vainqueur. La jeune Katniss se retrouve face a des adversaires surentraines qui se sont prepares aux jeux toute leur vie. Elle a pour seuls atouts son instinct et un mentor Haymitch Abernathy un ancien vainqueur des Hunger Games mais qui a sombre dans l'alcool. Pour esperer pouvoir revenir un jour chez elle Katniss va devoir une fois dans l'arene faire des choix impossibles entre la survie et son humanite entre la vie et l'amour...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Metropolitan Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5412370811202"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/10/2023 12:06"
+        }
+    ],
+    "main_title": "Hunger Games",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/834_video/thumbnail_big",
+    "thumbnail_mini": "db/834_video/thumbnail_small"
+}

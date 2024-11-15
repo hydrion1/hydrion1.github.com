@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Wolverine : Le combat de l'immortel"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "James Mangold"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "128"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Svetlana Khodchenkova, Hiroyuki Sanada, Rila Fukushima, Tao Okamoto, Hugh Jackman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/11/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.02 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sept ans après X-Men : l'affrontement final, Logan, l'éternel guerrier marginal, se rend au Japon. Là-bas, ses griffes en adamantium se heurteront à l'acier des samouraïs. Vulnérable pour la première fois et poussé à des limites émotionnelles, il affronte non seulement l'acier mortel des samouraïs, mais aussi le combat intérieur contre sa propre immortalité. Logan sera confrontée à une figure mystérieuse de son passé, dans une bataille épique qui le changera à jamais."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "20th Century Fox"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 2.0, Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "2.35:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626064145"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/05/2018 22:50"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Wolverine : Le combat de l'immortel",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1575_video/thumbnail_big",
+    "thumbnail_mini": "db/1575_video/thumbnail_small"
+}

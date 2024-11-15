@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Arsene Lupin"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jean-Paul Salome"
+        },
+        {
+            "name": "Genre",
+            "value": "Genres Petits prix imports langue francaise DVD Zone 2 edition simple Francais"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Eva Green Kristin Scott Thomas Pascal Greggory Patrick Toomey Robin Renucci"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/05/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Arsene Lupin est un voleur insouciant detroussant l'aristocratie parisienne grace a son charme redoutable. Sa rencontre avec une ensorcelante aventuriere la comtesse de Cagliostro va transformer le pickpocket debutant en voleur de haut vol. Lance sur la piste du tresor perdu des rois de France que convoite une obscure confrerie royaliste le jeune virtuose multiplie les coups d'eclat : attaque d'un train lance a pleine allure course-poursuite dans les catacombes parisiennes vol spectaculaire a la cathedrale de Rouen... Mais sa qu ete va  etre perturbee par sa passion aveugle pour la veneneuse comtesse...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5420051904785"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Arsene Lupin",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/103_video/thumbnail_big",
+    "thumbnail_mini": "db/103_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Roman de Renart (Le)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thierry Schiel"
+        },
+        {
+            "name": "Genre",
+            "value": "Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Frederic Diefenthal Lorant Deutsch Patrick Prejean"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/02/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Hors-la-loi invetere fourbe et plein de malice Renart s'attire pourtant la sympathie des petits et des grands car ses nombreux mefaits n'ont qu'un seul but : la survie et le bonheur des siens. Affuble de Rufus le rat son complice d'infortune maladroit et attachant Renart ira d'aventure en aventure bravant le pire pour aller au bout de son desir absolu.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "TF1 Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3384442072496"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 18:57"
+        }
+    ],
+    "main_title": "Roman de Renart (Le)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/299_video/thumbnail_big",
+    "thumbnail_mini": "db/299_video/thumbnail_small"
+}

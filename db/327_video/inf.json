@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dragons"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Chris Sanders Dean Deblois"
+        },
+        {
+            "name": "Genre",
+            "value": "Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jay Baruchel Gerard Butler America Ferrara"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/11/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dragons est la derniere production de DreamWorks : des realisateurs de Shrek et Madagascar Le personnage principal est un jeune Viking de l'ile Berk ou combattre les dragons est le sport national. Pendant un rituel initiatique il doit prouver qu'il peut  etre le digne successeur de son pere le chef de tribu. Mais sa vie va  etre bouleversee lorsqu'il rencontre un dragon blesse et qu'il se lie d'amitie avec lui. Realise par Chris Sanders et Dean DeBlois (Lilo and Stitch) Produit par Bonnie Arnold (Nos voisins les hommes Toy Story)"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Mariane"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717722070885"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 19:02"
+        }
+    ],
+    "main_title": "Dragons",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/327_video/thumbnail_big",
+    "thumbnail_mini": "db/327_video/thumbnail_small"
+}

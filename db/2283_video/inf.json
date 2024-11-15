@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Glass (4K)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "M. Night Shyamalan"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "130"
+        },
+        {
+            "name": "Acteurs",
+            "value": "James McAvoy, Bruce Willis, Anya Taylor-Joy, Sarah Paulson, Samuel L. Jackson, Charlayne Woodard, Spencer Treat Clark, Luke Kirby"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/01/2019"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/11/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Peu de temps après les événements relatés dans Split, David Dunn - l’homme incassable - poursuit sa traque de La Bête, surnom donné à Kevin Crumb depuis qu’on le sait capable d’endosser 23 personnalités différentes. De son côté, le mystérieux homme souffrant du syndrome des os de verre Elijah Price suscite à nouveau l’intérêt des forces de l’ordre en affirmant détenir des informations capitales sur les deux hommes… "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418545444"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/11/2023 17:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:49"
+        }
+    ],
+    "main_title": "Glass (4K)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2283_video/thumbnail_big",
+    "thumbnail_mini": "db/2283_video/thumbnail_small"
+}

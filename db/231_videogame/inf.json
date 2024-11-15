@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Guilty gear : Dust strikers (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Combat"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "02/08/2007"
+        },
+        {
+            "name": "Editeur",
+            "value": "Majesco Sales Inc."
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "4005209083126"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Le jeu Guilty Gear Dust Strikers est un jeu de combat ou tous les coups sont permis. Inclus des mini jeux pour debloquer des coups speciaux et combos devastateurs.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/06/2022 23:02"
+        }
+    ],
+    "main_title": "Nintendo DS",
+    "sub_title": "Guilty gear : Dust strikers (loose)",
+    "thumbnail_big": "db/231_videogame/thumbnail_big",
+    "thumbnail_mini": "db/231_videogame/thumbnail_small"
+}

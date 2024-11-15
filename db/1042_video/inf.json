@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Django Unchained"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jamie Foxx Christoph Waltz Leonardo DiCaprio Kerry Washington Samuel L. Jackson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jamie Foxx Christoph Waltz Leonardo DiCaprio Kerry Washington Samuel L. Jackson"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/05/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans le sud des Etats-Unis deux ans avant la guerre de Secession le Dr King Schultz un chasseur de primes allemand fait l'acquisition de Django un esclave qui peut l'aider a traquer les freres Brittle les meurtriers qu'il recherche. Schultz promet a Django de lui rendre sa liberte lorsqu'il aura capture les Brittle - morts ou vifs. Alors que les deux hommes pistent les dangereux criminels Django n'oublie pas que son seul but est de retrouver Broomhilda sa femme dont il fut separe a cause du commerce des esclaves... Lorsque Django et Schultz arrivent dans l'immense plantation du puissant Calvin Candie ils eveillent les soupcons de Stephen un esclave qui sert Candie et a toute sa confiance. Le moindre de leurs mouvements est desormais epie par une dangereuse organisation de plus en plus proche... Si Django et Schultz veulent esperer s'enfuir avec Broomhilda ils vont devoir choisir entre l'independance et la solidarite entre le sacrifice et la survie...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Sony Pictures Entertainment"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609653045"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 16:23"
+        }
+    ],
+    "main_title": "Django Unchained",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1042_video/thumbnail_big",
+    "thumbnail_mini": "db/1042_video/thumbnail_small"
+}

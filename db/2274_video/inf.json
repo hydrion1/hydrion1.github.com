@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bodacious Space Pirates"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "SATÔ Tatsuo"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "375"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "05/09/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "09/11/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "6"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Depuis la guerre d’indépendance, la paix règne dans la petite constellation de la Baleine. Cette petite colonie doit son émancipation de l’Empire galactique à une lutte sans merci et son gouvernement a réussi à maintenir la tranquillité grâce à l’aide des pirates de l’espace. Cent ans plus tard, la jeune et insouciante Marika Kato, serveuse dans un café, est bien loin de toutes les préoccupations territoriales de la galaxie. Mais sa vie va être chamboulée lorsqu’elle découvre l’identité de son père, qui n’était autre que le célèbre Gonzaemon Kato, capitaine du, encore plus célèbre, vaisseau pirate Bentenmaru. En tant que descendante directe du capitaine, elle n’a d’autre choix que de reprendre le commandement du vaisseau orphelin ! Pas facile quand on a à ses trousses les renseignements, la police, l’armée et la mafia de l’espace ! "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Dybex"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 2.0"
+        },
+        {
+            "name": "Ratio",
+            "value": "1.78:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3700091031897"
+        },
+        {
+            "name": "Format",
+            "value": "PAL, Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/11/2023 18:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "09/11/2023 18:24"
+        }
+    ],
+    "main_title": "Bodacious Space Pirates",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/2274_video/thumbnail_big",
+    "thumbnail_mini": "db/2274_video/thumbnail_small"
+}

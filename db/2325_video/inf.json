@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Indestructibles (Les)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Brad Bird"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "24/11/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/11/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.88 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Bob Paar était jadis l'un des plus grands super-héros de la planète. Tout le monde connaissait \"Mr. Indestructible\", le héros qui, chaque jour, sauvait des centaines de vies et combattait le mal. Mais aujourd'hui, Mr. Indestructible est un petit expert en assurances qui n'affronte plus que l'ennui et un tour de taille en constante augmentation.\nContraint de raccrocher son super costume quinze ans plus tôt à la suite d'une série de\nlois ineptes, Bob et sa femme, Hélène, ex-Elastigirl, sont rentrés dans le rang et s'efforcent de mener une vie normale avec leurs trois enfants.\nRongeant son frein, rêvant de repasser à l'action, Bob bondit sur l'occasion lorsqu'une mystérieuse convocation l'appelle sur une île lointaine pour une mission top-secret. Il va découvrir que derrière cette alléchante proposition, se cache un génie malfaisant avide de\nvengeance et de destruction. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418304089"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/11/2023 23:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/03/2024 22:43"
+        }
+    ],
+    "main_title": "Indestructibles (Les)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2325_video/thumbnail_big",
+    "thumbnail_mini": "db/2325_video/thumbnail_small"
+}

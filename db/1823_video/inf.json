@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Naruto Shippuden-Le Film : Les Liens"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Hajime Kamegaki"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/05/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/08/2021"
+        },
+        {
+            "name": "Classement",
+            "value": "52 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le village caché de Konoha du pays du Feu subit une attaque aérienne soudaine !! Le cauchemar des Grandes Guerres Ninjas ressuscite En apprenant que leur village est menacé, Naruto et les ninjas de Konoba entrent en action !!! "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/19552647"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "‎ Kana Home Video"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Japonais"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3309450034236"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/08/2021 19:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Naruto Shippuden-Le Film : Les Liens",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1823_video/thumbnail_big",
+    "thumbnail_mini": "db/1823_video/thumbnail_small"
+}

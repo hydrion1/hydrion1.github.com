@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Madagascar"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Eric Darnell, Tom McGrath"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "86"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Chris Rock, Ben Stiller, David Schwimmer"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/06/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/10/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.51 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lorsqu'un lion, un zèbre, une girafe, un hippopotame et une poignée de pingouins psychotiques fuient leur zoo new-yorkais pour secourir l'un des leurs, l'aventure s'écrit avec un grand A. Et lorsque le destin les réunit sur l'île de Madagascar, ils doivent apprendre en formation accélérée les rudiments de la vie à l'air libre. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717721330805"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/10/2024 12:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/10/2024 13:46"
+        }
+    ],
+    "main_title": "Madagascar",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2870_video/thumbnail_big",
+    "thumbnail_mini": "db/2870_video/thumbnail_small"
+}

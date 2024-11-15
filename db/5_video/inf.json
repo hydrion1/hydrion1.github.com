@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Or se barre (L')"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michael Caine Noel Coward Benny Hill Raf Vallone Rossano Brazzi"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Michael Caine Noel Coward Benny Hill Raf Vallone Rossano Brazzi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/04/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.03 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sortant tout juste de prison Charlie reprend a son compte un coup detonnant : plonger la ville de Turin dans la chaos automobile afin de derober un magot d'or grace a 3 Mini Cooper une paire de Jaguar et un bus...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Paramount"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333973129131"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/04/2022 21:03"
+        }
+    ],
+    "main_title": "Or se barre (L')",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/5_video/thumbnail_big",
+    "thumbnail_mini": "db/5_video/thumbnail_small"
+}

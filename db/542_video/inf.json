@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pourquoi j'ai pas mange mon pere"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jamel Debbouze Frederic Fougea Jean-Luc Fromental Roy Lewis"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Arie Elmaleh Christian Hecq Jamel Debbouze Melissa Theuriau Patrice Thibaud"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/08/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Fils aine des Simiens promis au trone Edouard juge trop chetif est rejete au profit de son frere. Personne ne se doute de son existence et lui-meme ne connait pas sa veritable identite. Malin et genereux il grandit loin de son peuple et revolutionne tout ce qu'il touche inventant la marche le feu la chasse...Jusqu'au jour ou il est reunit avec les siens pour les mener vers un nouveau concept: l'espoir !}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Pathe"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3388330047979"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Pourquoi j'ai pas mange mon pere",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/542_video/thumbnail_big",
+    "thumbnail_mini": "db/542_video/thumbnail_small"
+}

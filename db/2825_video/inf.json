@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fantasia 2000"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "James Algar"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Famille, Fantastique, Musical"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "80"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gaëtan Brizzi, Paul Brizzi, Hendel Butoy, Francis Glebas, Eric Goldberg, Don Halm, Pixote Hunt, Steve Martin, Itzhak Perlman, Quincy Jones, Bette Midler, James Earl Jones"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "24/05/2000"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.15 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1941, Walt Disney réalisait \"Fantasia\". Il rêvait alors de concevoir chaque année un nouvel opus de \"Fantasia\", film-concert comprenant un cocktail de comédie, de ballet, de drame, d'impressionnisme, de couleurs et de sons. Aujourd'hui, son rêve est devenu réalité avec \"Fantasia 2000\" qui présente sept interprétations nouvelles des plus grands morceaux classiques, assorties de l'épisode qui donna naissance au film original en 1940 et marqua l'histoire du dessin animé : \"l'Apprenti Sorcier\". Film réalisé en procédé Imax."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418275105"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/09/2024 15:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/09/2024 16:00"
+        }
+    ],
+    "main_title": "Fantasia 2000",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2825_video/thumbnail_big",
+    "thumbnail_mini": "db/2825_video/thumbnail_small"
+}

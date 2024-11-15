@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Île aux trésors (L')"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alain Berbérian"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Michael Culkin, Vincent Rottiers, Jean-Paul Rouve, Alice Taglioni, Gérard Jugnot"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/08/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un trésor enfoui sur un îlot des Antilles. Un pirate sans jambe droite, sans bateau, traitre et sanguinaire et sans la carte du trésor. Une baronne flambeuse, sans scrupules, mante religieuse, sans le sou, mais avec un bateau. Un jeune homme sans peur et sans cervelle, mais avec la carte du trésor gravée quelque part dans sa mémoire défaillante. Un médecin boit-sans-soif, spécialiste providentiel des mémoires défaillantes et autres amnésies atypiques... C'est cette équipe de rêve qui lève l'ancre un matin de l'an de grâce mille sept cents et quelques, direction l'île au Trésor et ses criques de sable rose..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "C.I.D.C."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Français"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "2.35:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3384442121347"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 11:08"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Île aux trésors (L')",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1459_video/thumbnail_big",
+    "thumbnail_mini": "db/1459_video/thumbnail_small"
+}

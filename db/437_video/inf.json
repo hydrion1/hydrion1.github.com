@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Minority Report"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steven Spielberg"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Cruise Colin Farrell Max Von Sydow Samantha Morton Lois Smith"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"La superstar Tom Cruise excelle dans ce thriller d'action/science-fiction sublime realise par Steven Spielberg. Washington 2054. La societe du futur a elimine le meurtre en se dotant du systeme de prevention/detection/repression le plus sophistique du monde. Mais quand l'ordinateur du departement \"\"Precrime\"\" renvoie au chef John Anderton (Tom Cruise) sa propre image l'impensable se produit : d'ici 36 heures Anderton aura assassine un parfait etranger... Devenu la cible de ses propres troupes Anderton prend la fuite...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626014515"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 16:53"
+        }
+    ],
+    "main_title": "Minority Report",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/437_video/thumbnail_big",
+    "thumbnail_mini": "db/437_video/thumbnail_small"
+}

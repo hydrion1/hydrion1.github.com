@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "DS Memory expansion pak"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Accessoire"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/11/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "null"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "NTR-A-ZMN-EUR"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/11/2023 14:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/11/2023 14:04"
+        }
+    ],
+    "main_title": "Nintendo DS",
+    "sub_title": "DS Memory expansion pak",
+    "thumbnail_big": "db/1239_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1239_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dangerous Man"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Keoni Waxman"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Steven Seagal Marlaina Mah Vitaly Kravchenko"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/05/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Accord parental souhaite"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Shane Daniels vient de passer quinze annees en prison pour un crime qu'il n'a pas commis. Juste apres sa liberation il est temoin d'une transaction mafieuse qui degenere. Des membres d'un gang et des policiers sont tues ne laissant qu'une fille apeuree et un sac plein d'argent. Shane va devoir se battre au sein d'une ville corrompue tout en protegeant la jeune fille de la mafia chinoise qui l'avait prise en otage.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Seven7"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3512391748616"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Dangerous Man",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/877_video/thumbnail_big",
+    "thumbnail_mini": "db/877_video/thumbnail_small"
+}

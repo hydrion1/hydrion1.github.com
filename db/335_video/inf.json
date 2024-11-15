@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Metropolis"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rin Taro"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Yuka Imoto Kei Kobayashi Kouki Okasa Jamieson Price"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/08/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.02 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A Metropolis chacun est a sa place. Dans cette immense cite du futur les humains et les robots cohabitent dans un cadre strict. Le gigantesque gratte-ciel Ziggurat abrite les elites de la societe qui y menent une existence doree. Les pauvres et les robots eux sont condamnes a une vie souterraine qui s'est organisee au sein d'un vaste reseau dans les entrailles de la ville. Alors que les soulevements anti-robots se multiplient le detective Shunsaku Ban et son assistant Kenichi partent a la recherche d'une scientifique rebelle le docteur Laughton afin de saisir sa derniere creation. Repoussant les limites technologiques il a cree Tima une merveilleuse petite fille qui est aussi un robot d'un nouveau genre. Elle incarne une nouvelle race de sur- etres. Ayant localise le laboratoire secret Shunsaku et Kenichi decouvrent que le scientifique excentrique est protege par un homme enigmatique et puissant dont l'unique desir est de retrouver une personne chere tragiquement disparue. L'enquete s'annonce plus que dangereuse...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Sony Pictures Entertainment"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333297194396"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Metropolis",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/335_video/thumbnail_big",
+    "thumbnail_mini": "db/335_video/thumbnail_small"
+}

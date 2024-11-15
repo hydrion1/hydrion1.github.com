@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dune"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Lynch"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kyle MacLachlan Francesca Annis Leo Cimino Brad Dourif Jose Ferrer"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "19/06/2000"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Plus encore que la plupart des films deliberement etranges qui sont la caracteristique de David Lynch Dune n'inspire aucun jugement nuance vous adorez ou vous detestez. Cette curieuse adaptation du classique de science-fiction de Frank Herbert sous la forme d'une saga ambitieuse et dejantee est une des oeuvres les plus controversees de la carriere excessivement provocante du realisateur. L'histoire (comme si l'on pouvait dire que Dune n'en contenait qu'une) est complexe a souhait fidele en cela a la tradition epique. C'est une intrigue politique metaphorique sur une planete peuplee de gigantesques vers de sable ou pousse une epice precieuse. Imaginez Henry IV de Shakespeare sous un tremblement de terre dans une autre galaxie. Mais malgre les nombreuses voix off murmurant les pensees des personnages et les commentaires incessants le recit n'est pas le point fort du film. Dune propose cependant de nombreux tableaux fantastiques et inoubliables une distribution extraordinaire et une bande originale de Toto (je vous avais dit que c'etait un film etrange). Parmi les stars du films figurent Kyle MacLachlan Jose Ferrer Dean Stockwell Brad Dourif Sting Kenneth McMillan Patrick Stewart Sean Young et Linda Hunt. --Jimemerson}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "G.C.T.H.V."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3700173208032"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Dune",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/711_video/thumbnail_big",
+    "thumbnail_mini": "db/711_video/thumbnail_small"
+}

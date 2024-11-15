@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Four Player Adapter - Nintendo Game Boy (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy"
+        },
+        {
+            "name": "Genre",
+            "value": "Accessoire"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/08/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "DMG07"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "DMG07"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/08/2022 22:16"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/08/2022 22:16"
+        }
+    ],
+    "main_title": "Game Boy",
+    "sub_title": "Four Player Adapter - Nintendo Game Boy (loose)",
+    "thumbnail_big": "db/1044_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1044_videogame/thumbnail_small"
+}

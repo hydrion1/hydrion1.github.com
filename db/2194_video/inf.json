@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mulan"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Niki Caro"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Famille, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "115"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Yifei Liu, Donnie Yen, Gong Li, Jet Li, Jason Scott Lee, Yoson An, Tzi Ma, Rosalind Chao, Pei-Pei Cheng, Xana Tang, Ron Yuan, Jun Yu, Chen Tang, Doua Moua, Jimmy Wong, Ming-Na Wen"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2020"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lorsque l’Empereur de Chine publie un décret stipulant qu’un homme de chaque famille du pays doit intégrer l’armée impériale pour combattre des envahisseurs venus du nord, Hua Mulan, fille ainée d’un vénérable guerrier désormais atteint par la maladie, décide de prendre sa place au combat. Se faisant passer pour un soldat du nom de Hua Jun, elle se voit mise à l’épreuve à chaque étape du processus d’apprentissage, mobilisant chaque jour un peu plus sa force intérieure pour explorer son véritable potentiel…\nCommence alors pour Mulan un voyage épique qui transformera la jeune fille en une guerrière aux faits d’armes héroïques, honorée par tout un peuple reconnaissant et faisant la fierté de son père. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418569327"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/09/2023 18:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/10/2023 07:50"
+        }
+    ],
+    "main_title": "Mulan",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2194_video/thumbnail_big",
+    "thumbnail_mini": "db/2194_video/thumbnail_small"
+}

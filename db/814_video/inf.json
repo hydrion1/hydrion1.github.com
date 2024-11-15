@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mexicain"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gore Verbinski"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Brad Pitt Julia Roberts James Gandolfini J.K. Simmons Bob Balaban"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/08/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En quatre annees passees a proteger la Terre de toutes sortes d'invasion extraterrestre l'agent J qui travaille secretement au quartier general des Men in black n'a toujours pas trouve de partenaire avec qui faire equipe. A la suite d'un crime etrange impliquant des extraterrestres l'agence decouvre l'existence d'un redoutable complot menacant notre planete. Serleena une malefique seductrice qui a pris l'apparence d'un top-model en lingerie fine est pete a tout pour accomplir son sinistre dessein. J a absolument besoin des services de K son ancien partenaire qui n'a plus aucun souvenir des MIB et travaille dorenavant a la Poste. J va devoir par tous les moyens le faire sortir de sa retraite.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "DreamWorks France"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3606313143617"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Mexicain",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/814_video/thumbnail_big",
+    "thumbnail_mini": "db/814_video/thumbnail_small"
+}

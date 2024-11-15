@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Wonderful days"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kim Moon-Saeng"
+        },
+        {
+            "name": "Genre",
+            "value": "Animation"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "87"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/06/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "68 %"
+        },
+        {
+            "name": "Zone",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 2142, la civilisation a été détruite par la guerre et la pollution mais les survivants qui maîtrisaient la technologie ont construit une ville où la nature est restituée : Ecoban. La seule énergie d'Ecoban provient de la pollution. Les habitants d'Ecoban envisagent de détruire ceux de Mars pour emmagasiner encore plus de produits polluants. Un seul homme se dresse contre Ecoban : il veut juste retrouver le bleu du ciel !"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/18364477"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Pathé"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Coréen"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/09/2019 22:14"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 19:11"
+        }
+    ],
+    "main_title": "Wonderful days",
+    "sub_title": "",
+    "thumbnail_big": "db/1709_video/thumbnail_big",
+    "thumbnail_mini": "db/1709_video/thumbnail_small"
+}

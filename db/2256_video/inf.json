@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Petit Prince (Le)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mark Osborne"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "117"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Clara Poincaré, Florence Foresti, André Dussollier"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "29/07/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/10/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "3 ans"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "C’est l’histoire d’une histoire.\nC’est l’histoire d’une petite fille, intrépide et curieuse, qui vit dans un monde d’adultes.\nC’est l’histoire d’un aviateur, excentrique et facétieux, qui n’a jamais vraiment grandi.\nC’est l’histoire du Petit Prince qui va les réunir dans une aventure extraordinaire. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370846495"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/10/2023 18:51"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/10/2023 18:55"
+        }
+    ],
+    "main_title": "Petit Prince (Le)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2256_video/thumbnail_big",
+    "thumbnail_mini": "db/2256_video/thumbnail_small"
+}

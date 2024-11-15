@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Ocean 4 The Last Hope : International"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "12/02/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "Square Enix"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Adolescents"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "26.89 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060121826076"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Edge Maverick fait parti d'un équipage de l'un des nombreux vaisseaux à la recherche d'une planète viables pour l'espèce humaine. Après une troisième guerre mondiale sanglante et acharnée, la terre, e effet, n'est plus habitable et la population cherche alors une solution de repli. Incarnez ce personnage pour une mission des plus perilleuses dont dépend la survie même de l'espèce humaine. Bonne chance Edge ! Version Francaise"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 17:49"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 12:10"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Star Ocean 4 The Last Hope : International",
+    "thumbnail_big": "db/448_videogame/thumbnail_big",
+    "thumbnail_mini": "db/448_videogame/thumbnail_small"
+}

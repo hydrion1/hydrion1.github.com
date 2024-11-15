@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Kiki la petite sorciere"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Hayao Miyazaki"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Janeane Garofalo Minami Takayama Adeline Chetail"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1989"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/02/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.22 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Chez Kiki, treize ans, on est sorcière de mère en fille. Mais pour avoir droit à ce titre, Kiki doit faire son apprentissage : elle doit quitter les siens pendant un an et leur prouver qu’elle peut vivre en toute indépendance dans une ville de son choix. Un beau soir, accompagnée de son chat Jiji, après avoir embrassé ses parents et sa grand-mère, elle enfourche son balai et met le cap vers le sud « pour voir la mer »… Le lendemain, elle atterrit dans une sympathique ville côtière. C’est là qu’elle va apprendre aux côtés d’Osono, une gentille boulangère qui lui propose un emploi de livreuse…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Buena Vista Home Entertainment"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418395766"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/02/2024 18:45"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/02/2024 19:03"
+        }
+    ],
+    "main_title": "Kiki la petite sorciere",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2430_video/thumbnail_big",
+    "thumbnail_mini": "db/2430_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Terminator Renaissance"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "McG"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Christian Bale Sam Worthington Moon Bloodgood Helena Bonham Carter Anton Yelchin"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Apres les evenements dramatiques survenus dans le dernier Terminator l'histoire se poursuit avec le leader charismatique de la revolution John Connor age de 30 ans et sa fiancee Kate Brewster. Ces derniers ont decide de creer une organisation regroupant les derniers survivants pour combattre l'armee des cyborgs qui est en train d' etre reformee par Skynet. Mais l'un des survivants est en fait un traitre deguise qui a un secret que personne n'aurait pu suspecter?}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Sony Pictures"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333297614269"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Terminator Renaissance",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/575_video/thumbnail_big",
+    "thumbnail_mini": "db/575_video/thumbnail_small"
+}

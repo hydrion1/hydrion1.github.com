@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Sin City"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Robet Rodriguez"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Bruce Willis Mickey Rourke Jessica Alba"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/02/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Adaptation du comic book d un des plus grands auteurs et dessinateurs de sa generation Sin City permet a Robert Rodriguez de peaufiner son style. Visuellement a tomber par terre avec son noir et blanc d'une classe folle son casting habite et sa direction artistique meticuleuse le film reussit a donner vie a de nombreux personnages complexes et touchants. Les hommes sont a la fois victimes et bourreaux durs et tendres et se battent pour sauver leur honneur dans un monde gangrene par la corruption. Rodriguez reussit le plus ardu : donner vie a de purs fantasmes de cinema en jouant le premier degre. La comprehension qu il donne de l'univers de Miller alliee a l efficacite redoutable de sa mise en scene offre a Sin City une richesse narrative et une force visuelle des plus rejouissantes. Reprenant les memes menus tres reussis de l edition simple l edition collector offre un second disque dedie a des supplements qui font la part belle aux impressions de tournage du realisateur et des interpretes. A noter le module sur l univers de Frank Miller qui dresse un petit portrait des oeuvres majeures de Miller au travers d interviews croisees de trois editeurs et dessinateurs francais dont Enki Bilal."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5414474351899"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/11/2024 21:26"
+        }
+    ],
+    "main_title": "Sin City",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/319_video/thumbnail_big",
+    "thumbnail_mini": "db/319_video/thumbnail_small"
+}

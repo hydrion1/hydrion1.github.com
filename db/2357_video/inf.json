@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Beetlejuice (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tim Burton"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Michael Keaton, Alec Baldwin, Catherine O'Hara, Winona Ryder, Geena Davis"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/12/1988"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/12/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Pour avoir voulu sauver un chien Adam et Barbara Maitland passent tout de go dans l'autre monde. Peu apres occupants invisibles de leur antique demeure ils la voient envahie par une riche et bruyante famille new-yorkaise. Rien a redire jusqu'au jour ou cette honorable famille entreprend de donner un cachet plus urbain a la vieille demeure. Adam et Barbara scandalises decident de deloger les intrus. Mais leurs classiques fantomes et autres sortileges ne font aucun effet. C'est alors qu'ils font appel a un \"\"bio-exorciste\"\" freelance connu sous le sobriquet de Beetlejuice.}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051889674764"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/12/2023 23:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/01/2024 21:27"
+        }
+    ],
+    "main_title": "Beetlejuice (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2357_video/thumbnail_big",
+    "thumbnail_mini": "db/2357_video/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Soul Calibur V"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux d'action de combat"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "03/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Namco"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Adolescents"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "24.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3391891958592"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "SOULCALIBUR V se situe 17 ans après les évènements de SOULCALIBUR IV où de nouveaux héros et d’anciens combattants s’affrontent dans une bataille épique opposant le bien et le mal. Élu meilleur jeu de combat de la Gamescom, SOULCALIBUR V compte bien redorer le blason du genre et vous offrir une expérience unique de combats épiques."
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 17:49"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Soul Calibur V",
+    "thumbnail_big": "db/447_videogame/thumbnail_big",
+    "thumbnail_mini": "db/447_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mon Beau-Pere. mes parents et moi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jay Roach"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robert de Niro Ben Stiller Teri Polo Blythe Danner Dustin Hoffman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/10/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La premiere entrevue avec les futurs beaux-parents de Greg fut un concentre exemplaire de tout ce qu'il ne faut pas faire dans de telles circonstances. Entre-temps les choses se sont arrangees et Greg a meme reussi a amadouer son beau-pere le terrifiant Jack et a integrer son cercle de confiance. Pam et lui peuvent donc envisager le mariage... mais il reste a organiser une reunion avec les parents de Greg...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "DreamWorks France"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5050583021850"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/08/2023 18:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 18:17"
+        }
+    ],
+    "main_title": "Mon Beau-Pere. mes parents et moi",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/2130_video/thumbnail_big",
+    "thumbnail_mini": "db/2130_video/thumbnail_small"
+}

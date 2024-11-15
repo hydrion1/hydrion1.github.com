@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Allo maman ici bébé"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Amy Heckerling"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": "George Segal, Olympia Dukakis, Kirstie Alley, John Travolta"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/12/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Maman a tout pour être heureuse : 30 ans, bien dans sa peau un petit ami, Albert - L'ennui, c'est qu'ils font un bébé, Mickey - Albert pique sa crise..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Sony Pictures"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 2.0 Surround"
+        },
+        {
+            "name": "Ratio",
+            "value": "1.85:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333297514590"
+        },
+        {
+            "name": "Format",
+            "value": "PAL, Plein écran, Couleur, Anamorphique"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/07/2018 10:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Allo maman ici bébé",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1587_video/thumbnail_big",
+    "thumbnail_mini": "db/1587_video/thumbnail_small"
+}

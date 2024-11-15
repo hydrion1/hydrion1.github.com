@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Antidote (L')"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Vincent de Brus"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Christian Clavier Jacques Villeret Agnes Soral Annie Gregorio Francois Levantal"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.80 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Jacques-Alain Marty dit \"\"Jam\"\" est le patron d'un grand groupe. Tout lui reussit mais depuis quelques semaines Jam n'est plus dans son etat normal il est sujet a des crises d'angoisse. Andre Morin comptable est l'icone connue et reconnue des petits porteurs. La route de Jam va croiser celle d'Andre Morin lors de l'assemblee generale de Vladis. Jam realise alors qu'en presence du comptable il retrouve tous ses moyens et son charisme qui ont fait de lui l'un des maitres du monde... Jam decide de ne plus lacher ce Morin qui est son antidote...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3322069908798"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Antidote (L')",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/784_video/thumbnail_big",
+    "thumbnail_mini": "db/784_video/thumbnail_small"
+}

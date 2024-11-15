@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tigre and Dragon"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ang Lee"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Cinema asiatique Entertainment"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Chow Yun-Fat Michelle Yeoh Zhang Zi Yi Chang Cheng Sihung Lung"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/03/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Dans la Chine ancienne Li Mu Bai virtuose des arts martiaux possede une epee legere rapide et magique nommee \"\"Destinee\"\". Elle est l'objet de nombreuses convoitises. Il decide de la confier a une excellente guerriere Yu Shu Lien a qui il n'ose pas avouer son amour. Celle-ci doit remettre la fameuse epee au seigneur Te mais une fois la nuit tombee un habile voleur parvient a la derober. Li et Shu Lien partent alors a sa poursuite et se lancent dans une epopee fantastique d'une beaute visuelle a toute epreuve doublee d'une enqu ete ponctuee de scenes de combats fulgurantes...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Columbia Tristar Home Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609748345"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Tigre and Dragon",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/245_video/thumbnail_big",
+    "thumbnail_mini": "db/245_video/thumbnail_small"
+}

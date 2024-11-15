@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Shmup Collection By Astroport"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Compilation"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "14/05/2020"
+        },
+        {
+            "name": "Editeur",
+            "value": "Pixelheart"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/01/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0800265939868"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Limited copies 3739/5000\n\nPour collection"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/01/2023 10:51"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/01/2023 10:54"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Shmup Collection By Astroport",
+    "thumbnail_big": "db/1117_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1117_videogame/thumbnail_small"
+}

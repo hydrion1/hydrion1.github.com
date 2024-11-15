@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bienvenue chez les Robinson"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": " ‎ Stephen J. Anderson"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/10/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/04/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A 12 ans, Lewis est un garçon brillant qui a déjà inventé beaucoup de choses fabuleuses, mais qui font parfois pas mal de dégâts. Sa dernière invention, le Scanner de Mémoire, pourra peut-être lui permettre de raviver ses lointains souvenirs de sa mère. Lewis retrouverait alors sa famille... Malheureusement, sa géniale invention vient d'être volée par l'ignoble Homme au Chapeau melon.\nLewis a presque perdu tout espoir lorsqu'un mystérieux garçon appelé Wilbur Robinson l'entraîne dans sa machine à explorer le temps... Les voilà lancés dans le futur, où Lewis découvre l'excentrique famille de Wilbur. Dans ce monde futuriste et délirant, la plus fabuleuse des aventures les attend. Pour sauver l'avenir, ils doivent retrouver l'Homme au Chapeau melon et déjouer son fascinant complot. Alors, ils découvriront peut-être le fantastique secret du destin de la famille Robinson. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418152383"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/04/2023 22:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/03/2024 11:34"
+        }
+    ],
+    "main_title": "Bienvenue chez les Robinson",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1948_video/thumbnail_big",
+    "thumbnail_mini": "db/1948_video/thumbnail_small"
+}

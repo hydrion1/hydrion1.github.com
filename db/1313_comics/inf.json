@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Le Journal Intime de Sakura"
+        },
+        {
+            "name": "Titre",
+            "value": "Le journal intime de Sakura. Tome 03 :"
+        },
+        {
+            "name": "Scénario",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Iku Comics"
+        },
+        {
+            "name": "Dessins",
+            "value": ""
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": ""
+        },
+        {
+            "name": "Nbre de pages",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "06/12/2006"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "3"
+        },
+        {
+            "name": "Genre ",
+            "value": "Manga"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/02/2020"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782353560042"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/02/2020 21:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Le Journal Intime de Sakura",
+    "sub_title": "Le journal intime de Sakura. Tome 03 :",
+    "thumbnail_big": "db/1313_comics/thumbnail_big",
+    "thumbnail_mini": "db/1313_comics/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Pôle Express (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Robert Zemeckis"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "99"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Hanks"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.08 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un jeune garçon qui se met à douter de l'existence du père Noël monte dans un train mystérieux en partance pour le pôle Nord. A mesure que le Pôle Express s'enfonce dans des contrées enchantées, l'aventure est au rendez-vous et les jeunes passagers prennent conscience de l'étendue de leurs dons."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888262726"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/08/2024 22:19"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/08/2024 22:21"
+        }
+    ],
+    "main_title": "Le Pôle Express (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2690_video/thumbnail_big",
+    "thumbnail_mini": "db/2690_video/thumbnail_small"
+}

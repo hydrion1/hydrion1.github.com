@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Super Mario 3D World + Bowser's Fury"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Genre non défini"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "29/11/2013"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/05/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "4"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "30.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496426958"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "SUPER MARIO 3D WORLD est le dernier opus dans la série de jeux d'action Super Mario en 3D. Tout comme SUPER MARIO 3D LAND avant lui, ce jeu est amusant et accessible à tous !\nLe jeu propose un multijoueur pour jusqu'à quatre joueurs. En plus de Mario, Luigi et Toad, la princesse Peach devient désormais un personnage jouable ! Le multijoueur déjanté représente une nouvelle manière de s'amuser avec des jeux Mario en 3D, puisque les joueurs peuvent s'entraider ou au contraire se mettre des bâtons dans les roues.\nCe titre inclut également une nouvelle transformation : Mario Chat. Cette nouvelle transformation, permet de grimper aux murs et d'attaquer les ennemis avec les griffes.\nNeuf sous blister.Version française. Envoi rapide avec soins. Satisfait ou remboursé!"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/05/2023 22:49"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/05/2023 22:51"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Super Mario 3D World + Bowser's Fury",
+    "thumbnail_big": "db/1180_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1180_videogame/thumbnail_small"
+}

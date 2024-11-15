@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Premier cercle"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Laurent Tuel"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "94"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Reno, Gaspard Ulliel, Vahina Giocante, Sami Bouajila, Isaac Sharry, Alberto Gimignani"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/05/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Pour Milo Malakian \"\"le Premier Cercle\"\" c'est sa famille ses racines c'est ce qu'on ne transgresse pas la ou l'on est sur des siens. Milo est pet a passer les enes du clan a son heritier direct le seul fils qui lui reste: Anton. Mais celui-ci aspire a une autre vie. La relation secrete qu'il vit avec Elodie lui a ouvert les yeux sur le monde violent et sans issue de son pere. Il doit sortir de ce cercle?}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5415000100073"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/06/2024 16:02"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/06/2024 16:02"
+        }
+    ],
+    "main_title": "Le Premier cercle",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2604_video/thumbnail_big",
+    "thumbnail_mini": "db/2604_video/thumbnail_small"
+}

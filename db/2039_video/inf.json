@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Toy Story 1"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Lasseter"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "81"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Hanks, Tim Allen, Don Rickles, Jim Varney, allace Shawn"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/03/1996"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/06/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Quand le jeune Andy quitte sa chambre, ses jouets se mettent à mener leur propre vie sous la houlette de son pantin préféré, Woody le cow-boy. Andy ignore également que chaque anniversaire est une source d'angoisse pour ses jouets qui paniquent à l'idée d'être supplantés par un nouveau venu. Ce qui arrive quand Buzz l'éclair est offert à Andy. Cet intrépide aventurier de l'espace, venu d'une lointaine galaxie, va semer la zizanie dans ce petit monde et vivre avec Woody d'innombrables aventures aussi dangereuses que palpitantes. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418253301"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "12/06/2023 22:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/03/2024 22:36"
+        }
+    ],
+    "main_title": "Toy Story 1",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2039_video/thumbnail_big",
+    "thumbnail_mini": "db/2039_video/thumbnail_small"
+}

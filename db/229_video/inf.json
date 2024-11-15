@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Polly et moi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Hamburg"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ben Stiller Jennifer Aniston Philip Seymour Hoffman Alec Baldwin Debra Messing"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Reuben Feffer est l'homme le plus prudent le plus routinier du monde. Planifiant sa vie et sa carriere d'assureur avec une rigueur toute mathematique il se defie comme la peste de toute surprise bonne ou mauvaise. L'insouciante Polly Prince navigue a vue improvise au jour le jour multiplie les paris et les coups de t ete. Qu'importe : les occasions ne manquent pas il y a toujours quelque part un nouveau job un nouvel amour un nouvel appartement dans une nouvelle ville.Deux surprises de taille viennent troubler la vie si ordonnee de Reuben Feffer. La premiere : sa femme le trompe et le plaque en pleine lune de miel. La seconde : il rencontre Polly a une reception la trouve charmante irresistiblement drole et seduisante se souvient qu'ils firent ensemble leurs etudes secondaires et qu'elle etait comme lui un modele de serieux. Aucune raison de penser qu'elle ait change...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5050582229684"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Polly et moi",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/229_video/thumbnail_big",
+    "thumbnail_mini": "db/229_video/thumbnail_small"
+}

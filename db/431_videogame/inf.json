@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Eternal sonata"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "13/02/2009"
+        },
+        {
+            "name": "Editeur",
+            "value": "Namco Bandai"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "44.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3296580806447"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Eternal Sonata est un jeu de rôle sur Playstation 3. Découpé en plusieurs chapitres, le titre nous livre une sorte de métaphore bariolée des événements vécus par Frédéric Chopin dans ses rêves les plus fous. Le titre remodèle ainsi ses souvenirs en les a"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 17:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 12:10"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Eternal sonata",
+    "thumbnail_big": "db/431_videogame/thumbnail_big",
+    "thumbnail_mini": "db/431_videogame/thumbnail_small"
+}

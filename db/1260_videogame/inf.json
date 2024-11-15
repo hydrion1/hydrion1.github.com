@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Steambot Chronicles"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 2"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "23/05/2006"
+        },
+        {
+            "name": "Editeur",
+            "value": "Atlus, 505 GameStreet"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/12/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "2"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8023171009179"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Neuf sous blister.Version française. Envoi rapide avec soins. Satisfait ou remboursé! Part Number : SLES-54355 EAN : 5060121820494"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Cadeau Noël Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "26/12/2023 11:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/12/2023 11:25"
+        }
+    ],
+    "main_title": "PlayStation 2",
+    "sub_title": "Steambot Chronicles",
+    "thumbnail_big": "db/1260_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1260_videogame/thumbnail_small"
+}

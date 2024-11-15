@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Van Helsing"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Stephen Sommers"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hugh Jackman Kate Beckinsale Will Kemp Elena Anaya Richard Roxburgh"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le mal a-t-il enfin trouve un adversaire a sa hauteur ? Le legendaire chasseur de monstres Van Helsing est missione par le Vatican pour se rendre en Transylvanie une contree lointaine et hostile ou le puissant Conte Dracula regne en maitre absolu. Van Helsing va poursuivre sa lutte contre le mal alliant ses forces a celles de la vaillante princesse Anna determinee a vaincre l'infame vampire et a mettre un terme a la malediction qui frappe sa famille depuis des generations.Realise par Stephen Sommers (La Momie) et reunissant Hugh Jackman (X-Men) et Kate Beckinsale (Underworld) Van Helsing revisite les legendes de Dracula du Loup Garou et de la creature de Frankenstein dans une aventure a couper le souffle !}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5050582257267"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Van Helsing",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/339_video/thumbnail_big",
+    "thumbnail_mini": "db/339_video/thumbnail_small"
+}

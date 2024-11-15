@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Initial D"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Wai Keung Lau Alan Mak"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Cinema asiatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jay Chou Shawn Yue Edison Chen Anthony Wong Chau-Sang Chapman To"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/03/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Takumi un jeune etudiant livre chaque matin avant d'aller en cours du tofu pour l'entreprise de son pere. Lors de ses livraison matinales il devale les routes du Mont Akina a toute vitesse a bord de sa voiture une Toyota AE86 blanche et noir. Lors d'une de ses livraisons il croise la route d'un street racer confirme qu'il bat avec une grande facilite. Des lors les defis de professionnels et d'amateurs du drift lui sont lances. Le jeune Takumi va devoir se confronter a leurs talents et les vaincre pour s'affirmer comme le meilleur conducteur de la ville ...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "CTV International"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3384442105064"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Initial D",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/976_video/thumbnail_big",
+    "thumbnail_mini": "db/976_video/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Donkey Kong Country tropical freeze"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii U"
+        },
+        {
+            "name": "Genre",
+            "value": "Action Plate-forme"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "21/02/2014"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/01/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "2"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Allemand (Subtitled) Anglais (Subtitled) Espagnol (Subtitled) Fran�ais (Subtitled) Italien (Subtitled) Anglais (Original Language) Allemand (Dubbed) Anglais (Dubbed) Espagnol (Dubbed) Fran�ais (Dubbed) Italien (Dubbed)"
+        },
+        {
+            "name": "Code pegi",
+            "value": "3 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496332662"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/01/2022 20:19"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Wii U",
+    "sub_title": "Donkey Kong Country tropical freeze",
+    "thumbnail_big": "db/871_videogame/thumbnail_big",
+    "thumbnail_mini": "db/871_videogame/thumbnail_small"
+}

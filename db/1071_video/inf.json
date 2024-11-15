@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mafia Blues"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Harold Ramis"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robert De Niro Billy Crystal Lisa Kudrow"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Si le psychiatre new-yorkais Sobel ne croit plus guere a l'efficacite de son savoir sur des patients atteints de nevroses d'une banalite consternante il va changer d'avis quand Paul Vitti connu comme l'un des gangsters les plus puissants de New York franchit autoritairement la porte de son cabinet. Le redoutable malfrat souffre d'etranges symptomes : bouffees d'angoisse blocage acces de culpabilite crises de larmes incontrolees. Il ordonne a un Sobel terrifie de le guerir rapidement car l'election du nouveau parrain de la cote Est approche.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051888003206"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Mafia Blues",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1071_video/thumbnail_big",
+    "thumbnail_mini": "db/1071_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fenetre Secrete"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Koepp"
+        },
+        {
+            "name": "Genre",
+            "value": "Genres"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Johnny Depp John Turturo Maria Bello"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "10/03/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Mort Rainey devrait  etre devant son ordinateur a ecrire un autre de ses romans a succes. Mais son divorce le detruit et le prive de toute inspiration. Tout ce qui touche a la rupture devient un veritable cauchemar et sa page reste blanche. Un jour un inconnu nomme John Shooter se presente a sa porte et l'accuse d'avoir plagie son histoire. L'homme demande reparation. Malgre les efforts de Rainey pour le calmer l'individu devient de plus en plus vindicatif. Sa notion particuliere de la justice pourrait bien le conduire jusqu'au meurtre...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609962949"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Fenetre Secrete",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/133_video/thumbnail_big",
+    "thumbnail_mini": "db/133_video/thumbnail_small"
+}

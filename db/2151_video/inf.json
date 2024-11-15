@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "M. Peabody et Sherman"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rob Minkoff"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Guillaume Gallienne, Ty Burrell, Jules Timmerman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/08/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "M.Peabody est la personne la plus intelligente au monde. Il est à la fois lauréat du prix Nobel, champion olympique, grand chef cuisinier... et il se trouve aussi être un chien ! Bien qu’il soit un génie dans tous les domaines, M. Peabody est sur le point de relever son plus grand défi : être père. Pour aider Sherman, son petit garçon adoptif, à se préparer pour l’école, il décide de lui apprendre l’histoire et construit alors une machine à voyager dans le temps. Les choses commencent à mal tourner quand Sherman enfreint les règles et perd accidentellement dans le temps Penny, sa camarade de classe."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428057008"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/08/2023 22:32"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/10/2023 07:50"
+        }
+    ],
+    "main_title": "M. Peabody et Sherman",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2151_video/thumbnail_big",
+    "thumbnail_mini": "db/2151_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Kubo et l'Armure Magique"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Travis Knight"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "98"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/01/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.02 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Universal Pictures France"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Anglais, Néerlandais, Français, Néerlandais belge"
+        },
+        {
+            "name": "Sous-titres",
+            "value": "Néerlandais, Français"
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "2.40:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5053083102654"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 11:08"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Kubo et l'Armure Magique",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1465_video/thumbnail_big",
+    "thumbnail_mini": "db/1465_video/thumbnail_small"
+}

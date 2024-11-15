@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Pingouins de Madagascar"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Eric Darnell"
+        },
+        {
+            "name": "Genre",
+            "value": "Animation, Comédie, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "93"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Simon J. Smith"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/12/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/11/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.80 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Vous pensiez connaître les Pingouins de Madagascar ? Pourtant, les quatre frères cachent un lourd secret. Ils sont en fait… agents secrets ! Pour sauver le monde du terrible Docteur Octavius, les pingouins devront s’associer à la très chic organisation de la North Wind menée par le superbe husky au nom classé secret."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3606320000224"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/11/2024 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/11/2024 23:19"
+        }
+    ],
+    "main_title": "Les Pingouins de Madagascar",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2910_video/thumbnail_big",
+    "thumbnail_mini": "db/2910_video/thumbnail_small"
+}

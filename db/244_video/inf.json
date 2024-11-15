@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Rebelle"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mark Andrews Brenda Chapman Steve Purcell"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Berenice Bejo Kelly Macdonald Jacques Frantz Billy Connolly Nathalie Homs"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/11/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Depuis la nuit des temps au coeur des terres sauvages et mysterieuses des Highlands d'Ecosse recits de batailles epiques et legendes mythiques se transmettent de generation en generation. Merida l'impetueuse fille du roi Fergus et de la reine Elinor a un probleme... Elle est la seule fille au monde a ne pas vouloir devenir princesse ! Maniant l'arc comme personne Merida refuse de se plier aux regles de la cour et defie une tradition millenaire sacree aux yeux de tous et particulierement de sa mere. Dans sa qu ete de liberte Merida va involontairement voir se realiser un voeu bien malheureux et precipiter le royaume dans le chaos. Sa determination va lui  etre cruciale pour dejouer cette terrible malediction...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Mariane"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418377816"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 17:01"
+        }
+    ],
+    "main_title": "Rebelle",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/244_video/thumbnail_big",
+    "thumbnail_mini": "db/244_video/thumbnail_small"
+}

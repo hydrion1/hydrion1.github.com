@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ferrari: The Ultimate Dream Machine"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Paul W. Cockerham"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Todtri Book Publishers"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "31/08/1996"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "80"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Relié"
+        },
+        {
+            "name": "Langue",
+            "value": "Anglais (Unknown), Anglais (Original Language), Anglais (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9781577170051"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.59 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "10.00 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Ferrari: The Ultimate Dream Machine",
+    "sub_title": "Paul W. Cockerham",
+    "thumbnail_big": "db/211_book/thumbnail_big",
+    "thumbnail_mini": "db/211_book/thumbnail_small"
+}

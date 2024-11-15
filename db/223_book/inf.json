@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Paul Delvaux, peintre des gares"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Régine Remon, Collectif"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/07/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Luc Pire (Editions)"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "16/04/2009"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "143"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Broché"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown), Français (Original Language), Français (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782507002077"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "22.35 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "15.65 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Paul Delvaux, peintre des gares",
+    "sub_title": "Régine Remon, Collectif",
+    "thumbnail_big": "db/223_book/thumbnail_big",
+    "thumbnail_mini": "db/223_book/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Nouvelle guerre des boutons"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christophe Barratier"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Guillaume Canet, Laetitia Casta, Kad Merad, Gérard Jugnot, François Morel, Marie Bunel, Jean Texier, Clément Godefroy, Théophile Baquet, Louis Dussol"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/05/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.66 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Mars 1944. Alors que la planète est secouée par les soubresauts de la guerre mondiale, dans un petit coin d’une campagne française se joue une guerre de gosses… Car, depuis toujours, les gamins des villages voisins de Longeverne et Velrans s'affrontent sans merci. Mais, cette fois, leur guerre va prendre une tournure inattendue : tous les petits prisonniers se voient délestés des boutons de leurs vêtements, en sorte qu’ils repartent presque dénudés, vaincus et humiliés. Ce conflit porte désormais un nom : la \"guerre des boutons\". Et le village qui aura récolté le plus de boutons sera déclaré vainqueur… En marge de ce conflit, Violette, une jeune fille d'origine juive, fait battre le cœur de Lebrac, le chef des Longeverne. La véritable origine de Violette sera-t-elle dénoncée et découverte ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370825599"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/05/2024 17:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/05/2024 17:42"
+        }
+    ],
+    "main_title": "La Nouvelle guerre des boutons",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2560_video/thumbnail_big",
+    "thumbnail_mini": "db/2560_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Peter Pan"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "P.J. Hogan"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jason Isaacs, Jeremy Sumpter, Rachel Hurd-Wood, Lynn Redgrave, Richard Briers, Olivia Williams, Geoffrey Palmer, Harry Newell, Freddie Popplewell, Ludivine Sagnier"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/02/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "09/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.52 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Chaque soir, Wendy émerveille ses jeunes frères avec ses fantastiques récits épiques, jusqu'au jour où son père décrète qu'elle est désormais trop grande pour partager leur chambre...\n\nCe que les adultes ignorent, c'est qu'un autre garçon, Peter Pan, se passionne lui aussi pour les histoires de Wendy. Il vient de loin pour les écouter. Sa soudaine apparition va marquer le début d'aventures aussi fabuleuses qu'exaltantes...\n\nA travers le ciel étoilé, Peter, les enfants et la minuscule fée Clochette prennent le chemin d'un endroit où le rêve est roi : le Pays Imaginaire...\n\nLà-bas, Wendy et ses frères découvrent les Garçons Perdus et leur repaire souterrain. Mais le danger rôde et l'infâme Capitaine Crochet est prêt à tout pour remporter le combat qui, depuis longtemps, l'oppose à Peter...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/09/2024 14:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/09/2024 14:52"
+        }
+    ],
+    "main_title": "Peter Pan",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2792_video/thumbnail_big",
+    "thumbnail_mini": "db/2792_video/thumbnail_small"
+}

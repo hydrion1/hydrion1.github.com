@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Prince oublié"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michel Hazanavicius"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Comédie, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "103"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Omar Sy, Bérénice Bejo, François Damiens, Sarah Gaye, Keyla Fala, Néotis Ronzon, Philippe Vieux, Philippe Uchan, Lionel Laget"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2020"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/11/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sofia, 8 ans, vit seule avec son père. Tous les soirs, il lui invente une histoire pour l’endormir. Ses récits extraordinaires prennent vie dans un monde imaginaire où l’héroïne est toujours la princesse Sofia, et son père, le Prince courageux. Mais trois ans plus tard, quand Sofia rentre au collège, elle n’a plus besoin de ces histoires. Désarmé, son père va devoir accepter que sa fille grandisse et s’éloigne de lui. Dans leur Monde imaginaire, le Prince va alors devoir affronter la plus épique de toutes ses aventures pour conserver une place dans l’histoire. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370883599"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/11/2023 22:46"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/11/2023 22:49"
+        }
+    ],
+    "main_title": "Le Prince oublié",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2267_video/thumbnail_big",
+    "thumbnail_mini": "db/2267_video/thumbnail_small"
+}

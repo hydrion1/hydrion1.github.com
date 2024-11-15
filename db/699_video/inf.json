@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Wasabi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gerard Krawczyk"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Reno Ryoko Hirosue Michel Muller Carole Bouquet Ludovic Berthillot"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/07/2002"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Hubert est un inspecteur de police au c?ur tendre mais aux methodes un peu trop musclees. Apres qu'il ait mis a mal sans le savoir le fils du prefet le commissaire suggere a Hubert un peu de vacances. Il recoit un coup de telephone du Japon?}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Europacorp"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3760062460668"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/10/2024 13:18"
+        }
+    ],
+    "main_title": "Wasabi",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/699_video/thumbnail_big",
+    "thumbnail_mini": "db/699_video/thumbnail_small"
+}

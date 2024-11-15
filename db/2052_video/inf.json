@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hit and Run"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kristen Bell Dax Shepard Kristin Chenoweth Tom Arnold Bradley Cooper"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kristen Bell Dax Shepard Kristin Chenoweth Tom Arnold Bradley Cooper"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/01/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/06/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En apparence Charlie Bronson mene une existence paisible avec sa petite amie Annie dans une petite ville tranquille. Mais Charlie est l'ex-chauffeur d'un gang de braqueurs qui ont plonge a la suite de son temoignage. Il vit aujourd'hui sous une autre identite grace au programme de protection des temoins. Lorsqu'Annie doit se rendre a Los Angeles pour decrocher le job de ses eves Charlie decide de l'y conduire malgre les risques qu'il encourt. Le couple va se retrouver pourchasse par Alex l'ancien boss de Charlie un malfrat aussi derange que violent qui s'est promis de se venger. Poursuivi par les federaux la police l'ex de sa petite amie et ses anciens complices Charlie va devoir mettre le pied au plancher s'il veut s'en sortir vivant et se battre pour garder Annie qui ignorait tout de son passe.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Metropolitan Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3512391578442"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/06/2023 14:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/06/2023 14:33"
+        }
+    ],
+    "main_title": "Hit and Run",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2052_video/thumbnail_big",
+    "thumbnail_mini": "db/2052_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Comte de Monte-Cristo (Le)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Josée Dayan"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": "400"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gérard Depardieu, Ornella Muti, Jean Rochefort, Pierre Arditi, Sergio Rubini, Florence Darel, Christopher Thompson, Stanislas Merhar, Julie Depardieu, Hélène Vincent, Michel Aumont, Constanze Engelbrecht, Georges Moustaki, Roland Blanche, Jean-Claude Brialy, Inés Sastre, Serge Merlin, Jean-Marc Thibault, Thierry de Peretti, Patrick Bouchitey"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1998"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/06/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1815, Edmond Dantès, jeune capitaine au long cours, est injustement emprisonné au soir de ses fiançailles avec la belle Mercedes. Victime d'une machination, il est accusé de bonapartisme et emprisonné au Château d'If, une île au large de Marseille. Après 18 années de captivité, il parvient à s'échapper. Grâce au trésor de l'île de Monte-Cristo, il entame une nouvelle vie sous le nom du comte de Monte-Cristo. Devenu riche et puissant, Dantès est bien déterminé à assouvir sa vengeance en faisant payer ceux qui l'ont envoyé en prison... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3294333037421"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "12/06/2022 11:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 16:40"
+        }
+    ],
+    "main_title": "Comte de Monte-Cristo (Le)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1877_video/thumbnail_big",
+    "thumbnail_mini": "db/1877_video/thumbnail_small"
+}

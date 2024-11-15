@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fireworks"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Akiyuki Shinbo, Nobuyuki Takeuchi"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "05/12/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/10/2020"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En cette belle journée d'été, Nazuna, discrète collégienne, décide de défier ses deux amis Norimichi et Yusuke lors d'une course de natation. Le vainqueur assistera à ses cotés au feu d'artifice de la soirée. C'est Yusuke qui remporte la course mais entre temps, Norimichi découvre le secret de Nazuna. Obligée de déménager en raison du divorce de ses parents, la jeune fille cherche à fuir. Et si Norimichi pouvait changer le destin de cette journée ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Futur Cadeau"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "@Anime"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314993042"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/10/2020 11:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 17:53"
+        }
+    ],
+    "main_title": "Fireworks",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1786_video/thumbnail_big",
+    "thumbnail_mini": "db/1786_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Julie et Julia"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Nora Ephron"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Meryl Streep, Amy Adams, Stanley Tucci"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/09/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Julia Child est la femme qui a changé pour toujours la façon de cuisiner de l'Amérique. Mais en 1948, elle n'est encore qu'une Américaine anonyme vivant en France. Le travail de son mari les a amenés à s'installer à Paris, et Julia cherche activement une occupation. C'est alors qu'elle se prend de passion pour la cuisine française...\n\nCinquante ans plus tard, Julie Powell a l'impression d'être dans une impasse. Elle va avoir 30 ans, et pendant que ses amies connaissent bonheur et succès, elle végète dans son travail. Julie se lance alors un défi complètement fou : elle se donne exactement un an, 365 jours pour cuisiner les 524 recettes du livre de Julia Child - Mastering the Art of French Cooking, et elle crée un blog pour relater son expérience...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609661521"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/03/2024 15:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/03/2024 22:24"
+        }
+    ],
+    "main_title": "Julie et Julia",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2508_video/thumbnail_big",
+    "thumbnail_mini": "db/2508_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Marguerite"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Xavier Giannoli"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "129"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Catherine Frot, André Marcon, Michel Fau, Christa Théret, Denis Mpunga, Sylvain Dieuaide"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/09/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le Paris des années 20. Marguerite Dumont est une femme fortunée passionnée de musique et d’opéra. Depuis des années elle chante régulièrement devant son cercle d’habitués. Mais Marguerite chante tragiquement faux et personne ne le lui a jamais dit. Son mari et ses proches l’ont toujours entretenue dans ses illusions. Tout se complique le jour où elle se met en tête de se produire devant un vrai public à l’Opéra."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299211466"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2024 16:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2024 20:13"
+        }
+    ],
+    "main_title": "Marguerite",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2583_video/thumbnail_big",
+    "thumbnail_mini": "db/2583_video/thumbnail_small"
+}

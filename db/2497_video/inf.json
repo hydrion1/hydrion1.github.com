@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "I, Robot"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alex Proyas"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "115"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Will Smith, Bridget Moynahan, Alan Tudyk, James Cromwell, Bruce Greenwood, Adrian Ricard, Chi McBride, Jerry Wasserman, Shia LaBeouf"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/07/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.12 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 2035, les robots sont devenus de parfaits assistants pour les êtres humains. Le détective Del Spooner enquête sur le meurtre du docteur Alfred Lanning, un chercheur en robotique. Le principal suspect semble être un androïde nommé Sonny. Or, si l'on s'en réfère aux lois de la robotique, les robots ne sont pas dotés de la faculté de tuer..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428030414"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/03/2024 19:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/03/2024 19:06"
+        }
+    ],
+    "main_title": "I, Robot",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2497_video/thumbnail_big",
+    "thumbnail_mini": "db/2497_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Roi Cerf"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Masashi Ando, Masayuki Miyaji"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/12/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "30/04/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Van était autrefois un valeureux guerrier du clan des Rameaux solitaires. Défait par l’empire de Zol, il est depuis leur prisonnier et vit en esclave dans une mine de sel. Une nuit, la mine est attaquée par une meute de loups enragés, porteurs d’une mystérieuse peste. Seuls rescapés du massacre, Van et une fillette, Yuna, parviennent à s’enfuir. L'Empire de Zol ne tardant pas à découvrir leurs existences, Il mandate Hohsalle, un prodige de la médecine pour les traquer afin de trouver un remède. Mais Hohsalle et Van, tous deux liés par le fléau qui sévit, vont découvrir une vérité bien plus terrible. "
+        },
+        {
+            "name": "Commentaires",
+            "value": "Cadeau annif de Nath"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314995930"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/04/2023 18:19"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 16:45"
+        }
+    ],
+    "main_title": "Roi Cerf",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1975_video/thumbnail_big",
+    "thumbnail_mini": "db/1975_video/thumbnail_small"
+}

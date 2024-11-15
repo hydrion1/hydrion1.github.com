@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Profilage - Saison 5"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": ""
+        },
+        {
+            "name": "Genre",
+            "value": "Series TV"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Odile Vuillemin Philippe Bas Jean-Michel Martial Vanessa Valence Raphael Ferret"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/12/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Revenue d'entre les morts Chloe a adopte la petite Lili. Quand un riche homme d'affaires tombe fou amoureux d'elle Chloe semble avoir enfin le droit au bonheur. Mais le destin revient frapper a sa porte sous la forme du pire ennemi qu'elle n'ait jamais eu a affronter : elle-meme. Alors que Rocher pour sauver la vie de sa soeur tombe dans les filets d'un dangereux psychopathe qui sera la pour sauver Chloe de ses propres demons ?}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "TF1 Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3384442263436"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Profilage - Saison 5",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/310_video/thumbnail_big",
+    "thumbnail_mini": "db/310_video/thumbnail_small"
+}

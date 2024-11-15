@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Final Fantasy XIII"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux d'action"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "09/03/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "Square Enix"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Adolescents"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "49.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060121820838"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Laissez-vous entraîner dans une fantastique odyssée à travers la cité céleste de Cocoon et les terres sauvages de Gran Pulse, rencontrez des personnages fascinants et découvrez leur histoire bouleversante ! Grâce à ses séquences de jeu, qui s'enchaînent sans interruption avec les cinématiques, et son nouveau système Active Time Battle, conçu pour atteindre l'équilibre parfait entre action et stratégie, Final Fantasy XIII propose une aventure unique en son genre. Aurez-vous le courage d'affronter votre destin ? \nPartez de nouveau dans une aventure épique dans Final Fantasy XIII"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 17:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Final Fantasy XIII",
+    "thumbnail_big": "db/433_videogame/thumbnail_big",
+    "thumbnail_mini": "db/433_videogame/thumbnail_small"
+}

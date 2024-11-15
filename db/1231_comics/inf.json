@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Astérix"
+        },
+        {
+            "name": "Titre",
+            "value": "Asterix Comment Obelix est Tombe dans la Marmite du Druide Quand Il Etait Petit"
+        },
+        {
+            "name": "Scénario",
+            "value": "Rene de Goscinny"
+        },
+        {
+            "name": "Editeur",
+            "value": "French & European Pubns"
+        },
+        {
+            "name": "Dessins",
+            "value": "Rene de Goscinny"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": "Rene de Goscinny"
+        },
+        {
+            "name": "Nbre de pages",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "01/10/1990"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": ""
+        },
+        {
+            "name": "Genre ",
+            "value": "Livres en langues étrangères"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "Relié"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9780828885973"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/09/2018 14:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Astérix",
+    "sub_title": "Asterix Comment Obelix est Tombe dans la Marmite du Druide Quand Il Etait Petit",
+    "thumbnail_big": "db/1231_comics/thumbnail_big",
+    "thumbnail_mini": "db/1231_comics/thumbnail_small"
+}

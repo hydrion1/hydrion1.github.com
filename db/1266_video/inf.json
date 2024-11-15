@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Volcano"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mick Jackson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Anne Heche Tommy Lee Jones Don Cheadle Jacqueline Kim Keith David"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Los Angeles semble subir un nouveau tremblement de terre. Apres tout ce n'est pas si rare et cet evenement n'a en tout cas rien d'exceptionnel pour alarmer outre-mesure Mike Roark (Tomy Lee Jones) chef du bureau d'urgence. Du moins jusqu'a ce que l'on decouvre des corps calcines d'ouvriers travaillant dans les sous-bassements du metro ou que l'on s'apercoive que la temperature de bassins d'eau a brusquement augmente et que des odeurs de soufre se degagent. Le Dr Amy Barnes (Anne Heche) en tout cas ne semble pas croire au simple tremblement de terre et Mike Roark va vite devoir se ranger a son avis: c'est un veritable volcan qui est en train d'eclore en plein coeur de L.A.! Desormais il va falloir agir vite tres vite...Cedric de Chatenay-Malabry (France)}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626000815"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Volcano",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1266_video/thumbnail_big",
+    "thumbnail_mini": "db/1266_video/thumbnail_small"
+}

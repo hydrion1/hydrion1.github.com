@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Patapon 2 : PSP Essentials"
+        },
+        {
+            "name": "Console",
+            "value": "Sony PSP"
+        },
+        {
+            "name": "Genre",
+            "value": "Genre non défini"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "02/06/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony Computer"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "20.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0711719123972"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Patapon a le rythme dans la peau ! Original, varié et haut en couleur, avec de superbes graphismes et une action endiablée, Patapon revient pour un 2ème jeu unique en son genre et décalé. Incarnez un dieu tout-puissant et aidez vos fidèles à réaliser des tâches variées... Sony Patapon 2"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/05/2019 18:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Sony PSP",
+    "sub_title": "Patapon 2 : PSP Essentials",
+    "thumbnail_big": "db/584_videogame/thumbnail_big",
+    "thumbnail_mini": "db/584_videogame/thumbnail_small"
+}

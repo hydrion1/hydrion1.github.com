@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "U-571"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jonathan Mostow"
+        },
+        {
+            "name": "Genre",
+            "value": "Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Matthew McConaughey Bill Paxton Harvey Keitel Jon Bon Jovi Jake Weber"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/08/2001"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"En 1942 les Etats-Unis viennent d'entrer en guerre contre les forces de l'Axe. Le capitaine Mike Dahlgren commande le \"\"S-33\"\" un sous-marin archique mais redoutable. A son bord se trouvent les lieutenants Andrew Tyler et Emmett l'enseigne de vaisseau Klough Wassner et d'autres hommes d'equipage engages dans une mission decisive. Le \"\"S-33\"\" va  etre maquille en sous-marin allemand l'un des celebres U-Boote qui patrouillent au fond de l'ocean. La reussite de leur mission va dependre desormais de leur solidarite de leur rapidite et de leur courage.}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5412370878502"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/08/2024 08:03"
+        }
+    ],
+    "main_title": "U-571",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/233_video/thumbnail_big",
+    "thumbnail_mini": "db/233_video/thumbnail_small"
+}

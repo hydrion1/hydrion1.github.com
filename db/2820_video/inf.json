@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Migration"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Benjamin Renner"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Comédie, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "82"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Guylo Homsy"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/12/2023"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "27/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La famille Colvert est en proie à un dilemme d’ordre domestique. Alors que Mack est totalement satisfait de patauger avec sa famille, paisiblement et définitivement, dans leur petite mare de la Nouvelle-Angleterre, sa femme Pam serait plus du genre à bousculer un peu cette routine pour montrer le reste du monde à ses enfants - Dax qui n’est déjà plus un caneton et sa petite sœur Gwen. Lorsqu’ils accueillent, le temps de leur halte, une famille de canards migrateurs, c’est l’occasion rêvée pour Pam de persuader Mack de les imiter et de se lancer dans un périple en famille : destination la Jamaïque, en passant par New York. Alors qu’ils s’envolent vers le soleil pour l’hiver, le plan si bien tracé des Colvert va vite battre de l’aile. Mais la tournure aussi chaotique et inattendue que vont prendre les évènements va les changer à jamais et leur apprendre beaucoup plus qu’ils ne l’auraient imaginé."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432034546"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/09/2024 18:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/10/2024 21:27"
+        }
+    ],
+    "main_title": "Migration",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2820_video/thumbnail_big",
+    "thumbnail_mini": "db/2820_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Favelas"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Stephen Daldry"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Comédie, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Rooney Mara, Martin Sheen, Wagner Moura, Christiane Amanpour, Selton Mello, André Ramiro"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/11/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/05/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": " Avertissement : des scènes, des propos ou des images peuvent heurter la sensibilité des spectateurs\n\nLorsque deux garçons des bidonvilles de Rio trouvent un portefeuille au cours de leur inspection quotidienne de la décharge du coin, ils sont loin de se douter que leur vie est sur le point de changer à jamais. Quand la police locale débarque, offrant une belle récompense en échange du portefeuille, Rafael et Gardo réalisent l’importance de leur découverte. Une aventure extraordinaire commence alors pour nos deux jeunes héros. Flanqués de leur ami Rato, le trio décide de cacher son précieux butin, et d’échapper à la police afin de découvrir quel secret il peut bien contenir. Pour tenter d’y voir plus clair, ils vont recomposer, étape par étape, l’histoire de son propriétaire, José Angelo, discernant peu à peu à qui ils peuvent se fier. Ils vont alors comprendre que la police, et notamment son chef, le redoutable Frederico, sont loin d’être dignes de confiance. Mais un couple de missionnaires américains qui travaille dans leur favela, le très désabusé Père Julliard et sa jeune assistante Olivia, pourra peut-être leur ouvrir de meilleures perspectives.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083031718"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/05/2023 22:32"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:43"
+        }
+    ],
+    "main_title": "Favelas",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2021_video/thumbnail_big",
+    "thumbnail_mini": "db/2021_video/thumbnail_small"
+}

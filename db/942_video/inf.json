@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ultimate racer"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Sebasti�n Pivotto"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Pablo Rago Benjam�n Rojas Leonora Balcarce Carlos Belloso Osvaldo Santoro"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/10/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Bea Ulloa est une seduisante ingenieur d une ecurie automobile double championne du TC 2000. Habituee a vivre dans un monde typiquement masculin elle est a la recherche de deux nouveaux pilotes. Lors d'une course nocturne elle observe Juan et Lucas deux coureurs tres talentueux. Sous la direction de Bea une forte rivalite s'installe non seulement parce qu ils font partie de l'ecurie mais aussi car ils veulent tous les deux conquerir le coeur de la belle ingenieur.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Zylo"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3760121798480"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/04/2022 21:03"
+        }
+    ],
+    "main_title": "Ultimate racer",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/942_video/thumbnail_big",
+    "thumbnail_mini": "db/942_video/thumbnail_small"
+}

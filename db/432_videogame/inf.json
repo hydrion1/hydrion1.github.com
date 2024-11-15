@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Lightning Returns : Final Fantasy XIII"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "14/02/2014"
+        },
+        {
+            "name": "Editeur",
+            "value": "Square Enix"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "33.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5021290057296"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "LIGHTNING RETURNS : FINAL FANTASY XIII est une nouvelle aventure qui permettra aux joueurs d’incarner Lightning dans un vaste monde en constante évolution, et de partir en quête pour sauver le monde de la destruction. Comment occuperez-vous vos derniers jours ?\nCaractéristiques :\nCONTRÔLEZ LIGHTNING : Lightning sera le personnage jouable, et aura une large palette de techniques pour se battre et explorer l’environnement. Vous pourrez également personnaliser Lightning avec différentes tenues et armes, qui changeront non seulement son apparence, mais aussi ses actions disponibles et ses compétences.\nCOMBAT ORIENTÉ ACTION : Le nouveau système de combat donne plus de contrôle sur l’action qu’aucun FINAL FANTASY auparavant, tout en conservant les éléments emblématiques les plus appréciés de la série.\nUN MONDE MERVEILLEUX EN CONSTANTE ÉVOLUTION : La direction artistique éblouissante dépeint un monde au bord de la destruction, débordant de choix et de variété. Le cycle des journées donne vie à de vastes environnements qui offriront à chaque joueur une expérience unique.\nFAITES BON USAGE DE VOTRE TEMPS : Ce monde au bord de l’annihilation présente des défis uniques. Certaines zones, missions et personnes ne seront disponibles que lors de périodes spécifiques... Comment utiliserez-vous le temps qu’il vous reste ?\nCONNECTIVITÉ : Restez connecté avec FINAL FANTASY et ses personnages grâce à des fonctions spéciales qui lieront le monde du jeu au monde réel."
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 17:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 12:10"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Lightning Returns : Final Fantasy XIII",
+    "thumbnail_big": "db/432_videogame/thumbnail_big",
+    "thumbnail_mini": "db/432_videogame/thumbnail_small"
+}

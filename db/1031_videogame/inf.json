@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "YS The Ark of Napishtim"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 2"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "22/02/2005"
+        },
+        {
+            "name": "Editeur",
+            "value": "Konami"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/08/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "40.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "4012927026519"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/08/2022 20:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/08/2022 20:26"
+        }
+    ],
+    "main_title": "PlayStation 2",
+    "sub_title": "YS The Ark of Napishtim",
+    "thumbnail_big": "db/1031_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1031_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Droles d'oiseaux"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Andrew Cook Anthony Silverston Raffaella Delle Donne Wayne Thornley"
+        },
+        {
+            "name": "Genre",
+            "value": "Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Abigail Breslin Jamal Mixon Jeff Goldblum Jenifer Lewis Jeremy Suarez"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/01/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Au coeur de l'Afrique au bord des majestueuses chutes Victoria se dresse l'etonnante Cite des Oiseaux Zambezia perchee sur un baobab geant. C'est la que se rend Kai un jeune faucon qui vit isole avec son pere dans la brousse et eve de connaitre la ville. Debarquant en pleine effervescence des preparatifs de la F ete du printemps il rencontre entre autres Jed un oiseau oisif et farceur ainsi que la belle Zoe. A eux trois ils vont decouvrir que la cite est sous la menace d'une attaque et qu'ils sont les seuls a pouvoir en sauver les habitants.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Metropolitan Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8713045237929"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Droles d'oiseaux",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/90_video/thumbnail_big",
+    "thumbnail_mini": "db/90_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fantômas contre Scotland Yard"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "André Hunebelle"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Marais, Louis de Funès, Mylène Demongeot, Jacques Dynam, Francoise Christophe"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Fantômas revient avec une nouvelle idée : imposer aux riches (nobles comme gangsters) un impôt sur le droit de vivre. Débarqués en Ecosse, le commissaire Juve, Fandor et sa fiancée ont pour mission d'attraper Fantômas. Dans un château hanté par les esprits, Juve, censé protéger les propriétaires, est lui-même victime de l'humour macabre de Fantômas, lequel use et abuse de ses masques extravagants et de son rire caverneux. Il malmène le pauvre commissaire Juve en accrochant des pendus dans sa chambre. Quand Fantômas passe, quelqu'un trépasse."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/19375661"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Français"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412012142190"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/08/2019 14:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Fantômas contre Scotland Yard",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1688_video/thumbnail_big",
+    "thumbnail_mini": "db/1688_video/thumbnail_small"
+}

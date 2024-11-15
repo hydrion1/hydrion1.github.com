@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Crash Bandicoot 2"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation"
+        },
+        {
+            "name": "Genre",
+            "value": "Action Plate-forme"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "15/04/1999"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Allemand (Subtitled) Allemand (Manual)"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719766421"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Jeu complet avec boite et notice en francais. teste OK. version platinum.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 12:05"
+        }
+    ],
+    "main_title": "PlayStation",
+    "sub_title": "Crash Bandicoot 2",
+    "thumbnail_big": "db/190_videogame/thumbnail_big",
+    "thumbnail_mini": "db/190_videogame/thumbnail_small"
+}

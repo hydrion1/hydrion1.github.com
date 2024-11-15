@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hook (4K)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steven Spielberg"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Comédie, Famille, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "136"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robin Williams Dustin Hoffman Julia Roberts"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/04/1992"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Peter Banning alias Peter Pan est devenu un brillant avocat d'affaires qui a tout oublie de ses merveilleuses aventures. Mais le terrible capitaine Crochet lui n'a pas oublie. Pour enfin regler leur compte il enleve une nuit Jack et Maggie les enfants de Peter. C'est en compagnie de Tinkerbell que Peter s'envole a nouveau pour le pays de Nulle Part.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333298302226"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/09/2023 23:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/12/2023 17:01"
+        }
+    ],
+    "main_title": "Hook (4K)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2185_video/thumbnail_big",
+    "thumbnail_mini": "db/2185_video/thumbnail_small"
+}

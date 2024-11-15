@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "2012"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Roland Emmerich"
+        },
+        {
+            "name": "Genre",
+            "value": "Science fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "158"
+        },
+        {
+            "name": "Acteurs",
+            "value": "John Cusack, Amanda Peet, Chiwetel Ejiofor, Thandiwe Newton, Oliver Platt, Thomas McCarthy, Woody Harrelson, Danny Glover"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/11/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les Mayas, l'une des plus fascinantes civilisations que la Terre ait portées, nous ont transmis une prophétie : leur calendrier prend fin en 2012, et notre monde aussi. Depuis, les astrologues l'ont confirmé, les numérologues l'ont prédit, les géophysiciens trouvent cela dangereusement plausible, et même les experts scientifiques gouvernementaux finissent par arriver à cette terrifiante conclusion.\nLa prophétie maya a été examinée, discutée, minutieusement analysée. En 2012, nous saurons tous si elle est vraie, mais quelques-uns auront été prévenus depuis longtemps...\nLorsque les plaques tectoniques se mettent à glisser, provoquant de multiples séismes et détruisant Los Angeles au passage, Jackson Curtis, romancier, et sa famille se jettent à corps perdu, comme des millions d'individus, dans un voyage désespéré. Tous ne pourront pas être sauvés... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712609441453"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/09/2023 11:51"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/08/2024 12:13"
+        }
+    ],
+    "main_title": "2012",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2202_video/thumbnail_big",
+    "thumbnail_mini": "db/2202_video/thumbnail_small"
+}

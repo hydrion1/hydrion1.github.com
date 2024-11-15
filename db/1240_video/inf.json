@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Charlie et la chocolaterie"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tim Burton"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Comedie Enfants. Jeunesse et Famille Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Johnny Depp Freddie Highmore David Kelly Helena Bonham Carter Noah Taylor"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Quelles sont les merveilles qui t'attendent dans l'usine de Willy Wonka ? Pars a la decouverte de vastes etendues d'herbe sucree au bon gout de menthe dans la Salle du Chocolat? Navigue sur la Riviere de Chocolat dans un grand bateau en sucre rose?Essaye le Gobestoppeur sans fin dans la Salle des Inventions? Observe les talentueux ecureuils de la Salle de Tri des Noix et voyage en ascenseur de verre jusqu'a la Salle de Television. Tu y trouveras une montagne d'humour saupoudree d'un peu de mystere? et une aventure aussi savoureuse et agreable qu'une tablette de Delice Fondant Wonka Guimauve-Caramel.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "7321950593385"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/03/2024 18:58"
+        }
+    ],
+    "main_title": "Charlie et la chocolaterie",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1240_video/thumbnail_big",
+    "thumbnail_mini": "db/1240_video/thumbnail_small"
+}

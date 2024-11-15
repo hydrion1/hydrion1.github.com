@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ocean's thirteen - Ocean's 4 film collection"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steven Soderbergh"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "George Clooney Brad Pitt Matt Damon"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "19/12/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/04/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Douce vengeance sous le ciel de Las Vegas. Danny Ocean et sa bande ne pouvaient avoir qu'un seul motif pour tenter leur braquage le plus audiacieux a ce jour : sauver un des leurs. Mais la chance ne suffit pas toujours lorsque l'on veut faire sauter \"\"The Bank\"\"...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051889640660"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/04/2023 18:38"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/04/2023 18:43"
+        }
+    ],
+    "main_title": "Ocean's thirteen - Ocean's 4 film collection",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1956_video/thumbnail_big",
+    "thumbnail_mini": "db/1956_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gone Baby Gone"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ben Affleck"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Casey Affleck Michelle Monaghan Morgan Freeman Ed Harris John Ashton"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/06/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans une banlieue ouvriere de Boston Amanda quatre ans a disparu. Apres l'echec des recherches menees par la police sa tante et son oncle font appel a des detectives prives Patrick Kenzie et Angie Gennaro. Plus ils enqu etent plus ils decouvrent l'envers de la ville dans ce qu'il a de plus sombre. Ils s'enfoncent au-dela des mensonges et des faux-semblants vers les secrets les plus noirs de la ville la ou regnent les dealers les criminels. La verite finira par surgir mais elle aura un prix...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Miramax"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418160081"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Gone Baby Gone",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/493_video/thumbnail_big",
+    "thumbnail_mini": "db/493_video/thumbnail_small"
+}

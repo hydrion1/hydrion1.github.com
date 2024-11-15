@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Super 8"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "J.J. Abrams"
+        },
+        {
+            "name": "Genre",
+            "value": "Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kyle Chandler, Joel Courtney, Elle Fanning, Riley Griffiths, Ryan Lee, Gabriel Basso, Zach Mills, Ron Eldard"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/08/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/10/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Été 1979, une petite ville de l’Ohio. Alors qu'ils tournent un film en super 8, un groupe d’adolescents est témoin d'une spectaculaire catastrophe ferroviaire. Ils ne tardent pas à comprendre qu'il ne s'agit pas d'un accident. Peu après, des disparitions étonnantes et des événements inexplicables se produisent en ville, et la police tente de découvrir la vérité… Une vérité qu’aucun d’entre eux n’aurait pu imaginer."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582869965"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/10/2024 18:59"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/10/2024 20:03"
+        }
+    ],
+    "main_title": "Super 8",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2892_video/thumbnail_big",
+    "thumbnail_mini": "db/2892_video/thumbnail_small"
+}

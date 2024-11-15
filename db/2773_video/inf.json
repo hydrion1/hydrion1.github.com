@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Cash"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Éric Besnard"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Dujardin, Jean Reno, Valeria Golino, Alice Taglioni, François Berléand"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/04/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un arnaqueur évite les agressifs. Et encore plus les agressifs armés.\n\nSolal a oublié cette règle. Résultat, il est mort, assassiné par un mauvais perdant.\n\nL'affaire aurait dû en rester là. Mais Solal a un frère : Cash. Et Cash a décidé de le venger. A sa manière. En élaborant une arnaque de haut vol.\n\nToutefois, l'adversaire est sur ses gardes. Et Cash et ses amis se sont peut-être attaqués à plus fort qu'eux... Dans ce genre d'opération, les alliances se font et se défont, les complices sont parfois des traîtres et les traîtres des complices. A la fin, une seule chose compte : qui est le pigeon ?\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442195690"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/09/2024 20:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/09/2024 20:41"
+        }
+    ],
+    "main_title": "Cash",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2773_video/thumbnail_big",
+    "thumbnail_mini": "db/2773_video/thumbnail_small"
+}

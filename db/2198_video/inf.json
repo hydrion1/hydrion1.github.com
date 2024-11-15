@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Blade Runner 2049 (4K)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Denis Villeneuve, Steven Spielberg"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "291"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Harrison Ford, Ryan Gosling, Ben Mendelsohn, Olivia Cooke, Tye Sheridan"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/07/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": " Blade Runner 2049 (2017) : \nEn 2049, la société est fragilisée par les nombreuses tensions entre les humains et leurs esclaves créés par bioingénierie. L'officier K est un Blade Runner : il fait partie d'une force d'intervention d'élite chargée de trouver et d'éliminer ceux qui n'obéissent pas aux ordres des humains. Lorsqu'il découvre un secret enfoui depuis longtemps et capable de changer le monde, les plus hautes instances décident que c'est à son tour d'être traqué et éliminé. Son seul espoir est de retrouver Rick Deckard, un ancien Blade Runner qui a disparu depuis des décennies..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "2.39:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609641998"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/09/2023 11:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:20"
+        }
+    ],
+    "main_title": "Blade Runner 2049 (4K)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2198_video/thumbnail_big",
+    "thumbnail_mini": "db/2198_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "West Side Story (4K)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steven Spielberg"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie musicale, Romance, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "157"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ansel Elgort, Rachel Zegler, Ariana DeBose, David Alvarez, Rita Moreno, Brian d'Arcy James, Corey Stoll, Mike Faist"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2021"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "WEST SIDE STORY raconte l’histoire légendaire d’un amour naissant sur fond de rixes entre bandes rivales dans le New York de 1957. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418604783"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/09/2023 23:44"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/09/2023 23:52"
+        }
+    ],
+    "main_title": "West Side Story (4K)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2190_video/thumbnail_big",
+    "thumbnail_mini": "db/2190_video/thumbnail_small"
+}

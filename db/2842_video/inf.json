@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Planes 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Roberts Gannaway"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Comédie, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "84"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/07/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.85 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dusty est au sommet de sa gloire quand il apprend que son moteur est endommagé et qu’il ne pourra peut-être plus jamais participer à une course… Il  se lance  alors le défi de devenir pompier du ciel.  Il suivra sa formation auprès de l’élite du genre en charge de la protection du parc national de Piston Peak. Cette équipe de choc  est menée par Blade Ranger, un hélicoptère  vétéran charismatique et  est composée de Dipper, une grande fan de Dusty qui en pince pour lui,  Windlifter, un hélicoptère de transport lourd en charge de larguer sur les lieux de l’incendie les  intrépides et déjantés parachutistes du feu. Au cours de sa lutte contre le feu, Dusty va apprendre qu’il faut beaucoup de courage et ne jamais baisser les bras pour devenir un vrai héros."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418448165"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/10/2024 21:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/10/2024 21:51"
+        }
+    ],
+    "main_title": "Planes 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2842_video/thumbnail_big",
+    "thumbnail_mini": "db/2842_video/thumbnail_small"
+}

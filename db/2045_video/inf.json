@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Zodiac"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Fincher"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "156"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jake Gyllenhaal, Mark Ruffalo, Anthony Edwards, Robert Downey Jr., Brian Cox, John Carroll Lynch, Chloë Sevigny, Dermot Mulroney"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "13/06/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.33 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Zodiac, l'insaisissable tueur en série qui sévit à la fin des années 60 et répandit la terreur dans la région de San Francisco, fut le Jack l'Eventreur de l'Amérique. Prodigue en messages cryptés, il semait les indices comme autant de cailloux blancs, et prenait un malin plaisir à narguer la presse et la police. Il s'attribua une trentaine d'assassinats, mais fit bien d'autres dégâts collatéraux parmi ceux qui le traquèrent en vain.\nRobert Graysmith, jeune et timide dessinateur de presse, n'avait ni l'expérience ni les relations de son brillant collègue Paul Avery, spécialiste des affaires criminelles au San Francisco Chronicle. Extérieur à l'enquête, il n'avait pas accès aux données et témoignages dont disposait le charismatique Inspecteur David Toschi et son méticuleux partenaire, l'Inspecteur William Armstrong. Le Zodiac n'en deviendrait pas moins l'affaire de sa vie, à laquelle il consacrerait dix ans d'efforts et deux ouvrages d'une vertigineuse précision... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "7321910110478"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "13/06/2023 12:58"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/06/2023 13:05"
+        }
+    ],
+    "main_title": "Zodiac",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2045_video/thumbnail_big",
+    "thumbnail_mini": "db/2045_video/thumbnail_small"
+}

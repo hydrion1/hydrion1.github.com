@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Heures sombres (Les)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Joe Wright"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ronald Pickup, Lily James, Ben Mendelsohn, Kristin Scott Thomas, Gary Oldman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/05/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "20.06 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Homme politique brillant et plein d'esprit, Winston Churchill est un des piliers du Parlement du Royaume-Uni, mais à 65 ans déjà, il est un candidat improbable au poste de Premier Ministre. Il y est cependant nommé d'urgence le 10 mai 1940, après la démission de Neville Chamberlain, et dans un contexte européen dramatique marqué par les défaites successives des Alliés face aux troupes nazies et par l'armée britannique dans l'incapacité d'être évacuée de Dunkerque. Alors que plane la menace d'une invasion du Royaume-Uni par Hitler et que 200 000 soldats britanniques sont piégés à Dunkerque, Churchill découvre que son propre parti complote contre lui et que même son roi, George VI, se montre fort sceptique quant à son aptitude à assurer la lourde tâche qui lui incombe. Churchill doit prendre une décision fatidique : négocier un traité de paix avec l'Allemagne nazie et épargner à ce terrible prix le peuple britannique ou mobiliser le pays et se battre envers et contre tout. Avec le soutien de Clémentine, celle qu'il a épousée 31 ans auparavant, il se tourne vers le peuple britannique pour trouver la force de tenir et de se battre pour défendre les idéaux de son pays, sa liberté et son indépendance. Avec le pouvoir des mots comme ultime recours, et avec l'aide de son infatigable secrétaire, Winston Churchill doit composer et prononcer les discours qui rallieront son pays. Traversant, comme l'Europe entière, ses heures les plus sombres, il est en marche pour changer à jamais le cours de l'Histoire."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Universal Pictures France"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "1.85:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5053083146207"
+        },
+        {
+            "name": "Format",
+            "value": "PAL, Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/05/2019 18:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/10/2023 18:20"
+        }
+    ],
+    "main_title": "Heures sombres (Les)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1650_video/thumbnail_big",
+    "thumbnail_mini": "db/1650_video/thumbnail_small"
+}

@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le grand livre de l'automobile"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Collectif"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Solar"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "23/11/1998"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "0"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Broché"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782263009662"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": "14.90 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Le grand livre de l'automobile",
+    "sub_title": "Collectif",
+    "thumbnail_big": "db/85_book/thumbnail_big",
+    "thumbnail_mini": "db/85_book/thumbnail_small"
+}

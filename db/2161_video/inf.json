@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Batman Begins (4K)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christopher Nolan"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Christian Bale Katie Holmes Michael Caine Cillian Murphy Liam Neeson"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/06/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Alors que le souvenir de ses parents assassines le hante Bruce Wayne desempare erre a travers le monde cherchant les moyens de combattre l'injustice et ses propres peurs. Avec l'aide de son devoue majordome et homme de confiance Alfred de l'inspecteur Jim Gordon et de son allie Lucius Fox Wayne revient a Gotham City et revele son alter ego : Batman un justicier masque qui utilise sa force son intelligence et une batterie d'armes high-tech pour combattre les forces sinistres qui menacent la ville...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051889614340"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/09/2023 13:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:14"
+        }
+    ],
+    "main_title": "Batman Begins (4K)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2161_video/thumbnail_big",
+    "thumbnail_mini": "db/2161_video/thumbnail_small"
+}

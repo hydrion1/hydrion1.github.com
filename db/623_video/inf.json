@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Rogue"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Philip G. Atwell"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "John Lone Jet Li Jason Statham"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/04/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Depuis l'assassinat de son meilleur ami l'agent du FBI Jack Crawford n'a plus qu'une obsession : retrouver Rogue celui que tout designe comme coupable et faire justice lui-meme. Mais comment attraper le plus redoutable des tueurs un veritable fantome capable d'apparaitre n'importe ou pour semer le chaos avant de s'evanouir dans la nature ? Lorsque Rogue refait surface aussi mysterieux qu'insaisissable il declenche une guerre spectaculaire entre la mafia chinoise et les Yakuza japonais. Malgre les risques Crawford est plus que jamais decide a en finir avec Rogue et se jette dans la m elee.Alors que la guerre des gangs fait rage Crawford va s'approcher de plus en plus de son ennemi et decouvrir le secret qui se cache derriere chaque combat...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "TF1 Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3384442167109"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/05/2024 17:20"
+        }
+    ],
+    "main_title": "Rogue",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/623_video/thumbnail_big",
+    "thumbnail_mini": "db/623_video/thumbnail_small"
+}

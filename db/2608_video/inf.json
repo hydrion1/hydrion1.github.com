@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tout en haut du monde"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rémi Chayé"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "81"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/01/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "1882, Saint-Pétersbourg. \n\nSacha, jeune fille de l’aristocratie russe, a toujours été fascinée par la vie d’aventure de son grand-père, Oloukine. Explorateur renommé, concepteur d'un magnifique navire, le Davaï, il n’est jamais revenu de sa dernière expédition à la conquête du Pôle Nord. Sacha décide de partir vers le Grand Nord, sur la piste de son grand-père pour retrouver le fameux navire.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442269452"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/07/2024 22:32"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/07/2024 22:46"
+        }
+    ],
+    "main_title": "Tout en haut du monde",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2608_video/thumbnail_big",
+    "thumbnail_mini": "db/2608_video/thumbnail_small"
+}

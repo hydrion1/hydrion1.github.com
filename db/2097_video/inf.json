@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Rio 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Carlos Saldanha"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Lorànt Deutsch, Jesse Eisenberg, Laetitia Casta"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/08/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": " Avec Lorànt Deutsch, Jesse Eisenberg, Laetitia Casta\nBlu a pris son envol et se sent désormais chez lui à Rio de Janeiro, aux côtés de Perla et de leurs trois enfants. Mais la vie de perroquet ne s’apprend pas en ville et Perla insiste pour que la famille s’installe dans la forêt amazonienne alors qu'ils découvrent que d'autres aras bleus y vivent.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428058005"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/08/2023 20:42"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/08/2023 20:43"
+        }
+    ],
+    "main_title": "Rio 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2097_video/thumbnail_big",
+    "thumbnail_mini": "db/2097_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Apollo 13"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ron Howard"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Hanks Bill Paxton Kevin Bacon Gary Sinise Ed Harris"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"\"\"Houston nous avons un probleme\"\" c'est la phrase qui le 13 avril 1970 a 21h7 fit sursauter les hommes qui surveillaient un vol de routine du vaisseau \"\"Apollo 13\"\" depuis la salle de controle de la NASA. Un des reservoirs d'oxygene venait d'exploser a la 55e heure du vol et a 205 000 miles de la Terre.}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Universal"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3259190305892"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/08/2024 21:22"
+        }
+    ],
+    "main_title": "Apollo 13",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/10_video/thumbnail_big",
+    "thumbnail_mini": "db/10_video/thumbnail_small"
+}

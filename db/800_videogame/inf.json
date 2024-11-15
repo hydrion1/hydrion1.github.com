@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Rodea The Sky Soldier"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii U"
+        },
+        {
+            "name": "Genre",
+            "value": "Combat"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "10/11/2015"
+        },
+        {
+            "name": "Editeur",
+            "value": "NIS America"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/05/2021"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060112431265"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/05/2021 18:45"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Wii U",
+    "sub_title": "Rodea The Sky Soldier",
+    "thumbnail_big": "db/800_videogame/thumbnail_big",
+    "thumbnail_mini": "db/800_videogame/thumbnail_small"
+}

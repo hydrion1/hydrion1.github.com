@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Ferrari en 1000 photos"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Frédéric Parmentier, Albéric Haas"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Solar"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "19/02/1997"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "127"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Broché"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782263024276"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "22.71 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Les Ferrari en 1000 photos",
+    "sub_title": "Frédéric Parmentier, Albéric Haas",
+    "thumbnail_big": "db/120_book/thumbnail_big",
+    "thumbnail_mini": "db/120_book/thumbnail_small"
+}

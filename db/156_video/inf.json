@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Brendan And The Secret Of Kells"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": ""
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"C'est en Irlande au 9eme siecle dans l'abbaye fortifiee de Kells que vit Brendan un jeune moine de douze ans. Avec les autres freres Brendan aide a la construction d'une enceinte pour proteger l'abbaye des assauts reguliers des vikings. Sa rencontre avec Frere Aidan celebre maitre enlumineur et \"\"gardien\"\" d'un Livre d'enluminures fabuleux mais inacheve va l'entrainer dans de fantastiques aventures. Aidan va initier Brendan a l'art de l'enluminure pour lequel le jeune garcon revelera un talent prodigieux. Pour finir le livre et defiant ses propres peurs Brendan sortira de l'abbaye pour la premiere fois et entrera dans la foet enchantee ou de dangereuses creatures mythiques se cachent et l'attendent. C'est la qu'il va rencontrer Aisling la jeune enfant loup qui l'aidera tout au long de son chemin. Brendan va-t-il reussir sa mission malgre les hordes de vikings qui se rapprochent ? Pourra t-il prouver que l'art est la meilleure fortification contre les barbares ?}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8711983496248"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Brendan And The Secret Of Kells",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/156_video/thumbnail_big",
+    "thumbnail_mini": "db/156_video/thumbnail_small"
+}

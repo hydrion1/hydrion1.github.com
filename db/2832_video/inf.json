@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Accel World (Edition Saphir)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "KAWAHARA REKI"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "24"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/12/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.45 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 2056, le monde a bien changé et tous utilisent dorénavant un terminal portatif permettant d'être connecté en permanence à des réseaux virtuels. Mais certaines choses ne changent pas. Il existe toujours des enfants qui servent de souffre-douleur aux autres. C'est le cas de Haruyuki, un collégien petit et obèse. Pour échapper à son triste quotidien, il passe du temps sur un réseau local, à jouer à un jeu de squash. Un jour, la très populaire Neige Noire, lui adresse la parole et lui propose de rejoindre un mystérieux programme, le Brain Burst... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "UM"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3760000571401"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/10/2024 21:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/10/2024 21:56"
+        }
+    ],
+    "main_title": "Accel World (Edition Saphir)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2832_video/thumbnail_big",
+    "thumbnail_mini": "db/2832_video/thumbnail_small"
+}

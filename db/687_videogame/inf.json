@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Metroid Prime - Le Choix des Joueurs"
+        },
+        {
+            "name": "Console",
+            "value": "GameCube"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "17/11/2002"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496391270"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Metroid Prime 3 : Corruption est un jeu de tir and la premiere personne sur Wii. Troisieme episode de la serie. vous incarnez toujours Samus Aran. qui vient d'apprendre que le super-ordinateur Aurora 242 est infecte par un virus d'origine inconnue. Servez-vous de la Wiimote et du Nunchuk pour avancer dans les meandres des differentes zones du jeu.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/12/2019 21:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "GameCube",
+    "sub_title": "Metroid Prime - Le Choix des Joueurs",
+    "thumbnail_big": "db/687_videogame/thumbnail_big",
+    "thumbnail_mini": "db/687_videogame/thumbnail_small"
+}

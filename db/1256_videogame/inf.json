@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Midnight club II (sans manuel)"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox"
+        },
+        {
+            "name": "Genre",
+            "value": "Courses"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "30/06/2003"
+        },
+        {
+            "name": "Editeur",
+            "value": "Rockstar Games"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/12/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5026555240246"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/12/2023 07:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/12/2023 08:00"
+        }
+    ],
+    "main_title": "Xbox",
+    "sub_title": "Midnight club II (sans manuel)",
+    "thumbnail_big": "db/1256_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1256_videogame/thumbnail_small"
+}

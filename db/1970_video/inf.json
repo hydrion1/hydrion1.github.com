@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gran Torino"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Clint Eastwood"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Clint Eastwood Bee Vang Geraldine Hughes"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/02/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/04/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Walt Kowalski est un ancien de la guerre de Coree un homme inflexible amer et petri de prejuges surannes. Apres des annees de travail a la chaine il vit replie sur lui-meme occupant ses journees a bricoler trainasser et siroter des bieres. Avant de mourir sa femme exprima le voeu qu'il aille a confesse mais Walt n'a rien a avouer ni personne a qui parler. Hormis sa chienne Daisy il ne fait confiance qu'a son M-1 toujours propre toujours pet a l'usage...Ses anciens voisins ont demenage ou sont morts depuis longtemps. Son quartier est aujourd'hui peuple d'immigrants asiatiques qu'il meprise et Walt ressasse ses haines innombrables - a l'encontre de ses voisins des ados Hmong latinos et afro-americains \"\"qui croient faire la loi\"\" de ses propres enfants devenus pour lui des etrangers. Walt tue le temps comme il peut en attendant le grand depart jusqu'au jour ou un ado Hmong du quartier tente de lui voler sa precieuse Ford Gran Torino... Walt tient comme a la prunelle de ses yeux a cette voiture fetiche aussi belle que le jour ou il la vit sortir de la chaine.Lorsque le jeune et timide Thao tente de la lui voler sous la pression d'un gang Walt fait face a la bande et devient malgre lui le heros du quartier. Sue la soeur ainee de Thao insiste pour que ce dernier se rachete en travaillant pour Walt. Surmontant ses reticences ce dernier confie au garcon des \"\"travaux d'inteet general\"\" au profit du voisinage. C'est le debut d'une amitie inattendue qui changera le cours de leur vie.Grace a Thao et sa gentille famille Walt va decouvrir le vrai visage de ses voisins et comprendre ce qui le lie a ces exiles contraints de fuir la violence... comme lui qui croyait fermer la porte sur ses souvenirs aussi aisement qu'il enfermait au garage sa precieuse Gran Torino...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051889005407"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/04/2023 22:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/12/2023 17:02"
+        }
+    ],
+    "main_title": "Gran Torino",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1970_video/thumbnail_big",
+    "thumbnail_mini": "db/1970_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Comme les 5 doigts de la main"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alexandre Arcady"
+        },
+        {
+            "name": "Genre",
+            "value": "Genres Petits prix imports langue francaise DVD Zone 2 edition simple Francais"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Patrick Bruel Vincent Elbaz Pascal Elbe"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/09/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ils sont cinq freres semblables et pourtant differents eleves par une mere devenue veuve trop tot. L'un d'eux s'etait eloigne de la famille lorsqu'il reapparait poursuivi par un gang de trafiquants il se refugie parmi les siens en leur revelant un secret. Les cinq ensemble vont trouver l'energie de se defendre et le moyen de venger la memoire de leur pere assassine...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5420051903269"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Comme les 5 doigts de la main",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/130_video/thumbnail_big",
+    "thumbnail_mini": "db/130_video/thumbnail_small"
+}

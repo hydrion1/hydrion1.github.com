@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Sept vies"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gabriele Muccino"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Will Smith, Rosario Dawson, Woody Harrelson, Michael Ealy, Barry Pepper, Elpidia Carrillo"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/01/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Hanté par un secret, Ben Thomas cherche sa rédemption en transformant radicalement la vie de sept personnes qu'il ne connaît pas. Une fois son plan mis en place, plus rien ne pourra l'arrêter. C'est tout du moins ce qu'il croit. Mais Ben n'avait pas prévu qu'il tomberait amoureux de l'une de ces personnes et que c'est elle qui va le transformer..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299541365"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/03/2024 21:58"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/03/2024 22:10"
+        }
+    ],
+    "main_title": "Sept vies",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2491_video/thumbnail_big",
+    "thumbnail_mini": "db/2491_video/thumbnail_small"
+}

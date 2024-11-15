@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Selma"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ava DuVernay"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "128"
+        },
+        {
+            "name": "Acteurs",
+            "value": "David Oyelowo, Carmen Ejogo, Tom Wilkinson"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/03/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/02/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Selma retrace la lutte historique du Dr Martin Luther King pour garantir le droit de vote à tous les citoyens. Une dangereuse et terrifiante campagne qui s’est achevée par une longue marche, depuis la ville de Selma jusqu’à celle de Montgomery, en Alabama, et qui a conduit le président Jonhson à signer la loi sur le droit de vote en 1965. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8713045245498"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/02/2022 19:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Selma",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1853_video/thumbnail_big",
+    "thumbnail_mini": "db/1853_video/thumbnail_small"
+}

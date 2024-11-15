@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Colony wars (no manual, no cover. Have box and back cov)"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux de simulation"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "31/10/1997"
+        },
+        {
+            "name": "Editeur",
+            "value": "Psygnosis"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719672920"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/07/2020 22:45"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/09/2023 17:16"
+        }
+    ],
+    "main_title": "PlayStation",
+    "sub_title": "Colony wars (no manual, no cover. Have box and back cov)",
+    "thumbnail_big": "db/729_videogame/thumbnail_big",
+    "thumbnail_mini": "db/729_videogame/thumbnail_small"
+}

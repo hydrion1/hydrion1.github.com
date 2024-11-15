@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Shangri la/intégrale"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Makoto Bessho"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "528"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/02/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "4"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "40.75 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Shangri-La - Intégrale"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Kazé Animation"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Japonais, Français"
+        },
+        {
+            "name": "Sous-titres",
+            "value": "Français"
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 2.0"
+        },
+        {
+            "name": "Ratio",
+            "value": "1.77:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3700091028279"
+        },
+        {
+            "name": "Format",
+            "value": "PAL, Cinémascope, Plein écran, Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 11:08"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Shangri la/intégrale",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1474_video/thumbnail_big",
+    "thumbnail_mini": "db/1474_video/thumbnail_small"
+}

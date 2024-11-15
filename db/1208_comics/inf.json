@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Chirality"
+        },
+        {
+            "name": "Titre",
+            "value": "Chirality. Tome 1"
+        },
+        {
+            "name": "Scénario",
+            "value": "Satoshi Urushihara"
+        },
+        {
+            "name": "Editeur",
+            "value": "Pika Editions"
+        },
+        {
+            "name": "Dessins",
+            "value": "Satoshi Urushihara"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": "Satoshi Urushihara"
+        },
+        {
+            "name": "Nbre de pages",
+            "value": "180"
+        },
+        {
+            "name": "Date de parution",
+            "value": "01/07/2002"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": ""
+        },
+        {
+            "name": "Genre ",
+            "value": "Manga"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "Broché"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782845990913"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "13/01/2018 21:51"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Chirality",
+    "sub_title": "Chirality. Tome 1",
+    "thumbnail_big": "db/1208_comics/thumbnail_big",
+    "thumbnail_mini": "db/1208_comics/thumbnail_small"
+}

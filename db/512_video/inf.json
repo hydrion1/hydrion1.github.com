@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Trois mousquetaires (Les)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Stephen Herek"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Charlie Sheen Kiefer Sutherland Chris O'Donnell Oliver Platt Tim Curry"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/01/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Fils d?un mousquetaire repute pour sa bravoure assassine a la suite d?un odieux traquenard le bouillant D?Artagnan quitte sa Gascogne natale pour Paris afin de prendre la succession au sein de la celebre Compagnie. Or ce corps d?elite vient d? etre dissous par le cardinal de Richelieu qui s?emploie avec son executeur des basses oeuvres le comte de Rochefort a isoler le jeune roi Louis XIII le gardant pour ainsi dire en otage. A peine arrive dans la capitale D?Artagnan rencontre trois mousquetaires refractaires farouchement determines a poursuivre leur mission de protection du Roi : l?imposant Porthos le seduisant Aramis et le morose Athos victime d?un amour malheureux pour une irresistible traitresse...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Walt Disney France"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3459370441970"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Trois mousquetaires (Les)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/512_video/thumbnail_big",
+    "thumbnail_mini": "db/512_video/thumbnail_small"
+}

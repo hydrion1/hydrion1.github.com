@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Alfred Hitchcock, les classiques : Fenêtre sur cour + Sueurs froides + Psychose + Les Oiseaux"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alfred Hitchcock"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "James Stewart, Grace Kelly, Wendell Corey, Thelma Ritter, Raymond Burr, Judith Evelyn, Ross Bagdasarian, Georgine Darcy, Kim Novak, Barbara Bel Geddes, Tom Helmore, Henry Jones, Raymond Bailey, Ellen Corby, Konstantin Shayne, Lee Patrick, Anthony Perkins, Vera Miles, John Gavin, Janet Leigh, Martin Balsam, John McIntire, Simon Oakland, Rod Taylor, Tippi Hedren, Jessica Tandy, Suzanne Pleshette, Veronica Cartwright, Ethel Griffies, Charles McGraw, Ruth McDevitt"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/10/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "4"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "50.36 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/10/2023 08:43"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/10/2023 08:53"
+        }
+    ],
+    "main_title": "Alfred Hitchcock, les classiques : Fenêtre sur cour + Sueurs froides + Psychose + Les Oiseaux",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2234_video/thumbnail_big",
+    "thumbnail_mini": "db/2234_video/thumbnail_small"
+}

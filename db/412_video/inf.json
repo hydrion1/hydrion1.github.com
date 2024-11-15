@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Couple de stars"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Joe Roth"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Julia Roberts Billy Crystal Catherine Zeta-Jones John Cusack Hank Azaria"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/08/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.94 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Kiki est l'assistante dévouée de la belle et égocentrique star de cinéma Gwen Harrison, qui n'est autre que sa soeur. Ce qui est le plus dur, ce n'est pas de supporter les mille et un caprices de madame la grande actrice, c'est d'être secrètement amoureuse de son futur ex-mari, l'irrésistible Eddie, lui aussi acteur.\nKiki accepte d'aider l'attaché de presse Lee Phillips dans une mission impossible : réunir lors d'une conférence de presse le célébrissime couple, qui s'est violemment séparé, afin que tous deux présentent aux journalistes leur dernier film.\nPour Lee et Kiki, l'épreuve est périlleuse, d'autant plus que le réalisateur fait des siennes, que le patron du studio est hystérique et que Hector, le nouveau compagnon de Gwen, veille jalousement sur elle. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "G.C.T.H.V."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609756128"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Couple de stars",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/412_video/thumbnail_big",
+    "thumbnail_mini": "db/412_video/thumbnail_small"
+}

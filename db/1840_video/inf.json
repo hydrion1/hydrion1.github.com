@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gunparade March"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Katsushi Sakurab"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "300"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/09/2021"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La seconde guerre mondiale touche à sa fin lorsqu'une race extraterrestre apparaît sur terre pour massacrer ses occupants. Pour survivre, l'humanité est contrainte à être solidaire mais le combat est inégal et la planète durablement meurtrie. 54 ans et des millions de morts plus tard, les humains continuent toujours à se battre au moyen de mecha dernier cri, mais beaucoup de pilotes y ont laissé la vie. C'est ainsi que de jeunes lycéens sont recrutés pour être formés au combat et intégrer la célèbre section 5121, réputée pour sa vaillance. Celle-ci vient d'incorporer un nouveau membre, la mystérieuse Mai Shibamura... Basée sur un jeu vidéo produit jadis pour la Playstation 1, cette série de 12 épisodes est réalisée par l'ex-animateur Katsushi Sakurabi (\"Shingetsutan Tsukihime\"), avec une direction artistique assurée notamment par Chikako Shibata (\"Fruits Basket\", \"Get Backers\", \"Chobits\"), des musiques du grand Kenji Kawai (\"Patlabor\", \"Ghost in the Shell\", \"Avalon\") et une animation Prod.ite au sein du studio J.C.Staff (\"Slayers\", \"Utena\", \"Excel Saga\"). Le tout supervisé par Fumihiko Takayama (\"Gundam 0080\", \"Orguss 02\", \"Patlabor WXIII\"), spécialiste respecté des séries de Mecha. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Declic Images"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3700093984795"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/09/2021 19:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Gunparade March",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1840_video/thumbnail_big",
+    "thumbnail_mini": "db/1840_video/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Orange Box"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox 360"
+        },
+        {
+            "name": "Genre",
+            "value": "Arcade - Action First Person Shooter"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "10/10/2007"
+        },
+        {
+            "name": "Editeur",
+            "value": "Valve Software"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/06/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5030931058967"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Half - Life 2 + \nHalf - Life 2 Episode 1 +\nHalf - Life 2 Episode 2 +\nTeam fortress 2 +\nPortal\n  "
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/06/2023 21:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/06/2023 21:17"
+        }
+    ],
+    "main_title": "Xbox 360",
+    "sub_title": "The Orange Box",
+    "thumbnail_big": "db/1190_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1190_videogame/thumbnail_small"
+}

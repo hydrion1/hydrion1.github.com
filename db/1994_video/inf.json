@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Alexandre"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Oliver Stone"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "170"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Colin Farrell Angelina Jolie Val Kilmer Jared Leto Anthony Hopkins"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "05/01/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/05/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La vie d'Alexandre le Grand, narrée par Ptolémée : de son enfance à sa mort, des cours d'Aristote aux conquêtes qui firent sa légende, de l'intimité aux champs de bataille. Fils du roi Philippe II, il soumit la Grèce révoltée, fonda Alexandrie, défit les Perses, s'empara de Babylone et atteint l'Indus pour établir à 32 ans l'un des plus grands empires ayant jamais existé. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Pathe"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "338833033972"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/05/2023 22:41"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:04"
+        }
+    ],
+    "main_title": "Alexandre",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1994_video/thumbnail_big",
+    "thumbnail_mini": "db/1994_video/thumbnail_small"
+}

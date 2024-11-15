@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Shrek 3"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "raman Hui Chris Miller"
+        },
+        {
+            "name": "Genre",
+            "value": "Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Alain Chabat Med Hondo Barbara Tissier"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.80 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L'ogre Shrek n'avait pas quitte son marecage pestilentiel et epouse sa chere Fiona pour devenir roi. C'est pourtant ce qui risque de lui arriver apres que son beau-pere Harold clabote soudain sans crier gare. S'il n'arrive pas a denicher illico un roi avec l'aide de ses fideles compagnons l ane et le Chat Potte Shrek deviendra le prochain souverain du Royaume Fort Fort Lointain. Bonjour les ennuis. moins qu'Artie le cousin loser de Fiona ne se laisse convaincre de monter sur le trone a sa place. Mais ce paume a-t-il vraiment l'etoffe d'un roi ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Marianne"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717722070540"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/03/2024 18:57"
+        }
+    ],
+    "main_title": "Shrek 3",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/265_video/thumbnail_big",
+    "thumbnail_mini": "db/265_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bloodrayne"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Uwe Boll"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kristanna Loken Ben Kingsley Michael Madsen"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.47 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Roumanie dix-huitieme siecle Rayne une jeune Dhampir (mi-humaine mi-vampire) se bat pour se venger de son pere Kagan: le Roi des Vampires responsable de la mort cruelle de sa mere. Devenue orpheline elle se refugie dans un cirque presentant un spectacle de monstres seul endroit ou son existence peu commune est toleree. Lorsqu'elle se metamorphose ensuite en Bloodrayne elle se promet d'embellir sa vie. Elle est ensuite approchee par deux chasseurs de vampires Sebastian et Vladimir qui lui demandent de les aider a detruire le vampire le plus dangereux et le plus demoniaque: son pere...Bloodrayne est un splendide recit fantastique dote de nombreuses scenes d'action et d'effets speciaux dans un decor fabuleux.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626033899"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Bloodrayne",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/845_video/thumbnail_big",
+    "thumbnail_mini": "db/845_video/thumbnail_small"
+}

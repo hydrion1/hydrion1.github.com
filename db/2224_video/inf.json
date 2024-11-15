@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hotel Transylvanie"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Genndy Tartakovsky"
+        },
+        {
+            "name": "Genre",
+            "value": "Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Adam Sandler Andy Samberg Selena Gomez"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/02/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/10/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Bienvenue à l’Hôtel Transylvanie, le somptueux hôtel de Dracula, où les monstres et leurs familles peuvent enfin vivre leur vie, se détendre et faire « monstrueusement » la fête comme ils en ont envie sans être embêtés par les humains.\nPour l’anniversaire de sa fille, la jeune Mavis, qui fête ses 118 printemps, Dracula invite les plus célèbres monstres du monde – Frankenstein et sa femme, la Momie, l’Homme Invisible, une famille de loups-garous, et bien d’autres encore…\nTout se passe très bien, jusqu’à ce qu’un humain débarque par hasard à l’hôtel et se lie d’amitié avec Mavis…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Sony Pictures Entertainment"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609656930"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/10/2023 17:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 10:51"
+        }
+    ],
+    "main_title": "Hotel Transylvanie",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2224_video/thumbnail_big",
+    "thumbnail_mini": "db/2224_video/thumbnail_small"
+}

@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Astérix"
+        },
+        {
+            "name": "Titre",
+            "value": "Astérix  n° 32 :  La rentrée gauloise"
+        },
+        {
+            "name": "Scénario",
+            "value": "René Goscinny"
+        },
+        {
+            "name": "Editeur",
+            "value": "Albert René"
+        },
+        {
+            "name": "Dessins",
+            "value": "Albert Uderzo"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": ""
+        },
+        {
+            "name": "Nbre de pages",
+            "value": "56"
+        },
+        {
+            "name": "Date de parution",
+            "value": "29/08/2003"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": ""
+        },
+        {
+            "name": "Genre ",
+            "value": "Création de bandes dessinées"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": "32.asterix et la rentree gauloise (frances) editado por Hachette"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "Relié"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": "01"
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782864971535"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/09/2018 14:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Astérix",
+    "sub_title": "Astérix  n° 32 :  La rentrée gauloise",
+    "thumbnail_big": "db/1230_comics/thumbnail_big",
+    "thumbnail_mini": "db/1230_comics/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Kingdom Hearts"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 2"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "19/11/2002"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0711719394723"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Les créateurs de Square ont réussi un incroyable tour de force : faire cohabiter dans un même jeu l'univers de Final Fantasy et celui de Disney ! De cette improbable union est né Kingdom Hearts, une aventure festive et intemporelle à laquelle les plus jeunes ne pourront résister. Dès les premières minutes la fraîcheur du titre impressionne. Ambiance tropicale, couleurs pastelles et personnages au look très attachants, pas de doute, tous les ingrédients sont réunis. \nSur la plage, vous vous glisserez dans la peau de Sora, jeune héros rebelle typiquement nippon en proie à de nombreuses questions existentielles. Sa vie va toutefois basculer lorsqu'il rencontrera mystérieusement Donald et Dingo, ses nouveaux équipiers. Votre quête débute alors à la recherche de Mickey, mystérieusement enlevé par la sombre Maléfice (la sorcière de La Belle au bois dormant). Ne perdez pas de vue que derrière ses allures colorées se dissimule un vrai action-RPG où il vous faudra acquérir des points d'expériences au fil des combats. Toutefois pour souligner le côté \"monde imaginaire\", les affrontements contre les étranges Heartless (étranges créatures de l'ombre) se règlent à coups d'invocations souvent assez hallucinantes. Ainsi, il n'est pas rare de découvrir le bon génie d'Aladdin jaillir, ou encore le majestueux Simba du Roi Lion. Les nombreux univers visités, ressemblent à autant de terrains de jeu aussi connus que la ville de L'Étrange Noël de M. Jack, voire même le ventre de la baleine de Pinochio. Une quête irrésistible, drôle et captivante, qui ravira les fans des univers de Square et Walt Disney. --Nobuo ATTENTION VERSION UK JEU EN ANGLAIS UNIQUEMENT! Vendu NEUF DANS SON EMBALLAGE D'ORIGINE"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 18:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 12:10"
+        }
+    ],
+    "main_title": "PlayStation 2",
+    "sub_title": "Kingdom Hearts",
+    "thumbnail_big": "db/470_videogame/thumbnail_big",
+    "thumbnail_mini": "db/470_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Colombiana"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Olivier Megaton"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Zoe Saldana Jordi Molla Lennie James Michael Vartan Cliff Curtis"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/12/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "1992. Colombie. Cataleya 9 ans assiste au meurtre de ses parents. Echappant de justesse au massacre elle se refugie aux Etats-Unis chez son oncle Emilio un gangster. 15 ans plus tard elle travaille pour lui comme tueuse a gages. Elle signe ses meurtres d'une orchidee dessinee sur le torse de ses victimes : un message a l'intention des assassins de ses parents. Car Cataleya est bien decidee a aller jusqu'au bout de sa vengeance."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Europacorp"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8715664089842"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 16:20"
+        }
+    ],
+    "main_title": "Colombiana",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1228_video/thumbnail_big",
+    "thumbnail_mini": "db/1228_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Farinelli"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gerard Corbiau"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Stefano Dionisi Verso Enrico Lo Elsa Zylberstein"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/11/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Madrid 1740. FARINELLI consacre desormais sa voix a la seule guerison du Roi d'Espagne. Il y a trois ans il a mis brusquement fin a sa carriere tumultueuse apres avoir decouvert l'inavouable secret de son frere Riccardo. Naples douze ans plus tot. Sur une place noire de monde une joute oppose le jeune Carlo BROSCHI a une trompette virtuose. La foule conquise par la purete de sa voix fait un triomphe au jeune CASTRATS. Le grand compositeur HAENDEL lui propose de le suivre a Londres. A travers l'Europe de triomphes en scandales d'honneurs en trahisons la legende du grand FARINELLI s'ecrit...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "AVENTI"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3530941016046"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Farinelli",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/878_video/thumbnail_big",
+    "thumbnail_mini": "db/878_video/thumbnail_small"
+}

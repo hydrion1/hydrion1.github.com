@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "In the air [Import belge]"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jason Reitman"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "George Clooney Anna Kendrick Jason Bateman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/01/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/04/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ryan Bingham est un specialiste du licenciement a qui les entreprises font appel pour ne pas avoir a se salir les mains. Dans sa vie privee celui-ci fuit tout engagement (mariage propriete famille) jusqu'a ce que sa rencontre avec deux femmes ne le ramene sur terre...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717721331628"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/04/2023 22:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:58"
+        }
+    ],
+    "main_title": "In the air [Import belge]",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1973_video/thumbnail_big",
+    "thumbnail_mini": "db/1973_video/thumbnail_small"
+}

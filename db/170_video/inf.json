@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "100 Mile Rule"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Brent Huff"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action, Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jake Weber Maria Bello David Thornton Nick Chinlund Michael McKean"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/10/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "3 commerciaux (Jerry Howard et Bobby) quittent Detroit pour un seminaire a Los Angeles. Au cours de ce deplacement Bobby rencontre Monica une seduisante serveuse. Tout commence par un diner innocent mais rapidement Bobby tombe sous son charme sans imaginer qu'un piege diabolique vient de se refermer sur lui...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Seven 7"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3512391510664"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/04/2022 21:14"
+        }
+    ],
+    "main_title": "100 Mile Rule",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/170_video/thumbnail_big",
+    "thumbnail_mini": "db/170_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Poupees russes (Les)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Romain Duris Kelly Reilly Audrey Tautou Cecile De France Kevin Bishop"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Romain Duris Kelly Reilly Audrey Tautou Cecile De France Kevin Bishop"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/12/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.02 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Revoila Xavier ! On le retrouve cinq ans apres L'Auberge Espagnole il a trente ans. Il a realise son eve d'enfance il est devenu ecrivain mais il semble quand meme un peu perdu. Gagner sa vie avec l'ecriture n'est pas si simple. Il a quelques problemes avec sa banquiere. Il a aussi des reticences a se fixer avec une fille. Il enchaine les aventures amoureuses avec inconsequence. Il enchaine aussi de facon confuse et anarchique les petits boulots lies a l'ecriture. Tantot journaliste negre ecrivain pour historiettes amoureuses ou scenariste pour serie tele de pacotille. Il fait comme il peut c'est-a-dire qu'il est un peu en vrac...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Studiocanal"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3259130228328"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Poupees russes (Les)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/997_video/thumbnail_big",
+    "thumbnail_mini": "db/997_video/thumbnail_small"
+}

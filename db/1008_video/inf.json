@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fast and Furious 7"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "James Wan"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Vin Diesel Paul Walker Jason Statham Michelle Rodriguez Jordana Brewster"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/08/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Exploitant le succes mondial de cette serie survitaminee Vin Diesel Paul Walker et Dwayne Johnson sont de retour au volant de l'equipe de Fast et Furious 7. Ce chapitre de la serie dont le succes a ete largement reconnu est realise par James Wan et salue le retour de ses seconds roles favoris: Michelle Rodriguez Jordana Brewster Tyrese Gibson Chris Ludacris Bridges Elsa Pataky et Lucas Black.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Universal Pictures"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5053083036928"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/01/2024 15:42"
+        }
+    ],
+    "main_title": "Fast and Furious 7",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1008_video/thumbnail_big",
+    "thumbnail_mini": "db/1008_video/thumbnail_small"
+}

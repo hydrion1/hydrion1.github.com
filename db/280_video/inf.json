@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Astro Boy. le film"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Bowers"
+        },
+        {
+            "name": "Genre",
+            "value": "Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Freddie Highmore Kristen Bell Nicolas Cage Charlize Theron Samuel L. Jackson"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "08/04/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Toby pense  etre un petit garcon comme les autres... jusqu'au jour ou il decouvre qu'il peut voler possede une force surhumaine et meme des super-pouvoirs ! Apprenant qu'il est en fait un robot cree par un scientifique de genie qui le considere comme son fils il panique et s'enfuit... Il va pourtant se rendre compte que sa ville Metro City a besoin d'un justicier et que son courage et ses pouvoirs font de lui un robot unique en son genre !}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Marianne"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "M6 Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5412370840608"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/11/2023 21:52"
+        }
+    ],
+    "main_title": "Astro Boy. le film",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/280_video/thumbnail_big",
+    "thumbnail_mini": "db/280_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Asterix - Le Domaine des Dieux"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alexandre Astier Albert Uderzo Jean-Remi Francois Philippe Lazebnik Rene Goscinny Louis Clichy"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Alain Chabat Alexandre Astier Artus de Penguern Baptiste Lecaplain elie Semoun"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/03/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"En 50 avant Jesus-Christ toute la Gaule est occupee par les Romains... Toute ? Non ! Car un village peuple d'irreductibles Gaulois resiste encore et toujours a l'envahisseur. Exaspere par la situation Jules Cesar decide de changer de tactique : puisque ses armees sont incapables de s'imposer par la force c'est la civilisation romaine elle-meme qui saura seduire ces barbares Gaulois. Il fait donc construire autour du village Gaulois un domaine residentiel luxueux destine a des proprietaires romains. : \"\"Le Domaine des Dieux\"\". Nos amis gaulois resisteront ils a l'appat du gain et au confort romain ? Asterix et Obelix vont tout faire pour contrecarrer les plans de Cesar.}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "M6 Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8713045244262"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Asterix - Le Domaine des Dieux",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/704_video/thumbnail_big",
+    "thumbnail_mini": "db/704_video/thumbnail_small"
+}

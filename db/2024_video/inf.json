@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pearl Harbor"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michael Bay"
+        },
+        {
+            "name": "Genre",
+            "value": "guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ben Affleck Josh Hartnett Kate Beckinsale"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/12/2001"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/06/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dimanche 7 Decembre 1941 - 6h10. A 350 kilometres au nord d'Oahu l'amiral Nagumo donne l'ordre de lancer la premiere vague de 183 avions a partir de trois porte-avions.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Touchstone Home Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418117689"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2023 20:52"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2023 20:55"
+        }
+    ],
+    "main_title": "Pearl Harbor",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2024_video/thumbnail_big",
+    "thumbnail_mini": "db/2024_video/thumbnail_small"
+}

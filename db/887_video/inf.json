@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "X-Men : Le commencement"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Matthew Vaughn"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "James McAvoy Michael Fassbender"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/10/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Avant que les mutants n'aient revele leur existence au monde et avant que Charles Xavier et Erik Lehnsherr ne deviennent le Professeur X et Magneto ils n'etaient encore que deux jeunes hommes decouvrant leurs pouvoirs pour la premiere fois. Avant de devenir les pires ennemis ils etaient encore amis et travaillaient avec d'autres mutants pour emp echer la destruction du monde l'Armageddon. Au cours de cette operation le conflit naissant entre les deux hommes s'accentua et la guerre eternelle entre la Confrerie de Magneto et les X-Men du Professeur X eclata.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "20th Century Fox"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3344428046590"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 17:12"
+        }
+    ],
+    "main_title": "X-Men : Le commencement",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/887_video/thumbnail_big",
+    "thumbnail_mini": "db/887_video/thumbnail_small"
+}

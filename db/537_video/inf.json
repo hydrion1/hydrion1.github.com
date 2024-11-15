@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "John Carter"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Andrew Stanton"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Taylor Kitsch Lynn Collins Samantha Morton"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "10/07/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En cette fin de XIXeme siecle las de la guerre civile qui ravage les Etats-Unis l'ancien capitaine John Carter refuse desormais de s'engager pour quelque cause que ce soit pretextant  etre a la recherche d'une mine d'or qui le rendra riche. Un jour il se retrouve mysterieusement transporte sur la planete Barsoom (un autre nom pour Mars) ou il se laisse entrainer malgre lui dans un terrible conflit entre Tars Tarkas et la fascinante princesse Dejah Thoris promise par son pere au commandant ennemi afin de faire cesser le combat. Dans un monde au bord du gouffre Carter redecouvre son humanite en prenant conscience que la survie de Barsoom et de ses habitants est entre ses mains...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418355210"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/05/2024 17:19"
+        }
+    ],
+    "main_title": "John Carter",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/537_video/thumbnail_big",
+    "thumbnail_mini": "db/537_video/thumbnail_small"
+}

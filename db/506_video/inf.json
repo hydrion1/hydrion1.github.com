@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Sherlock Holmes"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Guy Ritchie"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robert Downey Jr Jude Law Mark Strong"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/09/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Aucune enigme ne resiste longtemps a Sherlock Holmes. Flanque de son fidele ami le Docteur John Watson l'intrepide et legendaire detective traque sans relache les criminels de tous poils. Ses armes : un sens aigu de l'observation et de la deduction une erudition et une curiosite tous azimuts accessoirement une droite redoutable. Apres qu'une serie de meurtres rituels a ensanglante Londres Holmes et Watson reussissent a intercepter le coupable : Lord Blackwood. A l'approche de son execution ce sinistre adepte de la magie noire annonce qu'il reviendra du royaume des morts pour exercer la plus terrible des vengeances. La panique s'empare de la ville apres l'apparente resurrection de Blackwood"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051888053164"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Sherlock Holmes",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/506_video/thumbnail_big",
+    "thumbnail_mini": "db/506_video/thumbnail_small"
+}

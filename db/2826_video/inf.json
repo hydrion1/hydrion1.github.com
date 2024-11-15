@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hell Ride"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Larry Bishop"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "84"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Larry Bishop, Michael Madsen, Laura Cayouette, Eric Balfour, Dennis Hopper, Vinnie Jones, David Carradine"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.94 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Flingues à la main, gros cylindres et bombes atomiques entre les jambes, Pistoléro et ses potes, les grandes gueules cassées des Victors, n'ont qu'un seul but : écumer les terres sauvages d'Amérique pour venger la douce du big boss, brûlée vive par le gang de motards des 666.\n\nUne seule façon d'y parvenir : suivre la route qui mène droit en enfer..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442213769"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/09/2024 15:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/09/2024 16:00"
+        }
+    ],
+    "main_title": "Hell Ride",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2826_video/thumbnail_big",
+    "thumbnail_mini": "db/2826_video/thumbnail_small"
+}

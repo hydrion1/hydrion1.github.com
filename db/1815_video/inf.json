@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Princesse Mila"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Oleh Malamuzh"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "85"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/08/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "13/06/2021"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En dépit de leurs rangs opposés dans la société, Mila et Éric réalisent qu'ils sont des âmes sœurs et tombent rapidement amoureux. Mais Mila est enlevée par Malafar, un sorcier maléfique avec de nombreux tours impitoyables dans son sac. Dans sa quête pour obtenir le pouvoir éternel à tout prix, Malafar prévoit de sacrifier Mila afin de prolonger son immortalité. Éric part à la recherche de sa princesse kidnappée et rencontre en chemin les meilleurs et pires exemples de l'humanité et du règne animal, dont le plus important est un chat grognon mais sage, un lâche sorcier, un monstre de pierre et une tête parlante protégée par une bande de squelettes chatoyants. Pour sauver Mila, notre héros va surmonter tous les obstacles et prouver une fois de plus que l'amour est plus fort que la magie. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3760247203158"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/06/2021 18:19"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Princesse Mila",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1815_video/thumbnail_big",
+    "thumbnail_mini": "db/1815_video/thumbnail_small"
+}

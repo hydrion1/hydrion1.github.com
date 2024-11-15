@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bayonetta + Bayonetta 2 - edition speciale"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Wii U"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "23/10/2014"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Espagnol (Manual) Anglais (Manual) Allemand (Manual) Fran�ais (Manual) Italien (Manual) Portugais (Manual) Espagnol (Subtitled) Anglais (Subtitled) Allemand (Subtitled) Fran�ais (Subtitled) Italien (Subtitled) Allemand (Dubbed) Anglais (Dubbed) Espagnol (Dubbed) Fran�ais (Dubbed) Italien (Dubbed) Espagnol (Original Language) Anglais (Original Language) Allemand (Original Language) Fran�ais (Original Language) Italien (Original Language) Anglais (Unknown)"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Jeunes adultes"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "45496333843"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Wii U",
+    "sub_title": "Bayonetta + Bayonetta 2 - edition speciale",
+    "thumbnail_big": "db/368_videogame/thumbnail_big",
+    "thumbnail_mini": "db/368_videogame/thumbnail_small"
+}

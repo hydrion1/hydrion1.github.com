@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tigerland"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Joel Schumacher"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Shea Whigham, Tom Guiry, Clifton Collins Jr., Matthew Davis, Colin J. Farrell"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Nouveau venu à l'écran, Colin Farrell fait preuve d'un formidable talent dans ce fascinant film d'action réalisé par Joel Schumacher (Batman Forever, 8MM Huit Millimetres). Après avoir purgé une peine de travaux forcés, Roland Bozz (Farrell), soldat brutal et charismatique, rejoint un groupe de jeunes soldats qui se préparent à participer à la guerre au Vietnam.Prétentieux et sûr de lui, Bozz exaspère ses équipiers et ses supérieurs. L'entraînement se déroule dans une ambiance extrêmement tendue. Pourtant, quand le groupe est envoyé à Tigerland, l'étape ultime avant la véritable guerre au Vietnam, le leadership et le caractère de Bozz semble curieusement souder le groupe dans une attitude lourde de conséquences."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626010722"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/08/2018 14:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Tigerland",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1596_video/thumbnail_big",
+    "thumbnail_mini": "db/1596_video/thumbnail_small"
+}

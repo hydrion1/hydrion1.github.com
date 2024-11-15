@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Vidocq"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Pitof"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gerard Depardieu Guillaume Canet Ines Sastre Andre Dussollier Edith Scob"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/08/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"\"\"Vidocq est mort !\"\" Jamais l'annonce de la disparition d'un voleur n'aura a ce point bouleverse le Tout-Paris. Et pour cause ! Passe du clan des chasses a celui des chasseurs cet ex-bagnard devenu prefet de police sous l'Empire et la Restauration etait sur la piste d'un effroyable tueur masque et son enqu ete semblait toucher au but. Sur un scenario original et percutant de Jean-Christophe Grange (Les Rivieres pourpres) dont on reconnait aisement ici et la les touches macabres le legendaire Francois Vidocq reprend du service sous les traits de notre bon vieux Gerard Depardieu. Mais le principal inteet de ce thriller gothique reside dans le procede novateur employe puisqu'il s'agit du tout premier film au monde realise en cinema numerique. S'il faut certes un temps d'adaptation non negligeable a cette nouvelle technique le resultat n'en est pas moins impressionnant : les decors et l'environnement exterieur entierement reconstitues par ordinateur offrent une minutie du detail propre a reconstituer l'univers froid lugubre et malsain du Paris de 1830 et renforcer la peur viscerale latente et le rythme effrene imposes par Grange et Pitof. - Frederic Thorens}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5414474400382"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Vidocq",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/709_video/thumbnail_big",
+    "thumbnail_mini": "db/709_video/thumbnail_small"
+}

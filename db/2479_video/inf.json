@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Nuit au musee (la)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ben Stiller Carla Gugino Dick Van Dyke Mickey Rooney Bill Cobbs"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "108"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ben Stiller Carla Gugino Dick Van Dyke Mickey Rooney Bill Cobbs"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/02/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La nuit au museum d'histoire naturelle les soldats romains et les cow-boys miniatures se lancent dans une guerre acharnee Attila et ses Huns pillent les expos et le squelette du Tyrannosaure se promene au pas de course dans les couloirs... Larry le nouveau gardien de nuit pourra t'il remettre de l'ordre dans ses collections et sauver le musee ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "20th Century Fox"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626035077"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/03/2024 21:49"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/03/2024 22:19"
+        }
+    ],
+    "main_title": "Nuit au musee (la)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2479_video/thumbnail_big",
+    "thumbnail_mini": "db/2479_video/thumbnail_small"
+}

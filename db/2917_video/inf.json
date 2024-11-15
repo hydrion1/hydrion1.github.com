@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Money Monster"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jodie Foster"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "99"
+        },
+        {
+            "name": "Acteurs",
+            "value": "George Clooney, Julia Roberts, Jack O'Connell, Caitriona Balfe, Dominic West, Lenny Venito, Giancarlo Esposito, Emily Meade"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/05/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/11/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.62 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lee Gates est une personnalité influente de la télévision et un gourou de la finance à Wall Street. Les choses se gâtent lorsque Kyle, un spectateur ayant perdu tout son argent en suivant les conseils de Gates, décide de le prendre en otage pendant son émission, devant des millions de téléspectateurs…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299301235"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/11/2024 18:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/11/2024 19:50"
+        }
+    ],
+    "main_title": "Money Monster",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2917_video/thumbnail_big",
+    "thumbnail_mini": "db/2917_video/thumbnail_small"
+}

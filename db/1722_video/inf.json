@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Seul sur Mars"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ridley Scott"
+        },
+        {
+            "name": "Genre",
+            "value": "Science fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "144"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Matt Damon, Jessica Chastain, Kristen Wiig, Jeff Daniels, Michael Peña"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/10/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "69 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lors d’une expédition sur Mars, l’astronaute Mark Watney (Matt Damon) est laissé pour mort par ses coéquipiers, une tempête les ayant obligés à décoller en urgence. Mais Mark a survécu et il est désormais seul, sans moyen de repartir, sur une planète hostile. Il va devoir faire appel à son intelligence et son ingéniosité pour tenter de survivre et trouver un moyen de contacter la Terre. A 225 millions de kilomètres, la NASA et des scientifiques du monde entier travaillent sans relâche pour le sauver, pendant que ses coéquipiers tentent d’organiser une mission pour le récupérer au péril de leurs vies."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/19554255"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Twentieth Century Fox France"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Anglais"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626071235"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/11/2019 22:08"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/12/2023 13:26"
+        }
+    ],
+    "main_title": "Seul sur Mars",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1722_video/thumbnail_big",
+    "thumbnail_mini": "db/1722_video/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The legend of Zelda: Phantom Hourglass"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "19/10/2007"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496465384"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "The Legend of Zelda: The Wind Waker se termine avec Link et Tetra pour lever l'ancre des eaux inconnues ... mais leur histoire ne faisait que commencer, et il continue sur la Nintendo DS. Quand un mystérieux brouillard guette leur bande de pirates et les feuilles Lien seul sur une île inconnue, une nouvelle aventure commence. Avec Tetra manquantes, Link doit obtenir l'aide des fées plusieurs comme il explore sauvages dangereux, des mers inexplorées et des donjons déroutants. Comme il le fait, il rencontre une série de personnages fascinants, chasse d'armes puissantes et recueille le sable d'un artefact mystérieux appelé Phantom Hourglass. Au fil du temps, il va lui permettre de progresser plus profondément dans le donjon ultime."
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "19/01/2018 21:51"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 12:10"
+        }
+    ],
+    "main_title": "Nintendo DS",
+    "sub_title": "The legend of Zelda: Phantom Hourglass",
+    "thumbnail_big": "db/418_videogame/thumbnail_big",
+    "thumbnail_mini": "db/418_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "OBLIVION"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "joseph kosinski"
+        },
+        {
+            "name": "Genre",
+            "value": "Genres"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "tom cruise morgan freeman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"2077 : Jack Harper en station sur la planete Terre dont toute la population a ete evacuee est en charge de la securite et de la reparation des drones. Suite a des decennies de guerre contre une force extra-terrestre terrifiante qui a ravage la Terre Jack fait partie d'une gigantesque operation d'extraction des dernieres ressources necessaires a la survie des siens. Sa mission touche a sa fin. Dans a peine deux semaines il rejoindra le reste des survivants dans une colonie spatiale a des milliers de kilometres de cette planete devastee qu'il considere neanmoins comme son chez-lui. Vivant et patrouillant a tres haute altitude de ce qu'il reste de la Terre la vie \"\"celeste\"\" de Jack est bouleversee quand il assiste au crash d'un vaisseau spatial et decide de porter secours a la belle inconnue qu'il renferme. Ressentant pour Jack une attirance et une affinite qui defient toute logique Julia declenche par sa presence une suite d'evenements qui pousse Jack a remettre en question tout ce qu'il croyait savoir...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "CD"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5050582938449"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/02/2024 20:55"
+        }
+    ],
+    "main_title": "OBLIVION",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/237_video/thumbnail_big",
+    "thumbnail_mini": "db/237_video/thumbnail_small"
+}

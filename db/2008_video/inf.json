@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mission Impossible 3"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "J.J. Abrams"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Cruise Ving Rhames Philip Seymour Hoffman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/08/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/05/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Ethan esperait avoir tourne une page en quittant le service actif de la Force Mission Impossible pour un poste de formateur ; pouvoir enfin mener une vie \"\"normale\"\" se consacrer tout entier a sa ravissante epouse Julia...Mais lorsque Lindsey la plus brillante recrue de l'IMF \"\"tombe\"\" a Berlin Ethan se sent moralement oblige de lui porter secours. Assiste de ses fideles coequipiers Luther Zhen et Declan il infiltre le repaire du trafiquant Owen Davian et arrache la jeune femme des mains d'une quinzaine de ses sbires. Trop tard : quelques instants plus tard une mini-capsule de magnesium explose dans la t ete de Lindsey la tuant sur le coup. Davian avait tout prevu...Pour Ethan c'est bien plus qu'un ratage - c'est une faillite personnelle dont il lui faut au plus vite se racheter...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Paramount"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5053083038786"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/05/2023 22:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "24/05/2023 22:34"
+        }
+    ],
+    "main_title": "Mission Impossible 3",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2008_video/thumbnail_big",
+    "thumbnail_mini": "db/2008_video/thumbnail_small"
+}

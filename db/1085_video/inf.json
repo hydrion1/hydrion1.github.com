@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Blade 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Guillermo del Toro"
+        },
+        {
+            "name": "Genre",
+            "value": "Genres DVD Zone 2 edition simple"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/08/2002"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Blade un  etre mi-homme mi-vampire s'est jure d'exterminer jusqu'au dernier ces creatures assoiffees de sang qui ont tue sa mere et l'ont contamine. Epaule par Whistler son mentor il est bientot rejoint par Scud un informaticien fidele a sa cause depuis que Blade l'a sauve des crocs des vampires. Face a eux un groupe de vampires d'elite connu sous le nom de Bloodpack. Dirigee par la jeune Nyssa une experte en arts martiaux cette equipe s'entraine dans un seul but : tuer Blade.Mais les priorites changent. Une nouvelle menace vient de faire son apparition sous les traits de Jared Nomak. Ce dernier est l'hote d'un virus hautement contagieux et mortel pour l'homme et les vampires. Les deux races vont devoir unir leurs forces pour eliminer Jarek et les Reapers une nouvelle espece de creatures qu'il a engendree.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5414474401020"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Blade 2",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1085_video/thumbnail_big",
+    "thumbnail_mini": "db/1085_video/thumbnail_small"
+}

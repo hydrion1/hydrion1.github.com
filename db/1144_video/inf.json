@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ratatouille"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Brad Bird Jan Pinkava"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Bernard Tiphaine Brad Garrett Camille Cyril Lignac Guy Savoy"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/01/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Remy est un jeune rat qui eve de devenir un grand chef cuisinier. Ni l'opposition de sa famille ni le fait d' etre un rongeur dans une profession qui les deteste ne le demotivent. Remy est pet a tout pour vivre sa passion de la cuisine... et le fait d'habiter dans les egouts du restaurant ultra cote de la star des fourneaux Auguste Gusteau va lui en donner l'occasion. Malgre le danger et les pieges la tentation est grande de s'aventurer dans cet univers interdit. Ecartele entre son eve et sa condition Remy va decouvrir le vrai sens de l'aventure de l'amitie de la famille... et comprendre qu'il doit trouver le courage d' etre ce qu'il est : un rat qui veut  etre un grand chef...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/10/2023 18:03"
+        }
+    ],
+    "main_title": "Ratatouille",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1144_video/thumbnail_big",
+    "thumbnail_mini": "db/1144_video/thumbnail_small"
+}

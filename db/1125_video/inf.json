@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Agence (L')"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "George Nolfi"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Matt Damon Emily Blunt Michael Kelly"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/07/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sommes-nous maîtres de notre destin ? Ou sommes-nous manipulés par des forces invisibles ? David Norris entrevoit l'avenir que le Sort lui réserve et se rend compte qu'il aspire à une autre vie que celle qui lui a été tracée. Pour y parvenir, il va devoir poursuivre la femme, dont il est tombé follement amoureux, à travers les rues de New York et ses réseaux souterrains.."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5050582787986"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/10/2024 18:54"
+        }
+    ],
+    "main_title": "Agence (L')",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1125_video/thumbnail_big",
+    "thumbnail_mini": "db/1125_video/thumbnail_small"
+}

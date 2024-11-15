@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "En route (Home)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tim Johnson"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/04/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/08/2021"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les BOOVS, aliens à l’ego surdimensionné, choisissent, pour échapper à leurs ennemis jurés les GORGS, de faire de la Terre leur nouvelle planète d’adoption. Mais OH, l’un d’entre eux, va révéler accidentellement la cachette de son peuple... Contraint de fuir, il fait la connaissance de TIF, une jeune fille à la recherche de sa mère. Ensemble, ils vont devenir d’improbables fugitifs embarqués dans l’aventure de leur vie et vont réaliser que les enjeux auxquels ils font face sont beaucoup plus complexes que de simples mésententes intergalactiques… "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Dreamworks"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626088127"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/08/2021 19:59"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "En route (Home)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1826_video/thumbnail_big",
+    "thumbnail_mini": "db/1826_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Usual Suspects"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": ""
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Retenu dans une salle d'interogatoire Verbal Kint tente de convaincre les enqueteurs de l'existence d'un mysterieux criminel. Selon lui ce dernier est l'instigateur d'un hold-up de plusieurs millions de dollars et l'auteur d'une explosion meurtriere dans le port de San Pedro. Tout laisse a penser que lui meme et ses quatres compagnons sont les victimes d'une machination diabolique concue pour leur faire porter la responsabilite du forfait. Tandis que Kint entraine les enqu eteurs au coeur de l'incroyable recit des prouesses surnaturelles de ce seigneurs du crime vous serez a leur image des les premieres secondes les captifs volontaires et fascines de ce film irresistible. "
+        },
+        {
+            "name": "Commentaires",
+            "value": "Vendu 1euro"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626026228"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/12/2023 17:03"
+        }
+    ],
+    "main_title": "Usual Suspects",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1141_video/thumbnail_big",
+    "thumbnail_mini": "db/1141_video/thumbnail_small"
+}

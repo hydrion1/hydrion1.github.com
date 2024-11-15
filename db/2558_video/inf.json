@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Île de Nim"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jennifer Flackett"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Mark Levin, Abigail Breslin, Jodie Foster, Gerard Butler, Michael Carman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/05/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.66 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Nim est une petite fille de 8 ans vivant avec son père sur une île sauvage, petit paradis désert au milieu de l'Océan Indien. Entre ses amis imaginaires et ses animaux de compagnie, elle ne s'ennuie pas une seule seconde.\n\nLorsque son père est coincé en mer après un accident et qu'elle se retrouve seule à devoir défendre son île contre des pirates impitoyables, elle demande de l'aide au fameux Alex Rover, sans savoir que c'est un personnage fictif écrit par une romancière solitaire et agoraphobe.\n\nCelle-ci, émue par la détresse de Nim, décide de traverser le monde pour secourir une petite fille qu'elle n'a jamais vue.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370813695"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/05/2024 17:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/05/2024 17:42"
+        }
+    ],
+    "main_title": "L'Île de Nim",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2558_video/thumbnail_big",
+    "thumbnail_mini": "db/2558_video/thumbnail_small"
+}

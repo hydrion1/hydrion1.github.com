@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gremlins (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Joe Dante"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Polly Holliday Keye Luke, Zach Galligan, Phoebe Cates, Hoyt Axton"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "05/12/1984"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/01/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Rand Peltzer offre à son fils Billy un étrange animal : un mogwai. Son ancien propriétaire l'a bien mis en garde : il ne faut pas l'exposer à la lumiere, lui éviter tout contact avec l'eau, et surtout, surtout ne jamais le nourrir apres minuit... Sinon... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051889659617"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "12/01/2024 21:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/01/2024 21:24"
+        }
+    ],
+    "main_title": "Gremlins (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2372_video/thumbnail_big",
+    "thumbnail_mini": "db/2372_video/thumbnail_small"
+}

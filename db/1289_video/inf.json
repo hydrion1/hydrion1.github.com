@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Police story 1"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jackie Chan Maggie Cheung Bridgette Lin Yuen Chor Bill Tung"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Cinema asiatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jackie Chan Maggie Cheung Bridgette Lin Yuen Chor Bill Tung"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/06/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En lutte contre Chee un gros bonnet de la drogue l'officier de police Jackie Chan doit assurer la protection du principal temoin de la partie civile. Mais celui-ci disparait le jour du proces et le malfrat est relaxe faute de preuve. Jackie retrograde et menace de mort va alors tenter de laver son honneur...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Seven 7"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3512391524746"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Police story 1",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1289_video/thumbnail_big",
+    "thumbnail_mini": "db/1289_video/thumbnail_small"
+}

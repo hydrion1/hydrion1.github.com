@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Grand Prix"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Frankenheimer"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action, drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "180"
+        },
+        {
+            "name": "Acteurs",
+            "value": "James Garner, Eva Marie Saint, Yves Montand, Toshirô Mifune, Brian Bedford, Jessica Walter, Antonio Sabàto, Françoise Hardy"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1966"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.92 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sur les plus grands circuits internationaux, quatre pilotes expérimentés se disputent le titre de champion du monde. Parmi eux, Pete Aron, responsable de l'hospitalisation de son partenaire et à l'aube d'une idylle avec la femme de celui-ci..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889014959"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/09/2024 17:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/09/2024 17:48"
+        }
+    ],
+    "main_title": "Grand Prix",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2806_video/thumbnail_big",
+    "thumbnail_mini": "db/2806_video/thumbnail_small"
+}

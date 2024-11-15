@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Paddington"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Paul King"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hugh Bonneville, Sally Hawkins, Nicole Kidman, Julie Walters, Peter Capaldi, Jim Broadbent, Madeleine Harris, Samuel Joslin"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/10/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.51 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "80013132620695"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/10/2024 12:46"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/10/2024 13:46"
+        }
+    ],
+    "main_title": "Paddington",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2868_video/thumbnail_big",
+    "thumbnail_mini": "db/2868_video/thumbnail_small"
+}

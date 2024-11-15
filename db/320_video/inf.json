@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fille de d'Artagnan (la)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Sophie Marceau Philippe Noiret Claude Rich Sami Frey Jean-Luc Bideau"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sophie Marceau Philippe Noiret Claude Rich Sami Frey Jean-Luc Bideau"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/01/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "17.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pensionnaire du couvent auquel son illustre pere l'a confie Eloise assiste impuissante au meurtre de sa mere superieure coupable d'avoir voulu proteger un malheureux esclave evade des griffes de l'odieux duc de Crassac et de ame damnee la Femme en Rouge. En digne fille de son pere Eloise s'insurge. Persuadee que ce meurtre est la trace d'un tenebreux complot contre le futur roi et decidee a venger sa mere adoptive elle prend la route pour Paris pour retrouver son pere et le convaincre que la couronne est en peril. Mais d'Artagnan veut rester sourd...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Une video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3294333016655"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Fille de d'Artagnan (la)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/320_video/thumbnail_big",
+    "thumbnail_mini": "db/320_video/thumbnail_small"
+}

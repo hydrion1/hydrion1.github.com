@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Wars - The Clone Wars"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Dave Filoni"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "97"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/08/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La galaxie est en proie à la Guerre des Clones, un conflit à grande échelle qui oppose les maléfiques Séparatistes et leurs immenses armées d'androïdes à la République. Les Chevaliers Jedi, protecteurs de la République, luttent pour maintenir l'ordre et restaurer la paix tandis que de nouvelles planètes succombent chaque jour aux puissances du mal. Pour prendre l'avantage, le Chevalier Jedi Anakin Skywalker et sa jeune Padawan, Ahsoka Tano, sont chargés d'une mission capitale qui va les confronter au redoutable \"parrain\" de Tatooine, Jabba le Hutt. D'autres épreuves et de nouveaux dangers attendent nos héros sur Tatooine, car le Comte Dooku ne tarde pas à se lancer à leur poursuite avec ses sinistres agents - dont la cruelle Asajj Ventress, prête à tout pour faire échouer Anakin et Ahsoka.\n\nPendant ce temps, sur le front, Obi-Wan Kenobi et Maître Yoda s'efforcent vaillamment de préparer l'armée des clones à résister aux forces des Ténèbres...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889000723"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/09/2024 20:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/09/2024 20:41"
+        }
+    ],
+    "main_title": "Star Wars - The Clone Wars",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2769_video/thumbnail_big",
+    "thumbnail_mini": "db/2769_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Femmes du 6e étage"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Philippe Le Guay"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Fabrice Luchini, Sandrine Kiberlain, Natalia Verbeke, Carmen Maura, Lola Dueñas, Berta Ojea, Nuria Solé, Concha Galán"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/02/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "09/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\n\nParis, années 60. Jean-Louis Joubert, agent de change rigoureux et père de famille « coincé », découvre qu’une joyeuse cohorte de bonnes espagnoles vit... au sixième étage de son immeuble bourgeois.\n\nMaria, la jeune femme qui travaille sous son toit, lui fait découvrir un univers exubérant et folklorique à l’opposé des manières et de l’austérité de son milieu. Touché par ces femmes pleines de vie, il se laisse aller et goûte avec émotion aux plaisirs simples pour la première fois. Mais peut-on vraiment changer de vie à 45 ans ?\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001027887"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "12/09/2024 21:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/09/2024 21:30"
+        }
+    ],
+    "main_title": "Les Femmes du 6e étage",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2781_video/thumbnail_big",
+    "thumbnail_mini": "db/2781_video/thumbnail_small"
+}

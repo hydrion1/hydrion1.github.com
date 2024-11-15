@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tais-toi !"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Francis Veber"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Reno Gerard Depardieu Andre Dussollier Richard Berry Leonor Varela"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/04/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "38.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ruby n'a qu'une idée en tête : se venger de l'homme qui a assassiné la femme qu'il aimait.\nQuentin n'a en tête que très peu de neurones. Juste assez pour être d'une grande gentillesse et d'une bêtise à entrer dans le Livre des Records.\nLes chemins des deux hommes vont se croiser, celui du dur qui n'est que désir de meurtre et celui du simple qui tutoie les anges.\nLa gentillesse catastrophique de Quentin parviendra-t-elle à désamorcer la violence meurtrière de Ruby, c'est le sujet de Tais-toi !. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "UGC Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5414218906026"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Tais-toi !",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1087_video/thumbnail_big",
+    "thumbnail_mini": "db/1087_video/thumbnail_small"
+}

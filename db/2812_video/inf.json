@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Folie des Grandeurs"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gérard Oury"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Louis de Funès, Yves Montand, Alice Sapritch, Karin Schubert, Gabriele Tinti, Paul Préboist"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "08/12/1971"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.14 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Don Salluste profite de ses fonctions de ministre des Finances du roi d'Espagne pour racketter le peuple. Mais la Reine qui le déteste réussit à le chasser de la cour. Ivre de vengeance, il décide de la compromettre. Son neveu Don César ayant refusé de se mêler du complot,c'est finalement le valet de Don Salluste, Blaze, transi d'amour pour la souveraine, qui tiendra le rôle du Prince charmant. Malheureusement à force de quiproquos, il ne parvient qu'à s'attirer les faveurs de la peu avenante Dona Juana."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483169551"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/09/2024 17:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/09/2024 17:59"
+        }
+    ],
+    "main_title": "La Folie des Grandeurs",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2812_video/thumbnail_big",
+    "thumbnail_mini": "db/2812_video/thumbnail_small"
+}

@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Compagnie des wagons-lits : Histoire des véhicules ferroviaires de luxe"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Gérard Coudert, Maurice Knepper, Pierre-Yves Toussirot"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/06/2015"
+        },
+        {
+            "name": "Editeur",
+            "value": "La Vie du Rail"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "05/04/2009"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "400"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Belle reliure"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Published), Français (Original Language), Français (Unknown)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782915034974"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "75.00 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "La Compagnie des wagons-lits : Histoire des véhicules ferroviaires de luxe",
+    "sub_title": "Gérard Coudert, Maurice Knepper, Pierre-Yves Toussirot",
+    "thumbnail_big": "db/130_book/thumbnail_big",
+    "thumbnail_mini": "db/130_book/thumbnail_small"
+}

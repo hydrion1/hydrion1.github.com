@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'automobile sous l'uniforme 1939-1940"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "François Vauvillier, Jean-Michel Touraine"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "13/02/2014"
+        },
+        {
+            "name": "Editeur",
+            "value": "Charles Massin"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "31/12/1991"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "244"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Relié"
+        },
+        {
+            "name": "Langue",
+            "value": "Français (Unknown), Français (Original Language), Français (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782707201973"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "38.11 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "148.00 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "L'automobile sous l'uniforme 1939-1940",
+    "sub_title": "François Vauvillier, Jean-Michel Touraine",
+    "thumbnail_big": "db/119_book/thumbnail_big",
+    "thumbnail_mini": "db/119_book/thumbnail_small"
+}

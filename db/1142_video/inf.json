@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bruce le tout-puissant"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tom Shadyac"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jim Carrey Morgan Freeman Jennifer Aniston Catherine Bell Philip Baker Hall"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Bruce Nolan, reporter pour une célèbre chaîne de télévision de Buffalo, est constamment de mauvaise humeur. Pourtant, il n'a aucune raison d'avoir cette attitude de grincheux : il est très célèbre, et il est aimé par une très jolie jeune femme, Grace.\nUn jour où tout se passe mal pour lui (il s'offre un superbe accident de voiture et se fait virer de la chaîne), Bruce s'emporte et se met en colère contre Dieu. Mais il est entendu par l'oreille divine, qui décide de prendre forme humaine et de descendre sur Terre. Dieu met au défi le reporter : il lui lègue les pouvoirs divins pendant une semaine et charge Bruce de faire mieux que lui. S'il échoue, il peut entraîner l'apocalypse.."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Buena Vista Home Entertainment B.V."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8711875963469"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Bruce le tout-puissant",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1142_video/thumbnail_big",
+    "thumbnail_mini": "db/1142_video/thumbnail_small"
+}

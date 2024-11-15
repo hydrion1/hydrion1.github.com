@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Voyage d'Arlo (Le)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Peter Sohn"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Raymond Ochoa, Jean-Baptiste Charles, Frances McDormand"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "30/08/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Et si la catastrophe cataclysmique qui a bouleversé la Terre et provoqué l'extinction des dinosaures n'avait jamais eu lieu ? Et si les dinosaures ne s'étaient jamais éteints, et vivaient parmi nous de nos jours ?  \nArlo, jeune Apatosaure au grand cœur, maladroit et craintif, qui va faire la rencontre et prendre sous son aile un étonnant compagnon : un petit garçon sauvage, très dégourdi, prénommé Spot. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418477752"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/08/2023 18:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/03/2024 11:26"
+        }
+    ],
+    "main_title": "Voyage d'Arlo (Le)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2157_video/thumbnail_big",
+    "thumbnail_mini": "db/2157_video/thumbnail_small"
+}

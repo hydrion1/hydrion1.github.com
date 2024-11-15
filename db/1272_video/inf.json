@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pilot"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": ""
+        },
+        {
+            "name": "Genre",
+            "value": "Guerre. Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/09/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "G enes automne 1943. Teglio Massimo (Sergio Castellito) est un pilote confirme bien introduit dans la haute societe genoise. Il est aussi l'ami de personnalites telles que Italo Balbo. Massimo accepte malgre lui de transporter en hydravion un medicament afin de sauver un general nazi. Lorsque le colonel Feuerbach (Hristo Shopov) commandant des troupes allemandes a G enes decouvre que Massimo est juif il ordonne au dirigeant fasciste Osvaldo Farina (Marco Giallini) de l'areter et de le lui livrer. Osvaldo un vieil ami de Massimo reussi a proteger le pilote hebreux mais suite aux persecutions nazies son cercle personnel et familial se retrecit. Les nazis debarquent a la synagogue Massimo assiste alors impuissant a lma capture de Ricardo Pacifici (Matt Pratesi) le Rabin de G enes. Quelques jours plus tard il apprend que meme la soeur Margherita a ete prise par les nazis.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8715664082560"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Pilot",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1272_video/thumbnail_big",
+    "thumbnail_mini": "db/1272_video/thumbnail_small"
+}

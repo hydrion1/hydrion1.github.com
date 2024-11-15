@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Six jours sept nuits"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Harrison Ford Anne Heche David Schwimmer Jacqueline Obradors Temuera Morrison"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Harrison Ford Anne Heche David Schwimmer Jacqueline Obradors Temuera Morrison"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/05/2000"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Cette comedie romantique d'Ivan Reitman lorgne ouvertement du cote d'African Queen. Servie par un Harrison Ford des meilleurs jours elle dispose d'un scenario mince comme du papier a cigarette et dont la credibilite n'est pas la principale qualite. Qu'importe toutes les peripeties du film n'ont bien evidemment pour seul but que de mettre deux personnages on ne peut plus antinomiques (un baroudeur bourru et une journaliste de mode) dans l'obligation de se supporter puis de s'entraider et finalement... La complicite entre Anne Heche - dotee d'un solide sens du comique - et Harrison Ford alliee au savoir-faire d'Ivan Reitman fait reellement merveille et l'ensemble donne un film des plus divertissants. -- Marshall Fine}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Home Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8711875926464"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Six jours sept nuits",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/446_video/thumbnail_big",
+    "thumbnail_mini": "db/446_video/thumbnail_small"
+}

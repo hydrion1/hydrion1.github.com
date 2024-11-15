@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Saint Seiya : les Chevaliers du Zodiaque - le sanctuaire"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 2"
+        },
+        {
+            "name": "Genre",
+            "value": "Combat"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "30/06/2005"
+        },
+        {
+            "name": "Editeur",
+            "value": "Namco Bandai"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "13/04/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "2"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "17.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3296580802418"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "COMPLET VF Part Number : 1029574 EAN : 3296580803590"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "13/04/2023 20:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/04/2023 20:29"
+        }
+    ],
+    "main_title": "PlayStation 2",
+    "sub_title": "Saint Seiya : les Chevaliers du Zodiaque - le sanctuaire",
+    "thumbnail_big": "db/1141_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1141_videogame/thumbnail_small"
+}

@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Negima"
+        },
+        {
+            "name": "Titre",
+            "value": "Negima - Le maitre magicien Vol.29"
+        },
+        {
+            "name": "Scénario",
+            "value": "AKAMATSU Ken"
+        },
+        {
+            "name": "Editeur",
+            "value": "Pika Editions"
+        },
+        {
+            "name": "Dessins",
+            "value": "AKAMATSU Ken"
+        },
+        {
+            "name": "Langue",
+            "value": "Français"
+        },
+        {
+            "name": "Couleurs",
+            "value": ""
+        },
+        {
+            "name": "Nbre de pages",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "02/02/2011"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "29"
+        },
+        {
+            "name": "Genre ",
+            "value": "Manga"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782811604257"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/08/2019 14:41"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/04/2022 07:39"
+        }
+    ],
+    "main_title": "Negima",
+    "sub_title": "Negima - Le maitre magicien Vol.29",
+    "thumbnail_big": "db/1287_comics/thumbnail_big",
+    "thumbnail_mini": "db/1287_comics/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Atomik Circus"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thierry Poiraud Didier Poiraud"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie Entertainment"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean-Pierre Marielle Vanessa Paradis Benoit Poel Voorde"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Skotlett City est toujours traumatisee par la catastrophique grande f ete de la tarte a la vache. James Bataille a d'ailleurs fini en prison et cette fois-ci il s'en echappe bien decide a retrouver Concia sa fiancee qui veut devenir chanteuse de country. Mais malheureusement tout ne se passe pas comme il l'aurait souhaite...Les elements se dechainent contre lui : des etoiles de mer en provenance d'un autre monde se collent sur les visages des gens le futur impresario de Concia Allan Chiasse se transforme en monstre tentaculaire sa bimbo la sexy Kitty egalement le Sam Paradisio bar est decime. Cela parait beaucoup pour ce petit village et pourtant ce n'est qu'un debut...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5414474401976"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Atomik Circus",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/207_video/thumbnail_big",
+    "thumbnail_mini": "db/207_video/thumbnail_small"
+}

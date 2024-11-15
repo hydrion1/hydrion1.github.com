@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gunforce - FUSA"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Super NES"
+        },
+        {
+            "name": "Genre",
+            "value": "Super Nintendo"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Irem"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "4962891800038"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "JEU SEUL SANS BOITE NI NOTICE.VERSION JAP. NECESSITE ADAPTATEUR OU CONSOLE SUPER NINTENDO FAMICOM (japonaise)EN EXCELLENT \\'c9TAT. CARTOUCHE MARQU\\'c9 AU FEUTRE AVEC DOS JAUNI. CONTACT METAL NETTOY\\'c9. Expedition en courrier suivi offert pour toute commande vous assurant la tracabilite de votre achat. Envoi immediat. soigne and discret sous enveloppe a bulles.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Nintendo Super NES",
+    "sub_title": "Gunforce - FUSA",
+    "thumbnail_big": "db/168_videogame/thumbnail_big",
+    "thumbnail_mini": "db/168_videogame/thumbnail_small"
+}

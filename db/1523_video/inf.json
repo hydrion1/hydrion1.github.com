@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Grande Aventure Lego (la)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Elizabeth Banks, Will Ferrell, Tal, Chris Pratt, Arnaud Ducret"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "96"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Elizabeth Banks, Will Ferrell, Tal, Chris Pratt, Arnaud Ducret"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/06/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Emmet est un petit personnage banal et conventionnel que l'on prend par erreur pour un être extraordinaire, capable de sauver le monde. Il se retrouve entraîné, parmi d'autres, dans un périple des plus mouvementés, dans le but de mettre hors d'état de nuire un redoutable despote. Mais le pauvre Emmet n'est absolument pas prêt à relever un tel défi..."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "2.35:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051888169032"
+        },
+        {
+            "name": "Format",
+            "value": "PAL, Cinémascope, Plein écran, Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/01/2018 21:12"
+        },
+        {
+            "name": "Date de modification",
+            "value": "09/10/2023 21:54"
+        }
+    ],
+    "main_title": "Grande Aventure Lego (la)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1523_video/thumbnail_big",
+    "thumbnail_mini": "db/1523_video/thumbnail_small"
+}

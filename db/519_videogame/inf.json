@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Alone in the Dark"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 2"
+        },
+        {
+            "name": "Genre",
+            "value": "Autre"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "30/05/2008"
+        },
+        {
+            "name": "Editeur",
+            "value": "Atari"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "24.19 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3546430124451"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Quel obscur secret abrite Central Park ? \n\nCentral Park, lieu mythique? et atypique ! Un parc entièrement boisé de plus de 843 hectares couvrant 7 % de l'île de Manhattan, l'une des zones à la plus forte concentration de population au monde. Quel secret se cache derrière sa construction et sa pérennité malgré l'enjeu financier immense qu'il représente ? Ce secret, vous aurez l'occasion de le percer en incarnant Carnby, lors d'une lente et incroyable descente en enfer au coeur de New York ! Entrez vite dans cette incroyable intensité narrative écrite par le scénariste hollywoodien de renom, Lorenzo Carcaterra. Alone In The Dark est divisé en épisodes de 45 min à multiples rebondissements. Exactement comme lorsque vous regardez une très bonne série ! \n\nMoteur physique ahurissant : tous les objets du décor peuvent être utilisés \nIntelligence Artificielle très poussée : la vue, l'ouïe et l'odorat de vos ennemis détectent votre présence \nScénario écrit par Lorenzo Carcaterra, auteur de nombreux best-seller"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/01/2018 00:16"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 2",
+    "sub_title": "Alone in the Dark",
+    "thumbnail_big": "db/519_videogame/thumbnail_big",
+    "thumbnail_mini": "db/519_videogame/thumbnail_small"
+}

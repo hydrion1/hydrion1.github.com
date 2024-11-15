@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mari Iyagi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Seong-gang Lee"
+        },
+        {
+            "name": "Genre",
+            "value": "Animation"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "80"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Lee Byung-Hun, Ryu Duk-hwan, Sung In-gyu, Gong Hyung-jin, Gwénael Sommier"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/05/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "69 %"
+        },
+        {
+            "name": "Zone",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A Séoul, de nos jours, Nam-woo, un jeune employé de bureau, retrouve Joon-ho, son ami d'enfance. Ce dernier lui annonce son départ pour trois ans à la suite d'une mutation professionnelle.\nSur le quai de la gare, Joon-ho lui remet un objet qu'il a retrouvé en faisant ses valises ; c'est alors que Nam-woo se souvient de leur enfance, loin de Séoul. Dans le village de pêcheurs qui les a vus grandir, les journées s'écoulaient entre les jeux d'écoliers, les baignades dans l'océan et les promenades à vélo, scellant à jamais leur amitié. C'est également l'époque de leur rencontre avec la mystérieuse Mari..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/18352639"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Gebeka Films"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Coréen"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3346030012376"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/09/2019 14:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Mari Iyagi",
+    "sub_title": "",
+    "thumbnail_big": "db/1708_video/thumbnail_big",
+    "thumbnail_mini": "db/1708_video/thumbnail_small"
+}

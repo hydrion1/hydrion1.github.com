@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Clones"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jonathan Mostow"
+        },
+        {
+            "name": "Genre",
+            "value": "Sciences fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Bruce Willis, Radha Mitchell, Rosamund Pike, Boris Kodjoe, James Francis Ginty, James Cromwell, Ving Rhames"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/10/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/10/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Deux agents du FBI enquêtent sur le meurtre mystérieux d'un étudiant, qui semble lié à l'homme qui a contribué à mettre au point une invention qui s'est imposée dans toute la société : les gens peuvent désormais acheter des versions robotisées d'eux-mêmes, des doubles sans défaut qui, commandés à distance, effectuent leurs tâches à leur place et leur permettent de vivre par procuration sans quitter le confort et la sécurité de leur domicile.\nCette révolution technologique soulève beaucoup de questions, dont la première va vite devenir préoccupante : dans un monde d'apparences qui est réel, à qui peut-on faire confiance ? "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418252342"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/10/2022 13:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:25"
+        }
+    ],
+    "main_title": "Clones",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1917_video/thumbnail_big",
+    "thumbnail_mini": "db/1917_video/thumbnail_small"
+}

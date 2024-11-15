@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Terminator"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": ""
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.68 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "The Terminator est une aventure au rythme effrene realisee de main de maitre par James Cameron (Titanic Aliens). Arnold Schwarzenegger y incarne une machine meurtriere et impitoyable programmee pour forcer la disparition de l'humanite.Nous sommes en 2029. La Terre est dominee par des super-ordinateurs fermement decides a exterminer l'espece humaine! Pour arriver a leurs fins et ainsi detruire l'avenir de l'homme les machines pernicieuses ont l'intention de changer le passe. Un cyborg indestructible - un Terminator (Schwarzenegger) - est alors envoye dans le passe afin de se debarrasser de Sarah Connor (Linda Hamilton) la femme qui donnera naissance au futur chef des rebelles. Sarah sera-t-elle capable de se defendre et de proteger son enfant contre cet ennemi que rien n'arete?}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626026242"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/03/2024 16:06"
+        }
+    ],
+    "main_title": "Terminator",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/121_video/thumbnail_big",
+    "thumbnail_mini": "db/121_video/thumbnail_small"
+}

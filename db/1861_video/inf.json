@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Wars - Episode 9 : L'Ascension de Skywalker"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "J.J. Abrams"
+        },
+        {
+            "name": "Genre",
+            "value": "Science fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "142"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley, Ian McDiarmid, John Boyega, Oscar Isaac, Billie Lourd, Billy Dee Williams, Kelly Marie Tran, Keri Russell, Lupita Nyong'o, Domhnall Gleeson, Anthony Daniels, Joonas Suotamo"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2019"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/03/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La conclusion de la saga Skywalker. De nouvelles légendes vont naître dans cette bataille épique pour la liberté."
+        },
+        {
+            "name": "Commentaires",
+            "value": "Cheque consommation"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418581930"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/03/2022 19:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/04/2024 08:07"
+        }
+    ],
+    "main_title": "Star Wars - Episode 9 : L'Ascension de Skywalker",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1861_video/thumbnail_big",
+    "thumbnail_mini": "db/1861_video/thumbnail_small"
+}

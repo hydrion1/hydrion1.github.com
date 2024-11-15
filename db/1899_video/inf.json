@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Solomon Kane"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michael J. Bassett"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "James Purefoy, Max von Sydow, Pete Postlethwaite, Rachel Hurd-Wood, Alice Krige, Mackenzie Crook"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/08/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Solomon Kane, un héros du XVIème siècle, ayant renoncé à la violence se décide à reprendre les armes afin de protéger une famille. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391551216"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/08/2022 16:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/08/2022 16:57"
+        }
+    ],
+    "main_title": "Solomon Kane",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1899_video/thumbnail_big",
+    "thumbnail_mini": "db/1899_video/thumbnail_small"
+}

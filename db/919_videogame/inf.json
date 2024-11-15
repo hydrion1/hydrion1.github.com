@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Operative: No One Lives Forever"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 2"
+        },
+        {
+            "name": "Genre",
+            "value": "FPS arcade"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "16/04/2002"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sierra"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3348542136465"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/06/2022 12:34"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/06/2022 12:34"
+        }
+    ],
+    "main_title": "PlayStation 2",
+    "sub_title": "The Operative: No One Lives Forever",
+    "thumbnail_big": "db/919_videogame/thumbnail_big",
+    "thumbnail_mini": "db/919_videogame/thumbnail_small"
+}

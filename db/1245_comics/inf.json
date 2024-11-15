@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Julie Wood"
+        },
+        {
+            "name": "Titre",
+            "value": "Julie Wood : 500 fous au départ"
+        },
+        {
+            "name": "Scénario",
+            "value": "Jean Graton"
+        },
+        {
+            "name": "Editeur",
+            "value": "Dargaud"
+        },
+        {
+            "name": "Dessins",
+            "value": "Jean Graton"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": "Jean Graton"
+        },
+        {
+            "name": "Nbre de pages",
+            "value": "47"
+        },
+        {
+            "name": "Date de parution",
+            "value": "07/06/1996"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "3"
+        },
+        {
+            "name": "Genre ",
+            "value": "Bandes dessinées"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.40 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "Album"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782205010411"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/10/2018 12:20"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Julie Wood",
+    "sub_title": "Julie Wood : 500 fous au départ",
+    "thumbnail_big": "db/1245_comics/thumbnail_big",
+    "thumbnail_mini": "db/1245_comics/thumbnail_small"
+}

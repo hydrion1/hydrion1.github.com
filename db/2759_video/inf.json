@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Turbo"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Soren"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "96"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/10/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.59 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Turbo est un escargot qui n’a qu’un seul rêve en tête : être incroyablement rapide ! Son obsession pour la vitesse l’a rendu quelque peu impopulaire chez les siens, où lenteur et prudence sont de rigueur. Mais il est hors de question pour lui de se conformer. C’est alors que se produit un étrange accident qui lui donne soudainement le pouvoir de foncer à toute vitesse. Il s’embarque alors dans une aventure extraordinaire pour accomplir son invraisemblable destinée : courir contre le plus grand champion de course automobile, Guy La Gagne. Avec l’aide d’une équipe d’escargots aussi rusés que stylés, l’ultime outsider Turbo mettra tout son cœur – et sa coquille, pour prouver qu’aucun rêve n’est trop grand, aucun rêveur n’est trop petit."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428056469"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/09/2024 17:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/09/2024 20:33"
+        }
+    ],
+    "main_title": "Turbo",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2759_video/thumbnail_big",
+    "thumbnail_mini": "db/2759_video/thumbnail_small"
+}

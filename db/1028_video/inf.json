@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Megamind"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tom McGrath"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Will Ferrell Brad Pitt Tina Fey Jonah Hill"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/04/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.64 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Megamind est le supermechant le plus genial de toute l'histoire de l'humanite. Et le pire loser aussi. Depuis des annees il essaie par tous les moyens de conquerir Metro City. En vain: chacune de ses tentatives est mise en echec par l'invincible Metro Man et tourne a la farce. Jusqu'au jour ou Megamind tue Metro Man ! Mais un supermechant a besoin d'un superheros pour se sentir exister et avoir un but dans la vie. Megamind a donc l'idee de se fabriquer un nouvel adversaire: Titan encore plus grand plus fort et plus heroique que le precedent. Probleme: Titan decouvre vite que c'est bien plus drole d' etre un mechant que de proteger les hommes. Et encore plus amusant de detruire le monde que de le dirigere. Pris au piege Megamind reussira-t-il a vaincre sa diabolique creation devenir le heros inattendu de sa propre histoire '}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Marianne"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Paramount"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3606323171747"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/09/2023 19:42"
+        }
+    ],
+    "main_title": "Megamind",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1028_video/thumbnail_big",
+    "thumbnail_mini": "db/1028_video/thumbnail_small"
+}

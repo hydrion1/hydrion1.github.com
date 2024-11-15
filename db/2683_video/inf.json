@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Avis de Mistral"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rose Bosch"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Reno Anna Galiena Chloe Jouannet Hugo Dessioux Lukas Pelissier"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/04/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/07/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.93 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lea Adrien et leur petit frere Theo sourd de naissance partent en vacances en Provence chez leur grand-pere Paul qui vit les pieds dans ses oliviers et qu'ils n'ont jamais rencontres pour cause d'une brouille familiale. Ce ne sont pas les vacances dont ils evaient surtout que leur pere a annonce la veille qu'il quittait la maison. En moins de 24 heures c'est le clash des generations entre les ados et un grand-pere qu'ils croient psychorigide a tort. Car le passe turbulent de Paul va ressurgir et les Seventies vont debarquer au fin fond des Alpilles. Pendant cet ete tourmente les deux generations vont  etre transformees l'une par l'autre.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Gaumont"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3607483195536"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/08/2024 22:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/08/2024 22:34"
+        }
+    ],
+    "main_title": "Avis de Mistral",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2683_video/thumbnail_big",
+    "thumbnail_mini": "db/2683_video/thumbnail_small"
+}

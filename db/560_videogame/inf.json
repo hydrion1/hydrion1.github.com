@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Alone In The Dark 4"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux d'action"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "18/05/2001"
+        },
+        {
+            "name": "Editeur",
+            "value": "Atari Inc."
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3546430010969"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Précurseur du genre survival-horror qui inspira de nombreuses productions nippones comme la série des Resident Evil, Alone in the Dark devait retrouver la place qui lui revient au panthéon des grands jeux d'aventure/action. Ce quatrième volet baptisé The New Nightmare nous propose de vivre deux aventures totalement différentes mais liées entre elles par la quête d'anciennes tablettes possédant le pouvoir de libérer des puissances dangereuses. Dans la peau d'Edward Carnby, le détective de l'étrange, ou d'Aline Cedrac, une brillante étudiante en anthropologie, vous allez mettre les pieds sur une île lugubre qui cache un terrible secret. Créatures monstrueuses, énigmes et jeux d'ombres et de lumières constituent les éléments majeurs de cette aventure influencée par l'œuvre de H.P. Lovecraft. En dépit du recours à des décors précalculés, ce titre s'affiche comme l'un des plus impressionnants de sa catégorie. Les quelque 1 200 lieux à parcourir figurent parmi les plus beaux et détaillés que l'on ait vus. Très sombres, ils rendent l'atmosphère encore plus effrayante, à la manière de Silent Hill. Les angles de caméra ont été admirablement choisis pour créer une tension supplémentaire mais c'est surtout l'utilisation de la lumière qui fait toute son originalité. La lampe torche permet de dévoiler peu à peu les lieux et les objets utiles, mais elle peut également effrayer certaines créatures, les paralyser ou bien les attirer. Semblable aux Resident Evil dans l'interface comme dans le thème abordé, The New Nightmare se distingue toutefois par un côté aventure plus prononcé, appuyé par de nombreuses énigmes à résoudre et un scénario captivant. Le résultat est saisissant, et les passionnés de fantastique et d'aventure ne manqueront pas de tomber sous le charme. --Largo Vince"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/05/2018 22:41"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation",
+    "sub_title": "Alone In The Dark 4",
+    "thumbnail_big": "db/560_videogame/thumbnail_big",
+    "thumbnail_mini": "db/560_videogame/thumbnail_small"
+}

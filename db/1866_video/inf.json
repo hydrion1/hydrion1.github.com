@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Man on the Moon"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Milos Forman"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie dramatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jim Carrey, Danny DeVito, Courtney Love, Paul Giamatti, Christopher Lloyd, Reiko Aylesworth, Gerry Becker, Leslie Lyles, George Shapiro, Budd Friedman, Carol Kane, Vincent Schiavelli"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/04/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La carrière du comique américain Andy Kaufman, mort en 1984 d'un cancer du poumon. Né à New York en 1949, il débute dans de nombreux cabarets avant de se faire remarquer à la télévision dans la célèbre émission \"Saturday Night Live\". Il est une des vedettes de la série \"Taxi\" puis provoque les réactions les plus diverses en montant des spectacles originaux, notamment au Carnegie Hall de New York"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "7321950186419"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/04/2022 16:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/04/2022 16:38"
+        }
+    ],
+    "main_title": "Man on the Moon",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1866_video/thumbnail_big",
+    "thumbnail_mini": "db/1866_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Kung Fu Panda"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mark Osborne John Stevenson"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie Enfants. Jeunesse et Famille Cinema asiatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Manu Payet Jack Black Pierre Arditi Dustin Hoffman Marie Gillain"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/05/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Passionne costaud et quelque peu maladroit Po est sans conteste le plus grand fan de kung fu. Serveur dans le restaurant de nouilles de son pere son habilete reste encore a prouver. Elu pour accomplir une ancienne prophetie Po rejoint le monde du kung fu afin d'apprendre les arts martiaux aupres de ses idoles les legendaires Cinq Cyclones : Tigresse Grue Mante Vipere et Singe sous les ordres de leur professeur et entraineur Maitre Shifu. Mais Ti Lung le leopard des neiges fourbe et anime d'un desir de vengeance approche a grands pas et c'est Po qui sera charge de defendre la vallee face a cette menace grandissante.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "DreamWorks Animation SKG"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717722070656"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/11/2023 20:36"
+        }
+    ],
+    "main_title": "Kung Fu Panda",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/246_video/thumbnail_big",
+    "thumbnail_mini": "db/246_video/thumbnail_small"
+}

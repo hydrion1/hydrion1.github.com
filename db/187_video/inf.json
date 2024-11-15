@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Temps des porte-plumes (Le)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Daniel Duval"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean-Paul Rouve Anne Brochet Denis Podalydes Annie Girardot Lorant Deutsch"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/10/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ete 1954.Pippo 9 ans secret et independant est recueilli par Gustave et Cecile un couple d'agriculteurs qui vit dans l'Allier. C'est la periode des travaux des champs et la perspective d'une nouvelle vie pour le petit garcon. Marque Pippo trebuche dans ce nouveau monde. Certains personnages autour de lui l'attirent et le seduisent. Les barrieres cedent peu a peu Pippo se construit.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "TF1 Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5412370828002"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Temps des porte-plumes (Le)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/187_video/thumbnail_big",
+    "thumbnail_mini": "db/187_video/thumbnail_small"
+}

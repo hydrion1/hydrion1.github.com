@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Predictions"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alex Proyas"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Drame et emotion Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Chandler Canterbury Nicolas Cage Rose Byrne"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/09/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.98 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A l'occasion de l'anniversaire de l'ecole de son fils John statisticien veuf et alcoolique decouvre une liste de chiffres incoherente ecrite par une etrange petite fille 50 ans plus tot. Intrigue il tente d'en percer le code avant de s'apercevoir qu'il s'agit de la liste chronologique des catastrophes les plus meurtrieres du siecle. Quand il comprend que les dernieres sequences inscrites predisent un cataclysme planetaire il tente de prevenir l'inevitable avant qu'il ne soit trop tard... "
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "M6 Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5412370816108"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/03/2024 23:08"
+        }
+    ],
+    "main_title": "Predictions",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1185_video/thumbnail_big",
+    "thumbnail_mini": "db/1185_video/thumbnail_small"
+}

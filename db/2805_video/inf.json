@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Alex Cross"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rob Cohen"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "101"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tyler Perry, Matthew Fox, Edward Burns, Jean Reno, Rachel Nichols, Cicely Tyson, Carmen Ejogo"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/12/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.37 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Inspecteur de police à Detroit, Alex Cross fait équipe avec son ami de toujours, Tommy Kane, et l’inspectrice Monica Ashe pour élucider une affaire de meurtres en série. Le tueur, surnommé Picasso, cherche à s’en prendre à un puissant industriel de la ville, Gilles Mercier. Mais dans cette affaire, les évidences cachent parfois des pièges et rien n’est vraiment ce qu’il paraît. Alors que Cross emploie toute son expertise psychologique à anticiper les actes du tueur, il doit aussi lutter contre les pulsions que Picasso a fait surgir en lui…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391491482"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/09/2024 17:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/09/2024 17:48"
+        }
+    ],
+    "main_title": "Alex Cross",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2805_video/thumbnail_big",
+    "thumbnail_mini": "db/2805_video/thumbnail_small"
+}

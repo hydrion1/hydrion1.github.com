@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "5 Centimeters per Second"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Makoto Shinkai"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "63"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Tous deux élèves de primaire, Takaki et Akari se sont rapprochés grâce à leur amour commun de la lecture. Mais un jour, la jeune fille déménage... Faute de mieux, les deux amis commencent donc à s'échanger des lettres... C'est alors que Takaki décide d'aller rendre visite une dernière fois à son amie, un soir d'hiver..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314995251"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/07/2024 22:32"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/07/2024 22:46"
+        }
+    ],
+    "main_title": "5 Centimeters per Second",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2609_video/thumbnail_big",
+    "thumbnail_mini": "db/2609_video/thumbnail_small"
+}

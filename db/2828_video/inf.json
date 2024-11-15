@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hellboy"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Guillermo del Toro"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ron Perlman, John Hurt, Selma Blair, Rupert Evans, Karel Roden, Jeffrey Tambor, Doug Jones"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/08/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.48 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Au crepuscule de la Seconde Guerre mondiale une experience nazie donne naissance a un heros etonnant : Hellboy. Appele sur terre pour dechainer le chaos il est sauve et eleve par le professeur Broom. Au sein d'une organisation ultra-secrete le Bureau des Recherches Paranormales de la Defense le professeur lui apprend a se servir de ses dons pour combattre le mal. Mais le mal n'abandonne jamais ses proies et la plus secrete des guerres s'annonce...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083178451"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/09/2024 22:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/09/2024 22:35"
+        }
+    ],
+    "main_title": "Hellboy",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2828_video/thumbnail_big",
+    "thumbnail_mini": "db/2828_video/thumbnail_small"
+}

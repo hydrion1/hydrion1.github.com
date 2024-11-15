@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les locomotives à vapeur de l'état belge à la SNCB"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "André DAGANT"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "PFT"
+        },
+        {
+            "name": "Genre",
+            "value": "Train"
+        },
+        {
+            "name": "Date de parution",
+            "value": ""
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "499"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/11/2021 19:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Les locomotives à vapeur de l'état belge à la SNCB",
+    "sub_title": "André DAGANT",
+    "thumbnail_big": "db/267_book/thumbnail_big",
+    "thumbnail_mini": "db/267_book/thumbnail_small"
+}

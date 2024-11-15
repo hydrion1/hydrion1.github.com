@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Rhum Express"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Bruce Robinson"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Comédie, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Johnny Depp, Aaron Eckhart, Michael Rispoli, Amber Heard, Richard Jenkins, Giovanni Ribisi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/11/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.29 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lassé de sa vie new-yorkaise, Paul Kemp s’expatrie sur l’île paradisiaque de Porto Rico. Très vite, il adopte le rythme de la vie locale, fait de douceur de vivre et de beaucoup de rhum… Paul est engagé par un modeste journal local, le San Juan Star, dirigé par Lotterman. Il tombe aussi sous le charme de la très belle Chenault, une jeune femme fiancée à Sanderson, un homme d’affaires mouillé dans des contrats immobiliers douteux. Sanderson fait partie du nombre croissant d’entrepreneurs américains bien décidés à transformer la magnifique île en un paradis capitaliste réservé aux riches. Lorsque Kemp est engagé par Sanderson pour écrire un article élogieux sur son dernier plan véreux, il se retrouve face à un vrai choix : soit il met sa plume au service de cet homme d’affaires corrompu, soit il dénonce tout et révèle les trafics sordides. Sur l’île et ailleurs, son choix va faire des vagues…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391571382"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/10/2024 21:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/10/2024 21:56"
+        }
+    ],
+    "main_title": "Rhum Express",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2835_video/thumbnail_big",
+    "thumbnail_mini": "db/2835_video/thumbnail_small"
+}

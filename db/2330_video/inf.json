@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Belle au Bois Dormant (La)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Clyde Geronimi"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "75"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "29/01/1959"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/11/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.88 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La princesse Aurore, victime d'un sort que lui a jeté la sorcière Maléfique, s'est endormie d'un profond sommeil dont le seul baiser d'un prince peut l'éveiller. Ses marraines, les fées Pimprenelle, Flora et Pâquerette, unissent leurs pouvoirs magiques pour aider le vaillant prince Philippe à combattre le redoutable dragon, gardien du château où dort Aurore. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418431624"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/11/2023 23:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/03/2024 22:44"
+        }
+    ],
+    "main_title": "Belle au Bois Dormant (La)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2330_video/thumbnail_big",
+    "thumbnail_mini": "db/2330_video/thumbnail_small"
+}

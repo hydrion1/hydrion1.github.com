@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Largo Winch"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jerome Salle"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "108"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tomer Sisley Thomas Kristin Scott Miki Manojlovic"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le milliardaire Nerio Winch est retrouve noye. Une mort forcement suspecte quand on sait qu'il s'agit du fondateur et principal actionnaire du puissant et tentaculaire Groupe W.Qui va heriter de cet empire economique ? Officiellement Nerio n'avait pas de famille. Mais il cachait un secret : un fils Largo adopte presque trente ans plus tot dans un orphelinat bosniaque. Seul probleme ce jeune heritier vient d' etre jete dans une prison du fin fond de l'Amazonie. Accuse de trafic de drogue il clame son innocence.Nerio assassine. Largo emprisonne. Et si ces deux affaires faisaient partie d'un seul et meme complot visant a prendre le controle de l'empire Winch ?}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Wild Side Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5414939126789"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/08/2024 19:39"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/08/2024 21:03"
+        }
+    ],
+    "main_title": "Largo Winch",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2698_video/thumbnail_big",
+    "thumbnail_mini": "db/2698_video/thumbnail_small"
+}

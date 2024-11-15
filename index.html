@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Numento 2 Mobile</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <link rel="stylesheet" href="res/css/common.css?d41d8cd98f00b204e9800998ecf8427e">
+  <link rel="stylesheet" href="res/css/index.css?d41d8cd98f00b204e9800998ecf8427e">
+
+  <script type="text/javascript" src="res/common.js?21e07f04cc59716438a9049701bf4a7d"></script>
+	<style type="text/css">
+
+</style>
+<script>
+
+   function deviceOS() {
+        var useragent = navigator.userAgent;
+
+        if(useragent.match(/Android/i)) {
+            return 'android';
+        } else if(useragent.match(/webOS/i)) {
+            return 'webos';
+        } else if(useragent.match(/iPhone/i)) {
+            return 'iphone';
+        } else if(useragent.match(/iPod/i)) {
+            return 'ipod';
+        } else if(useragent.match(/iPad/i)) {
+            return 'ipad';
+        } else if(useragent.match(/Windows Phone/i)) {
+            return 'windows phone';
+        } else if(useragent.match(/SymbianOS/i)) {
+            return 'symbian';
+        } else if(useragent.match(/RIM/i) || useragent.match(/BB/i)) {
+            return 'blackberry';
+        } else {
+            return false;
+        }
+    }
+
+    
+document.addEventListener("DOMContentLoaded", function() {
+    if (deviceOS()==false)
+    {
+      var path = window.parent.location.pathname;
+      var page = path.split("/").pop();
+      if (page!="index_desktop.html")
+      {
+             var node = document.querySelector('a.link_desktop_version');
+            node.style.display="flex";
+      }
+    }
+});
+
+if (location.hostname.length==0)
+{
+  alert("Ce site fonctionne uniquement en étant publié sur un serveur Web");
+}
+
+</script>
+
+</head>
+<body>
+
+<a class="link_desktop_version" href="index_desktop.html">Version ordinateur</a>
+
+<section class="logo">
+  <img  style="width:40vw;" src="res/img/logo_text.png">
+</section>
+
+
+<a class='item' href='listing_18b30322_b847_4dc4_9fbb_8d7c36bc8856/listing.html'><div class='item_icon'><img  style="width:8vw;" src="listing_18b30322_b847_4dc4_9fbb_8d7c36bc8856/listing_icon"></div><div class='item_label'>Vidéo</div><div class='item_counter'>2878</div></a><a class='item' href='listing_ca13bf0a_8ef6_4a58_92f4_adae910b6051/listing.html'><div class='item_icon'><img  style="width:8vw;" src="listing_ca13bf0a_8ef6_4a58_92f4_adae910b6051/listing_icon"></div><div class='item_label'>Anime</div><div class='item_counter'>881</div></a><a class='item' href='listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/listing.html'><div class='item_icon'><img  style="width:8vw;" src="listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/listing_icon"></div><div class='item_label'>Livre</div><div class='item_counter'>266</div></a><a class='item' href='listing_c014eeb9_d178_4e74_926b_abb27d51fb64/listing.html'><div class='item_icon'><img  style="width:8vw;" src="listing_c014eeb9_d178_4e74_926b_abb27d51fb64/listing_icon"></div><div class='item_label'>Bande dessinée</div><div class='item_counter'>1476</div></a><a class='item' href='listing_a2b41abe_18b7_4430_91cc_e7653c508d1c/listing.html'><div class='item_icon'><img  style="width:8vw;" src="listing_a2b41abe_18b7_4430_91cc_e7653c508d1c/listing_icon"></div><div class='item_label'>Jeux vidéo</div><div class='item_counter'>1301</div></a><section class="folder_section"><div class='folder_content'>Autres infos</div></section>
+<!--
+{% for item in PANEL_ITEMS %}
+  {% if item.isFilter %}
+
+    <a class="item" href='{{item.LINK}}'>
+      <div class='item_icon'><img  style="width:8vw;" src="{{item.IMG}}"></div>
+      <div class='item_label'>{{item.NAME}}</div>
+      <div class='item_counter'>{{item.COUNT}}</div>
+    </a>
+
+  {% else %}
+  
+    <section class="folder_section">
+      <div class="folder_content">
+        {{item.NAME}}
+      </div>
+    </section>
+
+  {% endif %}
+{% endfor %}
+-->
+
+</body>
+</html>

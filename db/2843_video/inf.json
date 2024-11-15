@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Eragon"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Stefen Fangmeier"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Edward Speleers, Jeremy Irons, Sienna Guillory, Robert Carlyle, Rachel Weisz, John Malkovich, Garrett Hedlund, Joss Stone"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/12/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/10/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Autrefois, la paix et la prospérité régnaient en terre d'Alagaësia. Les Dragons avaient alors fait don à leurs Dragonniers de pouvoirs magiques, et même de l'immortalité. Aucun ennemi ne pouvait les vaincre... jusqu'à ce que l'un des leurs, Galbatorix, décide de trahir pour s'approprier tous ces pouvoirs et en jouir seul en détruisant tous les autres Dragonniers.\n\nUn jeune homme, Eragon, découvre un oeuf étrange aux lueurs bleues, qui donne naissance à un Dragon femelle. Il le baptise Saphira. Le temps des Dragonniers est revenu...\n\nAvec l'aide de son mentor, Brom, Eragon va découvrir quel est son vrai destin. Lui seul peut faire renaître l'âge d'or de la justice, il est l'unique espoir du peuple d'Alagaësia, mais pour cela il va devoir affronter Galbatorix et vivre la plus fabuleuse des sagas..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428027087"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/10/2024 10:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/10/2024 11:32"
+        }
+    ],
+    "main_title": "Eragon",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2843_video/thumbnail_big",
+    "thumbnail_mini": "db/2843_video/thumbnail_small"
+}

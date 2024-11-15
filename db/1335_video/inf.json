@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Lettre a Momo"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Karen Miyama Yuka Daizaburo Arakawa Toshiyuki Nishida Koichi Yamadera"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Karen Miyama Yuka Daizaburo Arakawa Toshiyuki Nishida Koichi Yamadera"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/03/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Momo une fillette de onze ans quite Tokyo pour s'installer avec sa mere sur une petite ile ou le temps semble s' etre arete. Elle porte avec elle une lettre inachevee de son pere defunt qui commence par \"\"Chere Momo\"\" sans suite. Que voulait-il lui dire avant de trouver la mort ? Tres vite des phenomenes surprenants commencent a se produire...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "ARTE eDITIONS"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3453277204959"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/10/2024 22:15"
+        }
+    ],
+    "main_title": "Lettre a Momo",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1335_video/thumbnail_big",
+    "thumbnail_mini": "db/1335_video/thumbnail_small"
+}

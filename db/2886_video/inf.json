@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Flingueuses"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Paul Feig"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Comédie, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sandra Bullock, Melissa McCarthy, Demian Bichir, Marlon Wayans, Michael Rapaport, Jane Curtin"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/08/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/10/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.14 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "D'un côté il y a l’agent spécial du FBI, Sarah Ashburn, une enquêtrice rigoureuse et méthodique dont la réputation la précède tant pour son excellence que son arrogance démesurée. De l'autre l’agent de police de Boston, Shannon Mullins, reconnue pour son fort tempérament et son vocabulaire fleuri. L’une comme l’autre, n’ont jamais eu de partenaire dans le travail… ni vraiment d’amis.\n\nAinsi, lorsque ces deux représentantes de la loi radicalement opposées sont obligées de faire équipe pour arrêter un baron de la drogue sans pitié, elles se retrouvent à devoir lutter non seulement contre un puissant syndicat du crime, mais aussi et surtout contre l’envie de s’entretuer.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626074113"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/10/2024 22:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/10/2024 23:04"
+        }
+    ],
+    "main_title": "Les Flingueuses",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2886_video/thumbnail_big",
+    "thumbnail_mini": "db/2886_video/thumbnail_small"
+}

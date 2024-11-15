@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Street Fighter II"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gisaburo Sugii"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Eisei Amamoto Kenji Haga Kojiro Shimizu Masatane Tsukayama Miki Fujitani"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/01/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans un futur proche les assassinats d'hommes politiques se multiplient. Derriere ces attentats se cache un plan machiavelique monte par Bison le chef supeme du plus grand syndicat du crime. Son but : trouver et capturer les plus grands experts en arts martiaux afin de les transformer en machines a tuer. Avec une armee de guerriers invincibles rien ne pourra emp echer sa conqu ete du monde ! Mais des combattants legendaires vont se dresser sur sa route. Leurs noms : Ken Ryu Guile et Chun-Li !}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Fox Pathe Europa"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3388334507448"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Street Fighter II",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1163_video/thumbnail_big",
+    "thumbnail_mini": "db/1163_video/thumbnail_small"
+}

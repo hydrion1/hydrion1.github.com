@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Beetlejuice"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tim Burton"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Michael Keaton Alec Baldwin Geena Davis Winona Ryder Catherine O'Hara"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/01/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Pour avoir voulu sauver un chien Adam et Barbara Maitland passent tout de go dans l'autre monde. Peu apres occupants invisibles de leur antique demeure ils la voient envahie par une riche et bruyante famille new-yorkaise. Rien a redire jusqu'au jour ou cette honorable famille entreprend de donner un cachet plus urbain a la vieille demeure. Adam et Barbara scandalises decident de deloger les intrus. Mais leurs classiques fantomes et autres sortileges ne font aucun effet. C'est alors qu'ils font appel a un \"\"bio-exorciste\"\" freelance connu sous le sobriquet de Beetlejuice.}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "7321950117857"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/12/2023 23:28"
+        }
+    ],
+    "main_title": "Beetlejuice",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/153_video/thumbnail_big",
+    "thumbnail_mini": "db/153_video/thumbnail_small"
+}

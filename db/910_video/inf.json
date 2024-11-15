@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Jeanne d'Arc"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Luc Besson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Milla Jovovich John Malkovich Faye Dunaway Dustin Hoffman Pascal Greggory"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/08/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "France  1429. Le royaume de France est en guerre contre l'Angleterre lorqu'inspiree par un message divin une jeune paysanne Jeanna d'Arc se presente a la Cour de France. Emu par son aparition le Dauphin Charles VII lui donne l'autorisation de partir en guerre contre les anglais. Elle conduit l'armee a la victoire a Orleans apres quoi Charles VII peut se faire couronner roi de France. Bien qu'elle soit tout d'abord glorifiee pour ses hauts faits elle est prise lentement mais surement dans un tissu d'intrigues politiques et de trahisons.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609072679"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/10/2024 22:42"
+        }
+    ],
+    "main_title": "Jeanne d'Arc",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/910_video/thumbnail_big",
+    "thumbnail_mini": "db/910_video/thumbnail_small"
+}

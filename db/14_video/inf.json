@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hamburger Hill"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Irvin"
+        },
+        {
+            "name": "Genre",
+            "value": "guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Don Cheadle Dylan Mcdermot Anthony Barrice Michael Patrick Boatman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/09/2002"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "35.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Quatorze recrues americaines en majorite des jeunes hommes blancs et noirs issus des classes pauvres subissent aux Etats-Unis un entrainement intensif en attendant leur depart pour l'Asie. Mais une fois sur place ils sont envoyes en mission-suicide pour s'emparer d'une colline apparemment sans importance et surprotegee. Hamburger Hill est le recit de la bataille enragee pour la prise d'une colline dans la vallee Au Shau au Vietnam en 1969. C'est l'un des portraits les plus realistes et les plus durs de la guerre du Vietnam jamais filmes qui donne a voir de la maniere la plus crue et la plus violente toute l'horreur et toute la douleur de cette lutte tragique. Le realisme atteint un niveau rarement egale aucun detail n'etant laisse au hasard jusqu'aux dialogues et attitudes des soldats. Un film dur et emouvant adapte d'un fait impensable mais authentique. --David Rault}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "G.C.T.H.V."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3530941012765"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Hamburger Hill",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/14_video/thumbnail_big",
+    "thumbnail_mini": "db/14_video/thumbnail_small"
+}

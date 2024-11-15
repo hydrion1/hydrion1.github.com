@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Wall-E"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Andrew Stanton"
+        },
+        {
+            "name": "Genre",
+            "value": "Enfants. Jeunesse et Famille Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Philippe Bozo Marie-Eugenie Marechal Emmanuel Jacomy"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "29/01/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "WALL E est le dernier  etre sur Terre et s'avere  etre un... petit robot ! 700 ans plus tot l'humanite a deserte notre planete laissant a cette incroyable petite machine le soin de nettoyer la Terre. Mais au bout de ces longues annees WALL E a developpe un petit defaut technique : une forte personnalite. Extemement curieux tres indiscret il est surtout un peu trop seul..."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418187767"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/08/2023 18:52"
+        }
+    ],
+    "main_title": "Wall-E",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/869_video/thumbnail_big",
+    "thumbnail_mini": "db/869_video/thumbnail_small"
+}

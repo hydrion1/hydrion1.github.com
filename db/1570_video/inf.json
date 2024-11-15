@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tu ne tueras point"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mel Gibson"
+        },
+        {
+            "name": "Genre",
+            "value": "Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "135"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Luke Bracey, Sam Worthington, Teresa Palmer, Vince Vaughn, Andrew Garfield"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/03/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.02 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Metropolitan Vidéo"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "1.85:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3512392510823"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/05/2018 22:38"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 17:10"
+        }
+    ],
+    "main_title": "Tu ne tueras point",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1570_video/thumbnail_big",
+    "thumbnail_mini": "db/1570_video/thumbnail_small"
+}

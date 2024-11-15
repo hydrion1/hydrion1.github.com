@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Age of heroes"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Adrian Vitoria, Ed Scates"
+        },
+        {
+            "name": "Genre",
+            "value": "Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sean Bean, Izabella Miko, Danny Dyer"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/07/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/09/2021"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Durant la Seconde Guerre mondiale, les actions héroïques d'une troupe d'élite britannique vont changer le cours du conflit. Le major Jones et ses hommes vont devoir déjouer les embuscades des troupes du troisième Reich, lors d'une mission de la plus haute importance pour les alliés : détruire un puissant radar basé en Norvège."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "13/09/2021 22:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/06/2022 22:54"
+        }
+    ],
+    "main_title": "Age of heroes",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1838_video/thumbnail_big",
+    "thumbnail_mini": "db/1838_video/thumbnail_small"
+}

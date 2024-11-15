@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Enslaved"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux d'action"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "08/10/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "Namco"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Adolescents"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "18.80 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700577001147"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Dans Enslaved, vous incarnez Monkey, un colosse solitaire qui fait équipe contre sa volonté avec Trip, une jeune bricoleuse géniale mais inapte à survivre hors de la sécurité de son enclave. Capturés tous les deux, ils se rencontrent sur l'un de ces mystérieux transporteurs d'esclaves dont les rumeurs disent qu'ils moissonnent des humains avant d'entreprendre un voyage sans retour vers l'Ouest. Alors qu'ils cherchent un moyen de s'échapper, Trip réalise que la force brutale de Monkey est sans doute sa meilleure chance de survie dans le difficile voyage qui l'attend pour rentrer chez elle. Elle pirate alors un bandeau esclavagiste et le place sur la tête de Monkey. Les voici reliés pour le meilleur et pour le pire : si elle meurt, il meurt... \nUn game-play et visuel exceptionnel pour ce nouveau jeu d'action."
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 17:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Enslaved",
+    "thumbnail_big": "db/430_videogame/thumbnail_big",
+    "thumbnail_mini": "db/430_videogame/thumbnail_small"
+}

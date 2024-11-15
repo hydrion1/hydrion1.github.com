@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "L'histoire des 3 Adolf"
+        },
+        {
+            "name": "Titre",
+            "value": "L'histoire des 3 Adolf Tome 3"
+        },
+        {
+            "name": "Scénario",
+            "value": "TEZUKA Osamu"
+        },
+        {
+            "name": "Editeur",
+            "value": "Tsuki Poche"
+        },
+        {
+            "name": "Dessins",
+            "value": "TESUKA Osamu"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": ""
+        },
+        {
+            "name": "Nbre de pages",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "01/01/1999"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "3"
+        },
+        {
+            "name": "Genre ",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/03/2023"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "2912628318"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/03/2023 19:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/03/2023 19:27"
+        }
+    ],
+    "main_title": "L'histoire des 3 Adolf",
+    "sub_title": "L'histoire des 3 Adolf Tome 3",
+    "thumbnail_big": "db/1440_comics/thumbnail_big",
+    "thumbnail_mini": "db/1440_comics/thumbnail_small"
+}

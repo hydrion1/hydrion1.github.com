@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mystic River"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Clint Eastwood"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "137"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sean Penn, Tim Robbins, Kevin Bacon, Laurence Fishburne, Marcia Gay Harden, Laura Linney"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "13/06/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.33 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Jimmy Markum, Dave Boyle et Sean Devine ont grandi ensemble dans les rues de Boston. Rien ne semblait devoir altérer le cours de leur amitié jusqu'au jour où Dave se fit enlever par un inconnu sous les yeux de ses amis. Leur complicité juvénile ne résista pas à un tel événement et leurs chemins se séparèrent inéluctablement.\nJimmy sombra pendant quelque temps dans la délinquance, Sean s'engagea dans la police, Dave se replia sur lui-même, se contenta de petits boulots et vécut durant plusieurs années avec sa mère avant d'épouser Celeste.\nUne nouvelle tragédie rapproche soudain les trois hommes : Katie, la fille de Jimmy, est retrouvée morte au fond d'un fossé. Le père endeuillé ne rêve plus que d'une chose : se venger. Et Sean, affecté à l'enquête, croit connaître le coupable : Dave Boyle... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889552130"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "13/06/2023 12:58"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/10/2023 22:28"
+        }
+    ],
+    "main_title": "Mystic River",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2047_video/thumbnail_big",
+    "thumbnail_mini": "db/2047_video/thumbnail_small"
+}

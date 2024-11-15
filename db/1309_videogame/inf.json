@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Sand Land"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 5"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "10/09/2021"
+        },
+        {
+            "name": "Editeur",
+            "value": "Namco Bandai"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/09/2024"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "39.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3391892015713"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/09/2024 22:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/09/2024 22:57"
+        }
+    ],
+    "main_title": "PlayStation 5",
+    "sub_title": "Sand Land",
+    "thumbnail_big": "db/1309_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1309_videogame/thumbnail_small"
+}

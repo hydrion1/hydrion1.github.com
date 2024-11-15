@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Temps du Train : 175 ans de chemins de fer en Belgique et 75ème anniversaire de la SNCB"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Bart Van Der Herten - Michelangelo Van Meerten - Greta Vergeurgt"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Presse Universitaire de Louvain"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "22/02/2001"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "0"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Le Temps du Train : 175 ans de chemins de fer en Belgique et 75ème anniversaire de la SNCB",
+    "sub_title": "Bart Van Der Herten - Michelangelo Van Meerten - Greta Vergeurgt",
+    "thumbnail_big": "db/57_book/thumbnail_big",
+    "thumbnail_mini": "db/57_book/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Je suis une legende (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Francis Lawrence"
+        },
+        {
+            "name": "Genre",
+            "value": "Science fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Charlie Tahan Alice Braga Will Smith"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "19/12/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Accord parental souhaite"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.07 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Miraculeusement immunise contre un virus devastateur et dont la propagation a ete fulgurante le specialiste militaire en virologie Robert Neville est le seul  etre humain vivant de la ville de New-York  et peut- etre meme du monde. Mais il n'est pas seul des creatures mutantes resultat de la degenerescence du virus guettent dans les tenebres scrutant le moindre de ses mouvements a l'affut d'une quelconque erreur. Representant la derniere et seule lueur d'espoir pour le salut de l'humanite Neville est guide par une seule intention : developper un antidote en utilisant son propre sang immunise. Mais il sait qu'il est entoure d'ennemis et que l'heure tourne'}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Bros."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051889587156"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/08/2024 15:00"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/09/2024 22:43"
+        }
+    ],
+    "main_title": "Je suis une legende (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2703_video/thumbnail_big",
+    "thumbnail_mini": "db/2703_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Patton"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Franklin J. Schaffner"
+        },
+        {
+            "name": "Genre",
+            "value": "Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "210"
+        },
+        {
+            "name": "Acteurs",
+            "value": "George C. Scott Karl Malden Michael Bates Ed Binns Stephen Young"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "08/01/1970"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/11/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pendant la seconde guerre mondiale, la vie d'un général, rebelle dans l'armée américaine mais reconnu comme un génie de la stratégie.\n\nEn 1943, le général Patton est envoyé à Tunis afin de reprendre une situation difficile, l'armée US ayant du mal à prendre le pas sur l'Africa Korps nazi. Il enchaîne les succès mais refuse de laisser les lauriers de sa victoire au maréchal Montgomery, des forces armées britanniques. Il est alors relevé de son commandement et va attendre plusieurs mois avant de se retrouver à la tête d'une division. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "20th Century Fox"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626038412"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/11/2023 09:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 09:23"
+        }
+    ],
+    "main_title": "Patton",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2298_video/thumbnail_big",
+    "thumbnail_mini": "db/2298_video/thumbnail_small"
+}

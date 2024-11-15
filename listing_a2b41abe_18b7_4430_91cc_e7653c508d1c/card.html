@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Numento 2 : Jeux vidéo</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <base href="../" target="_self">
+
+  <link rel="stylesheet" href="res/css/common.css?d41d8cd98f00b204e9800998ecf8427e">
+  <link rel="stylesheet" href="res/css/card.css?d41d8cd98f00b204e9800998ecf8427e">
+
+  <script type="text/javascript" src="res/common.js?21e07f04cc59716438a9049701bf4a7d"></script>
+
+<script>
+    var nmtMobile = new NumentoMobileManager();
+
+
+    document.addEventListener("DOMContentLoaded", function() {
+      nmtMobile.loadCurrentCard({
+        'pattern_card_json':'db/{{key_id}}/inf.json',
+        'hash_database':'8f823ccbfdb63fa43347f40c3fe84c3f-970a39829df7988271004ccc22ed5c49-v5',
+        'pattern_url_thumbnail':'db/{{key_id}}/thumbnail_big'
+      }
+        );
+    });
+</script>
+
+</head>
+<body>
+
+<a class="title lnk_back_to_listing" href='listing_a2b41abe_18b7_4430_91cc_e7653c508d1c/listing.html'>
+  <div class='title_icon' ><img  style="width:5vw;" src="res/img/liste_intelligente.svg"></div>
+  <img  style="width:3vw;" class='arrow_back'  src="res/img/arrow_left.svg">
+  <div class='title_label'>Jeux vidéo</div>
+</a>
+
+<div class="section_main_image">
+  <div class="thumbnail main_image"><img class=" main_image_source" src="" /></div>
+</div>
+<div class="separator"></div>
+
+
+<div class='content_fields'>
+  <div class='grid_container field_item'>
+      <div class='grid_item_name f_name'></div><div class='f_separator'>:</div><div class='grid_item_value f_value'></div>
+  </div>
+</div>
+
+</body>
+</html>

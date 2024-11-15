@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Starship Troopers"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Paul Verhoeven"
+        },
+        {
+            "name": "Genre",
+            "value": "Sciences fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Casper Van Dien, Dina Meyer, Denise Richards, Jake Busey, Michael Ironside, Neil Patrick Harris, Clancy Brown, Seth Gilliam, Patrick Muldoon"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1997"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/08/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Au XXIVe siècle, une fédération musclée fait régner sur la Terre l'ordre et la vertu, exhortant sans relâche la jeunesse à la lutte, au devoir, à l'abnégation et au sacrifice de soi. Mais aux confins de la galaxie, une armée d'arachnides se dresse contre l'espèce humaine et ces insectes géants rasent en quelques secondes la ville de Buenos-Aires. Cinq jeunes gens, cinq volontaires à peine sortis du lycée, pleins d'ardeurs et de courage, partent en mission dans l'espace pour combattre les envahisseurs. Ils sont loin de se douter de ce qui les attend. "
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8711875930102"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/08/2022 16:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 17:06"
+        }
+    ],
+    "main_title": "Starship Troopers",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1900_video/thumbnail_big",
+    "thumbnail_mini": "db/1900_video/thumbnail_small"
+}

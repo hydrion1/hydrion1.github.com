@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Final Fantasy Crystal Chronicles"
+        },
+        {
+            "name": "Console",
+            "value": "GameCube"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "20/02/2004"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "87.11 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496391867"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Après plusieurs chapitres dédiés aux consoles Sony, Final Fantasy opère son grand retour sur une machine Nintendo ! Ainsi, avec Final Fantasy Crystal Chronicles, la GameCube accueille un jeu de rôle aussi enchanteur que novateur. En effet, contrairement à la plupart des jeux d’aventure misant sur une approche solitaire, ici le multijoueur est à l’honneur. Grâce à l’interaction entre la GameCube et la Game Boy Advance, vous pourrez vous lancer dans votre quête à 4 joueurs en simultané… chacun voyant des indications personnelles s’afficher sur sa GBA ! Ingénieux, le système de jeu vous fait traverser des régions inexplorées où la magie règne en maître et où l’entraide se révèle indispensable. Vous devrez donc agir de concert pour combattre vos ennemis, mais aussi résoudre de nombreuses énigmes. L’utilité de la GBA se dévoile d’ailleurs de nouveau puisque des indices seront accessibles via le portable… tandis que le cœur de l’aventure se poursuivra sur votre écran de télé et votre GameCube. Original et féerique, Final Fantasy Crystal Chronicles envoûtera tous les amoureux d’univers imaginaires… --Nobuo"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/01/2018 21:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 12:10"
+        }
+    ],
+    "main_title": "GameCube",
+    "sub_title": "Final Fantasy Crystal Chronicles",
+    "thumbnail_big": "db/412_videogame/thumbnail_big",
+    "thumbnail_mini": "db/412_videogame/thumbnail_small"
+}

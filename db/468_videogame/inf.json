@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Grandia 2"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 2"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "28/03/2002"
+        },
+        {
+            "name": "Editeur",
+            "value": "Ubisoft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3307210403674"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Le second volet de la saga Grandia se décline désormais dans une version PS2, copie quasi parfaite du hit de la Dreamcast. Mille ans après avoir été vaincu et découpé en morceaux, Valmar, dieu des Ténèbres, tente de revenir pour se venger. Incarnant un jeune mercenaire du nom de Ryudo, le joueur a pour charge d'escorter la prêtresse Elena jusqu'à une tour où elle doit effectuer un exorcisme. Cette mission, apparemment banale, va malheureusement bien vite se transformer en véritable quête du bien contre le mal lorsque la jeune femme se retrouve possédée par les ailes du démon Valmar. Très classique, ce scénario manichéen dissimule en fait l'un des meilleurs RPG actuels. La réalisation n'arrive certes pas à la cheville de celle d'un Final Fantasy X, pourtant le design manga des personnages et la richesse de ses décors aux couleurs éclatantes suffisent à séduire dès les premières images. Les plus regardants reprocheront la présence d'aliasing et le manque de finesse de certaines textures par rapport à la version d'origine. Mais ces considérations esthétiques sont contrebalancées par une jouabilité sans faille qui constitue la grande force du jeu. Le système de combat de Grandia 2 se montre particulièrement réussi par son mélange de temps réel et de tour par tour. Très complet, il permet des affrontements stratégiques avec quatre personnages à base de combos, de coups spéciaux et d'attaques magiques spectaculaires. Mais Grandia 2 ne se limite pas aux combats. Les phases d'exploration et de dialogue sont également nombreuses et plaisantes, toujours pleines d'humour, sans oublier quelques séquences cinématiques, pour une durée de vie qui dépasse les quarante heures. Une valeur sûre du RPG. --Vincent Maulon"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 18:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "PlayStation 2",
+    "sub_title": "Grandia 2",
+    "thumbnail_big": "db/468_videogame/thumbnail_big",
+    "thumbnail_mini": "db/468_videogame/thumbnail_small"
+}

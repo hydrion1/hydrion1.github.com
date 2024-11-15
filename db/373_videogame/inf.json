@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Valkyria Chronicles [import anglais]"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Strategie"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "18/08/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sega"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "21.20 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060138439535"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Attention !!! Ce produit est un import, si les informations 'langues' et 'sous-titres' n'apparaissent pas sur cette fiche produit, c'est que l'éditeur ne nous les a pas fournies. Néanmoins, dans la grande majorité de ces cas, il n'existe ni langue ni sous titres en français sur ces imports."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/03/2022 19:31"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Valkyria Chronicles [import anglais]",
+    "thumbnail_big": "db/373_videogame/thumbnail_big",
+    "thumbnail_mini": "db/373_videogame/thumbnail_small"
+}

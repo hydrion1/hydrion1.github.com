@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Belle et la Bete  (la)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christophe Gans"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique. Horreur et Science-fiction Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Vincent Cassel Lea Seydoux Andre Dussollier Eduardo Noriega Myriam Charleins"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/06/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.02 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pour avoir cueilli une rose appartenant au domaine magique de la B ete le pere de Belle est condamne a mort. Afin de le sauver Belle se sacrifie et accepte d' etre retenue prisonniere a jamais dans le chateau fantastique. Mais rapidement elle comprend que la B ete  etre solitaire et feroce fut un jour un Prince majestueux victime d'une terrible malediction...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Pathe"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3388330046125"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Belle et la Bete  (la)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/874_video/thumbnail_big",
+    "thumbnail_mini": "db/874_video/thumbnail_small"
+}

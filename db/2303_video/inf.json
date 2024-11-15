@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Avatar"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "James Cameron"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sam Worthington Zoe Saldana Sigourney Weaver"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/12/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/04/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Malgre sa paralysie Jake Sully un ancien marine immobilise dans un fauteuil roulant est reste un combattant au plus profond de son  etre. Il est recrute pour se rendre a des annees-lumiere de la Terre sur Pandora ou de puissants groupes industriels exploitent un minerai rarissime destine a resoudre la crise energetique sur Terre. Parce que l'atmosphere de Pandora est toxique pour les humains ceux-ci ont cree le Programme Avatar qui permet a des \"\" pilotes \"\" humains de lier leur esprit a un avatar un corps biologique commande a distance capable de survivre dans cette atmosphere letale. Ces avatars sont des hybrides crees genetiquement en croisant l'ADN humain avec celui des Na'vi les autochtones de Pandora.Sous sa forme d'avatar Jake peut de nouveau marcher. On lui confie une mission d'infiltration aupres des Na'vi devenus un obstacle trop consequent a l'exploitation du precieux minerai. Mais tout va changer lorsque Neytiri une tres belle Na'vi sauve la vie de Jake...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "20th Century Fox"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626044598"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/11/2023 11:10"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:10"
+        }
+    ],
+    "main_title": "Avatar",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2303_video/thumbnail_big",
+    "thumbnail_mini": "db/2303_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ronja, Fille de Brigand-La série complète"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Goro Miyazaki, Kazuma Shimizu, Akio Kazumi, Kei Takao"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "676"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hitoshi Takagi Noriko Hidaka Chika Sakamoto Shigesato Itoi Sumi Shimamoto"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/09/2020"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "5"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ronja est la fille du chef d'une bande de brigands qui vivent au coeur d'une forêt mystérieuse, peuplée de créatures fantastiques, mais aussi par une bande rivale. Ronja rencontre Birk, le fils du chef de cet autre clan et se lie peu à peu d'amitié avec lui. Cette amitié résistera-t-elle aux tensions entre les deux familles de brigands ? "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Ghibli"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3512392624780"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Ronja, Fille de Brigand-La série complète",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/333_video/thumbnail_big",
+    "thumbnail_mini": "db/333_video/thumbnail_small"
+}

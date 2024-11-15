@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Shovel Knight: Treasure Trove"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Plates-formes"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "03/03/2017"
+        },
+        {
+            "name": "Editeur",
+            "value": "Yacht Club Games"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/12/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "4"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Allemand (Dubbed) Anglais (Dubbed) Espagnol (Dubbed) Fran�ais (Dubbed) Italien (Dubbed) Anglais (Original Language) Allemand (Unknown)"
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060146467018"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Manuel en Francais}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Cadeau Noël Benedetto"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/12/2023 10:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/12/2023 11:02"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Shovel Knight: Treasure Trove",
+    "thumbnail_big": "db/1257_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1257_videogame/thumbnail_small"
+}

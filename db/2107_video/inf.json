@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hit Fast"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Justin Donnelly"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "95"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Luke Goss, Tyler Johnston, Jeffrey Ballard, Michael Eklund, Erica Carroll, Andrew Hedge"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/08/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sans emplois, Jesse et Sam errent en voiture et attendent la bonne occasion pour s'en mettre plein les poches. Tout s’accélère lorsqu'une mallette pleine de billets est déposée à l’arrière de leur véhicule. Occupés à tout dépenser, ils ignorent que l'argent appartient à un trafiquant de drogue bien décidé à le récupérer..."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/08/2023 21:06"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 16:33"
+        }
+    ],
+    "main_title": "Hit Fast",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2107_video/thumbnail_big",
+    "thumbnail_mini": "db/2107_video/thumbnail_small"
+}

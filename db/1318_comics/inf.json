@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Bounder"
+        },
+        {
+            "name": "Titre",
+            "value": "Bounder"
+        },
+        {
+            "name": "Scénario",
+            "value": "Takumi OHYAMA"
+        },
+        {
+            "name": "Editeur",
+            "value": "Kurokawa"
+        },
+        {
+            "name": "Dessins",
+            "value": "Takumi OHYAMA"
+        },
+        {
+            "name": "Langue",
+            "value": "Francais"
+        },
+        {
+            "name": "Couleurs",
+            "value": "Takumi OHYAMA"
+        },
+        {
+            "name": "Nbre de pages",
+            "value": "384"
+        },
+        {
+            "name": "Date de parution",
+            "value": "22/08/2019"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": ""
+        },
+        {
+            "name": "Genre ",
+            "value": "Manga"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/06/2020"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "Broché"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782368526095"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2020 09:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Bounder",
+    "sub_title": "Bounder",
+    "thumbnail_big": "db/1318_comics/thumbnail_big",
+    "thumbnail_mini": "db/1318_comics/thumbnail_small"
+}

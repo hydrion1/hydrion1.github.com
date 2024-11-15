@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Minuit à Paris (Midnight In Paris)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Woody Allen"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "94"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Owen Wilson, Rachel McAdams, Kurt Fuller, Mimi Kennedy, Michael Sheen, Nina Arianda, Carla Bruni"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/05/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.41 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un jeune couple d'américains dont le mariage est prévu à l'automne se rend pour quelques jours à Paris. La magie de la capitale ne tarde pas à opérer, tout particulièrement sur le jeune homme amoureux de la Ville-lumière et qui aspire à une autre vie que la sienne..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442249454"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/09/2024 17:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/09/2024 17:45"
+        }
+    ],
+    "main_title": "Minuit à Paris (Midnight In Paris)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2807_video/thumbnail_big",
+    "thumbnail_mini": "db/2807_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Des hommes et des dieux"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Xavier Beauvois"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Lambert Wilson, Michael Lonsdale, Olivier Rabourdin, Philippe Laudenbach, Jacques Herlin, Loïc Pichon"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "08/09/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.25 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un monastère perché dans les montagnes du Maghreb, dans les années 1990. Huit moines chrétiens français vivent en harmonie avec leurs frères musulmans. Quand une équipe de travailleurs étrangers est massacrée par un groupe islamiste, la terreur s’installe dans la région. L'armée propose une protection aux moines, mais ceux-ci refusent. Doivent-ils partir ? Malgré les menaces grandissantes qui les entourent, la décision des moines de rester coûte que coûte, se concrétise jour après jour…\n\nCe film s’inspire librement de la vie des Moines Cisterciens de Tibhirine en Algérie de 1993 jusqu’à leur enlèvement en 1996.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889060628"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/07/2024 22:52"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/07/2024 23:10"
+        }
+    ],
+    "main_title": "Des hommes et des dieux",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2618_video/thumbnail_big",
+    "thumbnail_mini": "db/2618_video/thumbnail_small"
+}

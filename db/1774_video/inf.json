@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Sword of The Stranger"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Masahiro Ando"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "202"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/11/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/09/2020"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le récit de Sword of the Stranger se déroule dans le Japon de l'ère Sengoku, en pleine période de guerres civiles. Un rônin sans nom sauve un jeune orphelin, Kotarô, et son chien Tobimaru, lors d'un incendie. Pendant ce temps, une mystérieuse milice venue de Chine recherche Kotarô dans le but de l'utiliser pour accomplir un rituel occulte procurant la vie éternelle. Parmi eux se trouve Luo-Lang, un bretteur émérite assoiffé de combats aux ordres du seigneur de guerre Bai-Luan. Kotarô engage alors le rônin sans nom comme garde du corps en échange d'une pierre précieuse qu'un moine lui a donné, et ils décident de faire route ensemble."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Beez Entertainement"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391747466"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/09/2020 10:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Sword of The Stranger",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1774_video/thumbnail_big",
+    "thumbnail_mini": "db/1774_video/thumbnail_small"
+}

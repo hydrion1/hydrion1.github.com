@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Wars 8 - Les Derniers Jedi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rian Johnson"
+        },
+        {
+            "name": "Genre",
+            "value": "Science fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "145"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/04/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le Premier Ordre règne. Après avoir décimé la pacifique République, le suprême leader Snoke déploie maintenant ses légions pour prendre le contrôle militaire de la galaxie. Seule la générale Leia Organa et les chasseurs de la Résistance s'opposent à la tyrannie naissante, convaincus que le maître Jedi Luke Skywalker peut redonner une lueur d'espoir au combat. Alors que la jeune Rey part à sa recherche, la Résistance se laisse surprendre. Le Premier Ordre est désormais en mesure de totalement anéantir la base rebelle..."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Lucasfilm"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "DTS-HD 7.1, DTS-HD High Res Audio"
+        },
+        {
+            "name": "Ratio",
+            "value": "2.40:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418510732"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/12/2021 11:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/11/2023 21:39"
+        }
+    ],
+    "main_title": "Star Wars 8 - Les Derniers Jedi",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1848_video/thumbnail_big",
+    "thumbnail_mini": "db/1848_video/thumbnail_small"
+}

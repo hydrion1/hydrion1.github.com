@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "de l'Autre côté du prériph"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Charhon"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "96"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Omar Sy, Sabrina Ouazani, Laurent Lafitte"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "19/12/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/04/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un matin à l’aube dans une cité de Bobigny, près d’un vieux tripot clandestin, est retrouvé le corps sans vie de Eponine Chaligny, femme du très influent Jean-Éric Chaligny, premier patron de France, au centre d’un climat social extrême qui secoue la France depuis quelques semaines. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5420068900220"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/04/2023 21:42"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/10/2023 06:54"
+        }
+    ],
+    "main_title": "de l'Autre côté du prériph",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1941_video/thumbnail_big",
+    "thumbnail_mini": "db/1941_video/thumbnail_small"
+}

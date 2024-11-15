@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ratchet & Clank : le film"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kevin Munroe"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jericca Cleland"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/02/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ratchet et Clank unissent leur force, intelligence et courage pour lutter contre le maléfique Drek qui veut détruire la galaxie. Avec l’aide des Rangers Galactiques ils vont se lancer dans une aventure spectaculaire ! Ce duo de choc est basé sur la franchise des jeux vidéo Ratchet & Clank de Sony, qui a été écoulée à plus de 13 millions d’exemplaires à travers le monde. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3309450046697"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/02/2022 07:41"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/02/2022 07:42"
+        }
+    ],
+    "main_title": "Ratchet & Clank : le film",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1859_video/thumbnail_big",
+    "thumbnail_mini": "db/1859_video/thumbnail_small"
+}

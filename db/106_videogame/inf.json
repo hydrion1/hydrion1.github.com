@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Marsupilami [Megadrive FR]"
+        },
+        {
+            "name": "Console",
+            "value": "Sega Megadrive"
+        },
+        {
+            "name": "Genre",
+            "value": "Action Plate-forme"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Sega"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Allemand (Manual)"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "4974365618414"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Marsupilami est un jeu de plates-formes sur Megadrive qui se deroule dans l'univers de la BD de Franquin. Vous controlez le Marsupilami qui se retrouve enferme dans un cirque mais qui ne tardera pas and se liberer. en m\\'eame temps que tous les animaux de la menagerie. Il faudra retrouver votre chemin and travers plusieurs niveaux aux environnements varies tout en recoltant des fruits.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 11:57"
+        }
+    ],
+    "main_title": "Sega Megadrive",
+    "sub_title": "Marsupilami [Megadrive FR]",
+    "thumbnail_big": "db/106_videogame/thumbnail_big",
+    "thumbnail_mini": "db/106_videogame/thumbnail_small"
+}

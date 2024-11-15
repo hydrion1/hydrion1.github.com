@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Luca"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Enrico Casarosa"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "96"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jacob Tremblay, Jack Dylan Grazer, Emma Berman, Saverio Raimondo, Maya Rudolph, Marco Barricelli, Jim Gaffigan, Peter Sohn, Sacha Baron Cohen"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2021"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/03/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans une très jolie petite ville côtière de la Riviera italienne, un jeune garçon, Luca, vit un été inoubliable, ponctué de délicieux gelato, de savoureuses pasta et de longues balades en scooter. Il partage ses aventures avec son nouveau meilleur ami, mais ce bonheur est menacé par un secret bien gardé : tous deux sont en réalité des monstres marins venus d’un autre monde, situé juste au-dessous de la surface de l’eau…"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Cheque consommation\nDisney"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418595562"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/03/2022 19:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/03/2024 22:36"
+        }
+    ],
+    "main_title": "Luca",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1862_video/thumbnail_big",
+    "thumbnail_mini": "db/1862_video/thumbnail_small"
+}

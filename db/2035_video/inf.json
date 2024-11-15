@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Toy Story 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Lasseter"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ash Brannon, Lee Unkrich"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/06/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Woody, le cow-boy à la démarche déhanchée, reste le jouet préféré d'Andy, même si aujourd'hui Buzz partage cette amitié. Toujours chef de bande, Woody protège et rassure tous les jouets de la chambre. Kidnappé par un collectionneur sans scrupules, Woody va découvrir qu'il fut jadis une vraie star. Après maintes péripéties, il va être confronté à la décision la plus importante de sa vie: rentrer chez lui pour retrouver Andy et les jouets ou rester pour devenir une pièce rare de musée. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2023 21:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/03/2024 22:45"
+        }
+    ],
+    "main_title": "Toy Story 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2035_video/thumbnail_big",
+    "thumbnail_mini": "db/2035_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hors de contrôle"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Martin Campbell"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Mel Gibson, Ray Winstone, Danny Huston, Bojana Novakovic, Shawn Roberts"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/02/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "13/06/2021"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Médiocre"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Thomas Craven est un inspecteur vétéran de la brigade criminelle de Boston. Il élève seul sa fille de vingt-cinq ans. Lorsque celle-ci est retrouvée assassinée sur les marches de sa propre maison, personne n'a de doute : c'est lui qui était visé. Pour découvrir qui a tué sa fille, l'inspecteur Craven va devoir s'aventurer dans les milieux troubles où les affaires côtoient la politique. Il va aussi devoir découvrir les secrets de celle qu'il croyait connaître... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/06/2021 18:14"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:57"
+        }
+    ],
+    "main_title": "Hors de contrôle",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1814_video/thumbnail_big",
+    "thumbnail_mini": "db/1814_video/thumbnail_small"
+}

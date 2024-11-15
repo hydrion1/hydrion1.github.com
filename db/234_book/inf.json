@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Armored Trains"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Steven J. Zaloga"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Osprey Publishing"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "01/01/2008"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "48"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Broché"
+        },
+        {
+            "name": "Langue",
+            "value": "Anglais (Unknown), Anglais (Original Language), Anglais (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9781846032424"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.66 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "7.50 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Armored Trains",
+    "sub_title": "Steven J. Zaloga",
+    "thumbnail_big": "db/234_book/thumbnail_big",
+    "thumbnail_mini": "db/234_book/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bloodborne (Game of the Year Edition)"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure Jeux de role"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "24/11/2015"
+        },
+        {
+            "name": "Editeur",
+            "value": "From Software"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/04/2021"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "24.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719843146"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/07/2022 21:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/07/2022 21:26"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "Bloodborne (Game of the Year Edition)",
+    "thumbnail_big": "db/976_videogame/thumbnail_big",
+    "thumbnail_mini": "db/976_videogame/thumbnail_small"
+}

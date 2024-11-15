@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Famille Bélier (la)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Eric Lartigau"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Louane Emera, Karin Viard, François Damiens, Eric Elmosnino, Roxane Duran"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/12/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/05/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "74 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans la famille Bélier, tout le monde est sourd sauf Paula, 16 ans. Elle est une interprète indispensable à\nses parents au quotidien, notamment pour l’exploitation de la ferme familiale. Un jour, poussée par son professeur de musique qui lui a découvert un don pour le chant, elle décide de préparer le concours de Radio France. Un choix de vie qui signifierait pour elle l’éloignement de sa famille et un passage inévitable à l’âge adulte."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/19548494"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Mars Films"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Français"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370835994"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/05/2023 22:39"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/05/2023 22:40"
+        }
+    ],
+    "main_title": "Famille Bélier (la)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1993_video/thumbnail_big",
+    "thumbnail_mini": "db/1993_video/thumbnail_small"
+}

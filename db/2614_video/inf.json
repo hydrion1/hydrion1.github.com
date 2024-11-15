@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Capharnaüm"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Nadine Labaki"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Zain Al Rafeea, Yordanos Shifera, Boluwatife Treasure Bankole, Kawsar Al Haddad, Fadi Yousef, Cedra Izzam, Alaa Chouchnieh, Nadine Labaki"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/10/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "À l'intérieur d'un tribunal, Zain, un garçon de 12 ans, est présenté devant le juge. À la question : \" Pourquoi attaquez-vous vos parents en justice ? \", Zain lui répond : \" Pour m'avoir donné la vie ! \". Capharnaüm retrace l'incroyable parcours de cet enfant en quête d'identité et qui se rebelle contre la vie qu'on cherche à lui imposer."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483250938"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/07/2024 22:49"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/07/2024 23:09"
+        }
+    ],
+    "main_title": "Capharnaüm",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2614_video/thumbnail_big",
+    "thumbnail_mini": "db/2614_video/thumbnail_small"
+}

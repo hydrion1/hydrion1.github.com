@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Avalonia, l'étrange voyage"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Don Hall"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Famille, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Qui Nguyen"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/12/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/05/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les Clade, une famille d’explorateurs légendaires, découvrent un monde inexploré, plein de dangers et peuplé de créatures fantastiques. Ils sont aidés dans leur quête d’un blob espiègle et de leur chien à trois pattes. Hélas, les querelles entre ses différents membres menacent de faire échouer cette nouvelle mission, qui est – de loin – la plus cruciale."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418612832"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/05/2024 22:07"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/10/2024 22:21"
+        }
+    ],
+    "main_title": "Avalonia, l'étrange voyage",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2565_video/thumbnail_big",
+    "thumbnail_mini": "db/2565_video/thumbnail_small"
+}

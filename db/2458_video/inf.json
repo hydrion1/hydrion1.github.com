@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Nouveaux heros (Les)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Daniel Gerson Henry Jackman Jordan Roberts Robert L. Baird Chris Williams Don Hall"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Anime, Comédie, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/02/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Petit genie de la robotique Hiro Hamada va apprendre a maitriser et exploiter son talent grace a son grand frere Tadashi et a leurs amis GoGo Tamago Wasabi No-Ginger Honey Lemon et Fred. Lorsqu'un complot criminel menace de detruire la ville de San Fransokyo Hiro se tourne vers son plus proche compagnon le robot Baymax et transforme la petite bande en un groupe de super-heros high-tech.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418434359"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/03/2024 11:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/03/2024 22:31"
+        }
+    ],
+    "main_title": "Nouveaux heros (Les)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2458_video/thumbnail_big",
+    "thumbnail_mini": "db/2458_video/thumbnail_small"
+}

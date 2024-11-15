@@ -1,0 +1,108 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Data Book of Wheeled Vehicles Army Transport, 1939-1945"
+        },
+        {
+            "name": "Auteur(s)",
+            "value": "Tank Museum"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/02/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Stationery Office"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "29/02/1984"
+        },
+        {
+            "name": "Nombre de pages",
+            "value": "310"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Format",
+            "value": "Hardcover"
+        },
+        {
+            "name": "Langue",
+            "value": "English (Unknown), English (Original Language), English (Published)"
+        },
+        {
+            "name": "Tome",
+            "value": "0"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9780112904083"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "18.75 €"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "35.25 €"
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 17:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Data Book of Wheeled Vehicles Army Transport, 1939-1945",
+    "sub_title": "Tank Museum",
+    "thumbnail_big": "db/240_book/thumbnail_big",
+    "thumbnail_mini": "db/240_book/thumbnail_small"
+}

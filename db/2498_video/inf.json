@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Petite sirène"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Musker"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Famille, Comédie musicale"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "83"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ron Clements"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/11/1990"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/03/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Malgré l'interdiction de son père, le roi Triton, Ariel, la petite sirène, ne peut résister à la tentation d'aller à la rencontre d'un monde inconnu, celui des humains. Accompagnée de Polochon, elle gagne la surface de l'océan et s'approche d'un grand navire où est donnée une grande fête en l'honneur du prince Eric, dont elle tombe immédiatement amoureuse. Une terrible tempête se lève et le prince est projeté par-dessus bord. Ariel le sauve de la noyade, le dépose sur le continent puis disparaît. Mais elle ne réussit pas à oublier le prince."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418408176"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/03/2024 20:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/10/2024 18:39"
+        }
+    ],
+    "main_title": "La Petite sirène",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2498_video/thumbnail_big",
+    "thumbnail_mini": "db/2498_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Homme d'exception (un) [edition Simple]"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ron Howard"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Russell Crowe Ed Harris Jennifer Connelly Paul Bettany Christopher Plummer"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/08/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.35 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": " En 1947 etudiant les mathematiques a l'universite de Princeton John Forbes Nash Jr. un brillant eleve elabore sa theorie economique des jeux. Pour lui les fluctuations des marches financiers peuvent  etre calculees tres precisement. Au debut des annees cinquante ses travaux et son enseignement au Massachusetts Institute of Technology ne passent pas inapercus et un representant du Departement de la Defense William Parcher se presente a lui pour lui proposer d'aider secretement les Etats-Unis. La mission de John consiste a decrypter dans la presse les messages secrets d'espions russes censes preparer un attentat nucleaire sur le territoire americain. Celui-ci y consacre rapidement tout son temps et ce au detriment de sa vie de couple avec Alicia. Ce job n'est toutefois pas sans risques : des agents ennemis surveillent ses moindres faits et gestes. Mais personne ne le croit. }"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "DreamWorks France"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "667068834024"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Homme d'exception (un) [edition Simple]",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/539_video/thumbnail_big",
+    "thumbnail_mini": "db/539_video/thumbnail_small"
+}

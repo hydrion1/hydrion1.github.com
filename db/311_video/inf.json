@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Deux freres"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jean-Jacques Annaud"
+        },
+        {
+            "name": "Genre",
+            "value": "Films"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean-Claude Dreyfus Philippine Leroy-Beaulieu Freddie Highmore Vincent Scarito Stephanie Lagarde"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/11/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Deux freres naissent loin de tout parmi les ruines d'un temple oublie englouti au coeur de la jungle d'Angkor. Ils grandissent sous le regard affectueux et vigilant de la Tigresse leur mere et de leur pere le grand Tigre. Helas en ce debut des annees 1920 la fievre de l'Art Asiatique s'empare des grandes capitales occidentales. Des pilleurs de temples font irruption. Les deux freres sont captures separes et vendus. L'un atterrit dans un cirque l'autre chez un Prince. Les deux felins se retrouvent opposes face a face dans une arene. Au cours du combat ils se reconnaissent et parviennent a s'enfuir...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Pathe"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3388334508957"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Deux freres",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/311_video/thumbnail_big",
+    "thumbnail_mini": "db/311_video/thumbnail_small"
+}

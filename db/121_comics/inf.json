@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Michel vaillant - Nouvelle Saison"
+        },
+        {
+            "name": "Titre",
+            "value": "Michel Vaillant - Nouvelle Saison - Tome 2 - Voltage"
+        },
+        {
+            "name": "Scénario",
+            "value": "Philippe Graton"
+        },
+        {
+            "name": "Editeur",
+            "value": "Graton"
+        },
+        {
+            "name": "Dessins",
+            "value": "Benjamin Benéteau"
+        },
+        {
+            "name": "Langue",
+            "value": "Français"
+        },
+        {
+            "name": "Couleurs",
+            "value": ""
+        },
+        {
+            "name": "Nbre de pages",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "05/12/2013"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "2"
+        },
+        {
+            "name": "Genre ",
+            "value": "BD"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782800157795"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 16:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/11/2022 17:57"
+        }
+    ],
+    "main_title": "Michel vaillant - Nouvelle Saison",
+    "sub_title": "Michel Vaillant - Nouvelle Saison - Tome 2 - Voltage",
+    "thumbnail_big": "db/121_comics/thumbnail_big",
+    "thumbnail_mini": "db/121_comics/thumbnail_small"
+}

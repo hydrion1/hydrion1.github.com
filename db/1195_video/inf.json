@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Apparences"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Robert Zemeckis"
+        },
+        {
+            "name": "Genre",
+            "value": "Films Entertainment"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Harrison Ford Michelle Pfeiffer Diana Scarwid Miranda Otto Chiu-Wai James Remar"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/05/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Claire voit de plus en plus de choses etranges chez elle. Elle voit des portes qui s'ouvrent toutes seules un voisin qui cache le corps de sa femme dans le coffre de sa voiture sous une pluie battante elle entend des murmures dans sa maison... Cependant personne ne la croit... Norman son mari ne la prend pas au serieux et prefere passer ses soirees au laboratoire ou il travaille. Mais le temps passe et les apparences se multiplient de plus en plus lourdes a supporter. Quant a Norman il ne cache plus son scepticisme et conseille a sa femme de consulter un psychiatre. Helas les apparences se precisent encore davantage. Claire decide alors de mener son enqu ete !}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626009306"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Apparences",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1195_video/thumbnail_big",
+    "thumbnail_mini": "db/1195_video/thumbnail_small"
+}

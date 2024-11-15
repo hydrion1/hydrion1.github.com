@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Kung Fu Panda 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jennifer Yuh"
+        },
+        {
+            "name": "Genre",
+            "value": "Enfants. Jeunesse et Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jack Black Angelina Jolie Dustin Hoffman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/06/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/11/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le eve de Po s'est realise. Il est devenu le Guerrier Dragon qui protege la Vallee de la Paix avec ses amis les Cinq Cyclones : Tigresse Grue Mante Vipere et Singe. Mais cette vie topissime est menacee par un nouvel ennemi decide a conquerir la Chine et aneantir le kung-fu a l'aide d'une arme secrete et indestructible. Comment Po pourra-t-il triompher d'une arme plus forte que le kung-fu ' Il devra se tourner vers son passe et decouvrir le secret de ses mysterieuses origines. Alors seulement il pourra liberer la force necessaire pour vaincre.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Dreamworks"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3606323172151"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/11/2023 20:36"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 09:40"
+        }
+    ],
+    "main_title": "Kung Fu Panda 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2288_video/thumbnail_big",
+    "thumbnail_mini": "db/2288_video/thumbnail_small"
+}

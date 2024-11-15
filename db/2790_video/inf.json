@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ernest et Célestine"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Benjamin Renner"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime7"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "6"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Vincent Patar, Stéphane Aubier"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/12/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "09/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans le monde conventionnel des ours, il est mal vu de se lier d’amitié avec une souris. Et pourtant, Ernest, gros ours marginal, clown et musicien, va accueillir chez lui la petite Célestine, une orpheline qui a fui le monde souterrain des rongeurs. Ces deux solitaires vont se soutenir et se réconforter, et bousculer ainsi l’ordre établi."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582928389"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/09/2024 14:38"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/09/2024 14:43"
+        }
+    ],
+    "main_title": "Ernest et Célestine",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2790_video/thumbnail_big",
+    "thumbnail_mini": "db/2790_video/thumbnail_small"
+}

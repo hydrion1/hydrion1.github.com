@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Enfant (L')"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jeremie Renier Deborah Francois Jeremie Segard Fabrizio Rongione Olivier Gourmet"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame et emotion"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jeremie Renier Deborah Francois Jeremie Segard Fabrizio Rongione Olivier Gourmet"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/04/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.03 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Bruno 20 ans et Sonia 18 ans vivent de l'allocation percue par la jeune fille et des larcins commis par le garcon et sa bande. Sonia vient de donner naissance a Jimmy leur enfant. L'insouciant Bruno doit alors apprendre a devenir pere lui qui jusqu'alors ne se preoccupait que de l'instant present.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Blaq Out"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3770001471518"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Enfant (L')",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/698_video/thumbnail_big",
+    "thumbnail_mini": "db/698_video/thumbnail_small"
+}

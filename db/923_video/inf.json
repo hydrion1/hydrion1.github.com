@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Deja vu"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tony Scott"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Denzel Washington Jim Caviezel Paula Patton"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Alors qu'il enqu ete sur l'explosion d'une bombe sur un ferry a la Nouvelle Orleans l'agent Doug Carlin se voit enrole au sein d'une nouvelle cellule du FBI ayant acces a un appareil gouvernemental top secret permettant d'ouvrir une \"\"fen etre sur le temps\"\" et ainsi de retrouver les preuves necessaires a l'arrestation d'importants criminels. Cette fen etre permet d'observer des evenements dans le passe s'etant deroules quatre jours six heures et quelques minutes auparavant... pas une de plus pas une de moins.Durant son investigation Doug va decouvrir que ce que la plupart des gens pensent n' etre qu'un effet de leur memoire est en fait un don bien plus precieux une force qui le menera vers une course contre la montre pour sauver des centaines d'innocents.}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8717418124298"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/03/2024 21:50"
+        }
+    ],
+    "main_title": "Deja vu",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/923_video/thumbnail_big",
+    "thumbnail_mini": "db/923_video/thumbnail_small"
+}

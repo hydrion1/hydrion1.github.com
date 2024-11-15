@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Au-delà"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Clint Eastwood"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Fantastique, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "128"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Thierry Neuvic, Cécile De France, Matt Damon"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "19/01/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Médiocre"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L'histoire de trois personnages hantés par la mort et les interrogations qu'elle soulève. George est un Américain d'origine modeste, affecté d'un \"don\" de voyance qui pèse sur lui comme une malédiction. Marie, journaliste française, est confrontée à une expérience de mort imminente, et en a été durablement bouleversée. Et quand Marcus, un jeune garçon de Londres, perd l'être qui lui était le plus cher et le plus indispensable, il se met désespérément en quête de réponses à ses interrogations. George, Marie et Marcus sont guidés par le même besoin de savoir, la même quête. Leurs destinées vont finir par se croiser pour tenter de répondre au mystère de l'Au-delà... \n"
+        },
+        {
+            "name": "Commentaires",
+            "value": "disque"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Home Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Inconnu"
+        },
+        {
+            "name": "Sous-titres",
+            "value": "Anglais, Français"
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888078228"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur, Cinémascope, Dolby, PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/08/2024 23:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/08/2024 23:29"
+        }
+    ],
+    "main_title": "Au-delà",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2695_video/thumbnail_big",
+    "thumbnail_mini": "db/2695_video/thumbnail_small"
+}

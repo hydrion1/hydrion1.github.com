@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mr Brooks [Import belge]"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Bruce A.Evans"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Entertainment"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kevin Costner Demi Moore Helgenberger"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pere de famille et brillant homme d'affaires Mr. Brooks mene une vie tranquille et semble tout avoir de l'homme ideal. Qui pourrait soupconner une seconde qu'il s'agit en realite d'un redoutable tueur en serie ? Un jour en depit de son sang-froid et de ses habitudes methodiques il laisse des indices derriere lui. C'est alors que Tracy Atwood une detective implacable et tenace se lance a sa poursuite... S'engage alors un duel machiavelique ou tous les coups sont permis !}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5414474353107"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Mr Brooks [Import belge]",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/256_video/thumbnail_big",
+    "thumbnail_mini": "db/256_video/thumbnail_small"
+}

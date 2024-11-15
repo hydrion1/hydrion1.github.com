@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Sleepy Hollow (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tim Burton"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique, Epouvante-horreur, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Johnny Depp, Christina Ricci, Miranda Richardson, Michael Gambon, Casper Van Dien"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/02/2000"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/02/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "R (Restricted)"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.49 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1799, dans une bourgade de La Nouvelle-Angleterre, plusieurs cadavres sont successivement retrouvés décapités. Les têtes ont disparu. Terrifiés, les habitants sont persuadés que ces meurtres sont commis par un étrange et furieux cavalier, dont la rumeur prétend qu'il est lui-même sans tête. Les autorités new-yorkaises envoient alors leur plus fin limier pour éclaircir ce mystère. Ichabod Crane ne croit ni aux légendes, ni aux vengeances post-mortem. Mais, à peine arrive, il succombe au charme étrange et vénéneux de la belle Katrina Van Tassel."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Paramount Home Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3701432018508"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/03/2024 19:43"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/05/2024 15:26"
+        }
+    ],
+    "main_title": "Sleepy Hollow (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2449_video/thumbnail_big",
+    "thumbnail_mini": "db/2449_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Livre de la jungle (Le)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jon Favreau"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Neel Sethi, Ben Kingsley, Lambert Wilson, Idris Elba, Leïla Bekhti"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/04/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "76 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les aventures de Mowgli, un petit homme élevé dans la jungle par une famille de loups. Mais Mowgli n’est plus le bienvenu dans la jungle depuis que le redoutable tigre Shere Khan, qui porte les cicatrices des hommes, promet d’éliminer celui qu’il considère comme une menace. Poussé à abandonner le seul foyer qu’il ait jamais connu, Mowgli se lance dans un voyage captivant, à la découverte de soi, guidé par son mentor la panthère Bagheera et l’ours Baloo. Sur le chemin, Mowgli rencontre des créatures comme Kaa, un pyton à la voix séduisante et au regard hypnotique et le Roi Louie, qui tente de contraindre Mowgli à lui révéler le secret de la fleur rouge et insaisissable : le feu."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/19560579"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "The Walt Disney Company France"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Anglais"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418486624"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/08/2019 14:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Livre de la jungle (Le)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1684_video/thumbnail_big",
+    "thumbnail_mini": "db/1684_video/thumbnail_small"
+}

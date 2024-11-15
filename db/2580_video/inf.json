@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hitman"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Xavier Gens"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Policier, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Dougray Scott Timothy Olyphant Olga Kurylenko"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/09/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L agent 47 (HITMAN) est devenu par sa formation un tueur agages professionnel dont les meilleures armes sont son courage sa determination et sa fierte. Les roles s?inversent considerablement lorsque HITMAN devient lui-meme victime d un jeu politique. Avec Interpol et les services secrets russes ases trousses il doit craindre desormais pour sa propre vie? Cette version non censuree tres cool de HITMAN nous offre des effets speciaux impressionnants une musique sensationnelle et une prestation epoustouflante de Timothy Olyphant (Die Hard 4.0 : Retour en enfer)."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712626038283"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2024 15:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2024 20:22"
+        }
+    ],
+    "main_title": "Hitman",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2580_video/thumbnail_big",
+    "thumbnail_mini": "db/2580_video/thumbnail_small"
+}

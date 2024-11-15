@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Jurassic Park : Le Monde Perdu"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steven Spielberg"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "129"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jeff Goldblum, Richard Attenborough, Pete Postlethwaite, Arliss Howard, Julianne Moore"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/10/1997"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Quatre ans après le terrible fiasco de son Jurassic Park, le milliardaire John Hammond rappelle le Dr Ian Malcolm pour l'informer de son nouveau projet. Sur une île déserte, voisine du parc, vivent en liberté des centaines de dinosaures de toutes tailles et de toutes espèces. Ce sont des descendants des animaux clônes en laboratoire. D'abord réticent, Ian se décide à rejoindre le docteur quand il apprend que sa fiancée fait partie de l'expédition scientifique. Il ignore qu'une autre expédition qui n'a pas les mêmes buts est également en route."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/9712030"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "United International Pictures (UIP)"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Anglais"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083042288"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/09/2019 14:06"
+        },
+        {
+            "name": "Date de modification",
+            "value": "24/11/2023 21:42"
+        }
+    ],
+    "main_title": "Jurassic Park : Le Monde Perdu",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1701_video/thumbnail_big",
+    "thumbnail_mini": "db/1701_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Opération Matchbox"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Colin Teague"
+        },
+        {
+            "name": "Genre",
+            "value": "Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "99"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Billy Zane, Karel Roden, Alexander Skarsgård, Sean Pertwee, David Ginola, Laurence Fox, Louis Dempsey"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En Juin 1944 au milieu de la plus grande invasion aeroportee de l'histoire une petite unite d'hommes a une mission secrete. Son nom de code : Matchbox. Son objectif : recuperer des tresors d'art et de l'or spolies et caches en Hollande occupee par les nazis. Ces sept soldats britanniques vont devoir affronter en territoire ennemi les troupes du 3eme Reich.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512397552343"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/08/2024 20:41"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/08/2024 20:50"
+        }
+    ],
+    "main_title": "Opération Matchbox",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2657_video/thumbnail_big",
+    "thumbnail_mini": "db/2657_video/thumbnail_small"
+}

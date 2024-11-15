@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Transcendance"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Wally Pfister"
+        },
+        {
+            "name": "Genre",
+            "value": "Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Johnny Depp, Rebecca Hall, Paul Bettany, Cillian Murphy, Kate Mara, Cole Hauser, Morgan Freeman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/06/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/08/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans un futur proche, un groupe de scientifiques tente de concevoir le premier ordinateur doté d’une conscience et capable de réfléchir de manière autonome. Ils doivent faire face aux attaques de terroristes anti-technologies qui voient dans ce projet une menace pour l’espèce humaine. Lorsque le scientifique à la tête du projet est assassiné, sa femme se sert de l’avancée de ses travaux pour « transcender » l’esprit de son mari dans le premier super ordinateur de l’histoire. Pouvant désormais contrôler tous les réseaux liés à internet, il devient ainsi quasi omnipotent. Mais comment l’arrêter s’il perdait ce qui lui reste d’humanité ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001041999"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/08/2024 11:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/08/2024 11:33"
+        }
+    ],
+    "main_title": "Transcendance",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2715_video/thumbnail_big",
+    "thumbnail_mini": "db/2715_video/thumbnail_small"
+}

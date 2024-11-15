@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Ch'tite famille"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Dany Boon"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "107"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Dany Boon, Line Renaud, Laurence Arné, Valérie Bonneton, Pierre Richard, Guy Lecluyse, François Berléand, Juliane Lepoureau"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/07/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Valentin D. et Constance Brandt, un couple d’architectes designers en vogue préparent le vernissage de leur rétrospective au Palais de Tokyo. Mais ce que personne ne sait, c’est que pour s’intégrer au monde du design et du luxe parisien, Valentin a menti sur ses origines prolétaires et ch'tis. Alors, quand sa mère, son frère et sa belle-sœur débarquent par surprise au Palais de Tokyo, le jour du vernissage, la rencontre des deux mondes est fracassante. D’autant plus que Valentin, suite à un accident, va perdre la mémoire et se retrouver 20 ans en arrière, plus ch’ti que jamais ! "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330050832"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/07/2023 22:24"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/07/2023 22:25"
+        }
+    ],
+    "main_title": "La Ch'tite famille",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2082_video/thumbnail_big",
+    "thumbnail_mini": "db/2082_video/thumbnail_small"
+}

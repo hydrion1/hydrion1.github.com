@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Short Program"
+        },
+        {
+            "name": "Titre",
+            "value": "Short Program. Tome 2"
+        },
+        {
+            "name": "Scénario",
+            "value": "Mitsuru Adachi"
+        },
+        {
+            "name": "Editeur",
+            "value": "Tonkam"
+        },
+        {
+            "name": "Dessins",
+            "value": "Mitsuru Adachi"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": "Mitsuru Adachi"
+        },
+        {
+            "name": "Nbre de pages",
+            "value": "180"
+        },
+        {
+            "name": "Date de parution",
+            "value": "01/01/2002"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "2"
+        },
+        {
+            "name": "Genre ",
+            "value": "Short Program"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/09/2019"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "Broché"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "2912628687"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/09/2019 22:49"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Short Program",
+    "sub_title": "Short Program. Tome 2",
+    "thumbnail_big": "db/1295_comics/thumbnail_big",
+    "thumbnail_mini": "db/1295_comics/thumbnail_small"
+}

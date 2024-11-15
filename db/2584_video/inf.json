@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Insomnia"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christopher Nolan"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "119"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Al Pacino, Robin Williams, Hilary Swank, Maura Tierney, Martin Donovan"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2002"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.05 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Will Dormer, un policier expérimenté et désabusé, est envoyé en Alaska pour enquêter sur le meurtre sordide d'une adolescente. Lui et ses hommes montent une embuscade et repèrent le tueur, mais celui-ci parvient à s'enfuir. Will le prend en chasse mais le perd de vue dans l'opaque brouillard. Il voit une ombre qui pointe une arme à feu et tire. Lorsqu'il s'approche du corps, il découvre qu'il vient de tuer Hap, son partenaire. Instinctivement, il prend le pistolet qu'a auparavant laissé tomber le tueur dans sa fuite et le place près de Hap pour dissimuler sa culpabilité. Walter Finch, le meurtrier, a vu faire Will. Il le menace de le dénoncer s'il ne ferme pas rapidement le dossier en accusant l'ancien petit ami de la victime d'être responsable des deux meurtres. Will ne peut laisser Walter s'en tirer aussi facilement. Cependant, l'absence de sommeil l'empêche d'avoir les idées claires."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889014669"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2024 16:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2024 20:13"
+        }
+    ],
+    "main_title": "Insomnia",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2584_video/thumbnail_big",
+    "thumbnail_mini": "db/2584_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Patients"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Grand Corps Malade, Mehdi Idir"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "112"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Pablo Pauly, Soufiane Guerrab, Moussa Mansaly, Nailia Harzoune, Franck Falise"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/03/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "76 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Se laver, s'habiller, marcher, jouer au basket, voici ce que Ben ne peut plus faire à son arrivée dans un centre de rééducation suite à un grave accident. Ses nouveaux amis sont tétras, paras, traumas crâniens.... Bref, toute la crème du handicap. Ensemble ils vont apprendre la patience. Ils vont résister, se vanner, s'engueuler, se séduire mais surtout trouver l'énergie pour réapprendre à vivre. Patients est l'histoire d'une renaissance, d'un voyage chaotique fait de victoires et de défaites, de larmes et d’éclats de rire, mais surtout de rencontres : on ne guérit pas seul."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": "http://www.allocine.fr/blogvision/19567610"
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Gaumont Distribution"
+        },
+        {
+            "name": "Pays",
+            "value": "France"
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Français"
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483230435"
+        },
+        {
+            "name": "Format",
+            "value": "Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/02/2020 20:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/07/2024 22:52"
+        }
+    ],
+    "main_title": "Patients",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1744_video/thumbnail_big",
+    "thumbnail_mini": "db/1744_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Godzilla (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gareth Edwards"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Aaron Taylor-Johnson, Bryan Cranston, Ken Watanabe, Elizabeth Olsen, Sally Hawkins, Juliette Binoche, David Strathairn"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/01/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le physicien Joseph Brody a perdu sa femme il y a 15 ans quand un incident nucléaire a irradié la région de Tokyo. La thèse officielle parle de tremblement de terre mais le scientifique est sceptique et mène son enquête avec son fils Ford, soldat dans la Navy. En fait de catastrophe naturelle, il s'agit plutôt des dégâts d'une créature gigantesque créée à la suite d'essais nucléaires dans le Pacifique. D'autres monstres menacent l'archipel d'Hawaï et la côte Ouest des Etats-Unis. L'armée est mobilisée et menée par l'Amiral William Stenz. Au même moment, la compagne de Ford, infirmière et jeune maman, gère les blessés dans un hôpital de San Francisco..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888257128"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/01/2024 15:00"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/01/2024 15:10"
+        }
+    ],
+    "main_title": "Godzilla (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2398_video/thumbnail_big",
+    "thumbnail_mini": "db/2398_video/thumbnail_small"
+}

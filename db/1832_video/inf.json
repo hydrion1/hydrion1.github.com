@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Blanche Neige et le chasseur"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rupert Sanders"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "122"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ian McShane, Sam Claflin, Chris Hemsworth, Charlize Theron, Kristen Stewart"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/10/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Accord parental souhaité"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Universal Pictures France"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Anglais, Français, Catalan, Espagnol"
+        },
+        {
+            "name": "Sous-titres",
+            "value": "Français, Portugais, Néerlandais, Espagnol, Catalan"
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "2.35:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5050582915037"
+        },
+        {
+            "name": "Format",
+            "value": "PAL, Cinémascope, Plein écran, Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/08/2021 22:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Blanche Neige et le chasseur",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1832_video/thumbnail_big",
+    "thumbnail_mini": "db/1832_video/thumbnail_small"
+}

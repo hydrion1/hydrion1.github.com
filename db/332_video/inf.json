@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Verite si je mens ! (la)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thomas Gilou"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Richard Anconina Gilbert Melki Elie Kakou Jose Garcia Vincent Elbaz"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/04/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Edouard Vuibert est au bout du rouleau. Victor Benzakem, entrepreneur prospère du quartier du Sentier, le prend sous son aile quand une bagarre l'oppose a deux joueurs de bonneteau. Le prenant pour un juif, il décide de l'embaucher comme manutentionnaire. Eddie laisse le quiproquo s'installer sur ses origines et il va faire son chemin dans une communauté chaleureuse jusqu'à séduire Sandra, la fille de son patron. Mais au cours de la préparation du mariage, Eddie se démasque involontairement. Il n'est pas juif ! Il déchaine alors le scandale et la colère de la belle Sandra. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Warner Home Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "7321950101214"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Verite si je mens ! (la)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/332_video/thumbnail_big",
+    "thumbnail_mini": "db/332_video/thumbnail_small"
+}

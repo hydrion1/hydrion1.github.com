@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hugo Cabret"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ben Kingsley Sacha Baron Cohen Asa Butterfield Chloe Grace Moretz Ray Winstone"
+        },
+        {
+            "name": "Genre",
+            "value": "Genres"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ben Kingsley Sacha Baron Cohen Asa Butterfield Chloe Grace Moretz Ray Winstone"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/04/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans le Paris des annees 30 le jeune Hugo est un orphelin de douze ans qui vit dans une gare. Son passe est un mystere et son destin une enigme. De son pere il ne lui reste qu'un etrange automate dont il cherche la cle - en forme de coeur - qui pourrait le faire fonctionner. En rencontrant Isabelle il a peut-etre trouve la cle mais ce n'est que le debut de l'aventure.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Metropolitan Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3512391571429"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Hugo Cabret",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/185_video/thumbnail_big",
+    "thumbnail_mini": "db/185_video/thumbnail_small"
+}

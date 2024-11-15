@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pokémon version or (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy Color"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "06/04/2001"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0045496460907"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Alors que les versions Rouge, Bleu et Jaune n'étaient que de simples variations d'un même jeu, Pokémon Or constitue une réelle nouveauté par les multiples améliorations apportées au concept original. Le joueur incarne un jeune entraîneur de Pokémon qui, pour prêter main forte au professeur Orme, doit explorer les environs du monde de Johto et capturer de nouveaux Pokémon en entraînant et faisant combattre ses créatures. Outre des graphismes encore plus beaux, Pokémon Or comporte près de 150 Pokémon inédits, mais aussi des personnages et des lieux différents. Le temps est désormais pris en compte et, en fonction de l'heure, vous ne croiserez pas les mêmes monstres. De nombreuses autres nouveautés comme l'apparition du téléphone portable pour communiquer, les possibilités de reproduction des créatures ou la radio et sa loterie contribuent également à faire de ce titre le plus intéressant de la série avec Pokémon Argent. Ceux qui ont apprécié les précédents volets vont adorer. --Vincent Maulon"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "20/01/2018 19:26"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/06/2023 12:10"
+        }
+    ],
+    "main_title": "Game Boy Color",
+    "sub_title": "Pokémon version or (loose)",
+    "thumbnail_big": "db/490_videogame/thumbnail_big",
+    "thumbnail_mini": "db/490_videogame/thumbnail_small"
+}

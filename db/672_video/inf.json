@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Rush"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ron Howard"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Chris Hemsworth Daniel Br�hl Olivia Wilde Alexandra Maria Lara Pierfrancesco Favino"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/01/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Situe durant l'age d'or de la Formule 1 Rush retrace le passionnant et haletant combat entre deux des plus grands rivaux que l'histoire du sport ait jamais connus celui de James Hunt et Niki Lauda concourant pour les illustres ecuries McLaren et Ferrari. Issu de la classe des privilegies charismatique et beau garcon tout oppose le play-boy anglais James Hunt a Niki Lauda son adversaire autrichien reserve et methodique. Rush suit la vie instable de ces deux pilotes sur les circuits et en dehors et retrace leur rivalite depuis leurs debuts.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Pathe"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5051888169438"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 17:03"
+        }
+    ],
+    "main_title": "Rush",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/672_video/thumbnail_big",
+    "thumbnail_mini": "db/672_video/thumbnail_small"
+}

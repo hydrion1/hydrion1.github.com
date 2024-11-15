@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Chevalier"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Brian Helgeland"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Heath Ledger Mark Addy Rufus Sewell Paul Bettany Alan Tudyk"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/05/2002"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En Europe, au XIVe siècle, William Thatcher est un modeste écuyer qui a un don inné pour l'équitation et les combats de joute, un talent qu'il décide d'exploiter après la mort de son maître Sir Ulrich von Lichtenstein. Mais ne concoure pas qui veut dans les tournois, il faut être un noble. Il prend alors l'identité de son défunt seigneur et part sur les routes de France avec ses compagnons Roland et Wat.\nEn chemin, William rencontre Geoffrey Chaucer, un écrivain errant qui lui fabrique de faux papiers. Ces documents falsifiés lui permettent de participer aux tournois disputés par les plus grands chevaliers.\nEn peu de temps, il se fait remarquer par son agilité et multiplie les victoires. Il attire également l'attention de la belle Jocelyn et, malheureusement, du redoutable comte Adhemar. Ce dernier est jaloux de son succès et compte bien y mettre un terme. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "G.C.T.H.V."
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8712609035841"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Chevalier",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/771_video/thumbnail_big",
+    "thumbnail_mini": "db/771_video/thumbnail_small"
+}

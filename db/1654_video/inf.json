@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Boxtrolls"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Graham Annable, Anthony Stacchi"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les Boxtrolls est une fable qui se déroule à Cheesebridge, une ville huppée de l’époque victorienne, dont la principale préoccupation est le luxe, la distinction et la crème des fromages les plus puants. Sous le charme de ses rues pavées, se cachent les Boxtrolls, d’horribles monstres qui rampent hors des égouts la nuit pour dérober ce que les habitants ont de plus cher : leurs enfants et leurs fromages. C’est du moins la légende à laquelle les gens de Cheesebridge ont toujours cru. En réalité les Boxtrolls sont une communauté souterraine d’adorables et attachantes créatures excentriques qui portent des cartons recyclés comme les tortues leurs carapaces. Les Boxtrolls ont élevé depuis le berceau un petit humain orphelin OEuf, comme l’un  des leurs, explorateur de décharge et collectionneur de détritus mécaniques. \n\nIls deviennent soudainement la cible d’un infâme dératiseur Archibald Trappenard qui voit dans sa disposition à éradiquer les trolls son ticket d’entrée au sein de la bonne société de Cheesebridge. La bande de bricoleurs au grand coeur doit alors se tourner vers celui dont ils ont adopté la responsabilité, ainsi qu’une jeune fi lle de la haute qui n’a pas froid aux yeux, Winnie afin de concilier leurs deux mondes, au gré des vents du changement... et du fromage..."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "06/06/2019 20:10"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/10/2024 11:03"
+        }
+    ],
+    "main_title": "Boxtrolls",
+    "sub_title": "",
+    "thumbnail_big": "db/1654_video/thumbnail_big",
+    "thumbnail_mini": "db/1654_video/thumbnail_small"
+}

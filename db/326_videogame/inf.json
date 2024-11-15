@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pikmin"
+        },
+        {
+            "name": "Console",
+            "value": "GameCube"
+        },
+        {
+            "name": "Genre",
+            "value": "Strategie et Reflexion"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "13/06/2002"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "45496390174"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Apres avoir donne naissance and des saga cultes tels que Donkey Kong. Mario et Zelda. Shigeru Miyamoto s est attele and un nouveau defi avec Pikmin. Presentes comme d adorables petits personnages des for\\'eats. les Pikmin vont venir en aide and un etrange astronaute lilliputien dont la navette a ete cruellement endommagee. A vous d evoluer au sein d une for\\'eat luxuriante truffee de secrets et de pieges mortels pour vos proteges. Reparti en trois groupes de couleurs. chaque type de Pikmin dispose d habilites propres. Ainsi les Rouges resistent au feu. les Jaunes peuvent transportes des matieres explosives. tandis que les Bleus peuvent ne succombe pas au contact de l eau. Comme vous pouvez l imaginer aisement. and chaque lieu correspond une ou plusieurs enigmes logiques qu il vous faudra resoudre en prenant en compte la topographie des lieux. Pour corser le tout. certaines actions requiert un nombre bien defini de Pikmin. Par exemple. une lourde pierre and transporter necessitera une dizaine de personnages qu il vous faudra alors rassembler. Il vous faudra d ailleurs ramener certains objets dans des zones precises afin de donner naissances and de nouveaux Pikmin. mais aussi pensez and les faire rentrer avant la tombee de la nuit. Le but etant de retrouver 30 pieces de vos soucoupes en 30 jours. vous comprendrez que la gestion du temps reste une donnee essentielle. A mi-chemin entre le Tamagotchi. Lemmings et le classique jeu de strategie. Pikmin donne naissance and un style de jeu calme et novateur. Une vraie reussite. --Nobuo}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "GameCube",
+    "sub_title": "Pikmin",
+    "thumbnail_big": "db/326_videogame/thumbnail_big",
+    "thumbnail_mini": "db/326_videogame/thumbnail_small"
+}

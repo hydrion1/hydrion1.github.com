@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les 3 royaumes"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Woo"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Histoire"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "150"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tony Leung Chiu Wai, Takeshi Kaneshiro, Zhang Fengyi, Chen Chang, Zhao Wei"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/10/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/02/2021"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 208 après J.-C., l'empereur Han Xiandi règne sur la Chine pourtant divisée en trois royaumes rivaux. L'ambitieux Premier ministre Cao Cao rêve de s'installer sur le trône d'un empire unifié, et se sert de Han Xiandi pour mener une guerre sans merci contre Shu, le royaume du sud-ouest dirigé par l'oncle de l'empereur, Liu Bei. Liu Bei dépêche Zhuge Liang, son conseiller militaire, comme émissaire au royaume de Wu pour tenter de convaincre le roi Sun Quan d'unir ses forces aux siennes. A Wu, Zhuge Liang rencontre le vice-roi Zhou Yu. Très vite, les deux hommes deviennent amis et concluent un pacte d'alliance. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370800299"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/02/2021 23:02"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Les 3 royaumes",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1798_video/thumbnail_big",
+    "thumbnail_mini": "db/1798_video/thumbnail_small"
+}

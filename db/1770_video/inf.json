@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Polisse"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Maïwenn"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "127"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Karin Viard, Joey Starr, Marina Foïs, Nicolas Duvauchelle, Jérémie Elkaïm"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/02/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/08/2020"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le quotidien des policiers de la BPM (Brigade de Protection des Mineurs) ce sont les gardes à vue de pédophiles, les arrestations de pickpockets mineurs mais aussi la pause déjeuner où l'on se raconte ses problèmes de couple , ce sont les auditions de parents maltraitants, les dépositions des enfants, les dérives de la sexualité chez les adolescents, mais aussi la solidarité entre collègues et les fous rires incontrôlables dans les moments les plus impensables , c'est savoir que le pire existe, et tenter de faire avec... Comment ces policiers parviennent-ils à trouver l'équilibre entre leurs vies privées et la réalité à laquelle ils sont confrontés, tous les jours ? Fred, l'écorché du groupe, aura du mal à supporter le regard de Melissa, mandatée par le ministère de l'intérieur pour réaliser un livre de photos sur cette brigade."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442252294"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/08/2020 14:34"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Polisse",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1770_video/thumbnail_big",
+    "thumbnail_mini": "db/1770_video/thumbnail_small"
+}

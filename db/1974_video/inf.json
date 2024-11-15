@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Greatest Showman (The)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michael Gracey"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Comedie musicale"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hugh Jackman, Michelle Williams, Zac Efron"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "24/01/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/04/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "The Greatest Showman célèbre la naissance du show-business et l’émerveillement que l’on éprouve lorsque les rêves deviennent réalité. Inspirée par l’ambition et l’imagination de P.T Barnum, voici l’histoire d’un visionnaire parti de rien qui a créé un spectacle devenu un phénomène planétaire. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626091394"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/04/2023 22:39"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/10/2023 07:52"
+        }
+    ],
+    "main_title": "Greatest Showman (The)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1974_video/thumbnail_big",
+    "thumbnail_mini": "db/1974_video/thumbnail_small"
+}

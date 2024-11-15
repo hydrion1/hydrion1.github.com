@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Minimum"
+        },
+        {
+            "name": "Titre",
+            "value": "Minimum Vol.7"
+        },
+        {
+            "name": "Scénario",
+            "value": "Maya Miyazaki"
+        },
+        {
+            "name": "Editeur",
+            "value": "Glénat Manga"
+        },
+        {
+            "name": "Dessins",
+            "value": "Maya Miyazaki"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": "Maya Miyazaki"
+        },
+        {
+            "name": "Nbre de pages",
+            "value": "196"
+        },
+        {
+            "name": "Date de parution",
+            "value": "18/10/2017"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "7"
+        },
+        {
+            "name": "Genre ",
+            "value": "Thriller et Suspense"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": "Tankobon broché"
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782344017463"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/12/2019 21:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Minimum",
+    "sub_title": "Minimum Vol.7",
+    "thumbnail_big": "db/1309_comics/thumbnail_big",
+    "thumbnail_mini": "db/1309_comics/thumbnail_small"
+}

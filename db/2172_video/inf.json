@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Nikita"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Luc Besson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Anne Parillaud Tcheky Karyo Jean-Hugues Anglade"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "10/06/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le braquage d'une pharmacie par une bande de junkies en manque de drogue tourne mal : une fusillade cause la mort de plusieurs personnes dont un policier, abattu par la jeune Nikita. Condamnée à la prison à perpétuité, celle-ci fait bientôt la rencontre de Bob, un homme mystérieux qui contraint la jeune femme à travailler secrètement pour le gouvernement.\nAprès quelques rébellions lors d'un entraînement intensif de plusieurs années, Nikita devient un agent hautement qualifié des services secrets, capable désormais selon Bob d'évoluer seule à l'extérieur. Celui-ci espère d'ailleurs s'en assurer lors d'une terrible mise à l'épreuve, dans laquelle Nikita doit éliminer un pilier de la mafia asiatique au beau milieu d'un restaurant bondé... "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3607483163900"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/09/2023 19:42"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/12/2023 17:01"
+        }
+    ],
+    "main_title": "Nikita",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2172_video/thumbnail_big",
+    "thumbnail_mini": "db/2172_video/thumbnail_small"
+}

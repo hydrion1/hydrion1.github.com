@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Victor"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thomas Gilou"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Pierre Richard Lambert Wilsson Clementine Celarie"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/02/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Alice jeune stagiaire dans un magazine people se prend d'affection pour son voisin de palier Victor charmant vieillard erudit abandonne de tous et sur le point d' etre expulse de son logement. Elle va bientot trouver une solution a son probleme : organiser un concours au sein de son journal dont le gain sera l'adoption de Victor. A l'issue du casting c'est la famille Saillard qui gagne le droit de l'accueillir. Mais l'arrivee du semillant octogenaire censee apporter joie et bonne humeur tourne rapidement a l'aigre. Les failles de chacun eclatent au grand jour et bouleversent le cadre d'une famille qui semblait pourtant bien sous tout rapport"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "TF1 Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3384442241618"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Victor",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/454_video/thumbnail_big",
+    "thumbnail_mini": "db/454_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Aventures de Tintin : L'affaire Tournesol / Coke en stock / Tintin au Tibet"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Stéphane Bernasconi"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "78"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "09/01/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.29 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Citel vidéo"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": "Espagnol, Anglais, Français"
+        },
+        {
+            "name": "Sous-titres",
+            "value": "Anglais, Français, Espagnol"
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 2.0"
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3309450030511"
+        },
+        {
+            "name": "Format",
+            "value": "PAL, Plein écran, Dolby, Couleur"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/01/2023 22:45"
+        },
+        {
+            "name": "Date de modification",
+            "value": "09/01/2023 22:48"
+        }
+    ],
+    "main_title": "Les Aventures de Tintin : L'affaire Tournesol / Coke en stock / Tintin au Tibet",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1934_video/thumbnail_big",
+    "thumbnail_mini": "db/1934_video/thumbnail_small"
+}

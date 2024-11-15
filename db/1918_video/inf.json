@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mensonges d'état"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ridley Scott"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Leonardo DiCaprio, Russell Crowe, Mark Strong, Golshifteh Farahani, Oscar Isaac, Ali Suliman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/10/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ancien journaliste blessé pendant la guerre en Irak, Roger Ferris est recruté par la CIA pour traquer un terroriste basé en Jordanie. Afin d'infiltrer son réseau, Ferris devra s'assurer le soutien du très roué vétéran de la CIA Ed Hoffman et du chef des renseignements jordaniens, peut-être trop serviable pour être honnête. Bien que ces deux là soient censés être ses alliés, Ferris s'interroge : jusqu'où peut-il leur faire confiance sans mettre toute son opération - et sa vie - en danger ? "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888138328"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/10/2022 13:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/10/2022 13:57"
+        }
+    ],
+    "main_title": "Mensonges d'état",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1918_video/thumbnail_big",
+    "thumbnail_mini": "db/1918_video/thumbnail_small"
+}

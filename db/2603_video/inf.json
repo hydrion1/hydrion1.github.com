@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "After Earth"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "M. Night Shyamalan"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jaden Smith, Will Smith, Sophie Okonedo, Zoë Kravitz, Glenn Morshower, Kristofer Hivju"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\n\nAprès un atterrissage forcé, Kitai Raige et son père, Cypher, se retrouvent sur Terre, mille ans après que l’humanité a été obligée d’évacuer la planète, chassée par des événements cataclysmiques. Cypher est grièvement blessé, et Kitai s’engage dans un périple à haut risque pour signaler leur présence et demander de l’aide. Il va explorer des lieux inconnus, affronter les espèces animales qui ont évolué et dominent à présent la planète, et combattre une créature extraterrestre redoutable qui s’est échappée au moment du crash.\n\nPour avoir une chance de rentrer chez eux, père et fils vont devoir apprendre à œuvrer ensemble et à se faire confiance…\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299301006"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/06/2024 15:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/06/2024 16:01"
+        }
+    ],
+    "main_title": "After Earth",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2603_video/thumbnail_big",
+    "thumbnail_mini": "db/2603_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Yo-kai Watch - Le Film"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Shigeharu Takahashi"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "95"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Shinji Ushiro"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/08/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/06/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.40 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Nathan se trouve cette fois plongé dans le passé et va devoir triompher de Yo-kai maléfiques bien décidés à briser le lien d’amitié que notre héros a noué avec les Yo-kai. Avec l’aide de ses fidèles compagnons Whisper et Jibanyan et de son grand-père, Nathan va devoir découvrir comment la première Yo-kai Watch a été créée."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700301052162"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/07/2024 19:12"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/07/2024 19:32"
+        }
+    ],
+    "main_title": "Yo-kai Watch - Le Film",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2625_video/thumbnail_big",
+    "thumbnail_mini": "db/2625_video/thumbnail_small"
+}

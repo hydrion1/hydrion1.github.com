@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Riddick"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Vin Diesel Jordi Molla Matt Nable Katee Sackhoff Karl Urban"
+        },
+        {
+            "name": "Genre",
+            "value": "Action. Aventure. Policier et Thriller Fantastique. Horreur et Science-fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Vin Diesel Jordi Molla Matt Nable Katee Sackhoff Karl Urban"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "17/01/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Riddick a ete laisse pour mort sur une planete brulee qui semble exempte de toute vie. Pourtant il se retrouve rapidement oblige de lutter pour sa survie contre des predateurs aliens plus mortels que tous les humains qu'il a affrontes au cours de sa vie. Il trouve un refuge precaire dans une ancienne gare de transit interstellaire desaffectee. La seule facon pour lui de s'en tirer est d'activer une balise d'urgence et d'alerter les mercenaires et autres chasseurs de primes qui se ruent vers la planete a la recherche de leur proie.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Metropolitan Video"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "8715664091685"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/09/2024 14:13"
+        }
+    ],
+    "main_title": "Riddick",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/618_video/thumbnail_big",
+    "thumbnail_mini": "db/618_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Godzilla (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Roland Emmerich"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Matthew Broderick Jean Reno Maria Pitillo Hank Azaria Kevin Dunn"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/09/1998"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Une tempête effroyable se dechaîne sur le Pacifique, engloutissant un pétrolier tandis qu'un immense éclair illumine le ciel au-dessus de la Polynésie française. Des empreintes géantes creusent un inquiétant sillon à travers des milliers de kilomètres de forêts et de plages au Panama. Les navires chavirent au large des côtes américaines et ces horribles phénomènes s'approchent de plus en plus près de New York. Le chercheur Nick Tatopoulos est arraché à ses recherches afin d'aider les Etats-Unis à traquer le monstre qui est à l'origine de ces désastres mystérieux."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333298301038"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/09/2023 13:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/11/2023 11:49"
+        }
+    ],
+    "main_title": "Godzilla (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2159_video/thumbnail_big",
+    "thumbnail_mini": "db/2159_video/thumbnail_small"
+}

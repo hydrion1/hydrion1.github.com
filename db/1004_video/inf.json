@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Aristos (Les)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Charlotte De Turckheim"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Charlotte De Turckheim Jacques Weber Vincent Desagnat"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/12/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Vous devez au Tresor Public la somme de 1 991 753 euros... Et vous n'avez pour tout bien que le Chateau de Neuville une bicoque decrepite que vous habitez avec votre nombreuse famille...\"\"Le comte Charles Valerand d'Arbac de Neuville son epouse Solange nee Poitou Castilla de la Taupiniere ainsi que leurs ascendants et descendants en ligne plus ou moins directe vont tenter l'impossible (a l'exception notable du travail) pour preserver leur chateau en ruine symbole d'une existence fragile et neanmoins tenace...Commence alors un voyage initiatique identitaire et loufoque au centre de la vraie vie... Un banquier aux nerfs fragiles un huissier aristophobe des nobles parvenus des cousins radins des transports tres communs...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5412370820501"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2023 17:43"
+        }
+    ],
+    "main_title": "Aristos (Les)",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1004_video/thumbnail_big",
+    "thumbnail_mini": "db/1004_video/thumbnail_small"
+}

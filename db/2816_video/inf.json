@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Tontons flingueurs"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Georges Lautner"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Lino Ventura, Francis Blanche, Bernard Blier, Claude Rich, Pierre Bertin, Robert Dalban, Jean Lefebvre, Horst Frank, Venantino Venantini"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/11/1963"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.84 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Propriétaire d'une petite usine de tracteurs, Fernand Naudin mène une vie tranquille et sans histoire quand un télégramme l'appelle à Paris. Il arrive à temps pour recueillir le dernier soupir d'un ami de jeunesse, Louis dit « le Mexicain », qui lui confie ses affaires louches en même temps que la garde de sa fille Patricia. Et les ennuis commencent..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483165980"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/09/2024 18:04"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/09/2024 18:12"
+        }
+    ],
+    "main_title": "Les Tontons flingueurs",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2816_video/thumbnail_big",
+    "thumbnail_mini": "db/2816_video/thumbnail_small"
+}

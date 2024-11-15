@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Rayman 10th Anniversary : 2 jeux : Rayman Advance + Rayman 3 (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy Advance"
+        },
+        {
+            "name": "Genre",
+            "value": "Game Boy Advance"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "UBI Soft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8346015450"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Cartouche Game Boy advance contenant 2 jeux complets : Rayman 3 et Rayman AdvanceJ eu Game Boy Advance - Version francaise compatible toutes Game Boy Advance}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 22:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:16"
+        }
+    ],
+    "main_title": "Game Boy Advance",
+    "sub_title": "Rayman 10th Anniversary : 2 jeux : Rayman Advance + Rayman 3 (loose)",
+    "thumbnail_big": "db/288_videogame/thumbnail_big",
+    "thumbnail_mini": "db/288_videogame/thumbnail_small"
+}

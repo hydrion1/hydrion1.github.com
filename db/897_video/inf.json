@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Michou d'Auber"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thomas Gilou"
+        },
+        {
+            "name": "Genre",
+            "value": "Comedie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Samy Seghir Gerard Depardieu Nathalie Baye"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/12/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\"Messaoud 9 ans est un enfant d'Aubervilliers. Parce que sa mere est malade son pere est oblige de le placer dans une famille d'accueil.Nous sommes en 1960 dans le contexte trouble des \"\"evenements\"\" d'Algerie. Gisele mere \"\"nourriciere\"\" decide de travestir l'identite de Messaoud aux yeux de la population de son village du Berry mais aussi - et surtout - aux yeux de son mari Georges ancien militaire.Messaoud devient alors Michel Michou et c'est sous cette identite porte par l'affection de Georges et Gisele qu'il s'initie a une France profonde.Mais le mensonge de Gisele bientot revele va mettre en peril cette relation naissante...}\""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Europacorp"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3760062464505"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Michou d'Auber",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/897_video/thumbnail_big",
+    "thumbnail_mini": "db/897_video/thumbnail_small"
+}

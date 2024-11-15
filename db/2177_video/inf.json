@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Momie"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alex Kurtzman"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique, Aventure, Epouvante-horreur"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Cruise, Russell Crowe, Annabelle Wallis, Sofia Boutella, Jake Johnson, Courtney B. Vance"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/09/2023"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Bien qu’elle ait été consciencieusement enterrée dans un tombeau au fin fond d’un insondable désert, une princesse de l’ancienne Égypte, dont le destin lui a été injustement ravi, revient à la vie et va déverser sur notre monde des siècles de rancœurs accumulées et de terreur dépassant l’entendement humain. Des sables du Moyen Orient aux pavés de Londres en passant par les ténébreux labyrinthes d’antiques tombeaux dérobés, La Momie nous transporte dans un monde à la fois terrifiant et merveilleux, peuplé de monstres et de divinités, dépoussiérant au passage un mythe vieux comme le monde. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083136918"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/09/2023 19:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/08/2024 22:59"
+        }
+    ],
+    "main_title": "La Momie",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2177_video/thumbnail_big",
+    "thumbnail_mini": "db/2177_video/thumbnail_small"
+}

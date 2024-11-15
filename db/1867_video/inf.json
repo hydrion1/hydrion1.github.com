@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La 5ème vague"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "J Blakeson"
+        },
+        {
+            "name": "Genre",
+            "value": "Sciences fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Chloë Grace Moretz, Nick Robinson, Alex Roe, Liev Schreiber, Ron Livingston, Maggie Siff, Maria Bello, Maika Monroe"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/04/2022"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Quatre vagues d’attaques, chacune plus mortelle que la précédente, ont décimé la presque totalité de la Terre. Terrifiée, se méfiant de tout, Cassie est en fuite et tente désespérément de sauver son jeune frère. Alors qu’elle se prépare à affronter la cinquième vague, aussi inévitable que fatale, elle va faire équipe avec un jeune homme qui pourrait bien représenter son dernier espoir – si toutefois elle peut lui faire confiance… "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299300610"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/04/2022 16:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/04/2022 16:37"
+        }
+    ],
+    "main_title": "La 5ème vague",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/1867_video/thumbnail_big",
+    "thumbnail_mini": "db/1867_video/thumbnail_small"
+}

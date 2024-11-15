@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Apocalypto"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mel Gibson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "138"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Rudy Youngblood, Dalia Hernández, Jonathan Brewer, Morris Birdyellowhead, Carlos Emilio Báez, Amilcar Ramírez, Israel Contreras, Israel Ríos"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "10/01/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.01 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans les temps turbulents precedant la chute de la legendaire civilisation Maya.Jeune pere porteur de grandes esperances chef de son petit village Patte de Jaguar vit une existence idyllique brusquement perturbee par une violente invasion. Capture et emmene lors d'un perilleux voyage a travers la jungle pour  etre offert en sacrifice aux Dieux de la Cite Maya il decouvre un monde regi par la peur et l'oppression dans lequel une fin dechirante l'attend ineluctablement. Pousse par l'amour qu'il porte a sa femme a sa famille et a son peuple il devra affronter ses plus grandes peurs en une tentative desesperee pour retourner chez lui et tenter de sauver ce qui lui tient le plus a coeur.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8716777936504"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/10/2024 21:43"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/10/2024 21:51"
+        }
+    ],
+    "main_title": "Apocalypto",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2839_video/thumbnail_big",
+    "thumbnail_mini": "db/2839_video/thumbnail_small"
+}

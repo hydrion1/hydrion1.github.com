@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Numento 2 : Livre</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+  <base href="../" target="_self">
+
+  <link rel="stylesheet" href="res/css/common.css?d41d8cd98f00b204e9800998ecf8427e">
+  <link rel="stylesheet" href="res/css/listing.css?d41d8cd98f00b204e9800998ecf8427e">
+
+  <script type="text/javascript" src="res/common.js?21e07f04cc59716438a9049701bf4a7d"></script>
+
+  <script src="res/intuisphere_ft_search.js?21e07f04cc59716438a9049701bf4a7d"></script>
+  <script src="res/numento_gui_search.js?21e07f04cc59716438a9049701bf4a7d"></script>
+
+<script>
+
+
+
+
+
+
+  let filterCurrentInfos = {
+      'nb_items_per_page':20,
+      'list_ids':['1_book','2_book','3_book','4_book','5_book','6_book','7_book','8_book','9_book','10_book','11_book','12_book','13_book','14_book','15_book','16_book','17_book','18_book','19_book','20_book','21_book','22_book','23_book','24_book','25_book','26_book','27_book','28_book','29_book','30_book','31_book','32_book','33_book','34_book','35_book','36_book','37_book','38_book','39_book','40_book','41_book','42_book','43_book','44_book','45_book','46_book','47_book','48_book','49_book','50_book','51_book','52_book','53_book','54_book','55_book','56_book','57_book','58_book','59_book','60_book','61_book','62_book','63_book','64_book','65_book','66_book','67_book','68_book','69_book','70_book','71_book','72_book','73_book','74_book','75_book','76_book','77_book','78_book','79_book','80_book','81_book','82_book','83_book','84_book','85_book','86_book','87_book','88_book','89_book','90_book','91_book','92_book','93_book','94_book','95_book','96_book','97_book','98_book','99_book','100_book','101_book','102_book','103_book','104_book','105_book','106_book','107_book','108_book','109_book','110_book','111_book','112_book','113_book','114_book','115_book','116_book','117_book','118_book','119_book','120_book','121_book','122_book','123_book','124_book','125_book','126_book','127_book','128_book','129_book','130_book','132_book','133_book','134_book','135_book','136_book','137_book','138_book','139_book','140_book','141_book','142_book','143_book','144_book','145_book','146_book','147_book','148_book','149_book','150_book','151_book','152_book','154_book','155_book','156_book','157_book','158_book','159_book','160_book','161_book','162_book','163_book','164_book','165_book','166_book','167_book','168_book','169_book','170_book','171_book','172_book','173_book','174_book','175_book','176_book','177_book','178_book','179_book','180_book','181_book','182_book','183_book','184_book','185_book','186_book','187_book','188_book','189_book','190_book','191_book','192_book','193_book','194_book','195_book','196_book','197_book','198_book','199_book','200_book','201_book','202_book','203_book','204_book','205_book','206_book','207_book','208_book','209_book','210_book','211_book','212_book','213_book','214_book','215_book','216_book','217_book','218_book','219_book','220_book','221_book','222_book','223_book','224_book','225_book','226_book','227_book','228_book','229_book','230_book','231_book','232_book','233_book','234_book','235_book','236_book','237_book','238_book','239_book','240_book','241_book','242_book','243_book','244_book','245_book','246_book','247_book','249_book','250_book','251_book','252_book','253_book','254_book','264_book','266_book','258_book','131_book','248_book','255_book','256_book','257_book','259_book','260_book','153_book','262_book','263_book','265_book','267_book'],
+      'hash_database':'8f823ccbfdb63fa43347f40c3fe84c3f-970a39829df7988271004ccc22ed5c49-v5',
+      'card_url_pattern':'listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/card.html?t=fbc70e409ab9d2e9333c153254018abc&id=',
+      'card_json_pattern':'db/{{key_id}}/inf.json',
+      'range_page':3,
+      'current_listing_url':'listing_5079eae1_9d83_44b9_b30a_fe6ebe9126a6/listing.html',
+      'pattern_url_thumbnail':'db/{{key_id}}/thumbnail_small'
+  };
+
+  let trMessages = {
+      'TR_SEARCH_LABEL':"Recherche en cours",
+      'TR_NO_RESULT_FOUND':"Aucun résultat trouvé"
+  };
+
+
+
+    var nmtMobile = new NumentoMobileManager();
+    nmtMobile.setListingParameters(filterCurrentInfos);
+
+
+
+    var nmt_gui_search = new NumentoGuiFtSearch();
+    nmt_gui_search.setInputSearchSelector("#search_input");
+
+    var engine_search = new IntuisphereFtSearch({
+      'hash_database':"8f823ccbfdb63fa43347f40c3fe84c3f",
+      'hash_js':"21e07f04cc59716438a9049701bf4a7d",
+      'json_index':"../db/nmt_index.json"
+    });
+
+    engine_search.setRestrictionKeys(filterCurrentInfos.list_ids);
+    
+    nmt_gui_search.setEngine(engine_search);
+
+    document.addEventListener("DOMContentLoaded", function() {
+      nmt_gui_search.init();
+
+      nmtMobile.initListing();
+    });
+
+
+    if (location.hostname.length==0)
+    {
+      alert("Ce site fonctionne uniquement en étant publié sur un serveur Web");
+    }
+</script>
+
+</head>
+<body>
+
+<div class="listing_body">
+
+<a class="title" href='index.html'>
+  <div class='title_icon' ><img  style="width:5vw;" src="res/img/logo.svg"></div>
+  <img  style="width:3vw;" class='arrow_back'  src="res/img/arrow_left.svg">
+  <div class='title_label'>Livre</div>
+</a>
+
+  <section class="section_search_input">
+      <input type="search" id="search_input" placeholder="Rechercher">
+  </section>
+
+  <section class="pages">
+      <a class='page_btn'>0</a>
+  </section>
+ <div class='message_item'></div>
+  <div class='content'>
+        <a class="item" href="">
+            <div class="thumbnail"><img class="portrait" src="" /></div>
+            <div class='item_all_labels'>
+              <div class='item_label'>-</div>
+              <div class='item_sub_label'></div>
+            </div>
+            <img  style="width:5vw;" class="arrow_open"  src="res/img/arrow_right.svg">
+        </a>
+
+  </div>
+
+    <section class="pages">
+        <a class='page_btn'>0</a>
+    </section>
+<br>
+</div>
+</body>
+</html>

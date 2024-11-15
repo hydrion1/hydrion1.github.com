@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gunnm"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Fukutomi Hiroshi"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kappei Yamaguchi Kariya Shunsuke Mami Koyama Miki Ito Shigery Chiba"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/05/2001"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ce DVD regroupe en fait les deux premiers episodes  OAVs en manga correct des aventures de Gally jeune cyborg ramenee a la vie par le Dr Ido. Sans aucun souvenir de son existence passee Gally saura cependant venir en aide a son sauveur le moment venu et se decouvrira des ressources insoupconnees. Surtout elle va decouvrir l'amour en compagnie de Yugo. Visuellement tres plaisant Gunnm beneficie d'un scenario classique mais efficace et reprend les themes habituels du genre: un univers deshumanise une violence qui peut surgir a tout instant une qu ete chimerique menant a la mort. De la belle ouvrage assurement dont on regrettera seulement la trop courte duree (une heure environ). --Pierre Boeldieu}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Fox Pathe Europa"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3388334506106"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/12/2017 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2022 20:15"
+        }
+    ],
+    "main_title": "Gunnm",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/1038_video/thumbnail_big",
+    "thumbnail_mini": "db/1038_video/thumbnail_small"
+}

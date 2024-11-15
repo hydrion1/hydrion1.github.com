@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dance Central"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox 360"
+        },
+        {
+            "name": "Genre",
+            "value": "Dancing"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "04/11/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "MTV games"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/09/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "2"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.40 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "885370227352"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Exclusif"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/09/2022 22:32"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/09/2022 22:39"
+        }
+    ],
+    "main_title": "Xbox 360",
+    "sub_title": "Dance Central",
+    "thumbnail_big": "db/1058_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1058_videogame/thumbnail_small"
+}

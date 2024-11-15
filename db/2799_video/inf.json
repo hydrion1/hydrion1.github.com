@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ferrari"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michael Mann"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action, Biopic, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Adam Driver, Penélope Cruz, Shailene Woodley, Giuseppe Festinese, Derek Hill, Leonardo Caimi, Gabriel Leone, Michele Savoia"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2023"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "C'est l'été 1957. Derrière le spectacle de la Formule 1, l'ancien coureur Enzo Ferrari est en crise. La faillite menace l'usine que lui et sa femme, Laura, ont construite à partir de rien dix ans plus tôt. Leur mariage instable a été ébranlé par la perte de leur fils, Dino, un an plus tôt. Ferrari a du mal à reconnaître son fils Piero avec Lina Lardi. Pendant ce temps, la passion de ses pilotes pour la victoire les pousse à la limite alors qu'ils se lancent dans la périlleuse course de 1 000 miles à travers l'Italie, la Mille Miglia."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5430002889580"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/09/2024 14:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/09/2024 14:32"
+        }
+    ],
+    "main_title": "Ferrari",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2799_video/thumbnail_big",
+    "thumbnail_mini": "db/2799_video/thumbnail_small"
+}

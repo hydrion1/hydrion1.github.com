@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Petits mouchoirs"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Guillaume Canet"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "154"
+        },
+        {
+            "name": "Acteurs",
+            "value": "François Cluzet, Marion Cotillard, Benoît Magimel, Gilles Lellouche, Jean Dujardin, Laurent Lafitte, Valérie Bonneton, Pascale Arbillot, Anne Marivin, Louise Monot"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/11/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/04/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.11 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A la suite d'un événement bouleversant, une bande de copains décide, malgré tout, de partir en vacances au bord de la mer comme chaque année. Leur amitié, leurs certitudes, leur culpabilité, leurs amours en seront ébranlées. Ils vont enfin devoir lever les \"petits mouchoirs\" qu'ils ont posés sur leurs secrets et leurs mensonges."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3760062469999"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/04/2024 21:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/04/2024 21:36"
+        }
+    ],
+    "main_title": "Les Petits mouchoirs",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2536_video/thumbnail_big",
+    "thumbnail_mini": "db/2536_video/thumbnail_small"
+}

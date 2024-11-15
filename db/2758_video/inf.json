@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Planète 51"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jorge Blanco"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Javier Abad, Marcos Martínez"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/02/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/09/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.59 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Tout est normal sur la Planète 51. Le ciel est bleu, les habitants sont vert pomme et les Cadillacs volent. Lorsque Chuck, un astronaute aussi futé qu'une huître, y déboule avec sa fusée, les habitants s'enfuient en hurlant.\n\nUne invasion extraterrestre, au secours ! L'armée aux trousses, Chuck se carapate. Lem, un gamin aussi vert que brave, va tenter de sauver cet être étrange des griffes du général Grawl.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442242882"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/09/2024 17:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/09/2024 20:32"
+        }
+    ],
+    "main_title": "Planète 51",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2758_video/thumbnail_big",
+    "thumbnail_mini": "db/2758_video/thumbnail_small"
+}
