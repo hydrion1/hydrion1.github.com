@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "WarioWare: Touched!"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Minigames"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "14/02/2005"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/11/2024"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": "Fran�ais (Unknown)"
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496735180"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Wario Land : The Shake Dimension est un jeu de plates-formes. Dans cet episode Wii. Wario part une fois de plus and la recherche d'un tresor legendaire. le Deldel Purse. Une qu\\'eate qui l'emmene aux confins de la contree imaginaire de Yuretopia. evidemment pleine d'ennemis. Heureusement. Wario dispose d'une palette de mouvements speciaux and effectuer en secouant la Wiimote.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/11/2024 18:22"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/11/2024 18:24"
+        }
+    ],
+    "main_title": "Nintendo DS",
+    "sub_title": "WarioWare: Touched!",
+    "thumbnail_big": "db/1310_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1310_videogame/thumbnail_small"
+}

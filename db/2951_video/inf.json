@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mon Ninja et moi (Ternet Ninja)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thorbjørn Christoffersen"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "81"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Anders Matthesen"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/07/2020"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/12/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.32 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le jeune Alex, élève en classe de 5ème, vit dans une famille recomposée. Pour son anniversaire, il reçoit de la part de son oncle excentrique, de retour de Thaïlande, une poupée Ninja vêtue d’un étrange tissu à carreaux. Alex découvre que le jouet s’anime et qu’il parle !\n\nLe Ninja propose à Alex un pacte secret : il l’aide à devenir plus fort pour affronter ses peurs et ne pas se laisser intimider à la maison comme à l’école. En échange, Alex doit l’aider à accomplir une mystérieuse mission… Cette alliance faite d’amitié, de courage et d’humour transformera pour toujours ces deux improbables compagnons.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428176679"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/12/2024 14:00"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/12/2024 14:05"
+        }
+    ],
+    "main_title": "Mon Ninja et moi (Ternet Ninja)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2951_video/thumbnail_big",
+    "thumbnail_mini": "db/2951_video/thumbnail_small"
+}

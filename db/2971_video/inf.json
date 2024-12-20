@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Amadeus"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Milos Forman"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "180"
+        },
+        {
+            "name": "Acteurs",
+            "value": "F. Murray Abraham, Tom Hulce, Elizabeth Berridge, Simon Callow, Roy Dotrice, Christine Ebersole, Jeffrey Jones, Charles Kay, Kenneth McMillan, Kenny Baker"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/10/1984"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/12/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.06 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A Vienne, en novembre 1823. Au coeur de la nuit, un vieil homme égaré clame cette étonnante confession : \"Pardonne, Mozart, pardonne à ton assassin !\" Ce fantôme, c'est Antonio Salieri, jadis musicien réputé et compositeur officiel de la Cour.\n\nDès l'enfance, il s'était voué tout entier au service de Dieu, s'engageant à le célébrer par sa musique, au prix d'un incessant labeur. Pour prix de ses sacrifices innombrables, il réclamait la gloire éternelle. Son talent, reconnu par l'empereur mélomane Joseph II, valut durant quelques années à Salieri les plus hautes distinctions.\n\nMais, en 1781, un jeune homme arrive à Vienne, précédé d'une flatteuse réputation. Wolfgang Amadeus Mozart est devenu le plus grand compositeur du siècle. Réalisant la menace que représente pour lui ce surdoué arrogant dont il admire le profond génie, Salieri tente de l'évincer.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889006329"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/12/2024 20:12"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/12/2024 20:21"
+        }
+    ],
+    "main_title": "Amadeus",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2971_video/thumbnail_big",
+    "thumbnail_mini": "db/2971_video/thumbnail_small"
+}

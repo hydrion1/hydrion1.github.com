@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Buzz l'Éclair (Lightyear)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Angus MacLane"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Comédie, Famille, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/06/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/12/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.93 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La véritable histoire du légendaire Ranger de l’espace qui, depuis, a inspiré le jouet que nous connaissons tous. Après s’être échoué avec sa commandante et son équipage sur une planète hostile située à 4,2 millions d’années-lumière de la Terre, Buzz l’Eclair tente de ramener tout ce petit monde sain et sauf à la maison. Pour cela, il peut compter sur le soutien d’un groupe de jeunes recrues ambitieuses et sur son adorable chat robot, Sox. Mais l’arrivée du terrible Zurg et de son armée de robots impitoyables ne va pas leur faciliter la tâche, d’autant que ce dernier a un plan bien précis en tête…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418610173"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/12/2024 20:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/12/2024 20:35"
+        }
+    ],
+    "main_title": "Buzz l'Éclair (Lightyear)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2974_video/thumbnail_big",
+    "thumbnail_mini": "db/2974_video/thumbnail_small"
+}

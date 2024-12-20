@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Beowulf - La légende viking"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Sturla Gunnarsson"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gerard Butler, Stellan Skarsgård, Sarah Polley, Ingvar Eggert Sigurdsson, Hringur Ingvarsson, Spencer Wilding"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/11/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Danemark, VIe siècle. Le roi Hrothgar fait appel à Beowulf, un guerrier réputé invincible, pour se débarrasser d'un troll nommé Grendel qui sème la terreur et la mort dans le royaume. Mais Beowulf réalise rapidement que Grendel n'est pas forcément le monstre que l'on croit et que le roi cache une partie de la vérité...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8715664082157"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/11/2024 18:06"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/11/2024 18:07"
+        }
+    ],
+    "main_title": "Beowulf - La légende viking",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2935_video/thumbnail_big",
+    "thumbnail_mini": "db/2935_video/thumbnail_small"
+}
