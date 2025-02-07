@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Chicago"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rob Marshall"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Drame, Comédie musicale"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Renée Zellweger, Catherine Zeta-Jones, Richard Gere"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/02/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/01/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.65 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A Chicago, dans les années vingt, Roxie Hart, une jeune femme qui rêve de monter sur la scène de l'Onyx Club, est accusée du meurtre de son amant indélicat et envoyée en prison. Derrière les barreaux, elle retrouve celle qu'elle admire, Velma Kelly, une chanteuse de jazz condamnée pour avoir tué son mari et sa soeur, pris en flagrant délit d'adultère.\n\nLe très populaire avocat Billy Flynn va brillamment plaider leur cause et attirer l'attention des médias sur ces deux jeunes femmes à la superbe voix. Roxie, dont Billy a fait l'emblème de la naïveté abusée, devient en quelque temps une véritable star à Chicago...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442243490"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/01/2025 21:24"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/01/2025 19:16"
+        }
+    ],
+    "main_title": "Chicago",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3054_video/thumbnail_big",
+    "thumbnail_mini": "db/3054_video/thumbnail_small"
+}

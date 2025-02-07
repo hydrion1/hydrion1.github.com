@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Opération Espadon (Swordfish)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Dominic Sena"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "99"
+        },
+        {
+            "name": "Acteurs",
+            "value": "John Travolta, Hugh Jackman, Halle Berry, Don Cheadle, Sam Shepard"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/09/2001"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/01/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.55 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "9,5 milliards de dollars, c'est la somme d'argent qu'avait mise de côté le gouvernement américain dans les années 80 au cours de l'opération antidrogue dite \"Espadon\". Ses fonds secrets ont été subtilisés par les hauts dirigeants du pays en vue de leur retraite. Gabriel Shear, qui dirige un groupe de mercenaires, est bien décidé à dérober cette somme astronomique. Mais il lui manque dans son équipe un génie du piratage informatique. Récemment sorti de prison, Stanley Jobson recommence sa vie sur de nouvelles bases. Il a commis un faux pas en utilisant à mauvais escient ses connaissances informatiques et n'a maintenant plus le droit d'utiliser d'ordinateur, une conséquence qu'il assume pleinement. Son expérience aura toutefois raison de sa bonne volonté : Gabriel a besoin de ses services pour pénétrer le système informatique hautement protégé de la banque, uniquement accessible de l'intérieur. Pour s'assurer la coopération de Stanley, l'espion richissime et excentrique s'engage à lui verser dix millions de dollars. Le hacker accepte, croyant prêter main forte à un simple braquage, mais la situation devient rapidement explosive."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "7321950828494"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/01/2025 17:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/01/2025 17:50"
+        }
+    ],
+    "main_title": "Opération Espadon (Swordfish)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3034_video/thumbnail_big",
+    "thumbnail_mini": "db/3034_video/thumbnail_small"
+}

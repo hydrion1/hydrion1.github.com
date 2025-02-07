@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": ""
+            "value": "DVD"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "01/08/2024 20:42"
+            "value": "05/02/2025 23:19"
         }
     ],
     "main_title": "Pixels",
-    "sub_title": "",
+    "sub_title": "DVD",
     "thumbnail_big": "db/1678_video/thumbnail_big",
     "thumbnail_mini": "db/1678_video/thumbnail_small"
 }

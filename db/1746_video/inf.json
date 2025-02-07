@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": ""
+            "value": "DVD"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "21/10/2024 22:38"
+            "value": "05/02/2025 23:18"
         }
     ],
     "main_title": "Adventurers (The)",
-    "sub_title": "",
+    "sub_title": "DVD",
     "thumbnail_big": "db/1746_video/thumbnail_big",
     "thumbnail_mini": "db/1746_video/thumbnail_small"
 }

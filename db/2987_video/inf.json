@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Good Morning, Vietnam"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Barry Levinson"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Drame, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robin Williams, Forest Whitaker, Tung Thanh Tran, Chintara Sukapatana, Bruno Kirby"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/09/1988"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/12/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.31 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un nouveau disc jockey est envoyé au Vietnam pour animer la radio des forces armées et distraire les soldats. Son ton frais et irrévérencieux le rend vite populaire aux yeux des militaires."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418392727"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/12/2024 13:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/12/2024 13:12"
+        }
+    ],
+    "main_title": "Good Morning, Vietnam",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2987_video/thumbnail_big",
+    "thumbnail_mini": "db/2987_video/thumbnail_small"
+}

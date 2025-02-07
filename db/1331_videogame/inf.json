@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Quantum redshift (ss manuel)"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox"
+        },
+        {
+            "name": "Genre",
+            "value": "Courses"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "16/09/2002"
+        },
+        {
+            "name": "Editeur",
+            "value": "Microsoft Game Studios"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/01/2025"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "4"
+        },
+        {
+            "name": "Etat",
+            "value": "Médiocre"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "805529137103"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "BROTHERS IN ARMS EARNED IN BLOOD [JEU PC]}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/01/2025 18:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/01/2025 18:34"
+        }
+    ],
+    "main_title": "Xbox",
+    "sub_title": "Quantum redshift (ss manuel)",
+    "thumbnail_big": "db/1331_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1331_videogame/thumbnail_small"
+}

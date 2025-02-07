@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": ""
+            "value": "DVD"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "05/02/2025 23:20"
         }
     ],
     "main_title": "Once Upon a Time (Il était une fois) - L'intégrale de la saison 5",
-    "sub_title": "",
+    "sub_title": "DVD",
     "thumbnail_big": "db/1675_video/thumbnail_big",
     "thumbnail_mini": "db/1675_video/thumbnail_small"
 }

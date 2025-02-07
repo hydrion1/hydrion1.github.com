@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Thor"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kenneth Branagh"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "115"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Alan Taylor, Chris Hemsworth, Natalie Portman, Tom Hiddleston, Anthony Hopkins, Stellan Skarsgård, Kat Dennings, Idris Elba, Rene Russo, Christopher Eccleston, Jaimie Alexander, Alice Krige"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/04/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/01/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.33 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Au royaume d'Asgard Thor est un guerrier aussi puissant qu'arrogant dont les actes temeraires declenchent une guerre ancestrale. Banni et envoye sur Terre par son pere Odin il est condamne a vivre parmi les humains. Mais lorsque les forces du mal de son royaume s'appetent a se dechainer sur la Terre Thor va apprendre a se comporter en veritable heros..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418533564"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "06/01/2025 23:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/01/2025 23:20"
+        }
+    ],
+    "main_title": "Thor",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3004_video/thumbnail_big",
+    "thumbnail_mini": "db/3004_video/thumbnail_small"
+}

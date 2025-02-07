@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ralph 2.0 (Ralph Breaks the Internet)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rich Moore"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Phil Johnston"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/02/2019"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/01/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ralph quitte l’univers des jeux d’arcade pour s’aventurer dans le monde sans limite d’Internet. La Toile va-t-elle résister à son légendaire talent de démolisseur ? Ralph et son amie Vanellope von Schweetz vont prendre tous les risques en s’aventurant dans l’étrange univers d’Internet à la recherche d’une pièce de rechange pour réparer la borne de Sugar Rush, le jeu vidéo dans lequel vit Vanellope. Rapidement dépassés par le monde qui les entoure, ils vont devoir demander de l’aide aux habitants d’Internet, les Netizens, afin de trouver leur chemin, et notamment à Yesss, l’algorithme principal, le cœur et l’âme du site créateur de tendances BuzzzTube…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418510633"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/01/2025 17:34"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/01/2025 17:49"
+        }
+    ],
+    "main_title": "Ralph 2.0 (Ralph Breaks the Internet)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3021_video/thumbnail_big",
+    "thumbnail_mini": "db/3021_video/thumbnail_small"
+}

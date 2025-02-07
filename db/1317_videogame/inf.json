@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Souldiers"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux de plateforme"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "02/06/2022"
+        },
+        {
+            "name": "Editeur",
+            "value": "Pix'n love"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/12/2024"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3770017623383"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/12/2024 20:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/12/2024 20:30"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Souldiers",
+    "thumbnail_big": "db/1317_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1317_videogame/thumbnail_small"
+}

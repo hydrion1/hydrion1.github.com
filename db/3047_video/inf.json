@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Blue Exorcist : Le Film"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Atsushi Takahashi"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "88"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/01/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "1"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.86 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "C'est l'effervescence à l'Académie de la Croix‐Vraie: un festival, qui n'a lieu que tous les 11 ans, va bientôt débuter ! Pour que la fête soit réussie et qu'aucun démon ne puisse venir la gâcher, tous les Exorcistes sont sur le pied de guerre. Au cours de l’exorcisme d’un train fantôme, Rin va faire la rencontre inattendue d’un petit démon nommé Usamaro.\n\nTouché par la solitude de ce dernier, Rin décide de le prendre sous son aile en dépit des mises en garde de son frère Yukio. Mais Usamaro est‐il un réel danger pour l’humanité ?\n\nLes élèves de l’Académie de la Croix­‐Vraie ne vont pas tarder à le découvrir…\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/01/2025 16:09"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/01/2025 16:11"
+        }
+    ],
+    "main_title": "Blue Exorcist : Le Film",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3047_video/thumbnail_big",
+    "thumbnail_mini": "db/3047_video/thumbnail_small"
+}

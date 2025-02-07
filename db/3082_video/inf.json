@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Iwo Jima"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Allan Dwan"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Drame, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "John Wayne, John Agar, Adele Mara, Forrest Tucker, Wally Cassell, James Brown, Richard Webb, Arthur Franz, Julie Bishop"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1949"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/01/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.40 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le sergent John Stryker entraîne durement ses marines avant le départ pour la Guerre du Pacifique. Mais lorsque la bataille d'Iwo Jima s'engage, ses hommes comprennent le sens de son apprentissage."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3760233154785"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/02/2025 18:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/02/2025 18:47"
+        }
+    ],
+    "main_title": "Iwo Jima",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3082_video/thumbnail_big",
+    "thumbnail_mini": "db/3082_video/thumbnail_small"
+}

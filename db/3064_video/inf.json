@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Benny & Joon"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jeremiah S. Chechik"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "98"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Johnny Depp, Mary Stuart Masterson, Aidan Quinn, Julianne Moore, Oliver Platt, CCH Pounder, Dan Hedaya, Joe Grifasi, William H. Macy"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/08/1993"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Depuis la mort accidentelle de leurs parents, Benny s'occupe de sa soeur Joon, fragile et asociale, sujette à des accès de rage et de violence qui font fuir leur entourage. L'arrivée de Sam, jeune illettré presque muet qui a adopté les manières et le costume de Buster Keaton, va bouleverser la vie du frère et de la soeur."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "37602333155904"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/02/2025 13:06"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/02/2025 19:10"
+        }
+    ],
+    "main_title": "Benny & Joon",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3064_video/thumbnail_big",
+    "thumbnail_mini": "db/3064_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Stargate, la porte des étoiles"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Roland Emmerich"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kurt Russell James Spader Jaye Davidson Viveca Lindfors Alexis Cruz"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/02/1995"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1994 Daniel Jackson jeune egyptologue de genie resout enfin l'enigme du gigantesque anneau de pierre et d'acier decouvert en 1928 sur le site de la grande pyramide de Gizeh. Un nouveau monde s'ouvre alors...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "StudioCanal"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "5050582565508"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/02/2025 20:01"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/02/2025 20:10"
+        }
+    ],
+    "main_title": "Stargate, la porte des étoiles",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3077_video/thumbnail_big",
+    "thumbnail_mini": "db/3077_video/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Phantasy Star Online Episode I & II"
+        },
+        {
+            "name": "Console",
+            "value": "GameCube"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "29/10/2002"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sega"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/12/2024"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "4"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "null"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3546430101537"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Neuf version française, envoi rapide avec soins. Satisfait ou remboursé! EAN : 5060138434288"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Cadeaux de Laurence - Nath"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/12/2024 01:09"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/12/2024 01:11"
+        }
+    ],
+    "main_title": "GameCube",
+    "sub_title": "Phantasy Star Online Episode I & II",
+    "thumbnail_big": "db/1323_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1323_videogame/thumbnail_small"
+}

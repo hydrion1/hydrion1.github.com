@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Coco avant Chanel"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Anne Fontaine"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Audrey Tautou, Benoît Poelvoorde, Alessandro Nivola, Marie Gillain, Emmanuelle Devos, Régis Royer"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/04/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/01/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.45 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\n\nUne petite fille du centre de la France, placée dans un orphelinat avec sa soeur, et qui attend en vain tous les dimanches que son père vienne les chercher.\n\nUne chanteuse de beuglant à la voix trop faible, qui affronte un public de soldats éméchés.\nUne petite couturière destinée à refaire des ourlets dans l'arrière-boutique d'un tailleur de province.\nUne apprentie-courtisane au corps trop maigre, qui trouve refuge chez son protecteur Etienne Balsan, parmi les cocottes et les fêtards.\nUne amoureuse qui sait qu'elle ne sera \" la femme de personne \", pas même celle de Boy Capel, l'homme qui pourtant l'aimait aussi.\nUne rebelle que les conventions de l'époque empêchent de respirer, et qui s'habille avec les chemises de ses amants.\nC'est l'histoire de Coco Chanel, qui incarna la femme moderne avant de l'inventer.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889007951"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/01/2025 17:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/01/2025 17:50"
+        }
+    ],
+    "main_title": "Coco avant Chanel",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3036_video/thumbnail_big",
+    "thumbnail_mini": "db/3036_video/thumbnail_small"
+}

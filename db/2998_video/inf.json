@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Out of Africa"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Sydney Pollack"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "161"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robert Redford, Meryl Streep, Klaus Maria Brandauer, Michael Kitchen, Joseph Thiaka"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/03/1986"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "30/12/2024"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après une déception amoureuse, la jeune Danoise Karen décide de se marier et de s'embarquer pour l'Afrique. Vite délaissée par un mari volage, elle se consacre à la culture des caféiers et fait figure de pionnière. Son amitié pour l'aventurier Denys se transformera en amour mais elle ne saura pas retenir cet homme épris de liberté."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582767445"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/01/2025 19:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/01/2025 19:48"
+        }
+    ],
+    "main_title": "Out of Africa",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/2998_video/thumbnail_big",
+    "thumbnail_mini": "db/2998_video/thumbnail_small"
+}

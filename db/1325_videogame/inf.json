@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Wars: Knights of the Old Republic (ss manuel)"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "18/11/2003"
+        },
+        {
+            "name": "Editeur",
+            "value": "LucasArts"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/01/2025"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Médiocre"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.80 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "0023272997168"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/01/2025 18:10"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/01/2025 18:34"
+        }
+    ],
+    "main_title": "Xbox",
+    "sub_title": "Star Wars: Knights of the Old Republic (ss manuel)",
+    "thumbnail_big": "db/1325_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1325_videogame/thumbnail_small"
+}

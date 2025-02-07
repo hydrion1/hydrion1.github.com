@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Prince of Persia: The Lost Crown"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "18/01/2024"
+        },
+        {
+            "name": "Editeur",
+            "value": "Ubisoft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/12/2024"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "16 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3307216272700"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Prince of Persia a droit à sa trilogie sur PS3 remasterisée en Haute Définition et compatible avec la 3D stéréoscopique... Considérée comme une des séries les plus innovantes et influentes de la décennie, c'est le moment idéal pour découvrir l'une des plus grandes réussites d'Ubisoft Montréal. Jeu et Manuel en Francais"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Cadeau de Mel"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "25/12/2024 22:15"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/12/2024 22:17"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Prince of Persia: The Lost Crown",
+    "thumbnail_big": "db/1318_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1318_videogame/thumbnail_small"
+}

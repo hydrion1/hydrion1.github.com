@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "de l'Autre côté du prériph"
+            "value": "de l'Autre côté du périph"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "07/10/2023 06:54"
+            "value": "06/01/2025 23:21"
         }
     ],
-    "main_title": "de l'Autre côté du prériph",
+    "main_title": "de l'Autre côté du périph",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1941_video/thumbnail_big",
     "thumbnail_mini": "db/1941_video/thumbnail_small"

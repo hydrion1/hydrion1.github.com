@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pas si simple"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Nancy Meyers"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Meryl Streep, Steve Martin, Alec Baldwin, John Krasinski, Lake Bell, Mary Kay Place"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/12/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Jane a divorcé de Jake, et Jake s'est remarié avec une femme plus jeune. Quand Jane commence à sympathiser avec Adam, un architecte qui travaille avec elle, et que Jake se met à regretter son remariage, les choses se compliquent..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582761573"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/02/2025 21:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/02/2025 21:21"
+        }
+    ],
+    "main_title": "Pas si simple",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3083_video/thumbnail_big",
+    "thumbnail_mini": "db/3083_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Not Forgotten"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Dror Soref"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "88"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Simon Baker, Paz Vega, Michael DeLorenzo, Chloë Grace Moretz, Claire Forlani, Daniel Escobar, Tomas Sanchez"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Jack Bishop vit heureux avec sa femme et sa fille adorée dans une petite ville tranquille du Texas. Mais lorsque cette dernière est mystérieusement kidnappée, Jack comprend que son sombre passé le rattrape. Face à l’inefficacité du FBI, il devra s’associer au culte de la Santa Muerte afin de se donner les moyens de retrouver sa fille. Sa recherche désespérée l’entraînera au Mexique dans un tourbillon de rebondissements. Au final, il devra combattre ses propres démons s’il veut serrer dans ses bras celle qu’il aime le plus au monde."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5415000101513"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/02/2025 21:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/02/2025 21:25"
+        }
+    ],
+    "main_title": "Not Forgotten",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3084_video/thumbnail_big",
+    "thumbnail_mini": "db/3084_video/thumbnail_small"
+}

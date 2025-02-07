@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Inspecteur Harry"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Don Siegel"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Clint Eastwood, Harry Guardino, Reni Santoni, John Vernon, Andrew Robinson, John Larch, John Mitchum, Mae Mercer"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/02/1972"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Si la police de San Francisco ne remet pas immédiatement 200 000 dollars à un homme qui vient de commettre un crime, il recommencera au rythme d'un assassinat par jour. L'inspecteur Harry Callahan est sur ses talons."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "7321910115244"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/02/2025 12:38"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/02/2025 12:39"
+        }
+    ],
+    "main_title": "L'Inspecteur Harry",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3070_video/thumbnail_big",
+    "thumbnail_mini": "db/3070_video/thumbnail_small"
+}

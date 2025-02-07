@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": ""
+            "value": "DVD"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "11/08/2023 17:39"
+            "value": "05/02/2025 23:20"
         }
     ],
     "main_title": "Alita : Battle Angel",
-    "sub_title": "",
+    "sub_title": "DVD",
     "thumbnail_big": "db/1696_video/thumbnail_big",
     "thumbnail_mini": "db/1696_video/thumbnail_small"
 }

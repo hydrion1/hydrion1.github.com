@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Jackie Brown"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Quentin Tarantino"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "150"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Pam Grier, Samuel L. Jackson, Robert Forster, Bridget Fonda, Michael Keaton, Robert De Niro, Michael Bowen, Chris Tucker"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/04/1998"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/01/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.55 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Jackie Brown, hôtesse de l'air, arrondit ses fins de mois en convoyant de l'argent liquide pour le compte d'un trafiquant d'armes, Ordell Robbie. Un jour, un agent federal et un policier de Los Angeles la cueillent à l'aéroport. Ils comptent sur elle pour faire tomber le trafiquant. Jackie échafaude alors un plan audacieux pour doubler tout le monde lors d'un prochain transfert qui porte sur la modeste somme de cinq cent mille dollars. Mais il lui faudra compter avec les complices d'Ordell, qui ont des méthodes plutôt expéditives."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8713045236328"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "06/01/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/01/2025 23:20"
+        }
+    ],
+    "main_title": "Jackie Brown",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3008_video/thumbnail_big",
+    "thumbnail_mini": "db/3008_video/thumbnail_small"
+}
