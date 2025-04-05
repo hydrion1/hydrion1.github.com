@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Apocalypse - Hitler"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Isabelle Clarke"
+        },
+        {
+            "name": "Genre",
+            "value": "Documentaire, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "108"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Daniel Costelle"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L’ascension inouïe d’un petit peintre autrichien raté et marginal devenu le maître de l’Allemagne, et l’un des plus grands criminels de l’Histoire. Ce documentaire est l’histoire de la mort d’une démocratie et du chemin vers l’Apocalypse. Peu de films ont fait ce récit."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299855271"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2025 19:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/02/2025 20:23"
+        }
+    ],
+    "main_title": "Apocalypse - Hitler",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3101_video/thumbnail_big",
+    "thumbnail_mini": "db/3101_video/thumbnail_small"
+}

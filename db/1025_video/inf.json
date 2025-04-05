@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Big Eyes [Blu-ray]"
+            "value": "Big Eyes"
         },
         {
             "name": "Réalisateur(s)",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "18/03/2025 11:13"
         }
     ],
-    "main_title": "Big Eyes [Blu-ray]",
-    "sub_title": "DVD",
+    "main_title": "Big Eyes",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1025_video/thumbnail_big",
     "thumbnail_mini": "db/1025_video/thumbnail_small"
 }

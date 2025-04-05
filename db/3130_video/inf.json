@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Opération Corned Beef"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jean-Marie Poiré"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Christian Clavier, Jean Reno, Valérie Lemercier, Isabelle Renauld, Jacques François, Mireille Rufel, Marc de Jonge, Jacques Dacqmine"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/02/1991"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.45 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pour Squale, agent secret, as de la DGSE, il s'agit de démanteler un réseau international de trafic d'armes et de démasquer un traître au plus haut niveau de l'État français. Pour arriver à ses fins il va manipuler un honnête citoyen, Jean-Jacques Granianski, psychologue d'entreprise, Français moyen type qui va résister au super-agent secret de façon inattendue."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483280485"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/02/2025 10:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/02/2025 10:22"
+        }
+    ],
+    "main_title": "L'Opération Corned Beef",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3130_video/thumbnail_big",
+    "thumbnail_mini": "db/3130_video/thumbnail_small"
+}

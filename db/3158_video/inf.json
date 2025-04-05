@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Lilo & Stitch"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Dean DeBlois"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Comédie, Famille, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "85"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Chris Sanders"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/06/2002"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A l'autre bout de l'univers, un savant quelque peu dérangé a donné naissance à Stitch, la créature la plus intelligente et la plus destructrice qui ait jamais existé. Conscientes de son exceptionnel potentiel dévastateur, les autorités de sa planète s'apprêtent à l'arrêter, mais le petit monstre prend la poudre d'escampette à bord de son vaisseau spatial.\n\nStitch échoue sur Terre, en plein Pacifique, sur l'île d'Hawaii. Le petit alien est bientôt recueilli par Lilo, une adorable fillette de six ans qui le prend pour un chien abandonné. Celle-ci, élevée par sa grande soeur depuis la disparition de ses parents, croit enfin avoir trouvé le compagnon de jeu et l'ami qu'elle espérait. Stitch tente de dissimuler sa véritable nature, mais ceux de son monde sont déjà sur ses traces, prêts à tout pour l'éliminer.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418419837"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "06/03/2025 21:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/03/2025 10:19"
+        }
+    ],
+    "main_title": "Lilo & Stitch",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3158_video/thumbnail_big",
+    "thumbnail_mini": "db/3158_video/thumbnail_small"
+}

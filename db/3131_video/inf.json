@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Man on Fire"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tony Scott"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "146"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Denzel Washington, Dakota Fanning, Marc Anthony, Radha Mitchell, Christopher Walken, Giancarlo Giannini, Rachel Ticotin, Jesús Ochoa, Mickey Rourke"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le Mexique est en proie à une vague d'enlèvements sans précédent. Face au danger, certaines familles aisées engagent des gardes du corps pour assurer la protection rapprochée de leurs enfants.\n\nC'est dans ce contexte lourd de menaces que débarque à Mexico l'ancien agent de la CIA John Creasy. Appelé par son vieil ami Rayburn, ce dernier se voit proposer un job inattendu : bodyguard de la petite Pita Ramos, fille de l'industriel Samuel Ramos.\n\nLa fillette, précoce, pleine de curiosité et de vitalité, insupporte John par ses questions personnelles. Pourtant, au fil des jours, Pita parvient à percer ses défenses. Après bien des années, celui-ci retrouve le goût de vivre.\n\nC'est alors que Pita est kidnappée. Bien que grièvement blessé, Creasy se lance à la poursuite des ravisseurs. Inflexible, il remonte la piste, se jurant de retrouver sa protégée.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626041177"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/02/2025 10:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/02/2025 10:22"
+        }
+    ],
+    "main_title": "Man on Fire",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3131_video/thumbnail_big",
+    "thumbnail_mini": "db/3131_video/thumbnail_small"
+}

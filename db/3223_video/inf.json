@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Cloverfield"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Matt Reeves"
+        },
+        {
+            "name": "Genre",
+            "value": "Epouvante-horreur, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "81"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Michael Stahl-David, Lizzy Caplan, Jessica Lucas, T.J. Miller, Mike Vogel, Odette Yustman, Anjul Nigam, Margot Farley"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/02/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": ""
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "New York - Une quarantaine de ses amis et relations ont organisé chez Rob une fête en l'honneur de son départ pour le Japon. Parmi eux, Hub, vidéaste d'un soir, chargé d'immortaliser l'événement. La \"party\" bat son plein lorsqu'une violente secousse ébranle soudain l'immeuble. Les invités se précipitent dans la rue où une foule inquiète s'est rassemblée en quelques instants. Une ombre immense se profile dans le ciel, un grondement sourd se fait entendre... et la tête de la Statue de la Liberté s'effondre brutalement sur la chaussée. L'attaque du siècle vient de commencer. Au petit matin, Manhattan ne sera plus qu'un champ de ruines..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "097361328546"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/04/2025 19:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/04/2025 19:49"
+        }
+    ],
+    "main_title": "Cloverfield",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3223_video/thumbnail_big",
+    "thumbnail_mini": "db/3223_video/thumbnail_small"
+}

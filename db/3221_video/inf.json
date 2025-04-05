@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "My Little Pony : Le Film"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jayson Thiessen"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "99"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/10/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.92 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Quand le menaçant Storm King envahit Canterlot avec le plan de voler la magie aux poneys, le futur même d’Equestria est en danger. Cette aventure inédite embarque les poneys à chercher du secours dans un voyage héroïque et plein d’actions, au-delà des frontières de leurs foyers, à travers les montagnes magiques, les mondes sous-marins, et même dans un flamboyant bateau pirate volant."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512392615115"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/04/2025 19:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/04/2025 19:45"
+        }
+    ],
+    "main_title": "My Little Pony : Le Film",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3221_video/thumbnail_big",
+    "thumbnail_mini": "db/3221_video/thumbnail_small"
+}

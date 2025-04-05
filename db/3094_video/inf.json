@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Un balcon sur la mer"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Nicole Garcia"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Dujardin, Marie-Josée Croze, Toni Servillo, Sandrine Kiberlain, Michel Aumont, Claudia Cardinale, Pauline Bélier, Jacques Valles"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/12/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans le sud de la France, Marc, marié et père de famille, mène une vie confortable d'agent immobilier. Au hasard d'une vente, il rencontre une femme au charme envoûtant dont le visage lui est familier. Il pense reconnaître Cathy, l'amour de ses 12 ans dans une Algérie violente, à la fin de la guerre d'indépendance. Après une nuit d'amour, la jeune femme disparaît. Au fil des jours un doute s'empare de Marc : qui est vraiment celle qui prétend s'appeler Cathy ? Une enquête commence."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5420051904969"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2025 19:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/02/2025 20:14"
+        }
+    ],
+    "main_title": "Un balcon sur la mer",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3094_video/thumbnail_big",
+    "thumbnail_mini": "db/3094_video/thumbnail_small"
+}

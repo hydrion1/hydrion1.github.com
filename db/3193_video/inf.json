@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hors-la-loi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rachid Bouchareb"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Historique, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "138"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jamel Debbouze, Roschdy Zem, Sami Bouajila, Chafia Boudraa, Bernard Blancan, Sabrina Seyvecou"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/09/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.75 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Chassés de leur terre algérienne, trois frères et leur mère sont séparés. Messaoud s’engage en Indochine. A Paris, Abdelkader prend la tête du mouvement pour l’Indépendance de l’Algérie et Saïd fait fortune dans les bouges et les clubs de boxe de Pigalle. Leur destin, scellé autour de l’amour d’une mère, se mêlera inexorablement à celui d’une nation en lutte pour sa liberté..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582810813"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/03/2025 11:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/03/2025 11:59"
+        }
+    ],
+    "main_title": "Hors-la-loi",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3193_video/thumbnail_big",
+    "thumbnail_mini": "db/3193_video/thumbnail_small"
+}

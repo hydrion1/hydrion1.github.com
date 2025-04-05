@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "05/07/2023 22:41"
+            "value": "18/03/2025 11:18"
         }
     ],
     "main_title": "Full Metal Jacket (4k)",
-    "sub_title": "DVD",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2075_video/thumbnail_big",
     "thumbnail_mini": "db/2075_video/thumbnail_small"
 }

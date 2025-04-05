@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Flag"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ryôsuke Takahashi"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kazuo Terada"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Depuis de nombreuses années, une guerre civile frappe l'Uddiyana, un petit pays du Moyen-Orient. Alors que les forces armées internationales sont incapables de rétablir la paix, une photo représentant les civils soulevant le drapeau des Nation-Unies va apaiser les tensions. Après le vol de ce symbole de paix, une force spéciale de l'O.N.U est chargée de le retrouver. Accompagné par la journaliste auteur du cliché, une course contre la montre s'engage pour rapporter le dernier espoir de paix dans un pays ravagé par les clivages ethniques et religieux..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001026590"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/03/2025 23:12"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/03/2025 23:13"
+        }
+    ],
+    "main_title": "Flag",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3173_video/thumbnail_big",
+    "thumbnail_mini": "db/3173_video/thumbnail_small"
+}

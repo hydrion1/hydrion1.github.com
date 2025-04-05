@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Licensed by royalti"
+            "value": "Licensed by royalty"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "09/03/2025 21:20"
         }
     ],
-    "main_title": "Licensed by royalti",
+    "main_title": "Licensed by royalty",
     "sub_title": "DVD",
     "thumbnail_big": "db/1394_video/thumbnail_big",
     "thumbnail_mini": "db/1394_video/thumbnail_small"

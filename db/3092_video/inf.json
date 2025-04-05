@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Frère des ours 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ben Gluck"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "74"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Alors qu'il était encore un petit garçon, Kenai avait scellé son amitié avec la jeune Nita en lui offrant un médaillon. Les années ont passé, et la fillette est maintenant en âge de prendre un époux. Mais, selon une légende ancestrale, le cadeau de Kenai, devenu un ours, lui interdit le mariage. Pour briser le sortilège qui le lie à Kenai, Nita part à la recherche de son ami d'enfance pour lui rendre ce médaillon bien encombrant."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Disney - PIXAR"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418389772"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2025 19:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/03/2025 20:18"
+        }
+    ],
+    "main_title": "Frère des ours 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3092_video/thumbnail_big",
+    "thumbnail_mini": "db/3092_video/thumbnail_small"
+}

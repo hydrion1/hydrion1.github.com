@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Secrets de mon père"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Véra Belmont"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "74"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/09/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.37 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "15.11 €"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans les années 60, en Belgique, Michel et son frère Charly vivent une enfance heureuse dans leur famille juive. Leur père, taiseux et discret, ne livre rien de son passé. Les deux frères l’imaginent en grand aventurier, pirate ou chercheur de trésors… Mais que cache-t-il ?\n\nAdaptation de la bande dessinée Deuxième génération de Michel Kichka (éditions Dargaud).\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889703778"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/03/2025 19:51"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/03/2025 20:09"
+        }
+    ],
+    "main_title": "Les Secrets de mon père",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3152_video/thumbnail_big",
+    "thumbnail_mini": "db/3152_video/thumbnail_small"
+}

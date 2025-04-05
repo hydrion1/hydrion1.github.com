@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Brave Story"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kôichi Chigira"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/02/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.09 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Wataru, jeune écolier de 11 ans, ne rêve que d'une vie tranquille entouré de ses parents. Mais la réalité est toute autre : son père quitte la famille, laissant sa mère dans un état de choc tel qu'elle finit à l'hôpital. Wataru voit le monde s'écrouler autour de lui. Sa rencontre avec Mitsuru, le nouveau de sa classe, va tout changer. Il lui montre le chemin d'un monde magique où les souhaits deviennent réalité pour ceux qui le méritent.\n\nEn franchissant la porte qui mène à Vision, Wataru va enfin pouvoir changer son destin ! Il embarque alors dans une aventure fantastique, entouré de dragons, de chevaliers, de sorciers et de bien étranges créatures. Armé d'une épée magique, il part à la recherche des joyaux qui lui permettront de trouver la Déesse de la Destinée, ultime étape de sa quête initiatique, et qui pourra peut-être sauver sa mère et sa famille...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700091013305"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/04/2025 19:01"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/04/2025 19:43"
+        }
+    ],
+    "main_title": "Brave Story",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3215_video/thumbnail_big",
+    "thumbnail_mini": "db/3215_video/thumbnail_small"
+}

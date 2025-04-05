@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Möbius"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Eric Rochant"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "108"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Dujardin, Cécile de France, Tim Roth, Émilie Dequenne, John Lynch, Maksim Vitorgan, Brad Leland"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/02/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Grégory Lioubov, un officier des services secrets russes est envoyé à Monaco afin de surveiller les agissements d’un puissant homme d’affaires. Dans le cadre de cette mission, son équipe recrute Alice, une surdouée de la finance. Soupçonnant sa trahison, Grégory va rompre la règle d’or et entrer en contact avec Alice, son agent infiltré. Naît entre eux une passion impossible qui va inexorablement précipiter leur chute."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700724900903"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/03/2025 14:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/03/2025 14:22"
+        }
+    ],
+    "main_title": "Möbius",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3142_video/thumbnail_big",
+    "thumbnail_mini": "db/3142_video/thumbnail_small"
+}

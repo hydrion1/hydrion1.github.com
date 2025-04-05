@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Roi des ronces"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kazuyoshi Katayama"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "109"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "2012 : Un virus terrifiant nommé Medousa ravage l’humanité. Taux de survie une fois infecté : 0%. Le gouvernement mondial décide de cryogéniser une centaine d’individus dans l’espoir qu’un remède soit découvert dans le futur. À leur réveil, seules sept personnes ont survécu et le complexe scientifique s’est transformé en prison macabre envahie par des ronces acérées et peuplée de créatures sanguinaires. Au fur et à mesure que la peur grandit, les conflits personnels et les luttes de pouvoir s'amplifient. Les rescapés vont pourtant devoir s'associer pour échapper aux monstres et au virus Medousa. Commence alors une fuite effrénée pour la survie. Mais combien d’entre eux mourront avant d’atteindre le monde extérieur et qu'y trouveront-ils ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700091022666"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/02/2025 19:44"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/02/2025 19:46"
+        }
+    ],
+    "main_title": "Le Roi des ronces",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3116_video/thumbnail_big",
+    "thumbnail_mini": "db/3116_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Grace de Monaco"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Olivier Dahan"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Nicole Kidman, Milo Ventimiglia, Tim Roth, Parker Posey, Paz Vega, Frank Langella, Derek Jacobi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/05/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lorsqu'elle épouse le Prince Rainier en 1956, Grace Kelly est alors une immense star de cinéma, promise à une carrière extraordinaire. Six ans plus tard, alors que son couple rencontre de sérieuses difficultés, Alfred Hitchcock lui propose de revenir à Hollywood, pour incarner Marnie dans son prochain film. Mais c'est aussi le moment ou la France menace d'annexer Monaco, ce petit pays dont elle est maintenant la Princesse. Grace est déchirée. Il lui faudra choisir entre la flamme artistique qui la consume encore ou devenir définitivement : Son Altesse Sérénissime, la Princesse Grace de Monaco. "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8713045243432"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2025 19:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/02/2025 20:16"
+        }
+    ],
+    "main_title": "Grace de Monaco",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3096_video/thumbnail_big",
+    "thumbnail_mini": "db/3096_video/thumbnail_small"
+}

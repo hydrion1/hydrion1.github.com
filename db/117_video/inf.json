@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "18/03/2025 11:06"
         }
     ],
     "main_title": "Battle Force - Unite speciale [Blu-ray]",
-    "sub_title": "DVD",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/117_video/thumbnail_big",
     "thumbnail_mini": "db/117_video/thumbnail_small"
 }

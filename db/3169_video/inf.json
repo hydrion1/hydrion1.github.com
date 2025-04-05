@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Étrange pouvoir de Norman"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Chris Butler"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "87"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sam Fell"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/08/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.13 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Norman est un petit garçon qui a la capacité de parler aux morts. Celui-ci va devoir sauver sa ville d'une invasion de zombies."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582922776"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/03/2025 22:42"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/03/2025 22:45"
+        }
+    ],
+    "main_title": "L'Étrange pouvoir de Norman",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3169_video/thumbnail_big",
+    "thumbnail_mini": "db/3169_video/thumbnail_small"
+}

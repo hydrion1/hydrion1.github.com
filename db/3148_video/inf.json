@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Grimoire of zero"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": " Yamakawa, Yoshiki"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "12"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "5"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "An 526. Les humains ont désormais conscience que la magie existe et que certaines personnes la pratiquent, mais ils ignorent comment elles procèdent. Un jeune mercenaire mi-humain, mi-bête croise un jour la route d'une talentueuse sorcière prénommée Zero. Cette dernière lui promet de réaliser son rêve - redevenir humain - à la condition qu'il l'aide à retrouver un puissant grimoire dont elle avait la garde et qui lui a été dérobé."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3760255440828"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/03/2025 14:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/03/2025 14:33"
+        }
+    ],
+    "main_title": "Grimoire of zero",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3148_video/thumbnail_big",
+    "thumbnail_mini": "db/3148_video/thumbnail_small"
+}

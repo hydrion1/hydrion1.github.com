@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Entretien avec un vampire (Interview with the Vampire)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Neil Jordan"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Fantastique, Epouvante-horreur"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Cruise, Brad Pitt, Antonio Banderas, Stephen Rea, Christian Slater, Kirsten Dunst, Thandiwe Newton, Laure Marsac, Domiziana Giordano"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/12/1994"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.34 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "San Francisco dans les années 90. Un jeune journaliste, Malloy, s'entretient dans une chambre avec un homme élégant, à l'allure aristocratique et au visage blafard, Louis, qui lui fait de bien étranges confidences. Malloy, subjugué par la séduction de son interlocuteur lui demande, à l'aube, de le faire pénétrer dans son monde, celui des vampires."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "7321910210857"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "17/02/2025 18:15"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/02/2025 18:35"
+        }
+    ],
+    "main_title": "Entretien avec un vampire (Interview with the Vampire)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3118_video/thumbnail_big",
+    "thumbnail_mini": "db/3118_video/thumbnail_small"
+}

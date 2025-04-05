@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Umberto D."
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Vittorio De Sica"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "89"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Carlo Battisti, Maria-Pia Casilio, Lina Gennari, Ileana Simova, Elena Rea, Memmo Carotenuto"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "10/10/1952"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.14 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Fonctionnaire à la retraite, Umberto ne parvient plus à subvenir à ses besoins. N’ayant pour seul refuge qu’une pension en piteux état, le vieil homme occupe ses journées à trouver de quoi manger avec pour seul compagnon son chien Flike. Lorsque sa propriétaire menace de l’expulser, Umberto n’a plus qu’à compter sur l’appui de Maria, la jeune femme de chambre qu’il a prise sous son aile..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299315546"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/03/2025 15:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/03/2025 15:35"
+        }
+    ],
+    "main_title": "Umberto D.",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3177_video/thumbnail_big",
+    "thumbnail_mini": "db/3177_video/thumbnail_small"
+}

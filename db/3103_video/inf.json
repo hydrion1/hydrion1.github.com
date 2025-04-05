@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Happiness Therapy"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David O. Russell"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "122"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Bradley Cooper, Jennifer Lawrence, Robert De Niro, Jacki Weaver, Chris Tucker, Anupam Kher"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/01/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La vie réserve parfois quelques surprises…\n\nPat Solatano a tout perdu : sa maison, son travail et sa femme. Il se retrouve même dans l’obligation d’emménager chez ses parents.\n\nMalgré tout, Pat affiche un optimisme à toute épreuve et est déterminé à se reconstruire et à renouer avec son ex-femme.\n\nRapidement, il rencontre Tiffany, une jolie jeune femme ayant eu un parcours mouvementé. Tiffany se propose d’aider Pat à reconquérir sa femme, à condition qu’il lui rende un service en retour. Un lien inattendu commence à se former entre eux et, ensemble, ils vont essayer de reprendre en main leurs vies respectives."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8716777944646"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2025 19:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/02/2025 20:27"
+        }
+    ],
+    "main_title": "Happiness Therapy",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3103_video/thumbnail_big",
+    "thumbnail_mini": "db/3103_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Léon (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Luc Besson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier, Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "103"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello, Peter Appel, Maïwenn Le Besco, Samy Naceri"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/09/1994"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "19.45 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un tueur à gages répondant au nom de Léon prend sous son aile Mathilda, une petite fille de douze ans, seule rescapée du massacre de sa famille. Bientôt, Léon va faire de Mathilda une \"nettoyeuse\", comme lui. Et Mathilda pourra venger son petit frère..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607683303023"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/02/2025 20:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/03/2025 22:56"
+        }
+    ],
+    "main_title": "Léon (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3136_video/thumbnail_big",
+    "thumbnail_mini": "db/3136_video/thumbnail_small"
+}

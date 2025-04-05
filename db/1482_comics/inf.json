@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "City Hunter"
+        },
+        {
+            "name": "Titre",
+            "value": "City Hunter Edition De Luxe T07"
+        },
+        {
+            "name": "Scénario",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Panini Manga"
+        },
+        {
+            "name": "Dessins",
+            "value": "Tsukasa Hojo"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": ""
+        },
+        {
+            "name": "Nbre de pages",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "13/10/2021"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "7"
+        },
+        {
+            "name": "Genre ",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/02/2025"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9782845388239"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/02/2025 19:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/02/2025 19:37"
+        }
+    ],
+    "main_title": "City Hunter",
+    "sub_title": "City Hunter Edition De Luxe T07",
+    "thumbnail_big": "db/1482_comics/thumbnail_big",
+    "thumbnail_mini": "db/1482_comics/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ferdinand"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Carlos Saldanha"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/09/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.64 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ferdinand est un taureau au grand cœur. Victime de son imposante apparence, il se retrouve malencontreusement capturé et arraché à son village d’origine. Bien déterminé à retrouver sa famille et ses racines, il se lance alors dans une incroyable aventure à travers l’Espagne, accompagné de la plus déjantée des équipes !"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428070885"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/03/2025 11:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/03/2025 11:58"
+        }
+    ],
+    "main_title": "Ferdinand",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3189_video/thumbnail_big",
+    "thumbnail_mini": "db/3189_video/thumbnail_small"
+}

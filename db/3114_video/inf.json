@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Sakura Taisen Su Mi Re"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Toshiya Shinohara"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "08/04/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sumire Kanzaki, la star de la troupe impériale \"Hanagumi\", doit se retirer de la scène. Elle a décidé de retourner auprès de ses parents, pour prêter main forte à l'entreprise familiale, Kanzaki industries. Pour la première fois, elle va rayonner de tout son éclat... provoquant une vive émotion dans le coeur de ses amis et de son public..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Ide"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3519660103428"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/02/2025 19:42"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/02/2025 19:42"
+        }
+    ],
+    "main_title": "Sakura Taisen Su Mi Re",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/3114_video/thumbnail_big",
+    "thumbnail_mini": "db/3114_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "ID : Invaded"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ei Aoki"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Animation, Drame, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "13"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kenjiro Tsuda, Yoshimasa Hosoya, Mao Ichimichi, Takashi Kondo, Ryota Takeuchi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2020"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "09/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "18.07 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Auparavant, Sakaido était un détective privé de grande renommé. Cependant, après avoir décidé de se venger du meurtrier de sa fille, il se retrouve en prison. Depuis ce jour, il aide la police à retrouver des personnes ayant commis des crimes odieux à l'aide d'un système lui permettant d'infiltrer \"l'id\" d'un criminel. C'est ainsi qu'il se retrouve sur une affaire ressemblant énormément avec la scène de crime de sa fille..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314995206"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/03/2025 19:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/03/2025 19:55"
+        }
+    ],
+    "main_title": "ID : Invaded",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3164_video/thumbnail_big",
+    "thumbnail_mini": "db/3164_video/thumbnail_small"
+}

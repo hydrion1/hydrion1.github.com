@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Ruse (Operation Mincemeat)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Madden"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Historique, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "127"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Colin Firth, Matthew Macfadyen, Rufus Wright, Kelly Macdonald Ruby Bentall, Charlotte Hamblin, Johnny Flynn, Lorne MacFadyen, Penelope Wilton"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/04/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "1943. Les Alliés sont résolus à briser la mainmise d’Hitler sur l’Europe occupée et envisagent un débarquement en Sicile. Mais ils se retrouvent face à un défi inextricable car il s’agit de protéger les troupes contre un massacre quasi assuré. Deux brillants officiers du renseignement britannique, Ewen Montagu et Charles Cholmondeley, sont chargés de mettre au point la plus improbable – et ingénieuse – propagande de guerre… qui s’appuie sur l’existence du cadavre d’un agent secret !"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888259801"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/03/2025 14:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/03/2025 14:21"
+        }
+    ],
+    "main_title": "La Ruse (Operation Mincemeat)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3141_video/thumbnail_big",
+    "thumbnail_mini": "db/3141_video/thumbnail_small"
+}

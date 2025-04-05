@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Prophète"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Roger Allers"
+        },
+        {
+            "name": "Genre",
+            "value": "Animation, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tomm Moore, Joann Sfar, Gaëtan Brizzi, Paul Brizzi, Joan C. Gratz, Mohammed Saeed Harib, Nina Paley, Bill Plympton, Michal Socha"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/12/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sur l’île fictionnelle d’Orphalese, Almitra, une petite fille de huit ans, rencontre Mustafa, prisonnier politique assigné à résidence. Contre toute attente, cette rencontre se transforme en amitié. Ce même jour, les autorités apprennent à Mustafa sa libération. Des gardes sont chargés de l’escorter immédiatement au bateau qui le ramènera vers son pays natal. Sur son chemin, Mustafa partage ses poèmes et sa vision de la vie avec les habitants d’Orphalese. Almitra, qui le suit discrètement, se représente ces paroles dans des séquences oniriques visuellement éblouissantes. Mais lorsqu’elle réalise que les intentions des gardes sont beaucoup moins nobles qu’annoncées, elle fait tout son possible pour aider son ami. Arrivera-t-elle à le sauver ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330048761"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2025 19:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/02/2025 20:15"
+        }
+    ],
+    "main_title": "Le Prophète",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3095_video/thumbnail_big",
+    "thumbnail_mini": "db/3095_video/thumbnail_small"
+}

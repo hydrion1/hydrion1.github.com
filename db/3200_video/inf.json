@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Magicien d'Oz"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Victor Fleming"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "101"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Judy Garland, Ray Bolger, Bert Lahr, Jack Haley, Frank Morgan, Billie Burke, Margaret Hamilton, Charley Grapewin, Clara Blandick, The Singer Midgets, Pat Walshe"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1939"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.57 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dorothy, jeune orpheline, vit chez son oncle et sa tante. Tout irait pour le mieux si l'institutrice ne détestait pas son chien. C'est alors que Dorothy fait un rêve où elle se trouve transportée au royaume magique des Munchkins à la recherche de son chien. Les Munchkins sont des nains protégés par la bonne fée du Nord mais menacés par la méchante fée de l'Ouest. Pour retrouver son chien, Dorothy doit s'emparer des chaussures rouges de la mauvaise fée et aller voir le magicien d'Oz dans son palais d'Emeraude."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889661184"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/03/2025 23:41"
+        },
+        {
+            "name": "Date de modification",
+            "value": "31/03/2025 20:02"
+        }
+    ],
+    "main_title": "Le Magicien d'Oz",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3200_video/thumbnail_big",
+    "thumbnail_mini": "db/3200_video/thumbnail_small"
+}

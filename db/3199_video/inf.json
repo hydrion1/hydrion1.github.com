@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Elvis (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Baz Luhrmann"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Musical"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "159"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Austin Butler, Tom Hanks, Olivia DeJonge, Helen Thomson, Richard Roxburgh, Kelvin Harrison Jr., David Wenham, Kodi Smit-McPhee"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/06/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.57 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La vie et l'œuvre musicale d'Elvis Presley à travers le prisme de ses rapports complexes avec son mystérieux manager, le colonel Tom Parker. Le film explorera leurs relations sur une vingtaine d'années, de l'ascension du chanteur à son statut de star inégalé, sur fond de bouleversements culturels et de la découverte par l'Amérique de la fin de l'innocence."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888262351"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/03/2025 23:41"
+        },
+        {
+            "name": "Date de modification",
+            "value": "31/03/2025 20:02"
+        }
+    ],
+    "main_title": "Elvis (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3199_video/thumbnail_big",
+    "thumbnail_mini": "db/3199_video/thumbnail_small"
+}

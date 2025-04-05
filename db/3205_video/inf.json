@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mamma Mia ! Here We Go Again"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ol Parker"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie musicale"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Lily James, Amanda Seyfried, Meryl Streep, Pierce Brosnan, Colin Firth, Stellan Skarsgård, Cher, Julie Walters, Christine Baranski, Dominic Cooper, Andy Garcia"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/07/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sur l’île paradisiaque de Kalokairi, Sophie, qui rencontre divers soucis dans l’ouverture de son hôtel, va trouver du réconfort auprès des amies de sa mère Donna qui vont lui conseiller de prendre exemple sur le parcours de cette dernière."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083171230"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "03/04/2025 20:24"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/04/2025 20:32"
+        }
+    ],
+    "main_title": "Mamma Mia ! Here We Go Again",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3205_video/thumbnail_big",
+    "thumbnail_mini": "db/3205_video/thumbnail_small"
+}

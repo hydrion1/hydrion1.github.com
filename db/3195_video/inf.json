@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ghost (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jerry Zucker"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Fantastique, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "127"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Patrick Swayze, Demi Moore, Whoopi Goldberg"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/11/1990"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/03/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sam Wheat, cadre dans une banque d'affaires new-yorkaise, et Molly Jensen, sculpteur, s'aiment. Mais tout bascule lorsque Sam Wheat est agressé dans la rue et abattu. A sa grande surprise, il devient un fantôme et réussit à communiquer avec une voyante hystérique. Il tente alors d'entrer en contact avec sa femme et découvre qui a voulu le tuer."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432038506"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/03/2025 15:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/03/2025 15:31"
+        }
+    ],
+    "main_title": "Ghost (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3195_video/thumbnail_big",
+    "thumbnail_mini": "db/3195_video/thumbnail_small"
+}

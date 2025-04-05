@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Detective Dee - L'integrale [Blu-ray]"
+            "value": "Detective Dee - L'integrale"
         },
         {
             "name": "Réalisateur(s)",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "18/03/2025 11:15"
         }
     ],
-    "main_title": "Detective Dee - L'integrale [Blu-ray]",
-    "sub_title": "DVD",
+    "main_title": "Detective Dee - L'integrale",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/433_video/thumbnail_big",
     "thumbnail_mini": "db/433_video/thumbnail_small"
 }

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mars Express (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jérémie Périn"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Anime, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "85"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Léa Drucker, Mathieu Amalric, Daniel Njo Lobé, Marie Bouvet, Sébastien Chassagne, Marthe Keller, Geneviève Doang, Thomas Roditi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2023"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "20.44 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\nEn l’an 2200, Aline Ruby, détective privée obstinée, et Carlos Rivera son partenaire androïde sont embauchés par un riche homme d’affaires afin de capturer sur Terre une célèbre hackeuse.\n\nDe retour sur Mars, une nouvelle affaire va les conduire à s’aventurer dans les entrailles de Noctis, la capitale martienne, à la recherche de Jun Chow, une étudiante en cybernétique disparue. Noctis est leur ville, une utopie libertarienne rendue possible par les progrès en robotique, emblème d’un futur tourné vers les étoiles.\n\nAu fil de leur enquête, ils seront confrontés aux plus sombres secrets de leur cité ; ses institutions corrompues, ses trafics, ses fermes cérébrales, et les magouilles des toutes puissantes corporations. Mais des tueurs cyber augmentés ont eux aussi pris pour cible Jun Chow. Aline et Carlos se lancent dans une course désespérée pour sauver cette jeune femme qui, sans le savoir, détient un secret capable de menacer l’équilibre précaire sur lequel repose leur civilisation.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "4042565239164"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/02/2025 15:34"
+        },
+        {
+            "name": "Date de modification",
+            "value": "09/02/2025 15:35"
+        }
+    ],
+    "main_title": "Mars Express (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3111_video/thumbnail_big",
+    "thumbnail_mini": "db/3111_video/thumbnail_small"
+}

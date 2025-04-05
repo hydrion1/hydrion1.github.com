@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Reader"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Stephen Daldry"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kate Winslet, Ralph Fiennes, David Kross, Bruno Ganz, Lena Olin, Alexandra Maria Lara"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/07/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Allemagne de l'Ouest, au lendemain de la Seconde Guerre mondiale.\n\nUn adolescent, Michael Berg, fait par hasard la connaissance de Hanna, une femme de trente-cinq ans dont il devient l'amant. Commence alors une liaison secrète et passionnelle.\n\nPendant plusieurs mois, Michael rejoint Hanna chez elle tous les jours, et l'un de leurs jeux consiste à ce qu'il lui fasse la lecture.\n\nIl découvre peu à peu le plaisir qu'elle éprouve lors de ce rituel tandis qu'il lui lit L'Odyssée, Huckleberry Finn et La Dame au petit chien.\n\nHanna reste pourtant mystérieuse et imprévisible. Un jour, elle disparaît, laissant Michael le coeur brisé.\n\nHuit ans plus tard, devenu étudiant en droit, Michael assiste aux procès des crimes de guerre Nazi. Il retrouve Hanna... sur le banc des accusés.\n\nPeu à peu, le passé secret de Hanna est dévoilé au grand jour...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8715664070130"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2025 19:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/02/2025 20:29"
+        }
+    ],
+    "main_title": "The Reader",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3104_video/thumbnail_big",
+    "thumbnail_mini": "db/3104_video/thumbnail_small"
+}

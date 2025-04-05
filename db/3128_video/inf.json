@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "FLCL - Edition Intégrale (Fooly Cooly/ Fuli Culi)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kazuya Tsurumaki"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "6"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2000"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.78 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La première saison de FLCL est une histoire de passage à l'âge adulte et tourne autour de Naota Nandaba, un garçon de 12 ans de la classe ouvrière vivant avec son père veuf et son grand-père. Sa vie dans la ville de Mabase est interrompue par l'arrivée d'une maniaque en Vespa nommée Haruko Haruhara."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5413505330094"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/02/2025 20:16"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/02/2025 20:19"
+        }
+    ],
+    "main_title": "FLCL - Edition Intégrale (Fooly Cooly/ Fuli Culi)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3128_video/thumbnail_big",
+    "thumbnail_mini": "db/3128_video/thumbnail_small"
+}

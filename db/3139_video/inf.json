@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Next"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Lee Tamahori"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "96"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Nicolas Cage, Julianne Moore, Jessica Biel, Thomas Kretschmann, Tory Kittles, José Zúñiga"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/04/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Cris Johnson \"Frank Cadillac\" est le seul homme sur terre capable de visualiser deux minutes de son futur et de changer le cours des évènements. Il n'hésite pas à utiliser son pouvoir extrasensoriel en se faisant passer pour magicien ou médium dans un hôtel minable de Las Vegas pour arrondir ses fins de mois.\n\nAlors que la sécurité des hôtels commence à soupçonner ses méthodes, l'agent du FBI Callie Ferris sait qu'il représente son unique chance d'empêcher une attaque terroriste imminente.\n\nTrès vite, Cris se retrouve devant un choix cornélien : sauver celle qu'il aime... ou le reste du monde. Sa réponse est quelque part... dans le futur proche.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442195669"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/03/2025 14:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/03/2025 14:18"
+        }
+    ],
+    "main_title": "Next",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3139_video/thumbnail_big",
+    "thumbnail_mini": "db/3139_video/thumbnail_small"
+}

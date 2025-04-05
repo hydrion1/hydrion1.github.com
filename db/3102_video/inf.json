@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gangster Squad"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ruben Fleischer"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Josh Brolin, Ryan Gosling, Sean Penn, Nick Nolte, Emma Stone, Anthony Mackie, Giovanni Ribisi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/02/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Los Angeles, 1949. Mickey Cohen, originaire de Brooklyn, est un parrain impitoyable de la mafia qui dirige la ville et récolte les biens mal acquis de la drogue, des armes, des prostituées et – s’il arrive à ses fins – de tous les paris à l’ouest de Chicago. Tout ceci est rendu possible par la protection, non seulement des hommes de mains à sa solde, mais également de la police et des hommes politiques qui sont sous sa coupe. Cela suffit à intimider les policiers les plus courageux et les plus endurcis… sauf, peut-être, les membres de la petite brigade officieuse de la LAPD dirigée par les Sergents John O’Mara et Jerry Wooters qui, ensemble, vont tenter de détruire l’empire de Cohen."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888149690"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2025 19:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/02/2025 20:25"
+        }
+    ],
+    "main_title": "Gangster Squad",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3102_video/thumbnail_big",
+    "thumbnail_mini": "db/3102_video/thumbnail_small"
+}
