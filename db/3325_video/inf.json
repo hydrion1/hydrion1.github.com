@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tango & Cash"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Andrei Konchalovsky"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Comédie, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "97"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sylvester Stallone, Kurt Russell, Teri Hatcher, Jack Palance, Michael J. Pollard, Brion James, James Hong, Marc Alaimo, Philip Tan"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/03/1990"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ray Tango et Gabriel Cash sont deux super-flics, Tango dans le genre rital chic, Cash dans le genre yankee loubard. Mais ils ont un point commun : ils tapent sur les nerfs d'Yves Perret, trafiquant de drogue et d'armes qui a décidé de se débarasser d'eux. C'est dans cette optique qu'il les met tous les deux sur un gros coup par faux indics interposés. Les deux hommes s'y rendent et tombent sur un cadavre. Ils sont accusés de meurtre et envoyés en prison au terme d'un procès truqué ."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888030998"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/05/2025 21:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/05/2025 21:36"
+        }
+    ],
+    "main_title": "Tango & Cash",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3325_video/thumbnail_big",
+    "thumbnail_mini": "db/3325_video/thumbnail_small"
+}

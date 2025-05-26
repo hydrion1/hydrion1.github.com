@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Défense Lincoln"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Brad Furman"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier, Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Matthew McConaughey, Marisa Tomei, Ryan Phillippe, William H. Macy, Josh Lucas, John Leguizamo, Michael Peña, Bryan Cranston"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/05/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "09/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Michael Haller est avocat à Los Angeles. Habile, il est prêt à tout pour faire gagner les criminels de bas étage qu’il défend. Toujours entre deux tribunaux, il travaille à l’arrière de sa voiture, une Lincoln Continental. Ayant passé la plus grande partie de sa carrière à défendre des petits voyous minables, il décroche pourtant ce qu’il pense être l’affaire de sa vie : il est engagé pour défendre un riche play-boy de Beverly Hills accusé de tentative de meurtre. Mais ce qui semblait être une affaire facile et très rentable se transforme en redoutable duel entre deux maîtres de la manipulation…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889161936"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/05/2025 23:09"
+        },
+        {
+            "name": "Date de modification",
+            "value": "09/05/2025 23:12"
+        }
+    ],
+    "main_title": "La Défense Lincoln",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3289_video/thumbnail_big",
+    "thumbnail_mini": "db/3289_video/thumbnail_small"
+}

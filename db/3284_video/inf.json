@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Comte de Monte Cristo (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Matthieu Delaporte"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "180"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Alexandre de La Patellière, Pierre Niney, Bastien Bouillon, Anaïs Demoustier, Anamaria Vartolomei, Laurent Lafitte, Pierfrancesco Favino, Patrick Mille, Vassili Schneider"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/06/2024"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.77 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Victime d’un complot, le jeune Edmond Dantès est arrêté le jour de son mariage pour un crime qu’il n’a pas commis. Après quatorze ans de détention au château d’If, il parvient à s’évader. Devenu immensément riche, il revient sous l’identité du comte de Monte-Cristo pour se venger des trois hommes qui l’ont trahi."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388337129128"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/05/2025 18:59"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/05/2025 19:33"
+        }
+    ],
+    "main_title": "Le Comte de Monte Cristo (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3284_video/thumbnail_big",
+    "thumbnail_mini": "db/3284_video/thumbnail_small"
+}

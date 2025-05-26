@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Back to Black"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Sam Taylor-Johnson"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame, Musical, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "122"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Marisa Abela, Jack O'Connell, Eddie Marsan, Lesley Manville, Juliet Cowan, Bronson Webb, Harley Bird, Ansu Kabia"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "24/04/2024"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.59 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Back to Black retrace la vie et la musique d'Amy Winehouse, à travers la création de l'un des albums les plus iconiques de notre temps, inspiré par son histoire d’amour passionnée et tourmentée avec Blake Fielder-Civil."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432037226"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/04/2025 20:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/04/2025 20:46"
+        }
+    ],
+    "main_title": "Back to Black",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3267_video/thumbnail_big",
+    "thumbnail_mini": "db/3267_video/thumbnail_small"
+}

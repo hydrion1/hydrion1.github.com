@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Prometheus (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Noomi Rapace Michael Fassbender Charlize Theron Guy Pearce Idris Elba"
+        },
+        {
+            "name": "Genre",
+            "value": "Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Noomi Rapace Michael Fassbender Charlize Theron Guy Pearce Idris Elba"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/05/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Une equipe d'explorateurs decouvre un indice sur l'origine de l'humanite sur Terre. Cette decouverte les entraine dans un voyage fascinant jusqu'aux recoins les plus sombres de l'univers. La-bas un affrontement terrifiant qui decidera de l'avenir de l'humanite les attend...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "20th Century Fox"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3344428069452"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/05/2025 18:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/05/2025 19:34"
+        }
+    ],
+    "main_title": "Prometheus (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3278_video/thumbnail_big",
+    "thumbnail_mini": "db/3278_video/thumbnail_small"
+}

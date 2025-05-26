@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Il était une fois en Amérique"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Sergio Leone"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "229"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robert De Niro, James Woods, Elizabeth McGovern, Treat Williams, Tuesday Weld, Joe Pesci, Danny Aiello"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1984"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A New York, à la fin de la prohibition, Noodles se réfugie dans une fumerie d'opium après un coup qui a mal tourné. Plus de trente ans plus tard, il est de retour en ville et se remémore son passé de gangster : de sa jeunesse de voyou dans les années 20, marquée par sa rencontre avec son ami Max et leurs nombreux trafics dans le ghetto juif de la ville, jusqu'à la période de prohibition où leur bande, liée par une profonde amitié, s'enrichit et marque son ascension dans la pègre grâce au commerce illégal d'alcool. Noodles se rappelle aussi de sa relation amoureuse échouée avec Deborah durant toute sa vie. Une oeuvre crépusculaire dense et sublime, ultime volet de la célèbre trilogie de Sergio Leone et dernier film incontournable du cinéaste dans sa version longue"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889156925"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/05/2025 21:06"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/05/2025 21:19"
+        }
+    ],
+    "main_title": "Il était une fois en Amérique",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3321_video/thumbnail_big",
+    "thumbnail_mini": "db/3321_video/thumbnail_small"
+}

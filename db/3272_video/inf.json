@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dracula (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Francis Ford Coppola"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Epouvante-horreur, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "128"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gary Oldman, Winona Ryder, Anthony Hopkins, Keanu Reeves, Richard E. Grant, Cary Elwes, Billy Campbell, Sadie Frost, Tom Waits, Monica Bellucci"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/01/1993"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.92 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1492, le prince Vlad Dracul, revenant de combattre les armées turques, trouve sa fiancée suicidée. Fou de douleur, il défie Dieu, et devient le comte Dracula, vampire de son état. Quatre cents ans plus tard, désireux de quitter la Transylvanie pour s'établir en Angleterre, il fait appel à Jonathan Harker, clerc de notaire et fiancé de la jolie Mina Murray. La jeune fille est le sosie d'Elisabeta, l'amour ancestral du comte..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333298300369"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/05/2025 21:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/05/2025 21:29"
+        }
+    ],
+    "main_title": "Dracula (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3272_video/thumbnail_big",
+    "thumbnail_mini": "db/3272_video/thumbnail_small"
+}

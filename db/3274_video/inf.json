@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fantôme avec chauffeur"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gérard Oury"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Philippe Noiret, Gérard Jugnot, Jean-Luc Bideau, Charlotte Kady, Daniel Russo, Béatrice Agenin, Maxime Boidron, Sophie Desmarets, Daniel Gélin"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/03/1996"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.92 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Philippe Bruneau-Tessier, grand patron et Georges, son chauffeur, meurent à vingt-quatre d'heure d'intervalle. Si de leur vivant leur relation se limitait a quelques phrases, il en est tout autrement dans l'au-dela, où ils vont devoir apprendre à vivre ensemble sur un terrain d'égalité."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483240809"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/05/2025 21:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/05/2025 21:29"
+        }
+    ],
+    "main_title": "Fantôme avec chauffeur",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3274_video/thumbnail_big",
+    "thumbnail_mini": "db/3274_video/thumbnail_small"
+}

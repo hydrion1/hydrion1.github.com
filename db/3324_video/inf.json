@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dumb & Dumber"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Peter Farrelly"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jim Carrey, Jeff Daniels, Lauren Holly, Karen Duffy, Teri Garr, Mike Starr"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/06/1995"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après un malentendu à l'aéroport, deux amis, Lloyd et Harry, spécialistes de l'élevages de lombrics, partent à la recherche de Mary qui semble y avoir oubliée sa valise. Mais, ils se retrouvent au centre d'un complot."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391998356"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/05/2025 21:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/05/2025 21:37"
+        }
+    ],
+    "main_title": "Dumb & Dumber",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3324_video/thumbnail_big",
+    "thumbnail_mini": "db/3324_video/thumbnail_small"
+}

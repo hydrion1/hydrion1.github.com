@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Dragon Dentist"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tomoyuki Kurokawa"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Daisuke Onizuka, Kazuya Tsurumaki, Toko Yatabe, Yasuhiro Yoshiura, Hibiki Yoshizaki"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.17 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Au pays des dragons, il existe un métier unique et extrêmement important : dentiste pour dragons. Le devenir est un immense honneur car il est alors possible d'approcher et de prendre soin des puissants gardiens du royaume.\n\nNonoko est une dentiste de dragon qui, un jour, fait la connaissance d'un jeune homme ressuscité dans une dent de l'être légendaire, un phénomène surnaturel si rare qu'il est considéré comme une légende."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5413505331152"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/04/2025 22:02"
+        },
+        {
+            "name": "Date de modification",
+            "value": "17/04/2025 21:46"
+        }
+    ],
+    "main_title": "The Dragon Dentist",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3237_video/thumbnail_big",
+    "thumbnail_mini": "db/3237_video/thumbnail_small"
+}

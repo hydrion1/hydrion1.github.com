@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les seigneurs"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Olivier Dahan"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "97"
+        },
+        {
+            "name": "Acteurs",
+            "value": "José Garcia, Jean-Pierre Marielle, Franck Dubosc, Omar Sy, Gad Elmaleh, JoeyStarr"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "19/09/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Patrick Orbéra, la cinquantaine, est une ancienne gloire du football qui a totalement raté sa reconversion. Sans emploi, alcoolique et ruiné, il n’a même plus le droit de voir sa fille Laura. Contraint par un juge de retrouver un emploi stable, il n’a d’autre choix que de partir sur une petite île bretonne, pour entraîner l’équipe de foot locale. Si ils gagnent les 3 prochains matchs, ils réuniront assez d’argent pour sauver la conserverie de l’île, placée en redressement judiciaire, et qui emploie la moitié des habitants. Patrick Orbéra est immédiatement confronté à un obstacle majeur : transformer des pêcheurs en footballeurs quasi-professionnels. Il décide alors de faire appel à ses anciens coéquipiers pour l’aider à hisser le petit club breton parmi les grands…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5425030950180"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/04/2025 23:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/04/2025 23:22"
+        }
+    ],
+    "main_title": "Les seigneurs",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3264_video/thumbnail_big",
+    "thumbnail_mini": "db/3264_video/thumbnail_small"
+}

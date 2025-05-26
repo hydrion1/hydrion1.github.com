@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Paranormal Activity"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Oren Peli"
+        },
+        {
+            "name": "Genre",
+            "value": "Epouvante-horreur, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "86"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Katie Featherston, Micah Sloat, Mark Fredrichs, Amber Armstrong, Ashley Palmer"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/12/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un jeune couple suspecte leur maison d'être hantée par un esprit démoniaque. Ils décident alors de mettre en place une surveillance vidéo durant leur sommeil afin d'enregistrer les évènements nocturnes dont ils sont les victimes. Les images récupérées de septembre à octobre 2006 ont été montées en un film de 86 minutes, \"Paranormal Activity\"."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/05/2025 21:07"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/05/2025 21:28"
+        }
+    ],
+    "main_title": "Paranormal Activity",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3322_video/thumbnail_big",
+    "thumbnail_mini": "db/3322_video/thumbnail_small"
+}

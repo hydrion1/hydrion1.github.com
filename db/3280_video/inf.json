@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Chinatown (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Roman Polanski"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "130"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jack Nicholson, Faye Dunaway, John Hillerman, Perry Lopez, John Huston, Darrell Zwerling, Diane Ladd, Roy Jenson, Roman Polanski"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/12/1974"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.77 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Gittes, détective privé, reçoit la visite d'une fausse Mme Mulwray, qui lui demande de filer son mari, ingénieur des eaux à Los Angeles. Celui-ci est retrouvé mort, noyé. Gittes s'obstine dans son enquête, malgré les menaces de tueurs professionnels."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432035468"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/05/2025 18:59"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/05/2025 19:33"
+        }
+    ],
+    "main_title": "Chinatown (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3280_video/thumbnail_big",
+    "thumbnail_mini": "db/3280_video/thumbnail_small"
+}

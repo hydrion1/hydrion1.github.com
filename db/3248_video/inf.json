@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Kursk"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thomas Vinterberg"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "118"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Matthias Schoenaerts, Léa Seydoux, Colin Firth, Peter Simonischek, August Diehl, Max von Sydow, Magnus Millang, Matthias Schweighöfer, Steven Waddington, Michael Nyqvist"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/11/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "KURSK relate le naufrage du sous-marin nucléaire russe K-141 Koursk, survenu en mer de Barents le 12 août 2000. Tandis qu’à bord du navire endommagé, vingt-trois marins se battent pour survivre, au sol, leurs familles luttent désespérément contre les blocages bureaucratiques qui ne cessent de compromettre l’espoir de les sauver."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370871015"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/04/2025 23:20"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/04/2025 23:27"
+        }
+    ],
+    "main_title": "Kursk",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3248_video/thumbnail_big",
+    "thumbnail_mini": "db/3248_video/thumbnail_small"
+}

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "La Proposition (The Proposal)"
+            "value": "La Proposition (The Proposal) NDLS"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "A vendre"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "08/02/2025 20:09"
+            "value": "17/04/2025 21:27"
         }
     ],
-    "main_title": "La Proposition (The Proposal)",
+    "main_title": "La Proposition (The Proposal) NDLS",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3090_video/thumbnail_big",
     "thumbnail_mini": "db/3090_video/thumbnail_small"

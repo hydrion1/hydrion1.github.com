@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Nouvelles aventures d'Aladin"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Arthur Benzaquen"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kev Adams, Jean-Paul Rouve, Vanessa Guide, William Lebghil, Audrey Lamy, Arthur Benzaquen, Michel Blanc, Eric Judor, Ramzy Bédia, Cyril Hanouna"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/10/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "À la veille de Noël, Sam et son meilleur pote Khalid se déguisent en Père-Noël afin de dérober tout ce qu’ils peuvent aux Galeries Lafayette. Mais Sam est rapidement coincé par des enfants et doit leur raconter une histoire... l’histoire d’Aladin... enfin Sa version. Dans la peau d’Aladin, Sam commence alors un voyage au coeur de Bagdad, ville aux mille et une richesses... Hélas derrière le folklore, le peuple subit la tyrannie du terrible Vizir connu pour sa férocité et son haleine douteuse. Aladin le jeune voleur, aidé de son Génie, pourra-t il déjouer les plans diaboliques du Vizir, sauver Khalid et conquérir le coeur de la Princesse Shallia ? En fait oui, mais on ne va pas vous mentir, ça ne va pas être facile !"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330048617"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/04/2025 20:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/04/2025 23:13"
+        }
+    ],
+    "main_title": "Les Nouvelles aventures d'Aladin",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3256_video/thumbnail_big",
+    "thumbnail_mini": "db/3256_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Deux mondes"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Daniel Cohen"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Comédie, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Benoît Poelvoorde, Natacha Lindinger, Michel Duchaussoy, Daniel Cohen, Pascal Elso, Arly Jover, Florence Loiret"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/11/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\n\nDans un monde parallèle, au village de Bégamini, une tribu opprimée fait des incantations au ciel afin qu'un sauveur vienne les libérer du joug de Zotan, le tyran cannibale.\n\nA Paris, dans le monde normal... Rémy Bassano est un petit restaurateur d'oeuvres d'art timide, discret et sans histoires. Il est marié à Lucile avec qui il a deux enfants.\n\nUn jour, Rémy retrouve son atelier inondé, il perd alors son travail et sa femme Lucile lui annonce brutalement qu'elle le quitte pour un autre. Il court chercher du réconfort chez ses parents et alors qu'il est en train de servir le café à ses nombreux frères et soeurs, il est aspiré dans le sol, traverse le temps et se retrouve à Bégamini.\n\nLà, dans leur étrange village, les Bégaminiens l'accueillent comme le libérateur qu'ils espèrent depuis toujours. A partir de ce moment là, Rémy se trouve embarqué dans une aventure haletante...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483158029"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/04/2025 20:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/04/2025 23:14"
+        }
+    ],
+    "main_title": "Les Deux mondes",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3258_video/thumbnail_big",
+    "thumbnail_mini": "db/3258_video/thumbnail_small"
+}

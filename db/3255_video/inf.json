@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Coco"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gad Elmaleh"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "95"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gad Elmaleh, Pascale Arbillot, Jean Benguigui, Manu Payet, Ary Abittan, Daniel Cohen, Gérard Depardieu"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/03/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Coco, 40 ans, self made man, est l'exemple parfait de la réussite sociale. Parti de rien, immigré, il a réalisé en 15 ans une des plus fulgurantes success story des temps modernes grâce à son invention de l'eau frétillante.\n\nMais pour Coco, la plus grande consécration est à venir : la bar-mitsva de son fils Samuel qui aura lieu dans six mois. Il invite tout le monde à \"l'évènement national de l'année\" et promet du jamais vu, de l'époustouflant, du Coco !\n\nTrop obsédé par la perspective d'en mettre plein la vue au monde entier pour \"sa\" fête, Coco agit avec démesure et frôle la folie sans voir que sa femme, son fils, sa mère et tous ses proches se désolidarisent peu à peu. Cet évènement va devenir pour lui un instant de vérité sur son rôle de père.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582725902"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/04/2025 20:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/04/2025 23:12"
+        }
+    ],
+    "main_title": "Coco",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3255_video/thumbnail_big",
+    "thumbnail_mini": "db/3255_video/thumbnail_small"
+}

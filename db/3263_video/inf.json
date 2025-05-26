@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Italien"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Olivier Baroux"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kad Merad, Valérie Benguigui, Roland Giraud, Philippe Lefebvre, Guillaume Gallienne, Sid Ahmed Agoumi, Farida Ouchani, Saphia Azzeddine, Tarek Boudali"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/07/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/04/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dino Fabrizzi est le vendeur numéro un de la concession Maserati de Nice. A 42 ans, il arrive à un tournant de sa vie, le poste de directeur lui est ouvertement proposé et sa compagne depuis un an, Hélène, a la ferme intention de l'épouser. Pour Dino, la vie est belle, sauf que cette vie parfaite s'est construite sur un mensonge. Dino s'appelle en fait Mourad Ben Saoud. Ni son patron, ni Hélène et encore moins ses parents ne sont au courant de cette fausse identité... Dans dix jours débute le ramadan et Mourad qui passe outre tous les ans devra cette fois assumer la promesse faite à son père malade. Faire le ramadan à sa place... Pour Dino, l'italien, cela ne va pas être simple."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330039172"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/04/2025 20:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/04/2025 23:18"
+        }
+    ],
+    "main_title": "L'Italien",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3263_video/thumbnail_big",
+    "thumbnail_mini": "db/3263_video/thumbnail_small"
+}
