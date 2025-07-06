@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Blues Brothers 2000"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Landis"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Comédie musicale"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "123"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Dan Aykroyd, John Goodman, B.B. King, Aretha Franklin, Kathleen Freeman, Joe Morton, Frank Oz, Wilson Pickett"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dix-huit ans plus tard, Elwood Blues sort de prison, quelque peu deprimé. Jake est mort, l'orchestre s'est dispersé aux quatre vents et l'orphelinat ou il avait grandi a été rasé. Dans sa détresse, il se tourne vers son ancien professeur, l'énergique soeur Mary Stigmata, qui se risque à lui confier temporairement la garde d'un petit orphelin de dix ans au tempérament rebelle qui se nomme Buster. Les voies du Seigneur sont impénétrables et Elwood, flanqué du petit garçon, décide de rassembler les membres épars de l'orchestre."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582820614"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:22"
+        }
+    ],
+    "main_title": "Blues Brothers 2000",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3349_video/thumbnail_big",
+    "thumbnail_mini": "db/3349_video/thumbnail_small"
+}

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Petit Nicolas"
+            "value": "Petit Nicolas (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "Risque defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "08/09/2024 11:32"
+            "value": "06/06/2025 00:05"
         }
     ],
-    "main_title": "Le Petit Nicolas",
+    "main_title": "Petit Nicolas (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2766_video/thumbnail_big",
     "thumbnail_mini": "db/2766_video/thumbnail_small"

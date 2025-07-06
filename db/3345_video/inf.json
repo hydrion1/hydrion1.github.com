@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Forêt de Miyori"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Nizo Yamamoto"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "107"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.89 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après le divorce de ses parents, Miyori, jeune fille de onze ans, se renferme et refuse tout contact avec le monde qui l'entoure. Étant un poids pour son père qui la garde, elle est alors confiée à ses grands-parents qui vivent près de la forêt. Mais c'est au détour d'une promenade, elle finit par se retrouver au pied d'un grand cerisier et fait la rencontre d'êtres peuplant cette mystérieuse forêt. Elle est alors obligée à côtoyer les élèves de sa nouvelle classe, et à vivre dans un environnement peu familier tout en gérant ce qu'elle croit être des hallucinations..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391652586"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:15"
+        }
+    ],
+    "main_title": "La Forêt de Miyori",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3345_video/thumbnail_big",
+    "thumbnail_mini": "db/3345_video/thumbnail_small"
+}

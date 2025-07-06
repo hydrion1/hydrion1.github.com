@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Minuscule 2 - Les Mandibules du bout du monde"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thomas Szabo"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Animation, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hélène Giraud, Thierry Frémont, Bruno Salomone, Stéphane Coulon, Franck Benezech, Sarah Cohen-Hadria, Luc Morvan, Jean Nanga, Bô Gaultier de Kermoal"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/01/2019"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "30/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Quand tombent les premières neiges dans la vallée, il est urgent de préparer ses réserves pour l’hiver. Hélas, durant l’opération, une petite coccinelle se retrouve piégée dans un carton… à destination des Caraïbes !\n\nUne seule solution : reformer l’équipe de choc ! La coccinelle, la fourmi et l’araignée reprennent du service à l’autre bout du monde. Nouveau monde, nouvelles rencontres, nouveaux dangers… Les secours arriveront-ils à temps ?\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3346030031667"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/06/2025 20:22"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/06/2025 20:26"
+        }
+    ],
+    "main_title": "Minuscule 2 - Les Mandibules du bout du monde",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3398_video/thumbnail_big",
+    "thumbnail_mini": "db/3398_video/thumbnail_small"
+}

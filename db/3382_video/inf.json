@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Résistance"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Delrieux"
+        },
+        {
+            "name": "Genre",
+            "value": "Series TV, Drame, Historique, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "6"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Miguel Courtois, Pauline Burlet, Tom Hudson, César Domboy, Fanny Ardant, Richard Berry, Isabelle Nanty, Jérémie Petrus, Robert Plagnol, Pascale Arbillot, Stéphane Debac, Nicolas Koretzky, Valérie Karsenti"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "1"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Paris, 1940. Révoltée par l'injustice de l'Occupation, Lili, dix-sept ans, rejoint un groupe de résistants pour combattre les Allemands et leurs collaborateurs français. Tandis que la lutte clandestine s'étend à la France entière, les jeunes combattants multiplient les faits d'armes héroïques, en s'exposant à l'implacable répression de l'ennemi. Ils mettent en place des réseaux de résistance qui ont conduit jusqu'à la libération de Paris, en août 1944..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442262156"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/06/2025 11:20"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/06/2025 11:23"
+        }
+    ],
+    "main_title": "Résistance",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3382_video/thumbnail_big",
+    "thumbnail_mini": "db/3382_video/thumbnail_small"
+}

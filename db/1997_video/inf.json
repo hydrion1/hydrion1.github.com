@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Gangs Of New York"
+            "value": "Defectueux - Gangs Of New York"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "Defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/11/2023 11:45"
+            "value": "25/06/2025 19:28"
         }
     ],
-    "main_title": "Gangs Of New York",
+    "main_title": "Defectueux - Gangs Of New York",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1997_video/thumbnail_big",
     "thumbnail_mini": "db/1997_video/thumbnail_small"

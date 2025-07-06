@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Flight Plan"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Robert Schwentke"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "98"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jodie Foster, Peter Sarsgaard, Sean Bean, Marlene Lawston"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/11/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Kyle Pratt affronte le pire cauchemar qui soit : sa fille de six ans, Julia, disparaît sans laisser de traces... alors qu'elles se trouvent à plus de 11 000 mètres d'altitude, dans un avion, entre Berlin et New York...\n\nDéjà ébranlée par la mort soudaine de son mari, Kyle lutte désespérément pour prouver à l'équipage et aux passagers, sceptiques, qu'elle est saine d'esprit, tout en finissant par se poser des questions...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418117658"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:25"
+        }
+    ],
+    "main_title": "Flight Plan",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3352_video/thumbnail_big",
+    "thumbnail_mini": "db/3352_video/thumbnail_small"
+}

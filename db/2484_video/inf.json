@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Astérix aux Jeux Olympiques"
+            "value": "Défectueux - Astérix aux Jeux Olympiques"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "Defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "20/03/2024 22:11"
+            "value": "21/06/2025 16:17"
         }
     ],
-    "main_title": "Astérix aux Jeux Olympiques",
+    "main_title": "Défectueux - Astérix aux Jeux Olympiques",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2484_video/thumbnail_big",
     "thumbnail_mini": "db/2484_video/thumbnail_small"

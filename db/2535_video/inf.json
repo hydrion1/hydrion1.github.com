@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Le Discours d'un roi"
+            "value": "Discours d'un roi (le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "Risque defectueux\nVérifié 2025/06"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "08/04/2024 21:35"
+            "value": "22/06/2025 12:14"
         }
     ],
-    "main_title": "Le Discours d'un roi",
+    "main_title": "Discours d'un roi (le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2535_video/thumbnail_big",
     "thumbnail_mini": "db/2535_video/thumbnail_small"

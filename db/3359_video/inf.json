@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Tatoué"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Denys de La Patellière"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Gabin, Louis de Funès, Jean-Pierre Darras, Paul Mercey, Dominique Davray, Pierre Tornade"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/09/1968"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Félicien Mezeray, brocanteur d'art, découvre un jour un authentique Modigliani. Autant dire que la fortune est à lui. Enfin presque. Car l'oeuvre a été tatouée sur le dos d'un ex-légionnaire bougon et colérique, qui n'a cure des manigances de Mezeray. Ce dernier est prêt à tout pour arriver à ses fins, même à retaper la maison de campagne du légionnaire, qui s'avère être un château du 16ème siècle en ruines."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083088835"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:28"
+        }
+    ],
+    "main_title": "Le Tatoué",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3359_video/thumbnail_big",
+    "thumbnail_mini": "db/3359_video/thumbnail_small"
+}

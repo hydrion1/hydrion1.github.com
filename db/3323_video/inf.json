@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "La Famille Addams"
+            "value": "La Famille Addams (The Addams Family)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "26/05/2025 21:35"
+            "value": "26/05/2025 21:55"
         }
     ],
-    "main_title": "La Famille Addams",
+    "main_title": "La Famille Addams (The Addams Family)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3323_video/thumbnail_big",
     "thumbnail_mini": "db/3323_video/thumbnail_small"

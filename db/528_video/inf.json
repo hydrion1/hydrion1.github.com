@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:15"
+            "value": "01/07/2025 23:07"
         }
     ],
     "main_title": "Professeur Layton et la Diva eternelle [Blu-ray]",
-    "sub_title": "DVD",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/528_video/thumbnail_big",
     "thumbnail_mini": "db/528_video/thumbnail_small"
 }

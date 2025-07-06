@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Charlotte"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Eric Warin"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Biopic, Drame, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tahir Rana"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/11/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Charlotte Salomon est une jeune peintre juive allemande, dont le destin bascule à la veille de la Seconde Guerre mondiale. Face au tourbillon de l’histoire et à la révélation d’un secret de famille, seul un acte extraordinaire pourra la sauver. Elle entame alors l’oeuvre de sa vie..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5430002888811"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/06/2025 11:20"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/06/2025 11:22"
+        }
+    ],
+    "main_title": "Charlotte",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3380_video/thumbnail_big",
+    "thumbnail_mini": "db/3380_video/thumbnail_small"
+}

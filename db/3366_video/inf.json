@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Father"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Florian Zeller"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "98"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Olivia Colman, Anthony Hopkins, Mark Gatiss, Olivia Williams, Imogen Poots, Rufus Sewell, Ayesha Dharker, Roman Zeller"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/05/2021"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "THE FATHER raconte la trajectoire intérieure d’un homme de 81 ans, Anthony, dont la réalité se brise peu à peu sous nos yeux. Mais c’est aussi l’histoire d’Anne, sa fille, qui tente de l’accompagner dans un labyrinthe de questions sans réponses."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083236007"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/06/2025 10:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/06/2025 07:20"
+        }
+    ],
+    "main_title": "The Father",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3366_video/thumbnail_big",
+    "thumbnail_mini": "db/3366_video/thumbnail_small"
+}

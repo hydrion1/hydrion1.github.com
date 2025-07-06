@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Retour du Grand Blond"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Yves Robert"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "80"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Pierre Richard, Mireille Darc, Jean Rochefort, Jean Carmet, Michel Duchaussoy, Paul Le Person"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/12/1974"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le capitaine Cambrai, des services de renseignements, est toujours convaincu que le colonel Toulouse s'est servi d'un innocent violoniste, François Perrin, surnommé le «Grand Blond», pour supprimer son fidèle adjoint, Bernard Milan. Afin d'étayer son dossier d'accusation, Cambrai entreprend de prouver que ce brave citoyen, particulièrement distrait et maladroit, n'a jamais fait partie des services secrets. Averti de cette enquête, le colonel Toulouse n'a plus qu'une seule solution : il doit faire disparaître le Grand Blond après l'avoir fait passer pour un agent secret hors pair."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483196007"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:31"
+        }
+    ],
+    "main_title": "Le Retour du Grand Blond",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3356_video/thumbnail_big",
+    "thumbnail_mini": "db/3356_video/thumbnail_small"
+}

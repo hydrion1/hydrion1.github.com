@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Tenchu Stealth Assassins PLAYSTATION 1"
+            "value": "Tenchu: Stealth Assassins"
         },
         {
             "name": "Console",
@@ -10,15 +10,15 @@
         },
         {
             "name": "Genre",
-            "value": "Arcade - Action"
+            "value": "Action - Aventure"
         },
         {
             "name": "Date de sortie",
-            "value": ""
+            "value": "31/08/1998"
         },
         {
             "name": "Editeur",
-            "value": "Sony"
+            "value": "Activision"
         },
         {
             "name": "Date d'achat",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Etat",
-            "value": ""
+            "value": "Très bon"
         },
         {
             "name": "Classement",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "30/06/2025 20:38"
         }
     ],
     "main_title": "PlayStation",
-    "sub_title": "Tenchu Stealth Assassins PLAYSTATION 1",
+    "sub_title": "Tenchu: Stealth Assassins",
     "thumbnail_big": "db/163_videogame/thumbnail_big",
     "thumbnail_mini": "db/163_videogame/thumbnail_small"
 }

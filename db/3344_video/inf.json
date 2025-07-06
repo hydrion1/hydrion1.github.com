@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bambi 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Brian Pimental"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "75"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/02/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La mère de Bambi a disparu et c'est son père, le Grand Prince de la forêt, qui l'élève. Sans tendresse, il lui enseigne toute les prérogatives dues à son rang, mais semble toujours déçu par son fils.\n\nBambi trouve un peu de réconfort auprès de ses amis, Panpan et Fleur. Et lorsqu'il revoit Féline, la jeune biche, beaucoup d'émotions l'envahissent... Mais Bambi doit aussi compter avec Ronno, un jeune cerf brutal qui le considère comme son ennemi.\n\nLorsqu'un jour, Bambi se retrouve face à des chasseurs, la peur le paralyse et il manque de se faire tuer. Il ne doit son salut qu'à l'intervention de son père qui, déçu une fois de plus, demande à Maître Hibou de lui chercher un nouveau foyer.\n\nPourtant, quelque temps plus tard, alors que Ronno se montre agressif, le Grand Prince est témoin d'un exploit de son fils, et ses sentiments évoluent. C'est le début d'une nouvelle relation...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418295431"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:17"
+        }
+    ],
+    "main_title": "Bambi 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3344_video/thumbnail_big",
+    "thumbnail_mini": "db/3344_video/thumbnail_small"
+}

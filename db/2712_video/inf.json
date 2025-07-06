@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Faubourg 36"
+            "value": "Defectueux - Faubourg 36"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "Defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "15/08/2024 11:33"
+            "value": "25/06/2025 18:55"
         }
     ],
-    "main_title": "Faubourg 36",
+    "main_title": "Defectueux - Faubourg 36",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2712_video/thumbnail_big",
     "thumbnail_mini": "db/2712_video/thumbnail_small"

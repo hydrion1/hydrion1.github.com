@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Subway"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Luc Besson"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "104"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Isabelle Adjani, Christophe Lambert, Richard Bohringer, Michel Galabru, Jean-Hugues Anglade, Jean Bouise, Jean-Pierre Bacri, Jean-Claude Lecas, Jean Reno"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "10/04/1985"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.33 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après avoir dérobé des documents compromettants, un homme se réfugié dans l'univers fascinant et agité du métro parisien. Une impitoyable chasse à l'homme s'organise au cours de laquelle d'étranges liens se tissent entre le cambrioleur et sa victime."
+        },
+        {
+            "name": "Commentaires",
+            "value": "Cadeau Noël Elo Fred"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483303405"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/06/2025 21:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/06/2025 21:40"
+        }
+    ],
+    "main_title": "Subway",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3394_video/thumbnail_big",
+    "thumbnail_mini": "db/3394_video/thumbnail_small"
+}

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Little Big Planet 2"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux de plateforme"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "18/01/2011"
+        },
+        {
+            "name": "Editeur",
+            "value": "Mm2"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/06/2025"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "4"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719172277"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "13/06/2025 23:10"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/06/2025 23:14"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "Little Big Planet 2",
+    "thumbnail_big": "db/1350_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1350_videogame/thumbnail_small"
+}

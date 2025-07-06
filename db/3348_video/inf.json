@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Vol du Phoenix (Flight of the Phoenix)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Moore"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Dennis Quaid, Giovanni Ribisi, Tyrese Gibson, Miranda Otto, Hugh Laurie, Tony Curran, Sticky Fingaz, Jacob Vargas"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/05/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le capitaine Frank Towns, son copilote et mécanicien, prennent à bord de leur avion les ouvriers d'une plateforme pétrolière, menés par Kelly Johnson. En direction de Pékin, ils croisent une tempête de poussière qui provoque le crash de l'engin. Ils se retrouvent alors à des centaines de kilomètres de tout en plein désert de Gobie, en Mongolie.\n\nSans même une radio, les survivants doivent désormais faire face à des conditions de survie très dure : La chaleur intense, les tempêtes, une faible réserve d'eau potable, les \"bandits du désert\", et bien d'autres encore. La situation semble désespérée jusqu'à ce qu'un passager excentrique, Elliot, redonnent de l'espoir à chacun avec l'idée improbable de reconstruire un avion à partir des débris du crash.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626031017"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:24"
+        }
+    ],
+    "main_title": "Le Vol du Phoenix (Flight of the Phoenix)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3348_video/thumbnail_big",
+    "thumbnail_mini": "db/3348_video/thumbnail_small"
+}

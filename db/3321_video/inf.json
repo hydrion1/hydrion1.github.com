@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Il était une fois en Amérique"
+            "value": "Il était une fois en Amérique (Once Upon a Time in America)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "26/05/2025 21:19"
+            "value": "26/05/2025 21:55"
         }
     ],
-    "main_title": "Il était une fois en Amérique",
+    "main_title": "Il était une fois en Amérique (Once Upon a Time in America)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3321_video/thumbnail_big",
     "thumbnail_mini": "db/3321_video/thumbnail_small"

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Grand Blond avec une chaussure noire"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Yves Robert"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Pierre Richard, Mireille Darc, Bernard Blier, Jean Rochefort, Jean Carmet, Colette Castel, Paul Le Person"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "05/12/1972"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Violoniste distrait, François Perrin, porte ce jour-là une chaussure noire et une autre marron. C'est cet aspect insolite qui pousse Louis Toulouse, un chef du Renseignement français, a le choisir comme victime. Toulouse veut, en effet, se débarrasser de son collègue et ennemi de toujours Milan. Il lance son subalterne sur une fausse piste en lui faisant croire que Perrin est un dangereux espion. Milan mord à l'hameçon et fait étroitement surveiller l'artiste dont le moindre acte de la vie quotidienne devient suspect. Christine, à la solde de Milan, tente de le séduire. En coulisses, Toulouse se délecte des bourdes de son adjoint : il attend sa chute qui ne manquera pas d'arriver bientôt. Une farce qui reçut l'Ours d'argent à Berlin en 1973."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483195994"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/06/2025 18:49"
+        }
+    ],
+    "main_title": "Le Grand Blond avec une chaussure noire",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3357_video/thumbnail_big",
+    "thumbnail_mini": "db/3357_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bandidas"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Joachim Roenning"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Comédie, Western"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "95"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Espen Sandberg, Penélope Cruz, Salma Hayek, Steve Zahn, Dwight Yoakam, Sam Shepard, Denis Arndt, Audra Blaser"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/01/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Mexique, 1880. Sara Sandoval est la fille d'un riche banquier. Maria Alvarez est la fille d'un pauvre fermier. Ces deux jeunes femmes, qui n'ont apparemment rien en commun, excepté leur culture mexicaine, sont entraînées dans la même aventure par le destin et les circonstances.\n\nAvec l'aide de Quentin Cooke, un jeune et idéaliste inspecteur de police originaire de New York, elles vont s'opposer à Tyler Jackson, le représentant de la New York Bank and Trust. Celui-ci a monté un complot visant à saisir illégalement les terres des Mexicains afin de faire passer le chemin de fer...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3760062465601"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:19"
+        }
+    ],
+    "main_title": "Bandidas",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3346_video/thumbnail_big",
+    "thumbnail_mini": "db/3346_video/thumbnail_small"
+}

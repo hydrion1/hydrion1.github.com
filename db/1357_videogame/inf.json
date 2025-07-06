@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Prince of Persia (Import USA)(CIB)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Super NES"
+        },
+        {
+            "name": "Genre",
+            "value": "Action Plate-forme"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "01/11/1992"
+        },
+        {
+            "name": "Editeur",
+            "value": "Konami"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/08/2023"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "34.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "083717150107"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "06/07/2025 11:34"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/07/2025 11:36"
+        }
+    ],
+    "main_title": "Nintendo Super NES",
+    "sub_title": "Prince of Persia (Import USA)(CIB)",
+    "thumbnail_big": "db/1357_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1357_videogame/thumbnail_small"
+}

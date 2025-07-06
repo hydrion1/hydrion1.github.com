@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Boxtrolls"
+            "value": "Boxtrolls (les)"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "Risque defectueux\nVérifié 2025/06"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "08/10/2024 11:32"
+            "value": "21/06/2025 16:34"
         }
     ],
-    "main_title": "Les Boxtrolls",
+    "main_title": "Boxtrolls (les)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2845_video/thumbnail_big",
     "thumbnail_mini": "db/2845_video/thumbnail_small"

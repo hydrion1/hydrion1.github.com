@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Cerveau"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gérard Oury"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "1115"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean-Paul Belmondo, Bourvil, David Niven, Eli Wallach, Silvia Monti, Raymond Gérôme, Jacques Balutin"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/03/1969"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "De Paris à Bruxelles, un train spécial va transporter les fonds secrets des nations de l'O.T.A.N. Des deux côtés de la Manche, deux individus cherchent à s'en emparer. Côté français, Arthur, petit truand débrouillard, assisté de son copain Anatole. Côté britannique, Le Cerveau, brillant escroc disposant d'une équipe de spécialistes et de moyens considérables. Mais les deux équipes programment leur hold-up le même jour, à la même heure..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483186503"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/06/2025 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/06/2025 23:27"
+        }
+    ],
+    "main_title": "Le Cerveau",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3355_video/thumbnail_big",
+    "thumbnail_mini": "db/3355_video/thumbnail_small"
+}

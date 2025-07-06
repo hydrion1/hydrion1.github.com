@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "One-Punch Man - Saison 1 - Intégrale - DVD"
+            "value": "One-Punch Man - Saison 1 - Intégrale - Bluray"
         },
         {
             "name": "Réalisateur(s)",
@@ -26,7 +26,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": "01/05/2023"
+            "value": "06/07/2025"
         },
         {
             "name": "Classement",
@@ -42,11 +42,11 @@
         },
         {
             "name": "Nombre de supports",
-            "value": "3"
+            "value": "2"
         },
         {
             "name": "Prix d'achat",
-            "value": "10.00 €"
+            "value": "15.50 €"
         },
         {
             "name": "Prêt",
@@ -54,7 +54,7 @@
         },
         {
             "name": "Type de support",
-            "value": "DVD"
+            "value": "Blu-Ray"
         },
         {
             "name": "Etat",
@@ -126,11 +126,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "01/05/2023 13:39"
+            "value": "21/06/2025 18:38"
         }
     ],
-    "main_title": "One-Punch Man - Saison 1 - Intégrale - DVD",
-    "sub_title": "DVD",
+    "main_title": "One-Punch Man - Saison 1 - Intégrale - Bluray",
+    "sub_title": "Blu-Ray",
     "thumbnail_big": "db/1985_video/thumbnail_big",
     "thumbnail_mini": "db/1985_video/thumbnail_small"
 }

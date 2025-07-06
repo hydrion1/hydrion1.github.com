@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Wild"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steve 'Spaz' Williams"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "82"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kiefer Sutherland, Jim Belushi, Eddie Izzard"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/04/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/05/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.14 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans un zoo de New York, après la fermeture, une fois que le public est parti et les employés rentrés chez eux, les animaux font la fête...\n\nLors d'une partie endiablée, le petit Ryan, un lionceau, est malencontreusement propulsé hors du zoo dans une caisse. Pour le récupérer, il va falloir envoyer à l'extérieur, dans l'inconnu, une équipe de secours... Celle-ci sera constituée de Samson, le père de Ryan et roi du zoo, Larry, l'anaconda plus bête que dangereux, Benny, l'écureuil qui en connaît un rayon sur le monde de l'extérieur, Brigitte, une petite girafe futée avec une passion pour les jeux, et d'un koala nommé Nigel, qui ne supporte plus qu'on le trouve \"mignon\"... Leur odyssée va les conduire dans la jungle urbaine de New York, puis jusque dans la jungle sauvage d'Afrique...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418113216"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "31/05/2025 23:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "31/05/2025 23:24"
+        }
+    ],
+    "main_title": "The Wild",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3340_video/thumbnail_big",
+    "thumbnail_mini": "db/3340_video/thumbnail_small"
+}

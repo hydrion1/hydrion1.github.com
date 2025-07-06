@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Transporteur 3 (Le)"
+            "value": "Defectueux Transporteur 3 (Le)"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "28/07/2023 10:14"
+            "value": "13/06/2025 17:37"
         }
     ],
-    "main_title": "Transporteur 3 (Le)",
+    "main_title": "Defectueux Transporteur 3 (Le)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2080_video/thumbnail_big",
     "thumbnail_mini": "db/2080_video/thumbnail_small"

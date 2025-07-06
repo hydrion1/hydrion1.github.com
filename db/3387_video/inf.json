@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Radiant - Saison 2"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Seiji Kishi"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Anime, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "21"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Daiki Fukuoka"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2020"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/06/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.74 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": "Oui"
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans un univers fantastique, des monstres, appelés Némésis, tombent du ciel. L'origine de ces monstres reste inconnue, mais une chose est sûre, ils ne sont pas là pour notre bien ! Heureusement, des hommes et des femmes organisent la lutte contre ces Némésis. Ces individus sont des infectés rejetés par la société et bien souvent aussi craints que les créatures elles-mêmes. Ils représentent pourtant le seul et unique rempart contre cette menace. Ce sont les sorciers ! D'après certaines rumeurs, ces monstres tomberaient d'un nid de Némésis appelé \"Radiant\". Seth, un jeune sorcier courageux et têtu, se donne pour mission de trouver ce nid dont l'existence est encore incertaine."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3309450046550"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/06/2025 21:24"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/06/2025 21:31"
+        }
+    ],
+    "main_title": "Radiant - Saison 2",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3387_video/thumbnail_big",
+    "thumbnail_mini": "db/3387_video/thumbnail_small"
+}

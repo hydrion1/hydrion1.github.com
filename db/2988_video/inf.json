@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Farinelli : il castrato"
+            "value": "Defectueux - Farinelli : il castrato"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": ""
+            "value": "Defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "23/12/2024 13:10"
+            "value": "25/06/2025 18:55"
         }
     ],
-    "main_title": "Farinelli : il castrato",
+    "main_title": "Defectueux - Farinelli : il castrato",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2988_video/thumbnail_big",
     "thumbnail_mini": "db/2988_video/thumbnail_small"
