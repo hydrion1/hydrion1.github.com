@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ghost Rider"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mark Steven Johnson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Nicolas Cage Eva Mendes Sam Elliot"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/02/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pour sauver son pere victime d'un accident le cascadeur Johnny Blaze a vendu son ame au diable. Mais ce marche a un prix qu'il ne tarde pas a decouvrir : humain la journee il devient le Rider la nuit un chasseur de primes traquant les ames echappees de l'enfer.Lorsque Roxanne est menacee Johnny decide d'utiliser ses pouvoirs pour se retourner contre son Maitre.}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "_"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3475001010292"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/09/2025 22:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/09/2025 22:32"
+        }
+    ],
+    "main_title": "Ghost Rider",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3598_video/thumbnail_big",
+    "thumbnail_mini": "db/3598_video/thumbnail_small"
+}

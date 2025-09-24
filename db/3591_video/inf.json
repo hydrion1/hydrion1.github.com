@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Potiche"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "François Ozon"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "103"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Catherine Deneuve, Gérard Depardieu, Fabrice Luchini, Karin Viard, Judith Godrèche, Jérémie Renier, Sergi López, Évelyne Dandry, Bruno Lochet, Élodie Frégé"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.48 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1977, dans une province de la bourgeoisie française, Suzanne Pujol est l’épouse popote et soumise d’un riche industriel Robert Pujol. Il dirige son usine de parapluies d’une main de fer et s’avère aussi désagréable et despote avec ses ouvriers qu’avec ses enfants et sa femme, qu’il prend pour une potiche. À la suite d’une grève et d’une séquestration de son mari, Suzanne se retrouve à la direction de l’usine et se révèle à la surprise générale une femme de tête et d’action. Mais lorsque Robert rentre d’une cure de repos en pleine forme, tout se complique…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299821474"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "12/09/2025 23:09"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/09/2025 23:10"
+        }
+    ],
+    "main_title": "Potiche",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3591_video/thumbnail_big",
+    "thumbnail_mini": "db/3591_video/thumbnail_small"
+}

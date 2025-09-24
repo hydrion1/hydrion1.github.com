@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Petit Nicolas : Qu'est-ce qu'on attend pour être heureux ?"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Amandine Fredon"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Aventure, Comédie, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "86"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Benjamin Massoubre"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/10/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Penchés sur une large feuille blanche quelque part entre Montmartre et Saint-Germain-des-Prés, Jean-Jacques Sempé et René Goscinny donnent vie à un petit garçon rieur et malicieux, le Petit Nicolas. Entre camaraderie, disputes, bagarres, jeux, bêtises, et punitions à la pelle, Nicolas vit une enfance faite de joies et d’apprentissages. Au fil du récit, le garçon se glisse dans l’atelier de ses créateurs, et les interpelle avec drôlerie. Sempé et Goscinny lui raconteront leur rencontre, leur amitié, mais aussi leurs parcours, leurs secrets et leur enfance."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001064707"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/09/2025 22:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/09/2025 23:10"
+        }
+    ],
+    "main_title": "Le Petit Nicolas : Qu'est-ce qu'on attend pour être heureux ?",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3579_video/thumbnail_big",
+    "thumbnail_mini": "db/3579_video/thumbnail_small"
+}

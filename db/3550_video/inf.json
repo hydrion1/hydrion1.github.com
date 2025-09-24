@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Fugitifs"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Francis Veber"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gérard Depardieu, Pierre Richard, Anaïs Bret, Jean Carmet, Maurice Barrier, Jean Benguigui, Roland Blanche, Philippe Lelièvre, Yveline Ailhaud, Didier Pain"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1986"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.07 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les temps sont durs pour François Pignon qui doit soigner sa fille. Il s'est même résigné à braquer une banque. Il va jusqu'à prendre en otage Jean Lucas, un ancien repris de justice sortant tout juste de prison, pourtant bien décidé à devenir honnête..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483240915"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/08/2025 07:39"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/08/2025 07:44"
+        }
+    ],
+    "main_title": "Les Fugitifs",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3550_video/thumbnail_big",
+    "thumbnail_mini": "db/3550_video/thumbnail_small"
+}

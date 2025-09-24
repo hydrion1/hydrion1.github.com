@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Alien : Covenant (4k)"
+            "value": "Alien : Covenant (4k) (6)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "08/05/2025 19:34"
+            "value": "21/09/2025 21:06"
         }
     ],
-    "main_title": "Alien : Covenant (4k)",
+    "main_title": "Alien : Covenant (4k) (6)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3277_video/thumbnail_big",
     "thumbnail_mini": "db/3277_video/thumbnail_small"

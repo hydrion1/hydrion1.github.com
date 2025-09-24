@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Predictions"
+            "value": "Défectueu Predictions"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": "Risque defectueux"
+            "value": "defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "06/06/2025 00:04"
+            "value": "20/07/2025 19:52"
         }
     ],
-    "main_title": "Predictions",
+    "main_title": "Défectueu Predictions",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2450_video/thumbnail_big",
     "thumbnail_mini": "db/2450_video/thumbnail_small"

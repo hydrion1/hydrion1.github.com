@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Garden of Words"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Makoto Shinkai"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "46"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "17.48 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Takao, qui est en apprentissage pour devenir cordonnier, sèche les cours et dessine des chaussures dans un jardin de style japonais. Il y rencontre une mystérieuse femme, Yukino, qui est plus âgée que lui. Par la suite, et sans se donner rendez-vous, ils commencent à se voir encore et encore mais seulement les jours de pluie. Ils finissent par discuter ensemble et s'ouvrent l'un à l'autre. Mais la fin de la saison des pluies approche..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700091028156"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/09/2025 21:07"
+        },
+        {
+            "name": "Date de modification",
+            "value": "24/09/2025 21:11"
+        }
+    ],
+    "main_title": "The Garden of Words",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3621_video/thumbnail_big",
+    "thumbnail_mini": "db/3621_video/thumbnail_small"
+}

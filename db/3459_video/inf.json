@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Project Itoh : <Harmony/>"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michael Arias"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Takashi Nakamura, Miyuki Sawashiro, Reina Ueda, Aya Suzaki, Yoshiko Sakakibara, Akio Ōtsuka, Shin-ichiro Miki, Chō, Junpei Morita"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après que le monde a survécu à une catastrophe planétaire, « le Maelstrom », l’humanité a fondé une société parfaite où le bien-être de chacun est devenu la priorité absolue des pouvoirs publics, grâce à la nanotechnologie médicale. Dans ce monde trop parfait, trois jeunes filles prennent la décision de mettre fin à leurs jours pour dénoncer la sur-médication et la bonté totalitaire qui règnent dans la société. Mais cette tentative échoue. Dans années plus tard, l’une de ces trois filles, Tuan Kirie, est devenue agent de l’Organisation mondiale de la Santé, celle-là même qui porte l’idéal de la « santé pour tous ». Bien que Tuan s’interroge régulièrement sur le sens de son existence, elle est rappelée à la réalité pour enquêter sur le pire événement depuis le Maelstrom : le suicide simultané de plusieurs milliers de personnes."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314991413"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/07/2025 22:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/07/2025 22:57"
+        }
+    ],
+    "main_title": "Project Itoh : <Harmony/>",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3459_video/thumbnail_big",
+    "thumbnail_mini": "db/3459_video/thumbnail_small"
+}

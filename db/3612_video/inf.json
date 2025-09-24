@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gladiator II (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ridley Scott"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Drame, Péplum"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "158"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Paul Mescal, Pedro Pascal, Denzel Washington, Joseph Quinn, Connie Nielsen, Rory McCann, Tim McInnerny, Derek Jacobi, Fred Hechinger"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/11/2024"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Des années après avoir assisté à la mort du héros vénéré Maximus aux mains de son oncle, Lucius est forcé d'entrer dans le Colisée lorsque son pays est conquis par les empereurs tyranniques qui gouvernent désormais Rome d'une main de fer. La rage au cœur et l'avenir de l'Empire en jeu, Lucius doit se tourner vers son passé pour trouver la force et l'honneur de rendre la gloire de Rome à son peuple."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432040691"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/09/2025 14:24"
+        },
+        {
+            "name": "Date de modification",
+            "value": "24/09/2025 15:38"
+        }
+    ],
+    "main_title": "Gladiator II (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3612_video/thumbnail_big",
+    "thumbnail_mini": "db/3612_video/thumbnail_small"
+}

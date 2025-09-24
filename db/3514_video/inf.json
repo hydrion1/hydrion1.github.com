@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Collier rouge"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jean Becker"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "83"
+        },
+        {
+            "name": "Acteurs",
+            "value": "François Cluzet, Nicolas Duvauchelle, Sophie Verbeeck, Jean-Quentin Chatelain, Patrick Descamps, Tobias Nuytten-Vialle, Maurane, Gilles Vandeweerd"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/03/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.15 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "5.23 €"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans une petite ville, écrasée par la chaleur de l’été, en 1919, un héros de la guerre est retenu prisonnier au fond d’une caserne déserte. Devant la porte, son chien tout cabossé aboie jour et nuit. Non loin de là, dans la campagne, une jeune femme usée par le travail de la terre, trop instruite cependant pour être une simple paysanne, attend et espère. Le juge qui arrive pour démêler cette affaire est un aristocrate dont la guerre a fait vaciller les principes. Trois personnages et, au milieu d’eux, un chien, qui détient la clef du drame…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3660485995207"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "13/08/2025 17:36"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/08/2025 07:32"
+        }
+    ],
+    "main_title": "Le Collier rouge",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3514_video/thumbnail_big",
+    "thumbnail_mini": "db/3514_video/thumbnail_small"
+}

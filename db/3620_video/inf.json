@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Collision (Crash)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Paul Haggis"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "107"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sandra Bullock, Don Cheadle, Matt Dillon, Jennifer Esposito, William Fichtner, Brendan Fraser, Terrence Howard, Ludacris, Thandiwe Newton, Ryan Phillippe, Larenz Tate, Tony Danza"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Deux voleurs de voitures. Un serrurier mexicain. Deux inspecteurs de police qui sont aussi amants. Une femme au foyer et son mari, district attorney. Tous vivent à Los Angeles. Eux et beaucoup d'autres ne se connaissent pas, leurs vies n'auraient jamais dû se croiser.\n\nPourtant, dans les prochaines 36 heures, leurs destins vont se rencontrer, révélant ce que chacun voulait cacher ou ne pas voir...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5412370831590"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/09/2025 21:07"
+        },
+        {
+            "name": "Date de modification",
+            "value": "24/09/2025 21:14"
+        }
+    ],
+    "main_title": "Collision (Crash)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3620_video/thumbnail_big",
+    "thumbnail_mini": "db/3620_video/thumbnail_small"
+}

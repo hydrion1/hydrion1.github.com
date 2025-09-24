@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Ile de Giovanni"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mizuho Nishikubo"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Drame, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/05/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "30/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.88 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "1945 : Après sa défaite, le peuple japonais vit dans la crainte des forces américaines. Au nord du pays, dans la minuscule île de Shikotan, la vie s'organise entre la reconstruction et la peur de l'invasion. Ce petit lot de terre, éloigné de tout, va finalement être annexé par l'armée russe. Commence alors une étrange cohabitation entre les familles des soldats soviétiques et les habitants de l'île que tout oppose, mais l'espoir renaît à travers l'innocence de deux enfants, Tanya et Jumpei..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700091028880"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/08/2025 21:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/08/2025 21:55"
+        }
+    ],
+    "main_title": "L'Ile de Giovanni",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3499_video/thumbnail_big",
+    "thumbnail_mini": "db/3499_video/thumbnail_small"
+}

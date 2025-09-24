@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Les Ailes d'Honnêamise"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Hiroyuki Yamaga"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Drame, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "121"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Yuji Moriyama, Fumio Iida"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1987"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.92 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "À une époque indéterminée, au royaume d'Honneamise. L'armée a vu naître en son sein une section aérospatiale avec pour but avoué d'envoyer des hommes dans l'espace, entreprise jamais réalisée jusqu'alors et régulièrement réduite à l'échec. Alors que les autorités songent à stopper les financements de la Royal Space Force, l'incrédule Shiro se porte volontaire pour une nouvelle mission, fraîchement convaincu du bien-fondé d'un tel voyage par sa rencontre avec la pieuse Riquinni. Mais les ennuis commencent avec l'entraînement et la construction d'une fusée, car le royaume traverse une crise économique et militaire qui pousse ses habitants à attendre des mesures plus sociales de la part du pouvoir."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314990560"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/09/2025 18:00"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/09/2025 18:03"
+        }
+    ],
+    "main_title": "Les Ailes d'Honnêamise",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3602_video/thumbnail_big",
+    "thumbnail_mini": "db/3602_video/thumbnail_small"
+}

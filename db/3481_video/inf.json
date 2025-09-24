@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "I Love You Phillip Morris"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Requa"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "96"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Glenn Ficarra, Jim Carrey, Ewan McGregor, Rodrigo Santoro, Leslie Mann, Ted Alderman, Nicholas Alexander, Michael Beasley"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "10/02/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.81 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L'histoire vraie d'un ex-flic, ex-mari, ex-arnaqueur aux assurances, ex-prisonnier modèle et éternel amant du codétenu Phillip Morris. Steven Russell est prêt à tout pour ne jamais être séparé de l'homme de sa vie. Ce qui implique notamment de ne pas moisir en prison. Jusqu'où peut-on aller par amour? Très loin si l'on en croit l'histoire incroyable de Steven Russell, un génie de l'évasion rattrapé par son romantisme."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3760062468442"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/08/2025 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/08/2025 10:37"
+        }
+    ],
+    "main_title": "I Love You Phillip Morris",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3481_video/thumbnail_big",
+    "thumbnail_mini": "db/3481_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Wild Wild West"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Barry Sonnenfeld"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Western"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "104"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Will Smith, Kevin Kline, Kenneth Branagh, Salma Hayek, M. Emmet Walsh"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/08/1999"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.16 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "1869. Pour neutraliser son plus puissant ennemi, le démoniaque et richissime Dr Arliss Loveless, le président des États-Unis désigne deux agents spéciaux, James West et Artemus Gordon, choisis pour leurs compétences exceptionnelles. Si James West est un champion de l'humour à froid, charmeur et rusé, Artemus, lui, prône la réflexion et passe son temps à inventer des gadgets sophistiqués. Quelque peu rivaux, les deux agents vont devoir unir leur talent pour capturer l'infame Loveless. Rita Escobar, belle et mystérieuse artiste, se joint à eux."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889132554"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/08/2025 21:48"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/08/2025 21:59"
+        }
+    ],
+    "main_title": "Wild Wild West",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3498_video/thumbnail_big",
+    "thumbnail_mini": "db/3498_video/thumbnail_small"
+}

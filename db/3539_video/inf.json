@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Abominable"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jill Culton"
+        },
+        {
+            "name": "Genre",
+            "value": "Animation, Aventure, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "97"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Todd Wilderman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/10/2019"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.85 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Tout commence sur le toit d’un immeuble à Shanghai, avec l’improbable rencontre d’une jeune adolescente, l’intrépide Yi, avec un jeune Yeti. La jeune fille et ses amis Jin et Peng vont tenter de ramener chez lui celui qu’ils appellent désormais Everest, leur nouvel et étrange ami, afin qu’il puisse retrouver sa famille sur le toit du monde. Mais pour accomplir cette mission, notre trio de choc va devoir mener une course effrénée contre Burnish, un homme puissant qui a bien l’intention de capturer la créature car elle ressemble comme deux gouttes d’eau à celle qu’il avait fortuitement rencontrée quand il était enfant"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083209742"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/08/2025 19:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/08/2025 09:16"
+        }
+    ],
+    "main_title": "Abominable",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3539_video/thumbnail_big",
+    "thumbnail_mini": "db/3539_video/thumbnail_small"
+}

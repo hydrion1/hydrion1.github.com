@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Batman - The Dark Knight, le Chevalier Noir"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christopher Nolan"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": ""
+        },
+        {
+            "name": "Acteurs",
+            "value": "Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine, Maggie Gyllenhaal, Gary Oldman, Cillian Murphy, Morgan Freeman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Médiocre"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/09/2025 22:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/09/2025 22:31"
+        }
+    ],
+    "main_title": "Batman - The Dark Knight, le Chevalier Noir",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3600_video/thumbnail_big",
+    "thumbnail_mini": "db/3600_video/thumbnail_small"
+}

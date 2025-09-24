@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gus, petit oiseau, grand voyage"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christian De Vita"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "91"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/02/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.33 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A l’heure du départ pour la grande migration, Darius, le doyen de la volée est blessé,  il va devoir confier tous ses secrets et le nouvel itinéraire du voyage au premier oiseau venu. Et cet oiseau… c’est notre héros, exalté à l’idée de découvrir enfin le monde… mais pas du tout migrateur!"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083029517"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/07/2025 23:06"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/07/2025 23:18"
+        }
+    ],
+    "main_title": "Gus, petit oiseau, grand voyage",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3472_video/thumbnail_big",
+    "thumbnail_mini": "db/3472_video/thumbnail_small"
+}

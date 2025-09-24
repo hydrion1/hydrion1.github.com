@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Willow (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ron Howard"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "125"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Val Kilmer, Joanne Whalley, Warwick Davis, Billy Barty, Jean Marsh, Patricia Hayes, Pat Roach, Gavan O'Herlihy, Phil Fondacaro, Kevin Pollak"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/11/1988"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.42 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Il était une fois un royaume peuplé de petits habitants appelés les Nelwyns. Ce peuple paisible était dominé de temps immémorial par les Daikinis, gens de grand taille gouvernés par la cruelle reine Bavmorda. Or il advint qu'un prophète annonçât la naissance d'une princesse appelée à détrôner Bavmorda. La terrible reine ordonna alors de tuer céans tous les nouveau-nés du royaume. Elora échappa au massacre et ce fut Willow, un jeune Nelwyn féru de magie, qui la recueillit. Mais Bavmorda n'avait pas dit son dernier mot..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432039817"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/07/2025 22:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/08/2025 20:46"
+        }
+    ],
+    "main_title": "Willow (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3440_video/thumbnail_big",
+    "thumbnail_mini": "db/3440_video/thumbnail_small"
+}

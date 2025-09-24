@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pièce montée"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Denys Granier-Deferre"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "93"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jérémie Renier, Clémence Poésy, Danielle Darrieux, Jean-Pierre Marielle, Christophe Alévêque, Aurore Clément, Julie Depardieu, Léa Drucker, Hélène Fillières, Julie Gayet, Dominique Lavanant, Louise Monot, Eric Savin, Charlotte de Turckheim"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "10/03/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.30 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Bérengère et Vincent se marient dans le respect des traditions bourgeoises. Selon la coutume, familles et amis se réunissent à la campagne par une belle journée de printemps. Journée joyeuse pour certains, douloureuse pour d'autres, en tous les cas déterminante et inoubliable pour tous. Mais comme les liens du sang ne sont pas toujours ceux du coeur, cette journée va vite devenir \"L'heure de vérité\", toute génération confondue..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442243179"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/09/2025 22:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/09/2025 22:24"
+        }
+    ],
+    "main_title": "Pièce montée",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3595_video/thumbnail_big",
+    "thumbnail_mini": "db/3595_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Un Thé au Sahara"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Bernardo Bertolucci"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "135"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Debra Winger, John Malkovich, Campbell Scott, Jill Bennett, Timothy Spall, Eric Vu-An, Tom Novembre, Nicoletta Braschi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "21/11/1990"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1947 un jeune couple d'Americains, Port Moresby et Kit, partent pour l'Afrique à la recherche de leur amour que la civilisation d'après-guerre perturbe. Pour Bertolucci le livre de Bowles \"raconte une belle histoire d'amour, une histoire d'amour banale entre deux personnes très compliquées qui s'adorent mais ne peuvent pas trouver le bonheur ensemble\"."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391573737"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/08/2025 08:36"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/08/2025 08:43"
+        }
+    ],
+    "main_title": "Un Thé au Sahara",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3525_video/thumbnail_big",
+    "thumbnail_mini": "db/3525_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Midway"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Roland Emmerich"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Historique, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "139"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ed Skrein, Patrick Wilson, Luke Evans, Aaron Eckhart, Woody Harrelson, Nick Jonas, Mandy Moore, Dennis Quaid, Luke Kleintank, Keean Johnson"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/11/2019"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.18 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après la débâcle de Pearl Harbor qui a laissé la flotte américaine dévastée, la marine impériale japonaise prépare une nouvelle attaque qui devrait éliminer définitivement les forces aéronavales restantes de son adversaire. La campagne du Pacifique va se jouer dans un petit atoll isolé du Pacifique nord : Midway.\n\nL’amiral Nimitz, à la tête de la flotte américaine, voit cette bataille comme l’ultime chance de renverser la supériorité japonaise. Une course contre la montre s’engage alors pour Edwin Layton qui doit percer les codes secrets de la flotte japonaise et, grâce aux renseignements, permettre aux pilotes de l’aviation américaine de faire face à la plus grande offensive jamais menée pendant ce conflit\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/07/2025 17:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/07/2025 18:01"
+        }
+    ],
+    "main_title": "Midway",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3447_video/thumbnail_big",
+    "thumbnail_mini": "db/3447_video/thumbnail_small"
+}

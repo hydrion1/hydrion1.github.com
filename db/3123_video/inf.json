@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Deux frères"
+            "value": "Defectueu Deux frères"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": "Risque defectueux"
+            "value": "defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "05/06/2025 23:39"
+            "value": "20/07/2025 20:51"
         }
     ],
-    "main_title": "Deux frères",
+    "main_title": "Defectueu Deux frères",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3123_video/thumbnail_big",
     "thumbnail_mini": "db/3123_video/thumbnail_small"

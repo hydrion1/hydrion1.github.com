@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pokemon Stadium (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo 64"
+        },
+        {
+            "name": "Genre",
+            "value": "Nintendo 64"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "29/02/2000"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/09/2025"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "06/09/2025 14:10"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/09/2025 14:12"
+        }
+    ],
+    "main_title": "Nintendo 64",
+    "sub_title": "Pokemon Stadium (loose)",
+    "thumbnail_big": "db/1364_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1364_videogame/thumbnail_small"
+}

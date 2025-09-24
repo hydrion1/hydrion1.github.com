@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Les Femmes du 6e étage"
+            "value": "Defectueux Les Femmes du 6e étage"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": "Risque defectueux"
+            "value": "defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "05/06/2025 23:45"
+            "value": "20/07/2025 19:19"
         }
     ],
-    "main_title": "Les Femmes du 6e étage",
+    "main_title": "Defectueux Les Femmes du 6e étage",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2781_video/thumbnail_big",
     "thumbnail_mini": "db/2781_video/thumbnail_small"

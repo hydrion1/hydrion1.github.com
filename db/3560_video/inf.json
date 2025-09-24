@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Guerre des mondes (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steven Spielberg"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Fantastique, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "112"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Cruise, Dakota Fanning, Miranda Otto, Tim Robbins, Justin Chatwin, Rick Gonzalez, Yul Vazquez, Lenny Venito"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.90 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Ray Ferrier est un docker divorcé et un père rien moins que parfait, qui n'entretient plus que des relations épisodiques avec son fils Robbie, 17 ans, et sa fille Rachel, 11 ans. Quelques minutes après que son ex-femme et l'époux de cette dernière lui ont confié la garde des enfants, un puissant orage éclate. Ray assiste alors à un spectacle qui bouleversera à jamais sa vie..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083216863"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "05/09/2025 16:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "05/09/2025 16:36"
+        }
+    ],
+    "main_title": "La Guerre des mondes (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3560_video/thumbnail_big",
+    "thumbnail_mini": "db/3560_video/thumbnail_small"
+}

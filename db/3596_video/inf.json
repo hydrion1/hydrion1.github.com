@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Elektra"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rob Bowman"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jennifer Garner, Goran Visnjic, Will Yun Lee, Cary-Hiroyuki Tagawa, Terence Stamp, Kirsten Zien, Natassia Malthe, Bob Sapp, Chris Ackerman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/03/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.82 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Elektra, la tueuse légendaire, a pour mission de liquider ses nouveaux voisins, Mark Miller et sa fille Abby, que poursuit la puissante et maléfique organisation \"La Main\". Mais impulsivement, la belle se retourne contre ses commanditaires et décide de sauver ses proies..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428038717"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/09/2025 22:21"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/09/2025 22:32"
+        }
+    ],
+    "main_title": "Elektra",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3596_video/thumbnail_big",
+    "thumbnail_mini": "db/3596_video/thumbnail_small"
+}

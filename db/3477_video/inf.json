@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Charlotte - L'Intégrale"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Yoshiyuki Asai"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Anime, Comédie, Drame, Fantastique, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "13"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tomoaki Ohta, Mitsutaka Noshitani, Toshiya Shinohar, Fumihiko Suganuma, Ken'ichi Imaizumi, Tôru Yoshida"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "37.55 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L'histoire nous entraîne dans un monde où certains enfants, durant la puberté, développent des pouvoirs spéciaux. Yuu Otosaka, à la capacité de pouvoir se glisser et de contrôler entièrement le corps d'une personne, mais seulement durant cinq secondes. Yuu a utilisé cette compétence durant des années pour atteindre ses objectifs, ce qui lui a permis de pouvoir rentrer dans un lycée prestigieux. Un jour, il est pris la main dans le sac par l'énigmatique, Nao Tomori. Ne pouvant plus reculer, lui et sa sœur Ayumi sont contraints d'être transférés à l'Académie Hoshi-no-umi, un établissement pour des étudiants aux capacités surnaturelles."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/07/2025 23:22"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/07/2025 23:28"
+        }
+    ],
+    "main_title": "Charlotte - L'Intégrale",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3477_video/thumbnail_big",
+    "thumbnail_mini": "db/3477_video/thumbnail_small"
+}

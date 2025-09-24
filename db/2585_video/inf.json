@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Predator (4k)"
+            "value": "Predator The (2018 ou episode 4) (4k)"
         },
         {
             "name": "Réalisateur(s)",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date de sortie (DVD)",
-            "value": "01/01/1987"
+            "value": "17/10/2018"
         },
         {
             "name": "Date d'achat",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Visionné",
-            "value": ""
+            "value": "Oui"
         },
         {
             "name": "Producteur",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "07/06/2024 20:15"
+            "value": "21/09/2025 21:04"
         }
     ],
-    "main_title": "Predator (4k)",
+    "main_title": "Predator The (2018 ou episode 4) (4k)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2585_video/thumbnail_big",
     "thumbnail_mini": "db/2585_video/thumbnail_small"

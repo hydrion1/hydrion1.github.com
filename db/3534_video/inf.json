@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Itinéraire d'un enfant gâté"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Claude Lelouch"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "124"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean-Paul Belmondo, Richard Anconina, Jean-Philippe Chatrier, Daniel Gélin, Marie-Sophie L., Michel Beaune, Béatrice Agenin, Lio, Pierre Vernier, Paul Belmondo"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/11/1988"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.73 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sam Lion a été élevé dans le milieu du cirque puis a du faire une reconversion forcée comme chef d'entreprise. Mais la cinquantaine passée, il se lasse de ses responsabilités et de son fils, Jean-Philippe, dont la collaboration ne lui est pas d'un grand secours. Il décide d'employer les grands moyens et de disparaître en Afrique. Mais son passé va l'y rattraper en la personne d'Albert Duvivier, un de ses anciens employés..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700173228481"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/08/2025 19:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/08/2025 09:16"
+        }
+    ],
+    "main_title": "Itinéraire d'un enfant gâté",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3534_video/thumbnail_big",
+    "thumbnail_mini": "db/3534_video/thumbnail_small"
+}

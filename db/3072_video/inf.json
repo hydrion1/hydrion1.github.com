@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Labyrinthe de Pan (Le) (El laberinto del fauno)"
+            "value": "Defectueux Labyrinthe de Pan (Le) (El laberinto del fauno)"
         },
         {
             "name": "Réalisateur(s)",
@@ -74,7 +74,7 @@
         },
         {
             "name": "Commentaires",
-            "value": "Risque defectueux"
+            "value": "defectueux"
         },
         {
             "name": "Autres infos",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "05/06/2025 23:56"
+            "value": "20/07/2025 18:39"
         }
     ],
-    "main_title": "Labyrinthe de Pan (Le) (El laberinto del fauno)",
+    "main_title": "Defectueux Labyrinthe de Pan (Le) (El laberinto del fauno)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3072_video/thumbnail_big",
     "thumbnail_mini": "db/3072_video/thumbnail_small"

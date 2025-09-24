@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hatchi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Lasse Hallström"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "93"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Richard Gere, Joan Allen, Cary-Hiroyuki Tagawa, Sarah Roemer, Jason Alexander, Erick Avari, Davenia McFadden, Robbie Sublett"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/06/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.94 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pour Parker, professeur de musique à l'université, l'arrivée du chien Hatchi dans la famille fut un heureux événement. L'animal prit sa place auprès de chacun, mais c'est avec Parker qu'il passait le plus de temps. Chaque matin, le chien accompagnait son maître à la gare où il prenait son train, et chaque soir, l'animal venait l'y attendre. Cet attendrissant rituel rythmait la vie de tous ceux qui en étaient témoins... jusqu'au jour tragique où Parker ne revint pas. Hatchi continua à l'attendre. Il l'attendit chaque jour, jusqu'à la fin. À force de fidélité et de patience, l'animal devint non seulement une légende, mais il bouleversa tous ceux qui connurent son histoire."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391355340"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/08/2025 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/08/2025 10:36"
+        }
+    ],
+    "main_title": "Hatchi",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3479_video/thumbnail_big",
+    "thumbnail_mini": "db/3479_video/thumbnail_small"
+}

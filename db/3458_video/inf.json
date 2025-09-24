@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Claymore - Intégrale"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Hiroyuki Tanaka"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "26"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2007"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "4"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "22.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans un monde attaqué sans cesse par les yomas, des démons pouvant prendre l'apparence et la mémoire d'êtres humains, un groupe fut crée, Les Claymores. Ce groupe n'est constitué que de femmes mi-humaines mi-yomas et possédant des yeux argentés. Ces femmes vivent en marge de société car elles sont craintes par les humains en raison de leur origine. Un jour, un yoma attaque le village où Raki vit avec ses parents qui se font atrocement tuéer Afin d'éliminer ce yoma, le chef du village fait alors appel aux Claymores. C'est ainsi que le jeune orphelin fera la connaissance de Claire, une Claymore qu'il suivra dans ses missions."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700091033105"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/07/2025 22:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/07/2025 22:56"
+        }
+    ],
+    "main_title": "Claymore - Intégrale",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3458_video/thumbnail_big",
+    "thumbnail_mini": "db/3458_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Into the Wild"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Sean Penn"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Drame, Biopic"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "148"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Emile Hirsch, Marcia Gay Harden, William Hurt, Jena Malone, Catherine Keener, Hal Holbrook, Brian Dierker, Vince Vaughn"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/01/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Tout juste diplômé de l'université, Christopher McCandless, 22 ans, est promis à un brillant avenir. Pourtant, tournant le dos à l'existence confortable et sans surprise qui l'attend, le jeune homme décide de prendre la route en laissant tout derrière lui.\n\nDes champs de blé du Dakota aux flots tumultueux du Colorado, en passant par les communautés hippies de Californie, Christopher va rencontrer des personnages hauts en couleur. Chacun, à sa manière, va façonner sa vision de la vie et des autres.\n\nAu bout de son voyage, Christopher atteindra son but ultime en s'aventurant seul dans les étendues sauvages de l'Alaska pour vivre en totale communion avec la nature.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Risque defectueux\nVérifié 2025/08"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330033279"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/08/2025 08:36"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/08/2025 08:40"
+        }
+    ],
+    "main_title": "Into the Wild",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3519_video/thumbnail_big",
+    "thumbnail_mini": "db/3519_video/thumbnail_small"
+}

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Loup"
+            "value": "Défectueu Loup"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "04/01/2025 19:47"
+            "value": "15/09/2025 10:07"
         }
     ],
-    "main_title": "Loup",
+    "main_title": "Défectueu Loup",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2992_video/thumbnail_big",
     "thumbnail_mini": "db/2992_video/thumbnail_small"

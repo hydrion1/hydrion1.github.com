@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Grease"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Randal Kleiser"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie musicale, Comédie, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "105"
+        },
+        {
+            "name": "Acteurs",
+            "value": "John Travolta, Olivia Newton-John, Stockard Channing, Jeff Conaway, Barry Pearl, Frankie Avalon, Michael Biehn"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/10/1978"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "\nA la fin des vacances d'été, les amoureux Danny Zuko et Sandy Olsson, une jeune Australienne de bonne famille, doivent se séparer.\n\nA son retour au lycée Rydell, le jeune homme retrouve sa bande, les T-birds, blousons de cuir et cheveux gominés. Les parents de Sandy ayant décidé de s'installer aux Etats-Unis, la demoiselle intègre la même école...\n\nPassé la surprise des retrouvailles et pour faire bonne figure devant ses copains, Danny adopte une attitude désinvolte qui laisse la jeune fille totalement désemparée. Sandy rejoint alors les Pink Ladies, le pendant féminin des T-Birds.\n\nS'ensuit un jeu du chat et de la souris entre les deux tourtereaux, le tout rythmé par les événements de leur vie de lycéens : démarrage de la saison de football américain, bal de promotion, course de voitures, soirées entre filles, entre garçons, au fast-food, au drive-in...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8714865331057"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/08/2025 08:36"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/08/2025 08:45"
+        }
+    ],
+    "main_title": "Grease",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3521_video/thumbnail_big",
+    "thumbnail_mini": "db/3521_video/thumbnail_small"
+}

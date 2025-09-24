@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dogman"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Luc Besson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "115"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Caleb Landry Jones, Jojo T. Gibbs, Christopher Denham, Clemens Schick, John Charles Aguilar, Grace Palma, Iris Bry, Marisa Berenson"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/09/2023"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L’incroyable histoire d’un enfant, meurtri par la vie, qui trouvera son salut grâce à l’amour que lui portent ses chiens."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432020266"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/09/2025 22:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/09/2025 22:14"
+        }
+    ],
+    "main_title": "Dogman",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3587_video/thumbnail_big",
+    "thumbnail_mini": "db/3587_video/thumbnail_small"
+}

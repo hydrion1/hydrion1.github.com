@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Disco"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Fabien Onteniente"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "103"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Franck Dubosc, Emmanuelle Béart, Gérard Depardieu, Samuel Le Bihan, Abbes Zahmani, Annie Cordy, Isabelle Nanty, François-Xavier Demaison"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/04/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.67 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Endetté jusqu'au cou dans une affaire de water bed, Didier Travolta, 40 ans, vit au Havre dans le quartier populaire du Grand Large chez sa maman : Madame Graindorge. Il reçoit une lettre de la mère de son fils Brian, 8 ans, qui vit en Angleterre, lui signifiant qu'il ne pourra pas recevoir le petit cette année s'il n'est pas capable de lui payer des vacances, des vraies vacances, c'est à dire loin des Docks, des PMU et des grandes surfaces.\n\nJean-François Jackson et son associée \"La Baronne\" viennent de réouvrir le mythique Gin Fizz et de fonder la \"Gin Fizz Academy\" afin de relancer ce qui fit sa légende, les concours de danse Disco.\n\nLe premier prix : un voyage de deux semaines pour deux personnes en Australie, au pays des kangourous. Didier Travolta décide alors de rechausser les boots et de reformer son trio de danse, celui qui faisait mal dans les années 80 dans la région du Havre : les BEE KINGS.\n\nLe disco est de retour !\n\nAprès avoir retrouvé et décidé ses anciens partenaires, Neuneuil, vendeur chez Darty et Walter, grutier-docker syndicaliste, de reprendre pour la bonne cause le chemin du Dance Floor, Didier Travolta se lance à fond dans l'aventure. Mais les années ont passé. Les BEE KINGS sont rouillés.\n\nSon passeport pour le succès s'appelle France Navarre de retour de New York, professeur de danse classique.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582560930"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/08/2025 22:44"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/08/2025 22:52"
+        }
+    ],
+    "main_title": "Disco",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3503_video/thumbnail_big",
+    "thumbnail_mini": "db/3503_video/thumbnail_small"
+}

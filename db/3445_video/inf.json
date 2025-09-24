@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Titeuf : Le Film"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Zep"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "87"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/04/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": ""
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Catastrophe ! Nadia fête son anniversaire et Titeuf n’est pas invité ! Pourquoi ? Comment a-t-elle pu l’oublier alors qu’il soigne son attitude over-séductive à chaque fois qu’il la croise ? Mais un séisme plus important encore va secouer la vie de Titeuf et la faire basculer dans le chaos car décidément les adultes, une fois de plus, sont vraiment trop nuls… Titeuf, pareil à lui-même, va tenter de comprendre ce qui lui arrive et va multiplier les stratagèmes désastreux pour réparer sa vie… tout en ne perdant pas de vue son objectif : être invité à l’anniversaire de Nadia !"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330040666"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/07/2025 17:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/07/2025 18:01"
+        }
+    ],
+    "main_title": "Titeuf : Le Film",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3445_video/thumbnail_big",
+    "thumbnail_mini": "db/3445_video/thumbnail_small"
+}

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Prometheus (4k)"
+            "value": "Prometheus (4k) (Alien 5)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "08/05/2025 19:34"
+            "value": "21/09/2025 21:06"
         }
     ],
-    "main_title": "Prometheus (4k)",
+    "main_title": "Prometheus (4k) (Alien 5)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3278_video/thumbnail_big",
     "thumbnail_mini": "db/3278_video/thumbnail_small"

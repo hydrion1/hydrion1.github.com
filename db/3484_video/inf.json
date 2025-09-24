@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "White Tiger"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Karen Shakhnazarov"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Fantastique, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "104"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Aleksey Vertkov, Vitaliy Kishchenko, Valeriy Grishko, Dmitriy Bykovskiy-Romashov, Gerasim Arkhipov, Aleksandr Vakhov"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.81 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Eté 1943 sur le front russe. La Seconde Guerre mondiale touche à sa fin. Les terribles combats qui s’éternisent épuisent les deux camps. Chaque fois que les troupes soviétiques prennent de l’assurance, un énorme tank allemand surnommé « Le Tigre Blanc » surgit tel un spectre dans la fumée des combats, pilonne l’ennemi sans pitié puis disparaît subitement. Le commandement russe décide alors de construire un tank spécial, le T-34, pour lutter contre « Le Tigre Blanc ». Pour le piloter, Ivan Naïdenov, qui, bien que brûlé à 90% lors d’une attaque, a miraculeusement survécu. La chasse au monstre d’acier commence..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391591915"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/08/2025 10:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/08/2025 10:37"
+        }
+    ],
+    "main_title": "White Tiger",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3484_video/thumbnail_big",
+    "thumbnail_mini": "db/3484_video/thumbnail_small"
+}

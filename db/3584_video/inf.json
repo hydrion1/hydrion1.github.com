@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ruby, l'ado Kraken"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kirk DeMicco"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Anime, Aventure, Comédie, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Faryn Pearl"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/06/2023"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Âgée de 16 ans, Ruby Gillman est aussi maladroite qu’adorable. Elle tente désespérément de trouver sa place au lycée d’Oceanside, où elle a l’impression d’être totalement transparente. Elle donne des cours de soutien en maths à un jeune skater dont elle est secrètement amoureuse, mais qui ne semble admirer chez elle que sa capacité à résoudre des équations. Et de toute façon, elle ne peut pas fréquenter les élèves les plus intéressants du lycée, car sa mère qui la surprotège, lui a formellement interdit de se baigner dans l’océan. Mais le jour où elle lui désobéit et brise cette règle d’or, elle découvre qu’elle est la descendante directe de la lignée des reines guerrières Kraken, et qu’elle est destinée à monter sur le trône jusque-là occupé par sa grand-mère : la reine guerrière des Sept mers. Les Kraken ont prêté serment de protéger les océans du monde entier de la cupidité et de la vanité des sirènes, leurs ennemies jurées. Le seul véritable problème pour Ruby est qu’elle va donc devoir s’opposer à Chelsea, la nouvelle la plus jolie et la plus populaire du lycée qui se trouve justement être une sirène. Ruby devra alors embrasser son destin et s’imposer pour protéger ceux qu’elle aime le plus"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083265465"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/09/2025 22:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/09/2025 22:14"
+        }
+    ],
+    "main_title": "Ruby, l'ado Kraken",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3584_video/thumbnail_big",
+    "thumbnail_mini": "db/3584_video/thumbnail_small"
+}

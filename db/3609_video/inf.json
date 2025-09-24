@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Cercle rouge (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jean-Pierre Melville"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "140"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Alain Delon, Bourvil, Gian Maria Volontè, Yves Montand, Paul Crauche, Paul Amiot, Pierre Collet, André Ekyan, François Périer"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/10/1970"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le commissaire Mattei, de la brigade criminelle, est chargé de convoyer le détenu Vogel dans le train de nuit reliant Marseille à Paris. Malgré toutes les précautions prises, ce dernier parvient à s’évader en pleine campagne. Au même moment, un homme nommé Corey sort de prison après cinq années de détention. Il décide de se rendre à Paris car l’un des gardiens lui a parlé d’un coup à faire dans une bijouterie place Vendôme. Alors que Corey fait une halte dans un restaurant, Vogel trouve refuge dans le coffre de sa voiture. Le conducteur le repère et les deux hommes font connaissance. Ensemble, ils vont œuvrer sur le casse, bientôt rejoints par Jansen, un ancien flic devenu criminel..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083224288"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/09/2025 16:32"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/09/2025 16:38"
+        }
+    ],
+    "main_title": "Le Cercle rouge (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3609_video/thumbnail_big",
+    "thumbnail_mini": "db/3609_video/thumbnail_small"
+}

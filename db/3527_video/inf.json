@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Bounty"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Roger Donaldson"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Drame, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "132"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Mel Gibson, Anthony Hopkins, Laurence Olivier, Edward Fox, Daniel Day-Lewis, Bernard Hill, Liam Neeson, Phil Davis"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/06/1984"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/08/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.12 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le 23 décembre 1787, la frégate Bounty de la Royal Navy appareille depuis l’Angleterre en direction de Tahiti où, sur ordre du roi George et de l’Amirauté, elle doit charger des arbres à pain. Si la première partie du voyage se déroule sans incident majeur, les relations se tendent entre le capitaine Bligh et l’équipage à l’issue de plusieurs tentatives ratées de franchir le cap Horn. C’est cependant le retour qui marquent la rupture entre les marins et leur commandant, les premiers n’acceptant plus la discipline de fer imposée à bord du navire après avoir passé plusieurs mois au paradis. La révolte gronde, menée par le capitaine en second Fletcher Christian…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3573310012553"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/08/2025 14:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/08/2025 14:24"
+        }
+    ],
+    "main_title": "Le Bounty",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3527_video/thumbnail_big",
+    "thumbnail_mini": "db/3527_video/thumbnail_small"
+}

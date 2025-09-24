@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Excalibur"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Boorman"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Drame, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "135"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Nigel Terry, Helen Mirren, Nicholas Clay, Cherie Lunghi, Nicol Williamson"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/05/1981"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.51 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Uter Pendragon reçoit de Merlin l'Enchanteur l'épée mythique Excalibur. A la mort d'Uter, l'épée reste figée dans une stèle de granit. Seul le jeune Arthur, fils illégitime d'Uter parvient à brandir l'épée Excalibur et devient par ce geste le roi d'Angleterre. Quelques années plus tard, il épouse Guenièvre et réunit les Chevaliers de la Table Ronde. Mais sa demi-soeur, la méchante Morgane, parvient à avoir un fils d'Arthur qui va le pousser à sa perte..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051891024014"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/07/2025 22:06"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/07/2025 22:54"
+        }
+    ],
+    "main_title": "Excalibur",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3455_video/thumbnail_big",
+    "thumbnail_mini": "db/3455_video/thumbnail_small"
+}

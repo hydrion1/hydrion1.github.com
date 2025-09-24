@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Gentleman d'Epsom"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gilles Grangier"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "82"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Gabin, Louis de Funès, Madeleine Robinson, Franck Villard, Jean Lefebvre"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/10/1962"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.12 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Chef d'escadron en retraite, issu d'une honorable famille, Richard Briand-Charmery est un escroc renommé dans le milieu hippique pour les \"tuyaux\" qu'il distribue aux parieurs. Malgré les coquets pourcentages qu'il reçoit sur ses menus conseils, sa fortune subit des fluctuations parfois embarrassantes. C'est lors d'une période de vache maigre qu'il rencontre Maud. Pour la séduire il faut être gentleman, et donc flamboyant, se dit le Commandant. Voilà qui n'est décidément pas bon pour sa bourse..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483280638"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/07/2025 16:01"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/07/2025 16:09"
+        }
+    ],
+    "main_title": "Le Gentleman d'Epsom",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3452_video/thumbnail_big",
+    "thumbnail_mini": "db/3452_video/thumbnail_small"
+}

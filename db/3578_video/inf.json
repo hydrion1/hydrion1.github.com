@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Retour du héros"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Laurent Tirard"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean Dujardin, Mélanie Laurent, Noémie Merlant, Féodor Atkine, Evelyne Buyle, Christian Bujeau, Fabienne Galula, Laurent Bateau"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/02/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.57 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Elisabeth est droite, sérieuse et honnête. Le capitaine Neuville est lâche, fourbe et sans scrupules. Elle le déteste. Il la méprise. Mais en faisant de lui un héros d'opérette, elle est devenue, malgré elle, responsable d'une imposture qui va très vite la dépasser… "
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083156947"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/09/2025 22:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "10/09/2025 23:08"
+        }
+    ],
+    "main_title": "Le Retour du héros",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3578_video/thumbnail_big",
+    "thumbnail_mini": "db/3578_video/thumbnail_small"
+}

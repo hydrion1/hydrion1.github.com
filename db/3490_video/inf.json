@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Reflection - Wave One"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Hiroshi Nagahama"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique, Anime, Action"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "13"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "22/07/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.18 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après The Reflection, des personnes sur Terre ont acquis des super pouvoirs. Certains deviennent des héros et d’autres des méchants. Comment The Reflection est-il arrivé ? Avec de nombreux mystères non résolus, le monde est entraîné dans la tourmente…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314993110"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/08/2025 11:01"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/08/2025 11:13"
+        }
+    ],
+    "main_title": "The Reflection - Wave One",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/3490_video/thumbnail_big",
+    "thumbnail_mini": "db/3490_video/thumbnail_small"
+}

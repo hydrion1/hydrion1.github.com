@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Masque de Zorro"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Martin Campbell"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "136"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Anthony Hopkins, Antonio Banderas, Catherine Zeta-Jones, Stuart Wilson, Matt Letscher, José María de Tavira, Maury Chaykin, L.Q. Jones"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/10/1998"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/07/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.18 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après vingt ans de prison, Don Diego de La Vega, alias Zorro, qui a autrefois combattu avec succès l'oppression espagnole et qui est toujours poursuivi par la haine du gouverneur Rafael Montero, se cherche un successeur. Il rencontre alors un jeune brigand, Alejandro Murieta, qui a lui aussi quelques comptes a régler avec l'ancien gouverneur. Apres une formation complète, de La Vega remet a son élève le masque de Zorro, son épée et son fouet et l'envoie déjouer le sinistre complot de Montero visant a confisquer la Californie au Mexique."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299261027"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/07/2025 17:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/07/2025 18:00"
+        }
+    ],
+    "main_title": "Le Masque de Zorro",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3444_video/thumbnail_big",
+    "thumbnail_mini": "db/3444_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Space Cowboys"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Clint Eastwood"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "130"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Clint Eastwood, Tommy Lee Jones, Donald Sutherland, James Garner, James Cromwell"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/09/2000"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.17 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1958, les astronautes Frank Corvin, Hawk Hawkins, Jerry O'Neill et Tank Sullivan se préparent pour une mission spatiale mais, au dernier moment, la Nasa leur préfère un singe. Quarante-deux ans plus tard, le satellite russe de communication Ikon menace de s’écraser sur la Terre. Corvin est le seul homme capable de maitriser l'antique système de guidage, calqué sur celui qu'il avait conçu quelques décennies plus tôt pour Skylab. Il accepte la mission, à condition que ses trois compagnons partent avec lui..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "7321950828487"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/09/2025 21:07"
+        },
+        {
+            "name": "Date de modification",
+            "value": "24/09/2025 21:19"
+        }
+    ],
+    "main_title": "Space Cowboys",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3619_video/thumbnail_big",
+    "thumbnail_mini": "db/3619_video/thumbnail_small"
+}
