@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Cool World (Import ES)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Ralph Bakshi"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Comédie, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "101"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kim Basinger, Gabriel Byrne, Brad Pitt, Frank Sinatra Jr., Michele Abrams, Deirdre O'Connell"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1992"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/10/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.82 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A la suite d'un accident de voiture dans lequel sa mère est tuée, Frank Harris est \"kidnappé\" par un personnage de bande dessinée..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8436558202139"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/10/2025 21:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/10/2025 19:03"
+        }
+    ],
+    "main_title": "Cool World (Import ES)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3654_video/thumbnail_big",
+    "thumbnail_mini": "db/3654_video/thumbnail_small"
+}

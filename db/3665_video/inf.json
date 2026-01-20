@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Rançon de la gloire"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Xavier Beauvois"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "114"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Benoît Poelvoorde, Roschdy Zem, Séli Gmach, Chiara Mastroianni, Nadine Labaki, Peter Coyote"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/01/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/10/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.40 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Vevey, une petite ville au bord du lac Léman, 1977.\n\nTout juste sorti de prison, Eddy est accueilli par son ami Osman. Ils ont tous deux convenu d’un marché. Osman héberge Eddy, en échange de quoi celui-ci s’occupe de sa fille de sept ans, Samira, le temps que sa femme Noor subisse des examens à l’hôpital. Mais en cette veille de Noël, le manque d’argent se fait cruellement sentir. Aussi, lorsque la télévision annonce la mort du richissime comédien Charlie Chaplin, Eddy a une idée : subtiliser le cercueil de l’acteur et demander une rançon à la famille !\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3660485998192"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/10/2025 19:22"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/10/2025 19:38"
+        }
+    ],
+    "main_title": "La Rançon de la gloire",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3665_video/thumbnail_big",
+    "thumbnail_mini": "db/3665_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Fille du train"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tate Taylor"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Emily Blunt, Haley Bennett, Rebecca Ferguson, Justin Theroux, Luke Evans, Édgar Ramírez, Laura Prepon, Allison Janney, Lisa Kudrow"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/10/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/12/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Rachel prend tous les jours le même train et passe tous les jours devant la même maison. Dévastée par son divorce, elle fantasme sur le couple qui y vit et leur imagine une vie parfaite… jusqu’au jour où elle est le témoin d’un événement extrêmement choquant et se retrouve malgré elle étroitement mêlée à un angoissant mystère."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8713045248826"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/12/2025 16:49"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/12/2025 16:54"
+        }
+    ],
+    "main_title": "La Fille du train",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3734_video/thumbnail_big",
+    "thumbnail_mini": "db/3734_video/thumbnail_small"
+}

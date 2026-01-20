@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Contagion"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steven Soderbergh"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Marion Cotillard, Matt Damon, Laurence Fishburne, Jude Law, Kate Winslet, Bryan Cranston, Jennifer Ehle, Gwyneth Paltrow"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/11/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/10/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.40 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Une pandémie dévastatrice explose à l’échelle du globe… Au Centre de Prévention et de Contrôle des Maladies, des équipes se mobilisent pour tenter de décrypter le génome du mystérieux virus, qui ne cesse de muter. Le Sous-Directeur Cheever, confronté à un vent de panique collective, est obligé d’exposer la vie d’une jeune et courageuse doctoresse. Tandis que les grands groupes pharmaceutiques se livrent une bataille acharnée pour la mise au point d’un vaccin, le Dr. Leonora Orantes, de l’OMS, s’efforce de remonter aux sources du fléau. Les cas mortels se multiplient, jusqu’à mettre en péril les fondements de la société, et un blogueur militant suscite une panique aussi dangereuse que le virus en déclarant qu’on \"cache la vérité\" à la population…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889233664"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/10/2025 19:22"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/01/2026 22:15"
+        }
+    ],
+    "main_title": "Contagion",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3664_video/thumbnail_big",
+    "thumbnail_mini": "db/3664_video/thumbnail_small"
+}

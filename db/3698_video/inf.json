@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Abyss"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "James Cameron"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Drame, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "165"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ed Harris, Mary Elizabeth Mastrantonio, Michael Biehn, Leo Burmester, Todd Graff, John Bedford Lloyd, J.C. Quinn, Kimberly Scott, Dick Warlock"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/09/1989"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/10/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "19.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un commando de la Marine américaine débarque à bord de la station de forage sous-marine DeepCore, afin de porter secours à un sous-marin échoué dans les profondeurs. L'équipe de Bud Brigman accueille ces nouveaux arrivants, ainsi que Lindsey, future ex-femme de Bud. Alors que les travaux de récupération commencent autour du submersible naufragé, l'équipage de DeepCore doit faire face à des phénomènes inexpliqués. Et s'ils n'étaient pas seuls, dans les abysses ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432034614"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/11/2025 15:02"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/11/2025 15:06"
+        }
+    ],
+    "main_title": "Abyss",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3698_video/thumbnail_big",
+    "thumbnail_mini": "db/3698_video/thumbnail_small"
+}

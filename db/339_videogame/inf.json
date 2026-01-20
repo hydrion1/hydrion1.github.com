@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Lemmings"
+            "value": "Lemmings (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/11/2025 19:08"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "Lemmings",
-    "thumbnail_big": "",
-    "thumbnail_mini": ""
+    "sub_title": "Lemmings (CIB)",
+    "thumbnail_big": "db/339_videogame/thumbnail_big",
+    "thumbnail_mini": "db/339_videogame/thumbnail_small"
 }

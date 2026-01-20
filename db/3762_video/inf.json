@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Journée de la jupe"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jean-Paul Lilienfeld"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "88"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Isabelle Adjani, Denis Podalydès, Yann Collette, Nathalie Besançon, Marc Citti, Khalid Berkouz"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/03/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/01/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.02 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sonia Bergerac, professeur dans un collège, est au bord de la dépression nerveuse depuis que son mari l'a quittée. Un matin, elle découvre une arme cachée dans le sac d'un élève. Elle s'en empare et, involontairement, tire sur l'un d'entre eux. Paniquée, elle prend la classe en otage..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3453279696037"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "19/01/2026 23:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/01/2026 08:14"
+        }
+    ],
+    "main_title": "La Journée de la jupe",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3762_video/thumbnail_big",
+    "thumbnail_mini": "db/3762_video/thumbnail_small"
+}

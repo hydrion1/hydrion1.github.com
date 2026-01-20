@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Colline aux coquelicots"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Goro Miyazaki"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Drame, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/01/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/12/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.08 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Umi est une jeune lycéenne qui vit dans une vieille bâtisse perchée au sommet d’une colline surplombant le port de Yokohama. Chaque matin, depuis que son père a disparu en mer, elle hisse face à la baie deux pavillons, comme un message lancé à l’horizon. Au lycée, quelqu’un a même écrit un article sur cet émouvant signal dans le journal du campus. C’est peut-être l’intrépide Shun, le séduisant jeune homme qu’Umi n’a pas manqué de remarquer. Attirés l’un par l’autre, les deux jeunes gens vont partager de plus en plus d’activités, de la sauvegarde du vieux foyer jusqu’à la rédaction du journal. Pourtant, leur relation va prendre un tour inattendu avec la découverte d’un secret qui entoure leur naissance et semble les lier…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700301059994"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/12/2025 14:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/12/2025 14:32"
+        }
+    ],
+    "main_title": "La Colline aux coquelicots",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3743_video/thumbnail_big",
+    "thumbnail_mini": "db/3743_video/thumbnail_small"
+}

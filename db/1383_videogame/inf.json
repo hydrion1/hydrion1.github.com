@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Wars Trilogy: Apprentice of the Force (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy Advance"
+        },
+        {
+            "name": "Genre",
+            "value": "Action - Aventure"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "21/09/2004"
+        },
+        {
+            "name": "Editeur",
+            "value": "Ubisoft"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/11/2025"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "13.61 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Cartouche Game Boy advance contenant 2 jeux complets : Rayman 3 et Rayman AdvanceJ eu Game Boy Advance - Version francaise compatible toutes Game Boy Advance}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/11/2025 19:13"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/11/2025 19:17"
+        }
+    ],
+    "main_title": "Game Boy Advance",
+    "sub_title": "Star Wars Trilogy: Apprentice of the Force (loose)",
+    "thumbnail_big": "db/1383_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1383_videogame/thumbnail_small"
+}

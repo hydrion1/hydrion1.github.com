@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Interactives Adventures featuring Hercyles"
+            "value": "Interactives Adventures featuring Hercules"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "22/11/2025 20:54"
         }
     ],
     "main_title": "Game Boy",
-    "sub_title": "Interactives Adventures featuring Hercyles",
+    "sub_title": "Interactives Adventures featuring Hercules",
     "thumbnail_big": "",
     "thumbnail_mini": ""
 }

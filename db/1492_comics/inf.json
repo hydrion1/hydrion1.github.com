@@ -1,0 +1,140 @@
+{
+    "fields": [
+        {
+            "name": "Série",
+            "value": "Les Tuniques bleues"
+        },
+        {
+            "name": "Titre",
+            "value": "Les Tuniques bleues. Tome 65 - L'envoyé spécial"
+        },
+        {
+            "name": "Scénario",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": ""
+        },
+        {
+            "name": "Dessins",
+            "value": "Jose Luis MunueraBeKa"
+        },
+        {
+            "name": "Langue",
+            "value": ""
+        },
+        {
+            "name": "Couleurs",
+            "value": ""
+        },
+        {
+            "name": "Nbre de pages",
+            "value": ""
+        },
+        {
+            "name": "Date de parution",
+            "value": "30/10/2020"
+        },
+        {
+            "name": "Dédicacé",
+            "value": ""
+        },
+        {
+            "name": "N°",
+            "value": "65"
+        },
+        {
+            "name": "Genre ",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "28/11/2025"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Résumé",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Collection",
+            "value": ""
+        },
+        {
+            "name": "Style",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Type d'édition",
+            "value": ""
+        },
+        {
+            "name": "Illustrateur",
+            "value": ""
+        },
+        {
+            "name": "EAN / ISBN",
+            "value": "9791034747931"
+        },
+        {
+            "name": "Imprimeur",
+            "value": ""
+        },
+        {
+            "name": "Achevé d'imprimer",
+            "value": ""
+        },
+        {
+            "name": "Dépôt légal",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "28/11/2025 22:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/11/2025 22:47"
+        }
+    ],
+    "main_title": "Les Tuniques bleues",
+    "sub_title": "Les Tuniques bleues. Tome 65 - L'envoyé spécial",
+    "thumbnail_big": "db/1492_comics/thumbnail_big",
+    "thumbnail_mini": "db/1492_comics/thumbnail_small"
+}

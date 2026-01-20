@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Bataille d'Angleterre (la)"
+            "value": "Bataille d'Angleterre (la) (Battle of Britain)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "20/03/2024 22:18"
+            "value": "05/12/2025 19:52"
         }
     ],
-    "main_title": "Bataille d'Angleterre (la)",
+    "main_title": "Bataille d'Angleterre (la) (Battle of Britain)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2478_video/thumbnail_big",
     "thumbnail_mini": "db/2478_video/thumbnail_small"

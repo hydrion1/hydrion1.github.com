@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Cable audio officiel Sony PSP"
+        },
+        {
+            "name": "Console",
+            "value": "Sony PSP"
+        },
+        {
+            "name": "Genre",
+            "value": "Accessoire"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony Computer"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "0"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.74 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "sans boite"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/01/2026 16:45"
+        },
+        {
+            "name": "Date de modification",
+            "value": "09/01/2026 16:50"
+        }
+    ],
+    "main_title": "Sony PSP",
+    "sub_title": "Cable audio officiel Sony PSP",
+    "thumbnail_big": "db/1416_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1416_videogame/thumbnail_small"
+}

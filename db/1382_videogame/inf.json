@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Solstice: The Quest for the Staff of Demnos (CIB)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo NES"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, puzzle"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "01/06/1990"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/11/2025"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "null"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "24.56 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "045496430016"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/11/2025 19:00"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/11/2025 19:03"
+        }
+    ],
+    "main_title": "Nintendo NES",
+    "sub_title": "Solstice: The Quest for the Staff of Demnos (CIB)",
+    "thumbnail_big": "db/1382_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1382_videogame/thumbnail_small"
+}

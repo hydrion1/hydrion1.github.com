@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Legendary Hero is Dead !"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Rion Kujo"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "12"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2023"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/11/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "27.77 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Au nord de ce monde se trouve la Porte de l'Enfer, un portail autrefois utilisé par le Seigneur Démon pour envahir le royaume des humains. Grâce au héros légendaire Shion Bladearts, détenteur d'Excalibur, et à sa fidèle bande de compagnons, le portail a été scellé et la menace a disparu. Malheureusement, le sceau a commencé à s'affaiblir, permettant aux démons de recommencer leurs attaques. Inquiet pour la sécurité de son village, le jeune fermier Tôka Scott creuse des pièges pour se défendre. Par chance, Shion est en route pour sceller à nouveau la porte et sauver l'humanité ! Ou du moins, il l'était ! Car le héros légendaire est mort, tombé dans l'un des pièges de Tôka. Heureusement, s'occuper des morts est la spécialité de la nécromancienne Anri Haynesworth. Bien qu'elle ne puisse pas le ranimer, Anri peut au moins sauver leur quête en transférant l'âme de Tôka dans le corps en décomposition de Shion. Le voilà parti vers la Porte de l'Enfer avec Yuna Yunis, l'amie d'enfance de Tôka, qui ne veut pas être laissée pour compte. Tous les trois forment ce qui pourrait bien être le groupe le plus inapte à tenter de sauver le monde."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700091033969"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "12/11/2025 19:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/11/2025 19:34"
+        }
+    ],
+    "main_title": "The Legendary Hero is Dead !",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3702_video/thumbnail_big",
+    "thumbnail_mini": "db/3702_video/thumbnail_small"
+}

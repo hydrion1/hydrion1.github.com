@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "8 Mile"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Curtis Hanson"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Musical"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Eminem, Kim Basinger, Brittany Murphy, Mekhi Phifer, Evan Jones, Omar Benson Miller, De'Angelo Wilson, Eugene Byrd"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/02/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.55 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A Detroit, en 1995, Jimmy Smith Jr. a des rêves plein la tête, mais il lui manque encore les mots pour les exprimer. Sa vie d'adolescent se déroule entre banlieue blanche et quartiers noirs, le long de cette ligne de démarcation que l'on nomme 8 Mile Road. En dépit de tous ses efforts, Jimmy n'a jamais franchi cette barrière symbolique et continue d'accumuler les déboires familiaux, professionnels et sentimentaux.\n\nUn jour, il participe à un clash - une joute oratoire de rappeurs - où il doit faire face à Papa Doc, le chef de la bande des \" Leaders du Monde Libre \". Paralysé par le trac, il reste muet et doit quitter la scène sous les huées de la foule. Cette nouvelle humiliation l'oblige à un salutaire examen de conscience. Quelques jours plus tard, Jimmy se retrouve forcé de tenter un come-back...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/09/2025 09:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/09/2025 11:39"
+        }
+    ],
+    "main_title": "8 Mile",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3630_video/thumbnail_big",
+    "thumbnail_mini": "db/3630_video/thumbnail_small"
+}

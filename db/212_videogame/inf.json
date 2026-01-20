@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Stunt Race Fx"
+            "value": "Stunt Race Fx (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "16/07/2023 11:01"
+            "value": "20/11/2025 19:11"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "Stunt Race Fx",
-    "thumbnail_big": "",
-    "thumbnail_mini": ""
+    "sub_title": "Stunt Race Fx (CIB)",
+    "thumbnail_big": "db/212_videogame/thumbnail_big",
+    "thumbnail_mini": "db/212_videogame/thumbnail_small"
 }

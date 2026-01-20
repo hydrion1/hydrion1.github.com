@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Donkey Kong Country 3 : Dixie Kong's Double Trouble ! - Version française PAL (loose)"
+            "value": "Donkey Kong Country 3 : Dixie Kong's Double Trouble ! (loose)"
         },
         {
             "name": "Console",
@@ -10,11 +10,11 @@
         },
         {
             "name": "Genre",
-            "value": "Genre non défini"
+            "value": "Plates-formes"
         },
         {
             "name": "Date de sortie",
-            "value": ""
+            "value": "01/11/1996"
         },
         {
             "name": "Editeur",
@@ -22,7 +22,7 @@
         },
         {
             "name": "Date d'achat",
-            "value": ""
+            "value": "02/01/2026"
         },
         {
             "name": "Nombre de joueurs",
@@ -30,7 +30,7 @@
         },
         {
             "name": "Etat",
-            "value": ""
+            "value": "Très bon"
         },
         {
             "name": "Classement",
@@ -46,7 +46,7 @@
         },
         {
             "name": "Prix d'achat",
-            "value": ""
+            "value": "24.99 €"
         },
         {
             "name": "Prêt",
@@ -58,7 +58,7 @@
         },
         {
             "name": "EAN",
-            "value": "5900049001158"
+            "value": ""
         },
         {
             "name": "Prix actuel",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "02/01/2026 20:50"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "Donkey Kong Country 3 : Dixie Kong's Double Trouble ! - Version française PAL (loose)",
+    "sub_title": "Donkey Kong Country 3 : Dixie Kong's Double Trouble ! (loose)",
     "thumbnail_big": "db/507_videogame/thumbnail_big",
     "thumbnail_mini": "db/507_videogame/thumbnail_small"
 }

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "D-Force - Nintendo Super NES"
+            "value": "D-Force - Nintendo Super NES (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/11/2025 19:06"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "D-Force - Nintendo Super NES",
+    "sub_title": "D-Force - Nintendo Super NES (CIB)",
     "thumbnail_big": "db/283_videogame/thumbnail_big",
     "thumbnail_mini": "db/283_videogame/thumbnail_small"
 }

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Super Battletank 2"
+            "value": "Super Battletank 2 (ss manuel)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "08/11/2025 17:53"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "Super Battletank 2",
+    "sub_title": "Super Battletank 2 (ss manuel)",
     "thumbnail_big": "db/227_videogame/thumbnail_big",
     "thumbnail_mini": "db/227_videogame/thumbnail_small"
 }

@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Lunar Genesis"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo DS"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "27/09/2005"
+        },
+        {
+            "name": "Editeur",
+            "value": "Rising Star Games"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/08/2022"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "4"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "29.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5030102950158"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/01/2026 21:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/01/2026 21:13"
+        }
+    ],
+    "main_title": "Nintendo DS",
+    "sub_title": "Lunar Genesis",
+    "thumbnail_big": "db/1400_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1400_videogame/thumbnail_small"
+}

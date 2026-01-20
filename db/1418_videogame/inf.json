@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Game Boy Game Link Cable (loose) (non officiel)"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy"
+        },
+        {
+            "name": "Genre",
+            "value": "Accessoire"
+        },
+        {
+            "name": "Date de sortie",
+            "value": ""
+        },
+        {
+            "name": "Editeur",
+            "value": "non officiel"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "01/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "null"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.74 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "DMG-04"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "09/01/2026 16:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "09/01/2026 16:56"
+        }
+    ],
+    "main_title": "Game Boy",
+    "sub_title": "Game Boy Game Link Cable (loose) (non officiel)",
+    "thumbnail_big": "",
+    "thumbnail_mini": ""
+}

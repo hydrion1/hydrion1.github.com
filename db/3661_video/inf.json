@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Chico & Rita"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Fernando Trueba"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Musical, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "94"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Javier Mariscal"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/07/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/10/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.58 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Cuba, 1948. Chico, jeune pianiste talentueux, écoute les derniers airs de jazz venus d’Amérique, en rêvant de s’y faire un nom. De son côté, la belle et sauvage Rita essaie de gagner sa vie en chantant dans les clubs et les bals populaires, où sa voix captive toute l’assistance. Des bordels de la Havane à New York, en passant par Hollywood, Paris et Las Vegas, la musique et ses rythmes latinos vont les entraîner dans une histoire d’amour passionnée, à la poursuite de leurs rêves et de leur destinée."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582869606"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/10/2025 13:44"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/10/2025 13:48"
+        }
+    ],
+    "main_title": "Chico & Rita",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3661_video/thumbnail_big",
+    "thumbnail_mini": "db/3661_video/thumbnail_small"
+}

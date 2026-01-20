@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Family Guy trilogie"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": ""
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Durée (min)",
+            "value": "3"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Seth MacFarlane Alex Borstein Seth Green Mila Kunis Mike Henry"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/12/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/10/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "3"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.72 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Blue Harvest (Saison 6) :\nCet épisode est une parodie de l'épisode « Le Retour du Jedi ». Il a été créé avec la supervision de George Lucas lui-même et reprend les personnages de Star Wars dans des rôles parodiques. \n\nL'Empire contre-attaque (Saison 8) :\nDans cet épisode, Peter raconte l'histoire de l'épisode V de Star Wars pour divertir sa famille pendant une panne d'électricité.\n\nC'est un piège ! (Saison 9) :\nCet épisode parodie l'épisode VI, « Le Retour du Jedi », et suit le même format que les précédents. Peter raconte l'histoire à sa famille, avec des scènes recréant les moments clés du film. \n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Twentieth Century Fox"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "4010232063489"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/10/2025 17:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "19/10/2025 17:33"
+        }
+    ],
+    "main_title": "Family Guy trilogie",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3644_video/thumbnail_big",
+    "thumbnail_mini": "db/3644_video/thumbnail_small"
+}

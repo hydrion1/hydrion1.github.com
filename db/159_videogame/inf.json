@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Turn And Burn No-Fly Zone"
+            "value": "Turn And Burn No-Fly Zone (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/11/2025 18:57"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "Turn And Burn No-Fly Zone",
+    "sub_title": "Turn And Burn No-Fly Zone (CIB)",
     "thumbnail_big": "db/159_videogame/thumbnail_big",
     "thumbnail_mini": "db/159_videogame/thumbnail_small"
 }

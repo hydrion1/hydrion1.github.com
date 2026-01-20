@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Van Helsing (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Stephen Sommers"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "131"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hugh Jackman, Kate Beckinsale, Richard Roxburgh, David Wenham, Shuler Hensley, Elena Anaya, Will Kemp, Kevin J. O'Connor, Samuel West, Robbie Coltrane, Stephen Fisher"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "05/06/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/10/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.17 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Au coeur des Carpates, il est un monde de légendes et de mystères : la Transylvanie... Une terre où le mal règne en maître absolu, où le danger rôde dès le coucher du soleil, où prennent corps les monstres qui hantent nos cauchemars les plus secrets.\n\nVan Helsing est un ténébreux professeur et chasseur de monstres. Sa mission l'amène à affronter de terribles êtres, parmi lesquels le loup-garou, la créature de Frankenstein ou encore le comte Dracula, qui, depuis des générations, persécute la famille de l'intrépide et aristocratique Anna Valerious.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083249571"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/10/2025 19:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/10/2025 19:43"
+        }
+    ],
+    "main_title": "Van Helsing (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3662_video/thumbnail_big",
+    "thumbnail_mini": "db/3662_video/thumbnail_small"
+}

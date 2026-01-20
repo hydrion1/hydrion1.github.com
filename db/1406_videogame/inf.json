@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Metal Slug 4"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox"
+        },
+        {
+            "name": "Genre",
+            "value": "Plates-formes"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "14/10/2005"
+        },
+        {
+            "name": "Editeur",
+            "value": "SNK Playmore"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "18.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060050943141"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/01/2026 21:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/01/2026 22:19"
+        }
+    ],
+    "main_title": "Xbox",
+    "sub_title": "Metal Slug 4",
+    "thumbnail_big": "db/1406_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1406_videogame/thumbnail_small"
+}

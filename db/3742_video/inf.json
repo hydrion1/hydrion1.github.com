@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Conan le Barbare"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Milius"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "129"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Arnold Schwarzenegger, James Earl Jones, Sandahl Bergman, Max von Sydow, Cassandra Gava, Gerry Lopez, Mako, Valérie Quennessen, William Smith, Franco Columbu"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/04/1982"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "12/12/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.06 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Encore enfant, Conan assiste impuissant au massacre de ses parents par le cruel Thulsa Doom, et est réduit en esclavage. Enchaîné à la roue de douleur, il y acquiert une musculature peu commune qui lui permet, adulte, de gagner sa liberté comme lutteur. Désireux d'assouvir sa soif de vengeance, il part accompagné de deux voleurs, Subotai et Valeria, à la recherche de Thulsa Doom..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428046453"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/12/2025 14:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/12/2025 14:32"
+        }
+    ],
+    "main_title": "Conan le Barbare",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3742_video/thumbnail_big",
+    "thumbnail_mini": "db/3742_video/thumbnail_small"
+}

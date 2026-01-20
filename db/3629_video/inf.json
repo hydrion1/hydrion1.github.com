@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "USS Indianapolis"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mario Van Peebles"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Drame, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "135"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Nicolas Cage, Tom Sizemore, Thomas Jane, James Remar, Matt Lanter, Brian Presley"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/09/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.03 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Juillet 1945. Le navire USS INDIANAPOLIS, commandé par le Capitaine McVay, avec à son bord 1196 marins, doit livrer des composants de la bombe atomique. Sur le retour, la navire est torpillé par un sous-marin japonais et sombre dans l’Océan Pacifique en moins de 12 minutes. 300 marins périssent sur le coup. Le reste de l’équipage affronte, pendant plus de 5 jours, les attaques de requins, la déshydratation, la faim, les hallucinations et le désespoir. Seuls 317 survivants sont alors secourus. Le lendemain, Hiroshima est bombardée. 10 jours plus tard, la Seconde Guerre mondiale prend fin. En novembre, le capitaine McVay est envoyé devant la cour martiale."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299303260"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/09/2025 09:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/09/2025 11:39"
+        }
+    ],
+    "main_title": "USS Indianapolis",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3629_video/thumbnail_big",
+    "thumbnail_mini": "db/3629_video/thumbnail_small"
+}

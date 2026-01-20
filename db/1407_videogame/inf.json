@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Star Wars: Republic Commando"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox"
+        },
+        {
+            "name": "Genre",
+            "value": "First Person Shooter"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "28/02/2005"
+        },
+        {
+            "name": "Editeur",
+            "value": "LucasArts"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060050943141"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/01/2026 22:01"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/01/2026 22:19"
+        }
+    ],
+    "main_title": "Xbox",
+    "sub_title": "Star Wars: Republic Commando",
+    "thumbnail_big": "db/1407_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1407_videogame/thumbnail_small"
+}

@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "BOB - Super Nintendo - PAL"
+            "value": "BOB - Super Nintendo - PAL (ss manuel)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "08/11/2025 17:52"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "BOB - Super Nintendo - PAL",
+    "sub_title": "BOB - Super Nintendo - PAL (ss manuel)",
     "thumbnail_big": "db/512_videogame/thumbnail_big",
     "thumbnail_mini": "db/512_videogame/thumbnail_small"
 }

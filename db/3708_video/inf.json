@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bienvenue à Gattaca (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Andrew Niccol"
+        },
+        {
+            "name": "Genre",
+            "value": "Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "106"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ethan Hawke, Uma Thurman, Jude Law"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "29/04/1998"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/11/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans et plus"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "11.79 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans un monde parfait, Gattaca est un centre d'études et de recherches spatiales pour des jeunes gens au patrimoine génétique impeccable. Jérôme, candidat idéal, voit sa vie détruite par un accident tandis que Vincent, enfant naturel, rêve de partir pour l'espace. Chacun des deux va permettre à l'autre d'obtenir ce qu'il souhaite en déjouant les lois de Gattaca."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Metropolitan Vidéo"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": "Dolby Digital 5.1"
+        },
+        {
+            "name": "Ratio",
+            "value": "1.85:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333298302202"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/11/2025 17:39"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/11/2025 17:41"
+        }
+    ],
+    "main_title": "Bienvenue à Gattaca (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3708_video/thumbnail_big",
+    "thumbnail_mini": "db/3708_video/thumbnail_small"
+}

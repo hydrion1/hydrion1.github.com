@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Cannon Fodder [L]"
+            "value": "Cannon Fodder [L] (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/11/2025 19:05"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "Cannon Fodder [L]",
+    "sub_title": "Cannon Fodder [L] (CIB)",
     "thumbnail_big": "db/179_videogame/thumbnail_big",
     "thumbnail_mini": "db/179_videogame/thumbnail_small"
 }

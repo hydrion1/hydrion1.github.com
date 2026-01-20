@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Dawn of the Witch"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Satoshi Kuwabara"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Anime, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "12"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/10/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.55 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Seville est un étudiant d'une académie de magie qui ne se souvient de rien avant d'avoir rejoint l'école. Ne comprenant pas pourquoi il est là, le temps lui semble bien long, d’autant que ses notes ne sont pas fameuses. Un jour, le directeur de l’établissement l’envoie faire la promotion de la magie dans une région où l’on n’aime pas les sorcières. Dans un monde où la guerre entre l’église et les sorcières a pourtant pris fin depuis pas mal d’années, Seville va devoir convaincre ceux qui sont restés ancrés dans leurs préjugés."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700091033433"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/10/2025 19:22"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/11/2025 19:07"
+        }
+    ],
+    "main_title": "The Dawn of the Witch",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3668_video/thumbnail_big",
+    "thumbnail_mini": "db/3668_video/thumbnail_small"
+}

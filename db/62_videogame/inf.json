@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Rise Of The Robots"
+            "value": "Rise Of The Robots (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/11/2025 19:09"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "Rise Of The Robots",
+    "sub_title": "Rise Of The Robots (CIB)",
     "thumbnail_big": "db/62_videogame/thumbnail_big",
     "thumbnail_mini": "db/62_videogame/thumbnail_small"
 }

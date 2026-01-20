@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Megaman 2"
+            "value": "Megaman 2 (ss manuel)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "06/06/2023 12:10"
+            "value": "08/11/2025 17:53"
         }
     ],
     "main_title": "Nintendo NES",
-    "sub_title": "Megaman 2",
+    "sub_title": "Megaman 2 (ss manuel)",
     "thumbnail_big": "",
     "thumbnail_mini": ""
 }

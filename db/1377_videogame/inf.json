@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tiny Toon Adventures: Buster Busts Loose (Loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Super NES"
+        },
+        {
+            "name": "Genre",
+            "value": "Action Plate-forme"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "01/08/1993"
+        },
+        {
+            "name": "Editeur",
+            "value": "Konami"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/11/2025"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": ""
+        },
+        {
+            "name": "Etat",
+            "value": "Mauvais"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "3 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Jeu Super Nintendo - Version Pal francaise (FAH)}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/11/2025 23:01"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/11/2025 23:04"
+        }
+    ],
+    "main_title": "Nintendo Super NES",
+    "sub_title": "Tiny Toon Adventures: Buster Busts Loose (Loose)",
+    "thumbnail_big": "db/1377_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1377_videogame/thumbnail_small"
+}

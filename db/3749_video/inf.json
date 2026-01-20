@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Goliath (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Frédéric Tellier"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "122"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gilles Lellouche, Pierre Niney, Emmanuelle Bercot, Laurent Stocker, Yannick Renier, Chloé Stefani, Marie Gillain, Jacques Perrin"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/03/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/12/2025"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.92 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "France, professeure de sport le jour, ouvrière la nuit, milite activement contre l’usage des pesticides. Patrick, obscur et solitaire avocat parisien, est spécialiste en droit environnemental. Mathias, lobbyiste brillant et homme pressé, défend les intérêts d’un géant de l’agrochimie. Suite à l’acte radical d’une anonyme, ces trois destins, qui n’auraient jamais dû se croiser, vont se bousculer, s’entrechoquer et s’embraser."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083250607"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/12/2025 17:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/12/2025 17:41"
+        }
+    ],
+    "main_title": "Goliath (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3749_video/thumbnail_big",
+    "thumbnail_mini": "db/3749_video/thumbnail_small"
+}

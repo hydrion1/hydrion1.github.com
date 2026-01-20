@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "F1 Pole Position"
+            "value": "F1 Pole Position (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/11/2025 18:56"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "F1 Pole Position",
+    "sub_title": "F1 Pole Position (CIB)",
     "thumbnail_big": "db/130_videogame/thumbnail_big",
     "thumbnail_mini": "db/130_videogame/thumbnail_small"
 }

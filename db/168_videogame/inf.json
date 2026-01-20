@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Gunforce - FUSA"
+            "value": "Gunforce - FUSA (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/11/2025 19:07"
         }
     ],
     "main_title": "Nintendo Super NES",
-    "sub_title": "Gunforce - FUSA",
+    "sub_title": "Gunforce - FUSA (CIB)",
     "thumbnail_big": "db/168_videogame/thumbnail_big",
     "thumbnail_mini": "db/168_videogame/thumbnail_small"
 }

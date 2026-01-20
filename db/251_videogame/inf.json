@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "007 Goldeneye"
+            "value": "007 Goldeneye (ss manuel)) boite reproduction"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/11/2025 19:12"
         }
     ],
     "main_title": "Nintendo 64",
-    "sub_title": "007 Goldeneye",
+    "sub_title": "007 Goldeneye (ss manuel)) boite reproduction",
     "thumbnail_big": "db/251_videogame/thumbnail_big",
     "thumbnail_mini": "db/251_videogame/thumbnail_small"
 }

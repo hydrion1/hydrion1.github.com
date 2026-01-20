@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Super Street Fighter 2 Turbo Revival"
+            "value": "Super Street Fighter 2 Turbo Revival (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "03/01/2026 23:04"
         }
     ],
     "main_title": "Game Boy Advance",
-    "sub_title": "Super Street Fighter 2 Turbo Revival",
+    "sub_title": "Super Street Fighter 2 Turbo Revival (CIB)",
     "thumbnail_big": "db/230_videogame/thumbnail_big",
     "thumbnail_mini": "db/230_videogame/thumbnail_small"
 }
