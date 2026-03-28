@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Amour ouf (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Gilles Lellouche"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "160"
+        },
+        {
+            "name": "Acteurs",
+            "value": "François Civil, Adèle Exarchopoulos, Alain Chabat, Vincent Lacoste, Benoît Poelvoorde, Jean-Pascal Zadi, Élodie Bouchez, Karim Leklou, Raphaël Quenard, Anthony Bajon, Malik Frikah, Mallory Wanecque, Thibaut Lair"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2024"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/02/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.11 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Jackie et Clotaire grandissent entre les bancs du lycée et les docks du port. Elle étudie, il traine. Et puis leurs destins se croisent et c'est l'amour fou. La vie s'efforcera de les séparer mais rien n'y fait, ces deux-là sont comme les deux ventricules du même cœur..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432040561"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/02/2026 20:53"
+        },
+        {
+            "name": "Date de modification",
+            "value": "08/02/2026 20:58"
+        }
+    ],
+    "main_title": "L'Amour ouf (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3800_video/thumbnail_big",
+    "thumbnail_mini": "db/3800_video/thumbnail_small"
+}

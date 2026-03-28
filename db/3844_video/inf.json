@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Raid dingue"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Dany Boon"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "111"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Alice Pol, Dany Boon, Michel Blanc, Yvan Attal, Sabine Azéma, Patrick Mille, François Levantal, Florent Peyre, Anne Marivin, Alain Doutey, Urbain Cancelier"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/02/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/03/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Johanna Pasquali est une fliquette pas comme les autres. Distraite, rêveuse et maladroite, elle est d'un point de vue purement policier sympathique mais totalement nulle. Dotée pourtant de réelles compétences, sa maladresse fait d'elle une menace pour les criminels, le grand public et ses collègues.\n\nAssignée à des missions aussi dangereuses que des voitures mal garées ou des vols à l'étalage, elle s'entraîne sans relâche pendant son temps libre pour réaliser son rêve : être la première femme à intégrer le groupe d'élite du RAID.\n\nAcceptée au centre de formation du RAID pour des raisons obscures et politiques, elle se retrouve alors dans les pattes de l'agent Eugène Froissard (dit Poissard), le plus misogyne des agents du RAID. Ce duo improbable se voit chargé d'arrêter le redoutable Gang des Léopards, responsable de gros braquages dans les rues de la capitale.\n\nMais avant de pouvoir les arrêter, il faudrait déjà qu\"ils parviennent à travailler en binôme sans s'entretuer au cours des entraînements ou des missions de terrain plus rocambolesques les unes que les autres."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330049980"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/03/2026 15:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/03/2026 18:51"
+        }
+    ],
+    "main_title": "Raid dingue",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3844_video/thumbnail_big",
+    "thumbnail_mini": "db/3844_video/thumbnail_small"
+}

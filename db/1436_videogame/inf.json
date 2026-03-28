@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Warriors Orochi 4"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Beat-'Em-Up"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "16/10/2018"
+        },
+        {
+            "name": "Editeur",
+            "value": "Koei Tecmo Games"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "31/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "2"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.17 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060327534737"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "07/02/2026 07:37"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/02/2026 07:47"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "Warriors Orochi 4",
+    "thumbnail_big": "db/1436_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1436_videogame/thumbnail_small"
+}

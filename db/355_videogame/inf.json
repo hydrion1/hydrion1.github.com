@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Duke Nukem Zero Hour"
+            "value": "Duke Nukem Zero Hour (Loose)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "13/02/2026 17:58"
         }
     ],
     "main_title": "Nintendo 64",
-    "sub_title": "Duke Nukem Zero Hour",
-    "thumbnail_big": "",
-    "thumbnail_mini": ""
+    "sub_title": "Duke Nukem Zero Hour (Loose)",
+    "thumbnail_big": "db/355_videogame/thumbnail_big",
+    "thumbnail_mini": "db/355_videogame/thumbnail_small"
 }

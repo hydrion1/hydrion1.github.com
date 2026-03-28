@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ratchet & Clank (2016)"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Plates-formes"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "12/04/2016"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony Interactive Entertainment"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "31/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "7 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.32 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719847939"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "07/02/2026 07:39"
+        },
+        {
+            "name": "Date de modification",
+            "value": "07/02/2026 07:47"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "Ratchet & Clank (2016)",
+    "thumbnail_big": "db/1437_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1437_videogame/thumbnail_small"
+}

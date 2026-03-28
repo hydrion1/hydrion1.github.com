@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Baten Kaitos I & II HD Remaster"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux de role"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "14/09/2023"
+        },
+        {
+            "name": "Editeur",
+            "value": "Bandai Namco Games"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/03/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "29.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3391892024944"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Tales of Vesperia sur Xbox 360 est un RPG qui s'inscrit dans la lignee de la saga de Namco Bandai. Sur les traces d'un voleur de noyaux. un ancien chevalier imperial va abandonner sa noble condition pour partir and l'aventure en compagnie de sept autres co}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "06/03/2026 22:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/03/2026 22:32"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Baten Kaitos I & II HD Remaster",
+    "thumbnail_big": "db/1465_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1465_videogame/thumbnail_small"
+}

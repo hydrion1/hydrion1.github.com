@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Clavier sans fil (en boite)"
+            "value": "Clavier sans fil (CIB)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2025 18:49"
+            "value": "20/02/2026 19:35"
         }
     ],
     "main_title": "PlayStation 3",
-    "sub_title": "Clavier sans fil (en boite)",
+    "sub_title": "Clavier sans fil (CIB)",
     "thumbnail_big": "db/1333_videogame/thumbnail_big",
     "thumbnail_mini": "db/1333_videogame/thumbnail_small"
 }

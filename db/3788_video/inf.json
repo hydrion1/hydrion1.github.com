@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Kid (The)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Charles Chaplin"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "68"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Charles Chaplin, Edna Purviance, Jackie Coogan"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/02/1921"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/01/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Lâchée par son amant, une jeune femme abandonne son enfant. Charlot le vagabond le recueille. Mais les services sociaux s’en mêlent..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3545020060087"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/01/2026 17:15"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/01/2026 17:30"
+        }
+    ],
+    "main_title": "Kid (The)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3788_video/thumbnail_big",
+    "thumbnail_mini": "db/3788_video/thumbnail_small"
+}

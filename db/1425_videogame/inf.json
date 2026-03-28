@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "EyeCreate"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 3"
+        },
+        {
+            "name": "Genre",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie",
+            "value": "25/10/2007"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "null"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "0.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719600459"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Alors que les ressources naturelles se font de plus en plus rares et que des monstres gigantesques attaquent les humains, l'humanité est contrainte de se réfugier derrière les murs des villes transformées en forteresses et doit développer de nouvelles armes pour repousser les attaques constantes. En tant que commandant, vous devrez diriger une équipe de nouvelles recrues afin de défendre la ville. Grâce à une mécanique novatrice de rotation de la ville, vous pourrez modifier la structure de la ville afin d'être le mieux préparé pour faire face aux attaques. Dirigez le dernier bastion de l'humanité dans la lutte pour la survie ! Caractéristiques principales : La révolution : Une mécanique de rotation de la ville vient révolutionner le jeu de stratégie ! Level up: Entrainez vos troupes et faites les monter de niveau pour qu'elles puissent être assez fortes pour pouvoir repousser les vagues d'ennemis qui seront de plus en plus puissantes. Des heures de contenu : Amusez-vous pendant des heures grâce au mode campagne de 15 heures et près de 30 missions captivantes !"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "30/01/2026 15:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/01/2026 15:27"
+        }
+    ],
+    "main_title": "PlayStation 3",
+    "sub_title": "EyeCreate",
+    "thumbnail_big": "db/1425_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1425_videogame/thumbnail_small"
+}

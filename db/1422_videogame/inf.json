@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Warriors Orochi 3"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox 360"
+        },
+        {
+            "name": "Genre",
+            "value": "Beat-'Em-Up"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "27/03/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Koei"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "25/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "2"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.18 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060073308897"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "30/01/2026 15:15"
+        },
+        {
+            "name": "Date de modification",
+            "value": "30/01/2026 15:18"
+        }
+    ],
+    "main_title": "Xbox 360",
+    "sub_title": "Warriors Orochi 3",
+    "thumbnail_big": "db/1422_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1422_videogame/thumbnail_small"
+}

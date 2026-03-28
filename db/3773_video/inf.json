@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Cloud Atlas"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tom Tykwer, Lana Wachowski, Lilly Wachowski"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "172"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Hanks, Halle Berry, Hugh Grant"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/03/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/01/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.37 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "À travers une histoire qui se déroule sur cinq siècles dans plusieurs espaces temps, des êtres se croisent et se retrouvent d’une vie à l’autre, naissant et renaissant successivement… Tandis que leurs décisions ont des conséquences sur leur parcours, dans le passé, le présent et l’avenir lointain, un tueur devient un héros et un seul acte de générosité suffit à entraîner des répercussions pendant plusieurs siècles et à provoquer une révolution. Tout, absolument tout, est lié."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889363859"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "21/01/2026 20:04"
+        },
+        {
+            "name": "Date de modification",
+            "value": "21/01/2026 20:20"
+        }
+    ],
+    "main_title": "Cloud Atlas",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3773_video/thumbnail_big",
+    "thumbnail_mini": "db/3773_video/thumbnail_small"
+}

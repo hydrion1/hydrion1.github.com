@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Telecommande dvd et receiver"
+            "value": "Telecommande dvd et receiver (Sealed)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "23/04/2023 15:01"
+            "value": "01/02/2026 14:08"
         }
     ],
     "main_title": "PlayStation 2",
-    "sub_title": "Telecommande dvd et receiver",
+    "sub_title": "Telecommande dvd et receiver (Sealed)",
     "thumbnail_big": "db/1163_videogame/thumbnail_big",
     "thumbnail_mini": "db/1163_videogame/thumbnail_small"
 }

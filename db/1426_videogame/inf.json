@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "PlayStation Move (scealed)"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Accessoire"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "15/09/2010"
+        },
+        {
+            "name": "Editeur",
+            "value": "Sony Computer"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "31/01/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "0"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "711719183969"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "CECH-ZCM2ES1E"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "01/02/2026 13:58"
+        },
+        {
+            "name": "Date de modification",
+            "value": "01/02/2026 14:00"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "PlayStation Move (scealed)",
+    "thumbnail_big": "db/1426_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1426_videogame/thumbnail_small"
+}

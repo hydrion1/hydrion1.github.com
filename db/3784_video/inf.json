@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Intendant Sansho"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kenji Mizoguchi"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "124"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kinuyo Tanaka, Yoshiaki Hanayagi, Kyoko Kagawa, Eitaro Shindo, Akitake Kono, Masao Shimizu"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1954"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/01/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "17.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "XIe siècle. Un gouverneur de province est exilé pour avoir pris le parti des paysans contre l’avis d’un chef militaire. Contraints de reprendre la route de son village natal, sa femme Nakagimi et ses enfants Anju et Zushio sont kidnappés par des bandits de grand chemin. Nakagimi est déportée sur une île, tandis que les enfants sont vendus comme esclaves à l’intendant Sansho, un propriétaire cruel."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3545020067338"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/01/2026 09:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/01/2026 09:39"
+        }
+    ],
+    "main_title": "L'Intendant Sansho",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3784_video/thumbnail_big",
+    "thumbnail_mini": "db/3784_video/thumbnail_small"
+}

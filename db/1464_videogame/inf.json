@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "2 Games In 1: Disney's Frère des Ours + Le Roi Lion (CIB)"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy Advance"
+        },
+        {
+            "name": "Genre",
+            "value": "Compilation"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "18/01/2005"
+        },
+        {
+            "name": "Editeur",
+            "value": "THQ"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/02/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "3 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.56 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "4005209060769"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "Disney's Frère des Ours (2003)\nDisney's Le roi lion (2003) "
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/02/2026 22:01"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/02/2026 22:06"
+        }
+    ],
+    "main_title": "Game Boy Advance",
+    "sub_title": "2 Games In 1: Disney's Frère des Ours + Le Roi Lion (CIB)",
+    "thumbnail_big": "db/1464_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1464_videogame/thumbnail_small"
+}

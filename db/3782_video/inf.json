@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Il y a des jours... et des lunes"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Claude Lelouch"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Gérard Lanvin, Patrick Chesnais, Vincent Lindon, Francis Huster, Annie Girardot, Marie-Sophie L., Philippe Léotard, Gérard Darmon, Paul Préboist, Serge Reggiani"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/04/1990"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/01/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "null"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "De l'influence de la lune sur quelques personnages pour ce trente et unième film, tourné en trente et un jours pour les trente ans des Films 13. \"Une histoire d'amour entre le quotidien et l'irrationnel\". Il y a des jours... et des lunes commence avec la séance c'est-a-dire un court metrage de treize minutes intitulé Un coup de foudre normand, suivi d'une minute de publicité et du film lui-même."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512394002982"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "23/01/2026 15:59"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/01/2026 16:02"
+        }
+    ],
+    "main_title": "Il y a des jours... et des lunes",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3782_video/thumbnail_big",
+    "thumbnail_mini": "db/3782_video/thumbnail_small"
+}

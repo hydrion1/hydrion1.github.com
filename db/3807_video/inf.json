@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Fenêtre secrète (Secret Window)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Koepp"
+        },
+        {
+            "name": "Genre",
+            "value": "Fantastique, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "96"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Johnny Depp, John Turturro, Maria Bello, Timothy Hutton, Charles S. Dutton, Len Cariou"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/04/2004"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/02/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.16 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Mort Rainey devrait être devant son ordinateur, à écrire un autre de ses romans à succès. Mais son divorce le détruit et le prive de toute inspiration. Tout ce qui touche à la rupture devient un véritable cauchemar et sa page reste blanche.\n\nUn jour, un inconnu nommé John Shooter se présente à sa porte et l'accuse d'avoir plagié son histoire. L'homme demande réparation. Malgré les efforts de Rainey pour le calmer, l'individu devient de plus en plus vindicatif. Sa notion particulière de la justice pourrait bien le conduire jusqu'au meurtre.\n\nForcé de se lancer dans un affrontement qui va le pousser au bout de lui-même, Rainey va se découvrir des ressources d'astuce et de détermination qu'il n'aurait jamais cru avoir. Il va en avoir besoin, parce que l'étrange Shooter semble le connaître mieux qu'il ne se connaît lui-même...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712609599732"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/02/2026 17:20"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/02/2026 17:35"
+        }
+    ],
+    "main_title": "Fenêtre secrète (Secret Window)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3807_video/thumbnail_big",
+    "thumbnail_mini": "db/3807_video/thumbnail_small"
+}

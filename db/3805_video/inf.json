@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Sentinel"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Clark Johnson"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "108"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Michael Douglas, Kiefer Sutherland, Kim Basinger"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/08/2006"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/02/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.05 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Il y a vingt ans, Pete Garrison, agent des services secrets américains, a sauvé la vie d'un Président. Aimé et respecté de ses collègues, il est à présent chargé de la protection rapprochée de la Première Dame. Sa vie bascule lorsqu'un collègue et ami est assassiné avant d'avoir pu lui transmettre des informations de la plus haute importance...\n\nL'affaire est confiée au meilleur enquêteur du Service, David Breckinridge, ancien protégé de Garrison. Là où Garrison fait confiance à son instinct, Breckinridge ne se fie qu'aux preuves. Avec l'aide d'une jeune recrue, Jill Marin, les deux hommes vont bientôt découvrir l'existence d'un complot interne, visant à assassiner le Président. Mais très vite, les indices semblent désigner Garrison...\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428026097"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "13/02/2026 17:14"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/02/2026 17:16"
+        }
+    ],
+    "main_title": "The Sentinel",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3805_video/thumbnail_big",
+    "thumbnail_mini": "db/3805_video/thumbnail_small"
+}

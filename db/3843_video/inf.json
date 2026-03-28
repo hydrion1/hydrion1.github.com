@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Affaire Farewell"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christian Carion"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Historique, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Guillaume Canet, Emir Kusturica, Alexandra Maria Lara, Dina Korzun, Philippe Magnan, Niels Arestrup, David Soul, Fred Ward, Willem Dafoe"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/09/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/03/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Moscou, au début des années 80, en pleine Guerre Froide.\n\nSergueï Grigoriev, colonel du KGB déçu du régime de son pays, décide de faire tomber le système. Il prend contact avec un jeune ingénieur français en poste à Moscou, Pierre Froment. Les informations extrêmement confidentielles qu'il lui remet ne tardent pas à intéresser les services secrets occidentaux.\n\nMitterrand lui-même est alerté et décide d'informer le président Reagan : un gigantesque réseau d'espionnage permet aux Soviétiques de tout connaître des recherches scientifiques, industrielles et militaires à l'Ouest ! Les deux hommes d'Etat décident d'exploiter ces données ultra sensibles transmises par une mystérieuse source moscovite que les Français ont baptisée : \" Farewell \".\n\nHomme sans histoires, Pierre Froment se retrouve alors précipité au coeur de l'une des affaires d'espionnage les plus stupéfiantes du XXème siècle. Une affaire qui le dépasse et qui menace bientôt sa vie et celle de sa famille..."
+        },
+        {
+            "name": "Commentaires",
+            "value": "Risque defectueux\nVérifié 2026/03"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330036607"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/03/2026 15:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/03/2026 18:54"
+        }
+    ],
+    "main_title": "L'Affaire Farewell",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3843_video/thumbnail_big",
+    "thumbnail_mini": "db/3843_video/thumbnail_small"
+}

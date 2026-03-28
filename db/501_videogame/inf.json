@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "F-1 Race"
+            "value": "F-1 Race (Loose)"
         },
         {
             "name": "Console",
@@ -90,11 +90,11 @@
         },
         {
             "name": "Date de modification",
-            "value": "17/02/2022 20:16"
+            "value": "20/02/2026 19:35"
         }
     ],
     "main_title": "Game Boy",
-    "sub_title": "F-1 Race",
+    "sub_title": "F-1 Race (Loose)",
     "thumbnail_big": "",
     "thumbnail_mini": ""
 }

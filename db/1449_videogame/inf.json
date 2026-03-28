@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Advance Wars 2: Black Hole Rising (loose)"
+        },
+        {
+            "name": "Console",
+            "value": "Game Boy Advance"
+        },
+        {
+            "name": "Genre",
+            "value": "Strategie"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "24/06/2003"
+        },
+        {
+            "name": "Editeur",
+            "value": "Nintendo"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/02/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "null"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.98 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": ""
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "13/02/2026 17:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "13/02/2026 18:25"
+        }
+    ],
+    "main_title": "Game Boy Advance",
+    "sub_title": "Advance Wars 2: Black Hole Rising (loose)",
+    "thumbnail_big": "db/1449_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1449_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Quo Vadis"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Mervyn LeRoy"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Péplum, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "171"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robert Taylor, Deborah Kerr, Leo Genn, Peter Ustinov, Patricia Laffan, Finlay Currie"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/10/1953"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "26/03/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "A Rome, le général Marcus Vinicius rencontre Lygia, une esclave, dont il tombe amoureux. Mais elle est chrétienne et ne veut rien avoir à faire avec un homme de guerre. Marcus la rachète pourtant à l'empereur Néron, mais elle s'échappe avec l'aide d'un ami. En la retrouvant, Marcus va apprendre à connaître les Chrétiens."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "7321963649727"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/03/2026 15:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/03/2026 18:49"
+        }
+    ],
+    "main_title": "Quo Vadis",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3842_video/thumbnail_big",
+    "thumbnail_mini": "db/3842_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Berlin 56"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Sven Bohse"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Historique, Series TV"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "6"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sonja Gerhardt, Claudia Michelsen, Maria Ehrich, Emilia Schüle, Heino Ferch, Uwe Ochsenknecht, Sabin Tambrea, Trystan Pütter"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "22/03/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.98 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Caterina Schöllack dirige une prestigieuse école de danse berlinoise. Sa plus grande préoccupation est de marier ses trois filles, Monika, Eva et Helga, à des gentlemen bien établis et de bonne famille, afin de conserver les traditions dans son école de danse “Galant”.\n\nToutefois, Monika vit difficilement son entrée dans l’âge adulte et son rôle en tant que femme à cette époque. Elle est en effet fascinée par un tout nouveau monde fait de coiffures banane, de vestes en cuir, de jupons et de rock and roll"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3453279304497"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/03/2026 09:23"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/03/2026 10:11"
+        }
+    ],
+    "main_title": "Berlin 56",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3830_video/thumbnail_big",
+    "thumbnail_mini": "db/3830_video/thumbnail_small"
+}
