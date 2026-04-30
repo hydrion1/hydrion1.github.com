@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Anger Management (Anger Management)"
+            "value": "Self Control (Anger Management)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "21/02/2026 10:28"
+            "value": "25/04/2026 17:29"
         }
     ],
-    "main_title": "Anger Management (Anger Management)",
+    "main_title": "Self Control (Anger Management)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3809_video/thumbnail_big",
     "thumbnail_mini": "db/3809_video/thumbnail_small"

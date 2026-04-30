@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Circle"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "James Ponsoldt"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Emma Watson, Ellar Coltrane, Glenne Headly, Bill Paxton, Karen Gillan, Tom Hanks, Beck, Nate Corddry, Mamoudou Athie"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/07/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.09 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les Etats-Unis, dans un futur proche. Mae est engagée chez The Circle, le groupe de nouvelles technologies et de médias sociaux le plus puissant au monde. Pour elle, c'est une opportunité en or ! Tandis qu'elle prend de plus en plus de responsabilités, le fondateur de l'entreprise, Eamon Bailey, l'encourage à participer à une expérience révolutionnaire qui bouscule les limites de la vie privée, de l'éthique et des libertés individuelles. Désormais, les choix que fait Mae dans le cadre de cette expérience impactent l'avenir de ses amis, de ses proches et de l'humanité tout entière…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5414937043491"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/04/2026 09:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/04/2026 11:30"
+        }
+    ],
+    "main_title": "The Circle",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3880_video/thumbnail_big",
+    "thumbnail_mini": "db/3880_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Suspect"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Scott Walker (II)"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Nicolas Cage, John Cusack, Vanessa Hudgens, Radha Mitchell, 50 Cent, Jodi Lyn O'Keefe, Katherine LaNasa, Dean Norris"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "27/09/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/03/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.04 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Aux yeux de tous, Robert Hansen est un homme respecté et un père de famille attentionné. Ce que tout le monde ignore en revanche, c’est que, depuis douze ans, Robert Hansen kidnappe des jeunes femmes et abuse d’elles avant de les lâcher en pleine nature sauvage en Alaska pour les chasser et les abattre comme de vulgaires proies. Lorsque Cindy, l’une de ses victimes, parvient à lui échapper, elle se tourne vers l’inspecteur Halcombe et lui révèle des informations cruciales pour lui permettre d’arrêter le redoutable tueur en série…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391494957"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "02/04/2026 15:29"
+        },
+        {
+            "name": "Date de modification",
+            "value": "02/04/2026 15:35"
+        }
+    ],
+    "main_title": "Suspect",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3851_video/thumbnail_big",
+    "thumbnail_mini": "db/3851_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "20 ans d'écart"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Moreau"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "96"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Virginie Efira, Pierre Niney, Charles Berling, Gilles Cohen, Amélie Glenn, Camille Japy, Michaël Abiteboul, HPG"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/03/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.46 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Alice Lantins a 38 ans. Elle est belle, ambitieuse et fait preuve d’une impeccable conscience professionnelle au point d’en oublier sa vie privée. Bref, elle a tout pour devenir la prochaine rédactrice en chef du magazine « Rebelle », tout sauf son image de femme coincée. Mais lorsque le jeune et charmant Balthazar, à peine 20 ans, va croiser le chemin d’Alice, le regard de ses collègues va inexplicablement changer. Réalisant qu'elle détient la clef de sa promotion, Alice va feindre la comédie d’une improbable idylle."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3700724900880"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/04/2026 09:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/04/2026 18:15"
+        }
+    ],
+    "main_title": "20 ans d'écart",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3867_video/thumbnail_big",
+    "thumbnail_mini": "db/3867_video/thumbnail_small"
+}

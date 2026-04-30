@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hors d'atteinte"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Steven Soderbergh"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Policier, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "122"
+        },
+        {
+            "name": "Acteurs",
+            "value": "George Clooney, Jennifer Lopez, Jim Robinson, Mike Malone, Ving Rhames, Don Cheadle, Donna Frenzel, Catherine Keener, Manny Suárez, Dennis Farina, Keith Hudson, Steve Zahn, Albert Brooks, Luis Guzmán, Isaiah Washington"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/12/1998"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Gentleman cambrioleur, Jack Foley moisit derrière les barreaux du pénitencier d'Etat de Glades en Louisiane. Cet homme qui a plus de cent casses sans armes à son actif ne rêve que de liberté et réussit à se faire la belle. Son copain Byddy Bragg l'attend de l'autre côté. Mais il y a également une visiteuse inattendue, le marshal Karen Sisco, une fort jolie femme venue délivrer une assignation. Elle tente de s'interposer et se retrouve prise en otage, enfermée dans un coffre de voiture en compagnie de Jack. Serré contre elle, Jack rêve d'une autre rencontre."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582830392"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/04/2026 22:27"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/04/2026 22:36"
+        }
+    ],
+    "main_title": "Hors d'atteinte",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3861_video/thumbnail_big",
+    "thumbnail_mini": "db/3861_video/thumbnail_small"
+}

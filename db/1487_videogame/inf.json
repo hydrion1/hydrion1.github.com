@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hogwarts Legacy"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 5"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "07/02/2026"
+        },
+        {
+            "name": "Editeur",
+            "value": "Warner Bros. Interactive Entertainment"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/04/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "29.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888255728"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Crisis Core : Final Fantasy VII}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/04/2026 22:54"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/04/2026 22:58"
+        }
+    ],
+    "main_title": "PlayStation 5",
+    "sub_title": "Hogwarts Legacy",
+    "thumbnail_big": "db/1487_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1487_videogame/thumbnail_small"
+}

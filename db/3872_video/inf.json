@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Panthère rose 2 (The Pink Panther 2)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Harald Zwart"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "92"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Steve Martin, Jean Reno, Emily Mortimer, Andy Garcia, Alfred Molina, Yuki Matsuzaki, Aishwarya Rai, John Cleese, Lily Tomlin, Jeremy Irons, Johnny Hallyday"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/02/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.33 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Après avoir été récompensé pour avoir résolu le mystère du Diamant Rose, l'inspecteur Jacques Clouseau a été assigné à des tâches mineures par son chef l'inspecteur Dreyfus afin de ne plus l'avoir dans ses jambes. Hélas, le fameux diamant a été de nouveau dérobé au cours d'une série de cambriolages à travers le monde.\n\nSes succès précédents vont permettre à l'inspecteur Clouseau d'intégrer la dream team qui comprend les plus grands détectives des pays concernés et lui permettre de déployer ses nombreux talents au-delà des frontières !!"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626042396"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/04/2026 09:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/04/2026 11:29"
+        }
+    ],
+    "main_title": "La Panthère rose 2 (The Pink Panther 2)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3872_video/thumbnail_big",
+    "thumbnail_mini": "db/3872_video/thumbnail_small"
+}

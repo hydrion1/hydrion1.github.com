@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The One"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "James Wong"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "87"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jet Li, Carla Gugino, Delroy Lindo"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/11/2001"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.95 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dans un futur lointain, les univers parallèles existent. Yulaw, un agent de la Multiverse, le sait pour y être souvent intervenu lors de ses missions. C'est ainsi qu'il a appris que nos doubles vivants dans chacun de ces mondes sont liés entre eux par un flux, et que lorsqu'un d'eux disparaît, son énergie est redistribuée aux autres.\n\nDepuis, Yulaw ambitionne d'éliminer ses doubles pour récolter leur puissance et ainsi devenir l'être absolu. Les agents Roedecker et Funsch reçoivent alors l'ordre de neutraliser Yulaw.\n\nGabe, lui, est un policier qui mène une vie sans histoires. Mais ça ne va pas durer : il est le dernier double, l'ultime obstacle sur la route de Yulaw. Une folle course-poursuite commence entre les quatre hommes."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712609661545"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/04/2026 09:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/04/2026 11:29"
+        }
+    ],
+    "main_title": "The One",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3877_video/thumbnail_big",
+    "thumbnail_mini": "db/3877_video/thumbnail_small"
+}

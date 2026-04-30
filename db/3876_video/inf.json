@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hippocrate"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Thomas Lilti"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "102"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Vincent Lacoste, Jacques Gamblin, Reda Kateb, Marianne Denicourt, Félix Moati, Carole Franck"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/09/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.04 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Benjamin va devenir un grand médecin, il en est certain. Mais pour son premier stage d’interne dans le service de son père, rien ne se passe comme prévu. La pratique se révèle plus rude que la théorie. La responsabilité est écrasante, son père est aux abonnés absents et son co-interne, Abdel, est un médecin étranger plus expérimenté que lui. Benjamin va se confronter brutalement à ses limites, à ses peurs, celles de ses patients, des familles, des médecins, et du personnel. Son initiation commence."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299207049"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/04/2026 09:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/04/2026 18:15"
+        }
+    ],
+    "main_title": "Hippocrate",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3876_video/thumbnail_big",
+    "thumbnail_mini": "db/3876_video/thumbnail_small"
+}

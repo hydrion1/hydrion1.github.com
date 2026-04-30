@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Planète des singes (Planet of the Apes)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Franklin J. Schaffner"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Charlton Heston, Roddy McDowall, Kim Hunter, Maurice Evans, James Whitmore"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/04/1968"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.60 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Egaré dans l'espace-temps, un engin spatial américain s'écrase en 3978 sur une planète inconnue. Les astronautes Taylor, Landon et Dodge découvrent que les hommes primitifs de cette planète mystérieuse sont placés sous le joug de singes très évolués..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712626040453"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/04/2026 09:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/04/2026 11:29"
+        }
+    ],
+    "main_title": "La Planète des singes (Planet of the Apes)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3866_video/thumbnail_big",
+    "thumbnail_mini": "db/3866_video/thumbnail_small"
+}

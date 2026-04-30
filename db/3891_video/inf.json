@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Love Actually (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Richard Curtis"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "130"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hugh Grant, Liam Neeson, Martine McCutcheon, Colin Firth, Keira Knightley, Andrew Lincoln, Chiwetel Ejiofor, Emma Thompson, Alan Rickman, Thomas Brodie-Sangster, Bill Nighy, Laura Linney, Lúcia Moniz, Heike Makatsch, Rowan Atkinson, Billy Bob Thornton, Martin Freeman"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "03/12/2003"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "L'amour est partout, imprévisible, inexplicable, insurmontable. Il frappe quand il veut et souvent, ça fait pas mal de dégâts... En cette veille de Noël à Londres, ces vies et ces amours vont se croiser, se frôler et se confronter, prouvant avec jubilation que la plus belle des choses peut engendrer les pires situations..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083266745"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/04/2026 12:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/04/2026 12:57"
+        }
+    ],
+    "main_title": "Love Actually (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3891_video/thumbnail_big",
+    "thumbnail_mini": "db/3891_video/thumbnail_small"
+}

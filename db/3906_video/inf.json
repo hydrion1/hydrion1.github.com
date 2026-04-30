@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Majordome"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Lee Daniels"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "132"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Forest Whitaker, Oprah Winfrey, John Cusack, Jane Fonda, Cuba Gooding Jr., Terrence Howard, Lenny Kravitz, James Marsden, David Oyelowo, Vanessa Redgrave, Alan Rickman, Liev Schreiber, Robin Williams, Mariah Carey"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/09/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.72 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le jeune Cecil Gaines, en quête d'un avenir meilleur, fuit, en 1926, le Sud des États-Unis, en proie à la tyrannie ségrégationniste. Tout en devenant un homme, il acquiert les compétences inestimables qui lui permettent d’atteindre une fonction très convoitée : majordome de la Maison-Blanche. C'est là que Cecil devient, durant sept présidences, un témoin privilégié de son temps et des tractations qui ont lieu au sein du Bureau Ovale.\n\nÀ la maison, sa femme, Gloria, élève leurs deux fils, et la famille jouit d'une existence confortable grâce au poste de Cecil. Pourtant, son engagement suscite des tensions dans son couple : Gloria s'éloigne de lui et les disputes avec l'un de ses fils, particulièrement anticonformiste, sont incessantes.\n\nÀ travers le regard de Cecil Gaines, le film retrace l'évolution de la vie politique américaine et des relations entre communautés. De l'assassinat du président Kennedy et de Martin Luther King au mouvement des \"Black Panthers\", de la guerre du Vietnam au scandale du Watergate, Cecil vit ces événements de l'intérieur, mais aussi en père de famille…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391392031"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/04/2026 17:43"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/04/2026 13:17"
+        }
+    ],
+    "main_title": "Le Majordome",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3906_video/thumbnail_big",
+    "thumbnail_mini": "db/3906_video/thumbnail_small"
+}

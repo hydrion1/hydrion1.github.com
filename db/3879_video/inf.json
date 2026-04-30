@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Messenger"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Oren Moverman"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "112"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ben Foster, Woody Harrelson, Samantha Morton, Jena Malone, Steve Buscemi, Eamonn Walker, Lisa Joyce"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "07/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.09 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Jeune officier, Will Montgomery est chargé d'une mission délicate : annoncer aux familles la nouvelle du décès d'un des leurs au combat. Il est formé par Anthony Stone, un partenaire de travail avec qui les relations sont tendues..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512391373894"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/04/2026 09:28"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/04/2026 11:30"
+        }
+    ],
+    "main_title": "The Messenger",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3879_video/thumbnail_big",
+    "thumbnail_mini": "db/3879_video/thumbnail_small"
+}

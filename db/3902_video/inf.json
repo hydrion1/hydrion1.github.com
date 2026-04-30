@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tora! Tora! Tora!"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Richard Fleischer"
+        },
+        {
+            "name": "Genre",
+            "value": "Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "160"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ray Kellogg, Toshio Masuda, Kinji Fukasaku, Martin Balsam, Joseph Cotten, E.G. Marshall, Sô Yamamura, Tatsuya Mihashi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1970"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/04/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.58 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Matin du 7 décembre 1941. La base navale américaine de Pearl Habor, dans le Pacifique, s'éveille à peine. Les chasseurs de l'armée japonaise sont, eux, déjà en route pour ce qui restera dans l'Histoire comme l'une des attaques les plus meurtrières jamais commises contre les Etats-Unis."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428037826"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/04/2026 17:38"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/04/2026 13:17"
+        }
+    ],
+    "main_title": "Tora! Tora! Tora!",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3902_video/thumbnail_big",
+    "thumbnail_mini": "db/3902_video/thumbnail_small"
+}

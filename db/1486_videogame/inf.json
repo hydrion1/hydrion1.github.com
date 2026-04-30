@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Forspoken"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 5"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "24/01/2023"
+        },
+        {
+            "name": "Editeur",
+            "value": "Square-Enix"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/04/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "18 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "9.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5021290092686"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Crisis Core : Final Fantasy VII}"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/04/2026 22:51"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/04/2026 22:54"
+        }
+    ],
+    "main_title": "PlayStation 5",
+    "sub_title": "Forspoken",
+    "thumbnail_big": "db/1486_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1486_videogame/thumbnail_small"
+}
