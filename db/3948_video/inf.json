@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Elle l'adore"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jeanne Herry"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "104"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sandrine Kiberlain, Laurent Lafitte, Pascal Demolon, Olivia Côte, Nicolas Bridet, Sébastien Knafo"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "24/09/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.05 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Muriel est esthéticienne. Elle est bavarde, un peu menteuse, elle aime raconter des histoires souvent farfelues. Depuis 20 ans, Muriel est aussi la première fan du chanteur à succès Vincent Lacroix. Avec ses chansons et ses concerts, il occupe presque toute sa vie.\n\nLorsqu'une nuit Vincent, son idole, sonne à la porte de Muriel, sa vie bascule. Elle est entrainée dans une histoire qu’elle n’aurait pas osé inventer."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083028060"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/05/2026 20:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/05/2026 20:50"
+        }
+    ],
+    "main_title": "Elle l'adore",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3948_video/thumbnail_big",
+    "thumbnail_mini": "db/3948_video/thumbnail_small"
+}

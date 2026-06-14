@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Folle histoire de Max et Léon"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jonathan Barré"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "98"
+        },
+        {
+            "name": "Acteurs",
+            "value": "David Marsais, Grégoire Ludig, Alice Vial, Saskia de Melo Dillais, Dominique Pinon, Bernard Farcy, Kyan Khojandi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/11/2016"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.27 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Les aventures de Max et Léon, deux amis d'enfance fainéants et bringueurs, qui tentent par tous les moyens d'échapper à la Seconde Guerre mondiale."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083110086"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/05/2026 20:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/05/2026 20:49"
+        }
+    ],
+    "main_title": "La Folle histoire de Max et Léon",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3954_video/thumbnail_big",
+    "thumbnail_mini": "db/3954_video/thumbnail_small"
+}

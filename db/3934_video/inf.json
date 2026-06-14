@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Tigerland"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Joel Schumacher"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Guerre"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "101"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Colin Farrell, Matthew Davis, Clifton Collins Jr., Tom Guiry, Shea Whigham"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/05/2001"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.46 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1971, à Fort Polk, dans un camp d'entraînement de la Louisiane profonde, les futurs soldats s'entraînent avant leur départ au combat sur le sol vietnamien. À cet endroit, les nouvelles recrues doivent oublier leur humanité et leurs émotions pour se préparer à affronter les pires atrocités. Le deuxième classe Jim Paxton est un idéaliste qui rêve de devenir écrivain, Miter veut prouver qu'il est un homme, tandis que Wilson affiche un enthousiasme certain à l'idée de monter à l'assaut. Mais l'arrivée d'un jeune Texan se prénommant Roland Bozz va bousculer les habitudes de la Compagnie."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428045593"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/05/2026 20:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/05/2026 20:49"
+        }
+    ],
+    "main_title": "Tigerland",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3934_video/thumbnail_big",
+    "thumbnail_mini": "db/3934_video/thumbnail_small"
+}

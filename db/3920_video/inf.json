@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mr. Nobody"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jaco Van Dormael"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Fantastique, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "141"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jared Leto, Sarah Polley, Diane Kruger, Linh-Dan Pham, Rhys Ifans, Natasha Little, Toby Regbo, Juno Temple"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/01/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "24/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.25 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un enfant sur le quai d'une gare. Le train va partir. Doit-il monter avec sa mère ou rester avec son père ? Une multitude de vies possibles découlent de ce choix. Tant qu'il n'a pas choisi, tout reste possible. Toutes les vies méritent d'être vécues."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330037567"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/05/2026 22:38"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/06/2026 19:06"
+        }
+    ],
+    "main_title": "Mr. Nobody",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3920_video/thumbnail_big",
+    "thumbnail_mini": "db/3920_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Lolo"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Julie Delpy"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "100"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Julie Delpy, Dany Boon, Vincent Lacoste, Karin Viard, Antoine Lounguine, Christophe Vandevelde, Elise Larnicol"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "28/10/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.39 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En thalasso à Biarritz avec sa meilleure amie, Violette, quadra parisienne travaillant dans la mode, rencontre Jean-René, un modeste informaticien fraîchement divorcé. Après des années de solitude, elle se laisse séduire. Il la rejoint à Paris, tentant de s'adapter au microcosme parisien dans lequel elle évolue. Mais c’est sans compter sur la présence de Lolo, le fils chéri de Violette, prêt à tout pour détruire le couple naissant et conserver sa place de favori."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442268677"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/05/2026 18:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/05/2026 18:36"
+        }
+    ],
+    "main_title": "Lolo",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3923_video/thumbnail_big",
+    "thumbnail_mini": "db/3923_video/thumbnail_small"
+}

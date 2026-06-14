@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Tout nouveau testament"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jaco Van Dormael"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "114"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Pili Groyne, Benoît Poelvoorde, Catherine Deneuve, François Damiens, Yolande Moreau, Laura Verlinden"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "02/09/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.94 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Dieu existe. Il habite à Bruxelles. Il est odieux avec sa femme et sa fille. On a beaucoup parlé de son fils, mais très peu de sa fille. Sa fille c’est moi. Je m’appelle Ea et j’ai dix ans. Pour me venger j’ai balancé par SMS les dates de décès de tout le monde…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889559603"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/05/2026 20:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/05/2026 20:49"
+        }
+    ],
+    "main_title": "Le Tout nouveau testament",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3950_video/thumbnail_big",
+    "thumbnail_mini": "db/3950_video/thumbnail_small"
+}

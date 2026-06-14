@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Grand Bleu (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Luc Besson"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "140"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean-Marc Barr, Rosanna Arquette, Jean Reno, Marc Duret, Sergio Castellitto, Griffin Dunne, Jean Bouise, Paul Shenar, Valentina Vargas"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/05/1988"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "17.66 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "La rivalité de deux enfants, dans la mer, en Grèce, qui se poursuit lorsqu'ils sont adultes. Lequel des deux plongera le plus loin et le plus profond ? Leurs amours, leurs amitiés, avec les humains et avec les dauphins, à la poursuite d'un rêve inaccessible."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3607483303610"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "26/05/2026 21:19"
+        },
+        {
+            "name": "Date de modification",
+            "value": "26/05/2026 21:29"
+        }
+    ],
+    "main_title": "Le Grand Bleu (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3959_video/thumbnail_big",
+    "thumbnail_mini": "db/3959_video/thumbnail_small"
+}

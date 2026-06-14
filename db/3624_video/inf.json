@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "Aliens, le retour (4k) ()"
+            "value": "Aliens, le retour (4k) (2)"
         },
         {
             "name": "Réalisateur(s)",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Visionné",
-            "value": ""
+            "value": "Oui"
         },
         {
             "name": "Producteur",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "25/09/2025 22:26"
+            "value": "06/05/2026 20:30"
         }
     ],
-    "main_title": "Aliens, le retour (4k) ()",
+    "main_title": "Aliens, le retour (4k) (2)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/3624_video/thumbnail_big",
     "thumbnail_mini": "db/3624_video/thumbnail_small"

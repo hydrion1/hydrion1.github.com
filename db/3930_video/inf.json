@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Mon garçon"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christian Carion"
+        },
+        {
+            "name": "Genre",
+            "value": "Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "84"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Guillaume Canet, Mélanie Laurent, Olivier de Benoist, Antoine Hamel, Mohamed Brikat, Lino Papa"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/09/2017"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Passionné par son métier, Julien voyage énormément à l’étranger. Ce manque de présence a fait exploser son couple quelques années auparavant. Lors d’une escale en France, il découvre sur son répondeur un message de son ex femme en larmes : leur petit garçon de sept ans a disparu lors d’un bivouac en montagne avec sa classe. Julien se précipite à sa recherche et rien ne pourra l’arrêter."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442273725"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/05/2026 20:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/05/2026 20:48"
+        }
+    ],
+    "main_title": "Mon garçon",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3930_video/thumbnail_big",
+    "thumbnail_mini": "db/3930_video/thumbnail_small"
+}

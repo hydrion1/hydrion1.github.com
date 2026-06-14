@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Profession : reporter"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michelangelo Antonioni"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "125"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jack Nicholson, Maria Schneider, Jenny Runacre, Ian Hendry, Steven Berkoff, Ambroise Bia"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "18/06/1975"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.73 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "David Locke est un reporter américain basé en Afrique. Un jour où il se rend à son hôtel, il découvre le corps sans vie d'un homme lui ressemblant étrangement dans la chambre voisine. Il décide de lui prendre son identité et de vivre une nouvelle vie qu'il espère plus passionnante, ce qui l'amènera à rencontrer une mystérieuse femme qui semble aussi perdue que lui. Ce qu'il ne sait pas, c'est que le cadavre dont il a pris l'identité était un espion au service d'un groupe terroriste..."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299308906"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/05/2026 20:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "03/06/2026 19:29"
+        }
+    ],
+    "main_title": "Profession : reporter",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3951_video/thumbnail_big",
+    "thumbnail_mini": "db/3951_video/thumbnail_small"
+}

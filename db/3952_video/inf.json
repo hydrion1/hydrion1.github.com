@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Cro Man (Early Man)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Nick Park"
+        },
+        {
+            "name": "Genre",
+            "value": "Animation, Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "89"
+        },
+        {
+            "name": "Acteurs",
+            "value": ""
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/02/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.27 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Préhistoire, quand les dinosaures et les mammouths parcouraient encore la terre. L’histoire d'un homme des cavernes courageux, Doug, et de son meilleur ami Crochon, qui s’unissent pour sauver leur tribu d’un puissant ennemi."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083156916"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/05/2026 20:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/05/2026 20:49"
+        }
+    ],
+    "main_title": "Cro Man (Early Man)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3952_video/thumbnail_big",
+    "thumbnail_mini": "db/3952_video/thumbnail_small"
+}

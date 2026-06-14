@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Company Men"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "John Wells"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "112"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ben Affleck, Thomas R. Kee, Craig Mathers, Gary Galone, Tommy Lee Jones, Chris Cooper"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "30/03/2011"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.39 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Bobby Walker est l’incarnation même du rêve américain : il a un très bon job, une merveilleuse famille, et une Porsche toute neuve dans son garage. Mais lorsque la société qui l’emploie réduit ses effectifs, Bobby se retrouve au chômage, tout comme ses collègues Phil Woodward et Gene McClary. Les trois hommes sont alors confrontés à une profonde remise en cause de leur vie d’hommes, de maris et de pères de famille.\n\nBien loin de ses talents de cadre supérieur, Bobby se retrouve obligé d’accepter un emploi dans le bâtiment pour le compte de son beau-frère. Cette expérience va le pousser à découvrir qu’il y a peut-être plus important dans l’existence que de courir après la réussite…"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Risque defectueux\nVérifié 2026/05"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442249164"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/05/2026 18:30"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/05/2026 18:39"
+        }
+    ],
+    "main_title": "The Company Men",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3922_video/thumbnail_big",
+    "thumbnail_mini": "db/3922_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Au bout de la nuit"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Ayer"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Keanu Reeves, Forest Whitaker, Hugh Laurie, Chris Evans, Cedric the Entertainer, Jay Mohr, Terry Crews"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/06/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "13/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "om Ludlow est le meilleur détective de l'Ad Vice, unité spécialisée de la Police de Los Angeles. Son supérieur, le capitaine Wander, ferme les yeux sur ses procédés souvent \"hors normes\" et le protège lors de l'enquête interne menée par le capitaine Biggs.\n\nAccusé à tort du meurtre d'un collègue, Ludlow doit lutter seul contre le système corrompu pour prouver son innocence."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3344428034474"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/05/2026 21:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/05/2026 21:57"
+        }
+    ],
+    "main_title": "Au bout de la nuit",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3947_video/thumbnail_big",
+    "thumbnail_mini": "db/3947_video/thumbnail_small"
+}

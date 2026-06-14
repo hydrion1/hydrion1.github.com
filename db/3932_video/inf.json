@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Phantom Boy"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Alain Gagnol"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Aventure"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "84"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jean-Loup Felicioli"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/10/2015"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.46 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Leo, 11 ans, possède un pouvoir extraordinaire. Avec Alex, un policier, il se lance à la poursuite d'un vilain gangster qui veut s'emparer de New York à l'aide d'un virus informatique. À eux deux, ils ont 24 heures pour sauver la ville…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299212241"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/05/2026 20:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/05/2026 20:49"
+        }
+    ],
+    "main_title": "Phantom Boy",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3932_video/thumbnail_big",
+    "thumbnail_mini": "db/3932_video/thumbnail_small"
+}

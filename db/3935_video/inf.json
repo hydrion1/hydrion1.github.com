@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Ces amours-là"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Claude Lelouch"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Audrey Dana, Dominique Pinon, Raphaël, Samuel Labarthe, Laurent Couson, Jacky Ido"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/09/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.10 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le destin flamboyant d'une femme, Ilva, qui, sa vie durant, a placé ses amours au dessus de tout et se les remémore au rythme d'un orchestre symphonique. Dans cette fresque romanesque, Ilva incarne tous les courages et les contradictions d'une femme libre. Et si ce n'était pas Dieu qui avait créé la femme mais chaque homme qu'elle a aimé ?"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Risque defectueux\nVérifié 2026/05"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5050582829389"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/05/2026 20:17"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/05/2026 20:48"
+        }
+    ],
+    "main_title": "Ces amours-là",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3935_video/thumbnail_big",
+    "thumbnail_mini": "db/3935_video/thumbnail_small"
+}

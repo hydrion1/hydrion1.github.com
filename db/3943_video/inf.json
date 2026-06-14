@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Belle époque"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Nicolas Bedos"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "116"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Daniel Auteuil, Guillaume Canet, Doria Tillier, Fanny Ardant, Pierre Arditi, Denis Podalydès, Michaël Cohen, Jeanne Arènes"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/11/2019"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "14/05/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.09 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Victor, un sexagénaire désabusé, voit sa vie bouleversée le jour où Antoine, un brillant entrepreneur, lui propose une attraction d’un genre nouveau : mélangeant artifices théâtraux et reconstitution historique, cette entreprise propose à ses clients de replonger dans l’époque de leur choix. Victor choisit alors de revivre la semaine la plus marquante de sa vie : celle où, 40 ans plus tôt, il rencontra le grand amour..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083210625"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "20/05/2026 21:42"
+        },
+        {
+            "name": "Date de modification",
+            "value": "20/05/2026 21:48"
+        }
+    ],
+    "main_title": "La Belle époque",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3943_video/thumbnail_big",
+    "thumbnail_mini": "db/3943_video/thumbnail_small"
+}
