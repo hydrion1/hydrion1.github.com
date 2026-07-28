@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Hussard sur le toit"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jean-Paul Rappeneau"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "130"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Juliette Binoche, Olivier Martinez, François Cluzet"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/09/1995"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "06/08/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "1832. Le choléra décime la Provence, laissant sur son passage des cadavres au visage bleu, grimaçant de souffrance. Angelo, hussard italien poursuivi par les Autrichiens pour menées révolutionnaires, prend toutefois le temps de soigner les innocentes victimes. Il prend aussi le temps d’aimer en silence la jeune Pauline, lancée sur les routes à la recherche d’un mari mystérieux. Invulnérable et pur, il affronte tous les dangers…"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Studio Ghibli"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3388330051044"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/07/2026 21:55"
+        },
+        {
+            "name": "Date de modification",
+            "value": "28/07/2026 08:11"
+        }
+    ],
+    "main_title": "Le Hussard sur le toit",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4069_video/thumbnail_big",
+    "thumbnail_mini": "db/4069_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "F1: The Movie"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Joseph Kosinski"
+        },
+        {
+            "name": "Genre",
+            "value": "Road Action"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "155"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Brad Pitt, Damson Idris, Javier Bardem"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "03/07/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sonny Hayes était le prodige de la F1 des années 90 jusqu’à son terrible accident. Trente ans plus tard, devenu un pilote indépendant, il est contacté par Ruben Cervantes, patron d’une écurie en faillite qui le convainc de revenir pour sauver l’équipe et prouver qu’il est toujours le meilleur. Aux côtés de Joshua Pearce, diamant brut prêt à devenir le numéro 1, Sonny réalise vite qu'en F1, son coéquipier est aussi son plus grand rival, que le danger est partout et qu'il risque de tout perdre."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051888274941"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "07/07/2026 20:02"
+        },
+        {
+            "name": "Date de modification",
+            "value": "23/07/2026 22:17"
+        }
+    ],
+    "main_title": "F1: The Movie",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4011_video/thumbnail_big",
+    "thumbnail_mini": "db/4011_video/thumbnail_small"
+}

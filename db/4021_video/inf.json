@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Get on Up"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Tate Taylor"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame, Musical"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "139"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Chadwick Boseman, Nelsan Ellis, Dan Aykroyd"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "24/09/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "08/07/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.81 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Vous le connaissez sous de nombreux pseudonymes: «Monsieur dynamite», «Le parrain de la soul», «Le travailleur le plus acharné du show business». Préparez-vous à découvrir l’homme derrière la légende. Né dans une grande pauvreté en Caroline du Sud, au beau milieu de la grande dépression, en 1933, James Brown a survécu à une jeunesse émaillée d’abandon, d’abus sexuel, d’écoles de redressement et de prison. Personne ne lui a jamais appris les règles du jeu. Il était destiné à les briser. De son expérience de boxeur amateur ou de chanteur de rue, il a su canaliser chaque coup dur en un rythme qui se fit l’écho de sa rage de vivre. Il est devenu un des interprètes les plus influents qui marquèrent la scène soul ou funk, et l’artiste le plus samplé de l’histoire continue d’inspirer la plupart des artistes reconnus aujourd’hui."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083024932"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/07/2026 18:18"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/07/2026 18:26"
+        }
+    ],
+    "main_title": "Get on Up",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4021_video/thumbnail_big",
+    "thumbnail_mini": "db/4021_video/thumbnail_small"
+}

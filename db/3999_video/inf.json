@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Memento"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Christopher Nolan"
+        },
+        {
+            "name": "Genre",
+            "value": "Policier, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Guy Pearce, Carrie-Anne Moss, Joe Pantoliano"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "11/10/2000"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/06/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.08 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Leonard Shelby ne porte que des costumes de grands couturiers et ne se déplace qu'au volant de sa Jaguar. En revanche, il habite dans des motels miteux et règle ses notes avec d'épaisses liasses de billets.\n\nLeonard n'a qu'une idée en tête : traquer l'homme qui a violé et assassiné sa femme afin de se venger. Sa recherche du meurtrier est rendue plus difficile par le fait qu'il souffre d'une forme rare et incurable d'amnésie. Bien qu'il puisse se souvenir de détails de son passé, il est incapable de savoir ce qu'il a fait dans le quart d'heure précédent, où il se trouve, où il va et pourquoi.\n\nPour ne jamais perdre son objectif de vue, il a structuré sa vie à l'aide de fiches, de notes, de photos, de tatouages sur le corps. C'est ce qui l'aide à garder contact avec sa mission, à retenir les informations et à garder une trace, une notion de l'espace et du temps."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512394004344"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/06/2026 07:32"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/06/2026 07:40"
+        }
+    ],
+    "main_title": "Memento",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/3999_video/thumbnail_big",
+    "thumbnail_mini": "db/3999_video/thumbnail_small"
+}

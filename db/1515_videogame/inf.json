@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Yasha: Legends of the Demon Blade"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "25/05/2025"
+        },
+        {
+            "name": "Editeur",
+            "value": "7QUARK"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "23/06/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.19 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5056635614001"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/06/2026 20:40"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/06/2026 20:44"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Yasha: Legends of the Demon Blade",
+    "thumbnail_big": "db/1515_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1515_videogame/thumbnail_small"
+}

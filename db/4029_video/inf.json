@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Maximum Overdrive"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Stephen King"
+        },
+        {
+            "name": "Genre",
+            "value": "Epouvante-horreur, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "98"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Emilio Estevez, Pat Hingle, Laura Harrington"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/11/1987"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/07/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "5.93 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En 1986, la comète Rhéa-M gravite autour de la Terre. Aussitôt, toutes les machines sur la surface du globe sont déréglées : un distributeur de billets insulte les clients, une enseigne lumineuse invite les passants à aller se faire voir… La situation devient tragique lorsqu'un pont mobile échappe à tout contrôle. Désormais, toutes les mécaniques sont autonomes et ne semblent poursuivre qu'un seul but : débarrasser la surface du globe de toute présence humaine..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3760247205282"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "15/07/2026 18:34"
+        },
+        {
+            "name": "Date de modification",
+            "value": "15/07/2026 18:45"
+        }
+    ],
+    "main_title": "Maximum Overdrive",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4029_video/thumbnail_big",
+    "thumbnail_mini": "db/4029_video/thumbnail_small"
+}

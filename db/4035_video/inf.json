@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Un Poisson nommé Wanda (A Fish Called Wanda)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Charles Crichton, John Cleese"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "108"
+        },
+        {
+            "name": "Acteurs",
+            "value": "John Cleese, Jamie Lee Curtis, Kevin Kline"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/01/1989"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "10/07/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "8.07 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un avocat fort coincé, Archie Leach, flanqué d'une épouse snob, une belle americaine sexy, Wanda, aux jambes qui n'en finissent pas, son fougueux \"latin lover\" Otto, ex-agent de la CIA, un grand timide et ami des bêtes, Ken Pile, un poisson exotique nomme Wanda qui finit tristement dans l'estomac d'Otto et, enfin, George, minable gangster dans l'esprit duquel germe le enième hold-up du siècle. Tel est l'équipe de gagnants qui composent cette comédie policière, dans laquelle chacun d'entre eux va essayer de tirer profit de l'autre."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051889696773"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/07/2026 13:14"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/07/2026 13:22"
+        }
+    ],
+    "main_title": "Un Poisson nommé Wanda (A Fish Called Wanda)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4035_video/thumbnail_big",
+    "thumbnail_mini": "db/4035_video/thumbnail_small"
+}

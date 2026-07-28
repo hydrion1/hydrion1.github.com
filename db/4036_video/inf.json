@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Remember Me"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Allen Coulter"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Robert Pattinson, Emilie de Ravin, Caitlyn Rund"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "07/04/2010"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/07/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Tyler est un jeune New-yorkais de 22 ans en rebellion contre sa famille et la societe suite a un drame familial. Apres une altercation avec un policier il decide de se venger en seduisant la fille de celui-ci. Mais Ally se revele  etre une jeune fille fragile et imprevisible dont il va tomber fou amoureux. Ce qui ne devait  etre qu'une plaisanterie cruelle se transforme vite en une histoire qui les marquera a jamais...}"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Risque defectueux vérifié 07/2026"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001021045"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/07/2026 19:04"
+        },
+        {
+            "name": "Date de modification",
+            "value": "18/07/2026 22:22"
+        }
+    ],
+    "main_title": "Remember Me",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4036_video/thumbnail_big",
+    "thumbnail_mini": "db/4036_video/thumbnail_small"
+}

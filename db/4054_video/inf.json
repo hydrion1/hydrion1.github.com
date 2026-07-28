@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Firebird"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Peeter Rebane"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "107"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tom Prior, Oleg Zagorodnii, Diana Pozharskaya"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "16/11/2022"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "27/07/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.67 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un dangereux triangle amoureux formé par Sergey, un conscrit, son amie charmante et ambitieuse Luisa, secrétaire du commandant de la base, et Roman, un jeune pilote audacieux de l'armée de l'air soviétique. Ils risquent leur liberté et leur vie face à une enquête du KGB qui s'intensifie à leur égard..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3760115249745"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/07/2026 21:35"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/07/2026 21:38"
+        }
+    ],
+    "main_title": "Firebird",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4054_video/thumbnail_big",
+    "thumbnail_mini": "db/4054_video/thumbnail_small"
+}

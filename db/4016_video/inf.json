@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "La Prochaine fois je viserai le coeur"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Cédric Anger"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame, Policier"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "112"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Guillaume Canet, Jean-Yves Berteloot, Ana Girardot"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "12/11/2014"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/07/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.55 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Pendant plusieurs mois, entre 1978 et 1979, les habitants de l’Oise se retrouvent plongés dans l’angoisse et la terreur : un maniaque sévit prenant pour cibles des jeunes femmes.\n\nAprès avoir tenté d’en renverser plusieurs au volant de sa voiture, il finit par blesser et tuer des auto-stoppeuses choisies au hasard. L’homme est partout et nulle part, échappant aux pièges des enquêteurs et aux barrages. Il en réchappe d’autant plus facilement qu’il est en réalité un jeune et timide gendarme qui mène une vie banale et sans histoires au sein de sa brigade. Gendarme modèle, il est chargé d’enquêter sur ses propres crimes jusqu’à ce que les cartes de son périple meurtrier lui échappent."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3384442265232"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "10/07/2026 15:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/07/2026 13:33"
+        }
+    ],
+    "main_title": "La Prochaine fois je viserai le coeur",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4016_video/thumbnail_big",
+    "thumbnail_mini": "db/4016_video/thumbnail_small"
+}

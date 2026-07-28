@@ -2,7 +2,7 @@
     "fields": [
         {
             "name": "Titre",
-            "value": "L'Odyssée de Pi (4k)"
+            "value": "L'Odyssée de Pi (4k) (Life of Pi)"
         },
         {
             "name": "Réalisateur(s)",
@@ -126,10 +126,10 @@
         },
         {
             "name": "Date de modification",
-            "value": "07/07/2024 17:40"
+            "value": "23/06/2026 10:01"
         }
     ],
-    "main_title": "L'Odyssée de Pi (4k)",
+    "main_title": "L'Odyssée de Pi (4k) (Life of Pi)",
     "sub_title": "Blu-Ray",
     "thumbnail_big": "db/2626_video/thumbnail_big",
     "thumbnail_mini": "db/2626_video/thumbnail_small"
