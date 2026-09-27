@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Edith et Marcel"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Claude Lelouch"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "162"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Evelyne Bouix, Jacques Villeret, Francis Huster"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/04/1983"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Deux histoires d'amour en parallèle : celle, célèbre, de la chanteuse d'Edith Piaf et du boxeur Marcel Cerdan, et celle, moins spectaculaire, de Margot de Villedieu et Jacques Barbier."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299208169"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/09/2026 09:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/09/2026 09:01"
+        }
+    ],
+    "main_title": "Edith et Marcel",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4136_video/thumbnail_big",
+    "thumbnail_mini": "db/4136_video/thumbnail_small"
+}

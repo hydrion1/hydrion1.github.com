@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Macross Plus Movie Edition"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Shôji Kawamori, Yûji Moriyama, Shin'ichirô Watanabe"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Action"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "115"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Rica Fukami, Banjô Ginga, Show Hayami"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/1995"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/08/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "15.08 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Isamu Alva Dyson est le meilleur pilote de l'UN Spacy, il en est aussi le plus indiscipliné. Pour cela il sera mutté en tant que pilote d'essai. Euphorique à l'idée de pouvoir tester les nouveaux modèles, sa joie sera de courte durée quand il rencontre à nouveau ses ami(e)s d'enfance accompagné de son passé.\n"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5060314997989"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": "Oui"
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "08/08/2026 19:11"
+        },
+        {
+            "name": "Date de modification",
+            "value": "12/08/2026 23:33"
+        }
+    ],
+    "main_title": "Macross Plus Movie Edition",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4080_video/thumbnail_big",
+    "thumbnail_mini": "db/4080_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Rock"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Michael Bay"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "136"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Sean Connery, Nicolas Cage, Ed Harris"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "31/07/1996"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Excédé par l'injustice de son gouvernement, le Général Hummel se rend maître de l'île d'Alcatraz et menace de lancer un gaz mortel sur San Francisco. Deux hommes sont chargés de le contrer : un expert en armes chimiques, Stanley Goodspeed, et John Patrick Mason, l'unique prisonnier à s'être évadé d'Alcatraz... Ils se rendent ensemble sur l'île afin de stopper les projets destructeurs du Général."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8717418147181"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/09/2026 08:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/09/2026 09:07"
+        }
+    ],
+    "main_title": "The Rock",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4142_video/thumbnail_big",
+    "thumbnail_mini": "db/4142_video/thumbnail_small"
+}

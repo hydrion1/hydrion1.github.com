@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Bumblebee (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Travis Knight"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "114"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hailee Steinfeld, Jorge Lendeborg Jr., John Cena"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "26/12/2018"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "29/07/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "6.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Moyen"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "1987. Alors qu'il est en fuite, l'Autobot Bumblebee trouve refuge dans la décharge d'une petite ville balnéaire de Californie. Il est découvert, brisé et couvert de blessures de guerre, par Charlie, une ado qui approche de ses 18 ans et cherche sa place dans le monde. Et quand elle le met en marche, elle se rend vite compte qu'il ne s'agit pas d'une voiture jaune ordinaire."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "4020628797188"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "29/07/2026 23:31"
+        },
+        {
+            "name": "Date de modification",
+            "value": "29/07/2026 23:52"
+        }
+    ],
+    "main_title": "Bumblebee (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4071_video/thumbnail_big",
+    "thumbnail_mini": "db/4071_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Turf"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Fabien Onteniente"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "98"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Alain Chabat, Edouard Baer, Philippe Duquesne"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/02/2013"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "04/08/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.44 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "C’est l’histoire de quatre potes, quatre petits Français : le Grec (l’ostéopathe), Fifi (qui vit chez sa mère, concierge), Fortuné (l’Antillais qui travaille à la Cogex), et Freddy (le flambeur). Ils fréquentent assidument un PMU parisien, Le Balto. Fatigués de perdre le peu qu’ils ont, ils veulent arrêter de jouer au Turf… Oui mais, selon la devise bien connue des turfistes : Jour de perte, veille de gain, le destin frappe au carreau ! Un destin qui porte des costumes de grand faiseur, un joueur de légende, connu comme le loup blanc sur tous les hippodromes, de tous les turfistes et… de la Police des Jeux : Monsieur Paul. Ce \"gentleman\" de retour aux affaires leur propose d’acheter un crack, en réalité une vielle carne : Torpille. Ils sont quatre… et décident d’acheter chacun une patte du canasson ! La bande du Balto entre alors dans le monde des propriétaires, des combines et des milliardaires d’Auteuil à Monte-Carlo.\n\nVont-ils triompher ou tout perdre, même leur amitié ? Les chevaux sont sous les ordres !"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330044244"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/08/2026 11:15"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/08/2026 11:21"
+        }
+    ],
+    "main_title": "Turf",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4102_video/thumbnail_big",
+    "thumbnail_mini": "db/4102_video/thumbnail_small"
+}

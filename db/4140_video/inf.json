@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Hollow Man, l'homme sans ombre"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Paul Verhoeven"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Epouvante-horreur, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "112"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kevin Bacon, Elisabeth Shue, Josh Brolin"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/09/2000"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Un brillant scientifique, Sebastian Caine, travaille pour les services secrets. Il vient de mettre au point une formule pour rendre invisible. Apres l'avoir testee avec succes sur lui-meme, il s'apercoit qu'il ne peut plus inverser le phenomene. Ses collegues tentent alors de trouver une solution. Mais Caine devient de plus en plus obsede par son nouveau pouvoir et se persuade peu a peu que ses collegues en veulent a sa vie. Desormais, Caine va sombrer dans la folie et representer une menace reelle pour son entourage."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712609678086"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/09/2026 08:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/09/2026 09:03"
+        }
+    ],
+    "main_title": "Hollow Man, l'homme sans ombre",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4140_video/thumbnail_big",
+    "thumbnail_mini": "db/4140_video/thumbnail_small"
+}

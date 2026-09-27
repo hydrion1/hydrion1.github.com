@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Pierre et le Loup"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "David Lowe"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Aventure, Famille"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "33"
+        },
+        {
+            "name": "Acteurs",
+            "value": "David Lowe, Wilfred George Lowe, Nadege Morel"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/09/2009"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/08/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Malgré les récriminations de son grand-père, un petit garçon courageux, aidé par un oiseau farceur et un canard rêveur, cherche à attraper un loup menaçant. Une splendeur visuelle, adaptée du conte musical de Serge Prokofiev..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3453279678642"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/08/2026 21:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2026 23:01"
+        }
+    ],
+    "main_title": "Pierre et le Loup",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4087_video/thumbnail_big",
+    "thumbnail_mini": "db/4087_video/thumbnail_small"
+}

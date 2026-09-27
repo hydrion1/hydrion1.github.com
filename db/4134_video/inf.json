@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Danse avec les loups (Dances with Wolves)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Kevin Costner"
+        },
+        {
+            "name": "Genre",
+            "value": "Western"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "234"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kevin Costner, Mary McDonnell, Graham Greene"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "20/02/1991"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Le jeune lieutenant John Dunbar est envoyé à un poste de reconnaissance dans les immenses plaines du Dakota pendant la guerre de Sécession. Il rencontre au cours de l'une de ses missions de reconnaissance le peuple sioux.\n\nLe lieutenant se lie d'amitié avec la population indienne. Il arrive même à intégrer la tribu, au point d'être surnommé \"Danse avec les loups\", et de s'éprendre d'une des leurs, une blanche baptisée \"Dressée avec le poing\"."
+        },
+        {
+            "name": "Commentaires",
+            "value": "Risque defectueux vérifié 09/2026"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3388330038922"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "18/09/2026 09:33"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/09/2026 09:01"
+        }
+    ],
+    "main_title": "Danse avec les loups (Dances with Wolves)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4134_video/thumbnail_big",
+    "thumbnail_mini": "db/4134_video/thumbnail_small"
+}

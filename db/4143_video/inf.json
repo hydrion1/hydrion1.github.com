@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "The Amazing Spider-Man"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Marc Webb"
+        },
+        {
+            "name": "Genre",
+            "value": "Action, Aventure, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "136"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Andrew Garfield, Emma Stone, Rhys Ifans"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "04/07/2012"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "1.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DV"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Abandonné par ses parents lorsqu’il était enfant, Peter Parker a été élevé par son oncle Ben et sa tante May. Il est aujourd’hui au lycée, mais il a du mal à s’intégrer. Comme la plupart des adolescents de son âge, Peter essaie de comprendre qui il est et d’accepter son parcours. Amoureux pour la première fois, lui et Gwen Stacy découvrent les sentiments, l’engagement et les secrets. En retrouvant une mystérieuse mallette ayant appartenu à son père, Peter entame une quête pour élucider la disparition de ses parents, ce qui le conduit rapidement à Oscorp et au laboratoire du docteur Curt Connors, l’ancien associé de son père. Spider-Man va bientôt se retrouver face au Lézard, l’alter ego de Connors. En décidant d’utiliser ses pouvoirs, il va choisir son destin…"
+        },
+        {
+            "name": "Commentaires",
+            "value": "Boîtier Blu-ray avec surétui\nContient :\n- \"The Amazing Spider-Man\"\n- \"The Amazing Spider-Man 2 : Le destin d'un héros\""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3333299305424"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/09/2026 08:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/09/2026 09:18"
+        }
+    ],
+    "main_title": "The Amazing Spider-Man",
+    "sub_title": "DV",
+    "thumbnail_big": "db/4143_video/thumbnail_big",
+    "thumbnail_mini": "db/4143_video/thumbnail_small"
+}

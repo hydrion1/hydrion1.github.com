@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Gandhi"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Richard Attenborough"
+        },
+        {
+            "name": "Genre",
+            "value": "Biopic, Drame, Historique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "191"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Ben Kingsley, John Gielgud, Rohini Hattangadi"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "23/03/1983"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "2.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Reconstitution historique à grand spectacle de la vie de celui que l'on surnomma le \"mahatma\". La carrière de Gandhi comme avocat débute en Afrique du Sud où il défend les droits de la minorité indienne, ce qui a un grand retentissement dans son pays. Plus tard, dans ses luttes contre les Anglais, il prônera toujours la non-violence et usera essentiellement de l'arme de la grève de la faim."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712609654073"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "06/09/2026 08:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "06/09/2026 08:08"
+        }
+    ],
+    "main_title": "Gandhi",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4123_video/thumbnail_big",
+    "thumbnail_mini": "db/4123_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "L'Experience interdite (Flatliners)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Joel Schumacher"
+        },
+        {
+            "name": "Genre",
+            "value": "Epouvante-horreur, Science Fiction, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "115"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Kiefer Sutherland, Kevin Bacon, Julia Roberts"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "09/01/1991"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "17/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "3.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Nelson Wright, brillant étudiant en médecine, réussit à convaincre quelques-uns de ses condisciples de l'aider à provoquer son propre arrêt cardiaque pour atteindre un au-delà qui, croit-il, pourrait lui donner quelques réponses sur la mort, et donc sur la vie."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "8712609600223"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "22/09/2026 08:56"
+        },
+        {
+            "name": "Date de modification",
+            "value": "22/09/2026 09:05"
+        }
+    ],
+    "main_title": "L'Experience interdite (Flatliners)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4139_video/thumbnail_big",
+    "thumbnail_mini": "db/4139_video/thumbnail_small"
+}

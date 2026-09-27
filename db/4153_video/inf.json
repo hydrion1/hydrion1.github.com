@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Le Salaire de la Peur (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Henri-Georges Clouzot"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Thriller"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "156"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Yves Montand, Charles Vanel, Peter van Eyck"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "15/08/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.11 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "En Amérique Centrale, une compagnie pétrolière propose une grosse somme d'argent à qui acceptera de conduire deux camions chargés de nitroglycérine sur 500 kilomètres de pistes afin d'éteindre un incendie dans un puits de pétrole. Quatre aventuriers sont choisis et entament un voyage long et très dangereux..."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3512394015111"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/09/2026 11:45"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/09/2026 11:47"
+        }
+    ],
+    "main_title": "Le Salaire de la Peur (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4153_video/thumbnail_big",
+    "thumbnail_mini": "db/4153_video/thumbnail_small"
+}

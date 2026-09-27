@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "P.S. I Love You"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Richard LaGravenese"
+        },
+        {
+            "name": "Genre",
+            "value": "Comédie dramatique, Romance"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "126"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Hilary Swank, Gerard Butler, Harry Connick Jr."
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "06/02/2008"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "05/08/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "4.99 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Holly et Jerry sont un couple amoureux menant une vie parfaite. A la suite de la mort soudaine de Jerry, Holly sombre dans une dépression. C'est alors qu'elle reçoit une lettre, la première d'une série de dix, rédigées par Jerry avant sa mort. Ces lettres, agencées tel un jeu de piste, lui donnent des instructions de choses à faire pour, à terme, tourner la page et enfin réapprendre à vivre."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3475001013095"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "11/08/2026 21:03"
+        },
+        {
+            "name": "Date de modification",
+            "value": "11/08/2026 23:01"
+        }
+    ],
+    "main_title": "P.S. I Love You",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4090_video/thumbnail_big",
+    "thumbnail_mini": "db/4090_video/thumbnail_small"
+}
