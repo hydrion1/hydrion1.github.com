@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Wonka pas VF"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Paul King"
+        },
+        {
+            "name": "Genre",
+            "value": "Aventure, Famille, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "116"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Timothée Chalamet, Gustave Die, Murray McArthur"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "13/12/2023"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "27/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.25 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Découvrez la jeunesse de Willy Wonka, l’extraordinaire inventeur, magicien et chocolatier de l’univers féérique de Charlie et la chocolaterie de Roald Dahl, dans le film WONKA. Timothée Chalamet incarne ce jeune homme débordant d’idées et déterminé à changer le monde… avec gourmandise ! Cette œuvre haute en couleur, mêlant émotion et humour, prouve que, dans la vie, les rêves peuvent devenir réalité – surtout si on a la chance de rencontrer Willy Wonka."
+        },
+        {
+            "name": "Commentaires",
+            "value": "A vendre"
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5051891196919"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/10/2026 11:43"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/10/2026 11:51"
+        }
+    ],
+    "main_title": "Wonka pas VF",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4157_video/thumbnail_big",
+    "thumbnail_mini": "db/4157_video/thumbnail_small"
+}

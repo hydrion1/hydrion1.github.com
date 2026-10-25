@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Sonic the Hedgehog 3 (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Jeff Fowler"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Aventure"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "110"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Jim Carrey, Ben Schwartz, Keanu Reeves"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "25/12/2024"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/10/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Sonic, Knuckles et Tails se retrouvent face à un nouvel adversaire, Shadow, mystérieux et puissant ennemi aux pouvoirs inédits. Dépassée sur tous les plans, la Team Sonic va devoir former une alliance improbable pour tenter d’arrêter Shadow et protéger notre planète."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432041568"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/10/2026 20:05"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/10/2026 20:11"
+        }
+    ],
+    "main_title": "Sonic the Hedgehog 3 (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4166_video/thumbnail_big",
+    "thumbnail_mini": "db/4166_video/thumbnail_small"
+}

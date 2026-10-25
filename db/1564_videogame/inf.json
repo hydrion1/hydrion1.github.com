@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dragon Ball Z Budokai HD Collection"
+        },
+        {
+            "name": "Console",
+            "value": "Xbox 360"
+        },
+        {
+            "name": "Genre",
+            "value": "Combat"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "06/11/2012"
+        },
+        {
+            "name": "Editeur",
+            "value": "Bandai Namco"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "20/10/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "2"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.79 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3391891966900"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Street Fighter IV (PS3) [import anglais]"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "25/10/2026 10:08"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/10/2026 10:12"
+        }
+    ],
+    "main_title": "Xbox 360",
+    "sub_title": "Dragon Ball Z Budokai HD Collection",
+    "thumbnail_big": "db/1564_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1564_videogame/thumbnail_small"
+}

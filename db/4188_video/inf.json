@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Memories"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Koji Morimoto, Tensai Okamura, Katsuhiro Otomo"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Science Fiction"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "113"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Tsutomu Isobe, Shozo Iizuka, Koichi Yamadera"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "15/04/1997"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "16/10/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "10.00 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Avec MEMORIES, Katsuhiro Otomo achève sa transition du manga vers l'animation, déjà largement entamée quelques années auparavant, en 1987 avec AKIRA. Grâce à la complicité de deux autres monstres sacrés de l'animation japonaise, Koji Morimoto et Tensai Okamura, il nous livre un triptyque surréaliste, forcément mâtiné d'une couche de science-fiction. Sous la direction magistrale de ces trois immenses talents, les studios MadHouse et 4°C donnent vie à trois histoires tirées du manga du même nom, lui aussi écrit et dessiné par Katsuhiro Otomo. Les plans fusent, plus fous les uns que les autres, dans un déploiement de maîtrise technique et stylistique qui ont marqué l'histoire de l'animation contemporaine."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5413505331589"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "24/10/2026 20:25"
+        },
+        {
+            "name": "Date de modification",
+            "value": "24/10/2026 20:32"
+        }
+    ],
+    "main_title": "Memories",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4188_video/thumbnail_big",
+    "thumbnail_mini": "db/4188_video/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Do the Right Thing (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Spike Lee"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "120"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Danny Aiello, Ossie Davis, Ruby Dee"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "14/06/2989"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "02/10/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "1"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "12.50 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Neuf sous emballage"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "À Brooklyn, c’est littéralement le jour le plus chaud de l’année. Mookie, un jeune afro-américain, est livreur à la pizzeria du quartier, tenue par Sal et ses deux fils, d’origine italienne. Chacun vaque à ses occupations, mais la chaleur estivale va bientôt cristalliser les tensions raciales."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3701432063065"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "14/10/2026 20:04"
+        },
+        {
+            "name": "Date de modification",
+            "value": "14/10/2026 20:14"
+        }
+    ],
+    "main_title": "Do the Right Thing (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4162_video/thumbnail_big",
+    "thumbnail_mini": "db/4162_video/thumbnail_small"
+}

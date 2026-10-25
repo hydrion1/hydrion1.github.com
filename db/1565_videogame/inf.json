@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Dragon Ball FighterZ"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Combat"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "26/01/2018"
+        },
+        {
+            "name": "Editeur",
+            "value": "Bandai Namco"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "18/10/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "2"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "7.28 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3391891995405"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": "Street Fighter IV (PS3) [import anglais]"
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": "Nath"
+        },
+        {
+            "name": "Date de création",
+            "value": "25/10/2026 10:10"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/10/2026 10:14"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": "Dragon Ball FighterZ",
+    "thumbnail_big": "db/1565_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1565_videogame/thumbnail_small"
+}

@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Medium Saisons 1-5"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Glenn Gordon Caron"
+        },
+        {
+            "name": "Genre",
+            "value": "Drame"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "13"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Patricia Arquette, David Cubitt, Jake Weber"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": "01/01/2005"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "11/10/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": "Tous publics"
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "25"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "25.70 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "DVD"
+        },
+        {
+            "name": "Etat",
+            "value": "Bon"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Médium, Allison Dubois voit et entend les morts. Elle met alors ses dons au service de la police pour résoudre des affaires inexpliquées."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": "Anima"
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": "1.33:1"
+        },
+        {
+            "name": "EAN",
+            "value": "3333973170799"
+        },
+        {
+            "name": "Format",
+            "value": "PAL"
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "16/10/2026 18:38"
+        },
+        {
+            "name": "Date de modification",
+            "value": "16/10/2026 18:53"
+        }
+    ],
+    "main_title": "Medium Saisons 1-5",
+    "sub_title": "DVD",
+    "thumbnail_big": "db/4175_video/thumbnail_big",
+    "thumbnail_mini": "db/4175_video/thumbnail_small"
+}

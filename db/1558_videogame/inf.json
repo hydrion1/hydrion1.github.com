@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Persona 5 Tactica"
+        },
+        {
+            "name": "Console",
+            "value": "Nintendo Switch"
+        },
+        {
+            "name": "Genre",
+            "value": "Jeux de stratégie"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "17/11/2023"
+        },
+        {
+            "name": "Editeur",
+            "value": "Atlus"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "21/10/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "14.13 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5055277051410"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "25/10/2026 09:47"
+        },
+        {
+            "name": "Date de modification",
+            "value": "25/10/2026 09:50"
+        }
+    ],
+    "main_title": "Nintendo Switch",
+    "sub_title": "Persona 5 Tactica",
+    "thumbnail_big": "db/1558_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1558_videogame/thumbnail_small"
+}

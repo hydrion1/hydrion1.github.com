@@ -1,0 +1,100 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": ".hack//G.U. Last Recode"
+        },
+        {
+            "name": "Console",
+            "value": "PlayStation 4"
+        },
+        {
+            "name": "Genre",
+            "value": "Role Playing Games"
+        },
+        {
+            "name": "Date de sortie",
+            "value": "03/11/2017"
+        },
+        {
+            "name": "Editeur",
+            "value": "Bandai Namco"
+        },
+        {
+            "name": "Date d'achat",
+            "value": "19/09/2026"
+        },
+        {
+            "name": "Nombre de joueurs",
+            "value": "1"
+        },
+        {
+            "name": "Etat",
+            "value": "Très bon"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Langue(s) / Pays",
+            "value": ""
+        },
+        {
+            "name": "Code pegi",
+            "value": "12 ans"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "27.55 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Import",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "3391891995016"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Mode en ligne",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Histoire",
+            "value": ""
+        },
+        {
+            "name": "Commentaires",
+            "value": "3 original .hack//G.U. titles, Rebirth, Reminisce, and Redemption"
+        },
+        {
+            "name": "Notes personnelles",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "27/09/2026 20:57"
+        },
+        {
+            "name": "Date de modification",
+            "value": "27/09/2026 20:59"
+        }
+    ],
+    "main_title": "PlayStation 4",
+    "sub_title": ".hack//G.U. Last Recode",
+    "thumbnail_big": "db/1547_videogame/thumbnail_big",
+    "thumbnail_mini": "db/1547_videogame/thumbnail_small"
+}

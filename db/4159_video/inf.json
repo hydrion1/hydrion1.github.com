@@ -1,0 +1,136 @@
+{
+    "fields": [
+        {
+            "name": "Titre",
+            "value": "Shrek (4k)"
+        },
+        {
+            "name": "Réalisateur(s)",
+            "value": "Andrew Adamson, Vicky Jenson"
+        },
+        {
+            "name": "Genre",
+            "value": "Anime, Comédie, Famille, Fantastique"
+        },
+        {
+            "name": "Durée (min)",
+            "value": "90"
+        },
+        {
+            "name": "Acteurs",
+            "value": "Mike Myers, Eddie Murphy, Cameron Diaz"
+        },
+        {
+            "name": "Date de sortie (DVD)",
+            "value": ""
+        },
+        {
+            "name": "Date d'achat",
+            "value": "27/09/2026"
+        },
+        {
+            "name": "Classement",
+            "value": "0 %"
+        },
+        {
+            "name": "Zone",
+            "value": "2"
+        },
+        {
+            "name": "Code pegi",
+            "value": ""
+        },
+        {
+            "name": "Nombre de supports",
+            "value": "2"
+        },
+        {
+            "name": "Prix d'achat",
+            "value": "16.19 €"
+        },
+        {
+            "name": "Prêt",
+            "value": ""
+        },
+        {
+            "name": "Type de support",
+            "value": "Blu-Ray"
+        },
+        {
+            "name": "Etat",
+            "value": "Excellent"
+        },
+        {
+            "name": "Prix actuel",
+            "value": ""
+        },
+        {
+            "name": "Souhaité",
+            "value": ""
+        },
+        {
+            "name": "Synopsis",
+            "value": "Shrek, un ogre verdâtre, cynique et malicieux, a élu domicile dans un marécage qu'il croit être un havre de paix. Un matin, alors qu'il sort faire sa toilette, il découvre de petites créatures agaçantes qui errent dans son marais.\n\nShrek se rend alors au château du seigneur Lord Farquaad, qui aurait soit-disant expulsé ces êtres de son royaume. Ce dernier souhaite épouser la princesse Fiona, mais celle-ci est retenue prisonnière par un abominable dragon.\n\nIl lui faut un chevalier assez brave pour secourir la belle. Shrek accepte d'accomplir cette mission. En échange, le seigneur devra débarrasser son marécage de ces créatures envahissantes.\n\nOr, la princesse Fiona cache un secret terrifiant qui va entraîner Shrek et son compagnon l'âne dans une palpitante et périlleuse aventure."
+        },
+        {
+            "name": "Commentaires",
+            "value": ""
+        },
+        {
+            "name": "Autres infos",
+            "value": ""
+        },
+        {
+            "name": "Studio d'enregistrement",
+            "value": ""
+        },
+        {
+            "name": "Pays",
+            "value": ""
+        },
+        {
+            "name": "Langue(s)",
+            "value": ""
+        },
+        {
+            "name": "Sous-titres",
+            "value": ""
+        },
+        {
+            "name": "Son",
+            "value": ""
+        },
+        {
+            "name": "Ratio",
+            "value": ""
+        },
+        {
+            "name": "EAN",
+            "value": "5053083231699"
+        },
+        {
+            "name": "Format",
+            "value": ""
+        },
+        {
+            "name": "Visionné",
+            "value": ""
+        },
+        {
+            "name": "Producteur",
+            "value": ""
+        },
+        {
+            "name": "Date de création",
+            "value": "04/10/2026 11:43"
+        },
+        {
+            "name": "Date de modification",
+            "value": "04/10/2026 11:51"
+        }
+    ],
+    "main_title": "Shrek (4k)",
+    "sub_title": "Blu-Ray",
+    "thumbnail_big": "db/4159_video/thumbnail_big",
+    "thumbnail_mini": "db/4159_video/thumbnail_small"
+}
